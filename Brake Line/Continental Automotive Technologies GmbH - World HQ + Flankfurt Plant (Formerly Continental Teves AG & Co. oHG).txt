@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:Germany
+Address:Guerickestraße 7, 60488 Frankfurt am Main, Germany
+TEL:+49-69-76030
+URL:https://www.continental.com/en/
+Remarks:-Shareholder: Continental AG

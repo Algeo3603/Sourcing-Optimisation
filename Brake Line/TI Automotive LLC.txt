@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:USA
+Address:2020 Taylor Road, Auburn Hills, MI 48326, USA
+TEL:+1-248-296-8000
+Year established:1987
+URL:https://www.tifluidsystems.com
+Remarks:-Group: TI Fluid Systems Group

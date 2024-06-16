@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:Germany
+Address:Andreas-Humann-Str. 2, D-96106 Ebern, Germany
+TEL:+49-9531-81-0
+URL:https://www.fte-automotive.com/
+Quality certification:ISO9001IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Group: Valeo Group-Shareholder(s): Valeo

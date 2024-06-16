@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:USA
+Address:5300 Grant Line Road, New Albany, IN 47150, USA
+TEL:+1-812-945-9011
+URL:https://usa.proterial.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Shareholder(s): Proterial, Ltd.

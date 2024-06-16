@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:Mexico
+Address:Parque Industrial La Angostura, Carretera Saltillo-Zacatecas KM 4.5, Saltillo, Coahuila 25086  Mexico
+TEL:+52-844-411-6400
+URL:https://www.cooperstandard.com/
+Remarks:-Shareholder(s): Cooper-Standard Holdings Inc.

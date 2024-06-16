@@ -1,0 +1,9 @@
+TOP 500=FALSE
+Country:China
+Address:No.558, Shijin Road, Xujiang Industry Zone, Xukou Town, Wuzhong, Suzhou, Jiangsu, China
+TEL:+86-512-6621-3333
+Year established:Jan. 2003
+URL:https://www.hitachi.com.cn/
+Quality certification:ISO9001IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Shareholder(s): Proterial, Ltd.

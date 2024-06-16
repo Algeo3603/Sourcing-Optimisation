@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:Slovakia
+Address:Priemyselna 1, Svaty Jur 90021, Pezinok, Bratislava, Slovakia
+TEL:+421-232-171-969
+URL:https://www.martinrea.com/
+Remarks:-Shareholder(s): Martinrea International Inc.

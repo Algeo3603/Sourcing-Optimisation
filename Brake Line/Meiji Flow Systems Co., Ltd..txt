@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:Japan
+Address:31-7 Nobusawa, Kaiseimachi, Ashigarakami-gun, Kanagawa-ken, 258-0026, Japan
+TEL:+81-465-83-2222
+Year established:Oct., 2004
+URL:http://www.meiji-rubber.co.jp/mfs

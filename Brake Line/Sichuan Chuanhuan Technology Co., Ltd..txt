@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:China
+Address:Dongliu Industrial Park, Dazhu County, Sichuan Province, 635100, China
+TEL:+86-818-6923358
+Year established:Jun. 2002
+URL:http://www.chuanhuan.com
+Quality certification:ISO9001IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001

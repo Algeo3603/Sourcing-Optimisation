@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:USA
+Address:2003 Oakland Parkway Columbia, Tennessee 38401, USA
+TEL:+1-931-490-4231,+1-931-490-4205
+URL:https://www.martinrea.com/
+Remarks:-Shareholder(s): Martinrea International Inc.

@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:China
+Address:No.797, Daxin Road, High-Tech Development Zone, Changchun, Jilin 130012, China
+TEL:+86-431-85193090
+Year established:Aug. 1993
+URL:http://www.chinaust.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Remarks:-Shareholders: Chinaust Plastics Co., Ltd., Georg Fischer Piping Systems Ltd., Lingyun Industrial Co., Ltd.

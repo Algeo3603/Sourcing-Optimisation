@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:Mexico
+Address:Via Jose Lopez Portillo 8-A, Tultitlan, Edo. de Mex,  54940, Mexico
+TEL:+52-555-864-2000
+URL:https://www.tifluidsystems.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Shareholders: TI Fluid Systems

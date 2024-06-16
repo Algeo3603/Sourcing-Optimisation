@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:Mexico
+Address:Carretera Antigua a Arteaga No 2653 Col. Aurora, 25298 Saltillo, Coahuila, Mexico
+TEL:+52-844-438-9250
+URL:https://www.martinrea.com/
+Remarks:-Shareholder(s): Martinrea International Inc.

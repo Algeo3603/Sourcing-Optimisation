@@ -1,0 +1,9 @@
+TOP 500=FALSE
+Country:Germany
+Address:Stettiner Strasse 1-9, 63571 Gelnhausen, Germany
+TEL:+49-60-51-8-21-0
+Year established:1849
+URL:https://www.veritas.ag/
+Quality certification:ISO9001QS9000VDA6.1
+Environmental certification:ISO14001
+Remarks:-Shareholder(s): HDT Automotive Solutions LLC

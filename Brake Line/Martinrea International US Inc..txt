@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:USA
+Address:2100 N Opdyke Rd, Auburn Hills, MI 48326, USA
+TEL:+1-416-749-0314
+URL:https://www.martinrea.com/
+Remarks:-Shareholder(s): Martinrea International Inc.-US Headquarters

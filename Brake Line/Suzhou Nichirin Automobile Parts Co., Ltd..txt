@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:China
+Address:No. 7, Dongzhou Road, Changshu Economic and Technological Development Zone, Jiangsu Province, China
+TEL:+86-512-5215-9000
+Year established:Dec. 2017
+URL:https://www.nichirin.co.jp/english/index.html
+Remarks:-Shareholder: Nichirin Co., Ltd., Shanghai Beicai Asset Management Co.,Ltd.

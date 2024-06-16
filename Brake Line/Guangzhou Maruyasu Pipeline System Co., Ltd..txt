@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:China
+Address:No.24, Middle Huangge Road, Nansha, Guangzhou, Guangdong, China
+TEL:+86-20-34683929
+Year established:Dec., 2004
+URL:http://www.maruyasu.co.jp/
+Remarks:-Shareholder：Maruyasu Industries Co., Ltd. 70%, Tianjin Oil Pipe Factory 30%

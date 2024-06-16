@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:Vietnam
+Address:Lot No.B4, Quang Chau Industrial Park, Viet Yen District, Bac Giang Province, Vietnam
+TEL:+84-204-386-8995
+Year established:May 2008
+URL:https://www.nichirin.co.jp/english/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Remarks:-Shareholder(s): Nichirin Co., Ltd. 86.7% Nichirin (Thailand) Co., Ltd. 13.3%

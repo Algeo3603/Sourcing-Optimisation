@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:Germany
+Address:Hullerser Landstraße 43 D-37574 Einbeck, Germany
+TEL:+49-5561-7902-0
+Year established:1960
+URL:https://www.kayser-automotive.com/en/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001

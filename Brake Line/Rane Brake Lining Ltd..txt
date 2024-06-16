@@ -1,0 +1,9 @@
+TOP 500=FALSE
+Country:India
+Address:Plot No.30, II Main Road, Ambattur Industrial Estate, Chennai 600058, India
+TEL:+91-44-26250566
+Year established:Dec., 1964
+URL:https://ranegroup.com
+Quality certification:ISO9001IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Shareholder(s): Nisshinbo Industries,Inc. 20.15%, Rane Holdings Limited  50.03%

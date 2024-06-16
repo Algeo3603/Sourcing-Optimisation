@@ -1,0 +1,9 @@
+TOP 500=FALSE
+Country:USA
+Address:1719 E. Hamilton Bloomington, IL 61704, USA
+TEL:+1-734-551-9203
+URL:https://www.flexitech.com/
+Quality certification:ISO9001IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Shareholder(s): Sun European Partners, LLP
+-Group: Flexitech Group

@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:Japan
+Address:1-11-3, Nishi-ichinoe Edogawa-Ku, Tokyo 132-0023, Japan
+TEL:+81-3-3653-5111
+Year established:Jun. 1960
+URL:https://www.sankyokk.co.jp/
+Quality certification:ISO9001
+Environmental certification:ISO14001

@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:Mexico
+Address:BOULEVARD Mike Allen, #2, Int. 0, PARQUE INDUSTRIAL Reynosa, Reynosa, REYNOSA, TAMAULIPAS, 88788, MÉXICO
+TEL:+52-899-921-4800
+URL:https://www.tifluidsystems.com
+Remarks:-Shareholders: TI Fluid Systems-Regional Headquarters

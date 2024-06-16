@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:France
+Address:975, route des Burgondes, 01410 CHAMPFROMIER, France
+TEL:+33-4-50-56-98-98
+URL:https://akwel-automotive.com/en
+Quality certification:IATF16949 (Formerly ISO/TS16949)ISO9001
+Environmental certification:ISO14001

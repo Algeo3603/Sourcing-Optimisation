@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:Germany
+Address:Donaustrasse 51, 87700 Memmingen, Germany
+TEL:+49-83-31-8-30-0
+URL:https://www.metzeler-schaum.de/en/
+Quality certification:QS9000
+Remarks:-Group: Vita Group

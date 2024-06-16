@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:Spain
+Address:Barrio Magdalena, 2-B 48710, Berriatua (Bizkaia), SPAIN
+TEL:+34-946-13-30-00
+Year established:1971
+URL:https://www.cikautxo.es/
+Remarks:-Shareholder(s): MONDRAGON Corporation

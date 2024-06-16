@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:India
+Address:Plot No.385, Sector-3, Phase-Ⅱ, IMT Bawal, Rewari district, Haryana, India
+Year established:Nov. 2014
+URL:https://www.unominda.com/
+Remarks:-Shareholder(s): Toyoda Gosei Co., Ltd. 50.1%, UNO Minda Group 49.9%

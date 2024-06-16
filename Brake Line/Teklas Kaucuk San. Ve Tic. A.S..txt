@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:Turkey
+Address:Baris M. Kosuyolu C. 1804/2 Sk. No.26 41400 Gebze, KOCAELI, Turkey
+TEL:+90-262-6484400
+URL:https://teklas.com/
+Quality certification:ISO9001IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001

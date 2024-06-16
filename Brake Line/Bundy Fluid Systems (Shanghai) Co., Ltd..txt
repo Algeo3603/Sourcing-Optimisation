@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:China
+Address:Factory 34, No. 409, Huajing Road, Pilot Free Trade Zone, Shanghai City, China
+TEL:+86-21-50460699,+86-21-50460653
+Year established:Jul. 1998
+URL:https://www.tifluidsystems.com/
+Remarks:-Shareholder(s): TI Automotive (Hong Kong) Holdings Ltd.

@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:Germany
+Address:Othestraße 15, 51702 Bergneustadt, Germany
+URL:https://www.martinrea.com/
+Quality certification:ISO9001QS9000
+Environmental certification:ISO14001
+Remarks:-Shareholder(s): Martinrea International Inc.

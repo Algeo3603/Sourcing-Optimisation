@@ -1,0 +1,6 @@
+TOP 500=FALSE
+Country:Canada
+Address:10 Atlas Ct, Brampton, ON L6T 5C1, Canada
+TEL:+1-905-791-7119
+URL:https://www.martinrea.com/
+Remarks:-Shareholder(s): Martinrea International Inc.

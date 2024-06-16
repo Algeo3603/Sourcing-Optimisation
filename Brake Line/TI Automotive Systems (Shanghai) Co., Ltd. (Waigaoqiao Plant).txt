@@ -1,0 +1,9 @@
+TOP 500=FALSE
+Country:China
+Address:Building 1, Building 2, No.100, Yinlong Road, Jiading District, Shanghai, China
+TEL:+86-21-50460699
+Year established:1998
+Beginning of operation:1998
+URL:https://www.tifluidsystems.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Remarks:-Shareholder(s): TI Automotive (Hong Kong) Holdings Ltd.

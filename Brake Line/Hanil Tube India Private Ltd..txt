@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:India
+Address:B-75, SIPCOT Industrial Area, Chennai 600-058, Tamu Nadu, India
+URL:https://www.tifluidsystems.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Shareholders: TI Fluid Systems 97%

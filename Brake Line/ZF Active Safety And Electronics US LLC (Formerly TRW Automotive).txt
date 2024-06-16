@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:USA
+Address:12001 Tech Center Drive, Livonia, Michigan 48150, United States
+TEL:+1-734-855-2600
+Year established:1901
+URL:https://www.zf.com/
+Quality certification:ISO9001QS9000VDA6.1IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001

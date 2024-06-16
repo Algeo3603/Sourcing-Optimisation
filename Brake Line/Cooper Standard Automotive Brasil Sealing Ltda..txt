@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:Brazil
+Address:Av. Manoel Vida, 1000, Distr. Industrial Miguel de Lucca, Varginha, Minas Gerais 37070-015, Brazil
+TEL:+55-353-219-4000
+URL:https://www.cooperstandard.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001

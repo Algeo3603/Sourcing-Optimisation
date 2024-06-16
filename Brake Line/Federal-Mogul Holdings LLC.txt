@@ -1,0 +1,9 @@
+TOP 500=FALSE
+Country:USA
+Address:27300 West 11 Mile Rd, Southfield, MI 48034, USA
+TEL:+1-248-354-7700
+Year established:1899
+URL:https://www.tenneco.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)ISO9001
+Environmental certification:ISO14001
+Remarks:-Shareholder(s): Tenneco Inc.

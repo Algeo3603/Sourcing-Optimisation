@@ -1,0 +1,8 @@
+TOP 500=FALSE
+Country:Germany
+Address:Sonnenallee 1 (3. OG), D-85551 KIRCHHEIM BEI MÜNCHEN, Germany
+TEL:+49-89-2620-1328
+URL:https://www.schlemmer.com/
+Quality certification:ISO9001QS9000IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Group: DELFINGEN Group

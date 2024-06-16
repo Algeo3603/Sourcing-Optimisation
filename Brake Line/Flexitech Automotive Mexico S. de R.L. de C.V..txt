@@ -1,0 +1,10 @@
+TOP 500=FALSE
+Country:Mexico
+Address:Avienda Comision Federal de Electricidad #794, Parque Industrial Millennium C.P. 78424, San Luis Potosi, SLP Mexico
+TEL:+1-309-664-6009
+Year established:2009
+URL:https://www.flexitech.com/
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Environmental certification:ISO14001
+Remarks:-Group: Flexitech Group 
+-Shareholder(s): Sun European Partners, LLP

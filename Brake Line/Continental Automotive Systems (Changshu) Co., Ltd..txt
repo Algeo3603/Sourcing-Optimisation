@@ -1,0 +1,9 @@
+TOP 500=FALSE
+Country:China
+Address:No.58, Dongnan Road, Dongnan Economic development zone, Changshu, Jiangsu 215500, China
+TEL:+86-512-52358808
+Year established:May 2007
+Beginning of operation:Oct., 2008
+URL:https://www.continental-corporation.com/en
+Quality certification:IATF16949 (Formerly ISO/TS16949)
+Remarks:-Shareholder: Continental Holding China Co., Ltd.

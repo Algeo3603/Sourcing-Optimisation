@@ -1,0 +1,7 @@
+TOP 500=FALSE
+Country:Japan
+Address:1647-1 Kamimachiya, Kabe-cho, Asakita-ku, Hiroshima-shi, Hiroshima-ken, 731-0216, Japan
+TEL:+81-82-818-3020
+Year established:Dec. 1971
+URL:http://www.skgm.jp
+Quality certification:ISO9001
