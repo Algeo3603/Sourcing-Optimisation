@@ -23,8 +23,8 @@ br.open("https://www.marklines.com/en/members/login")
 #---------------------------------------------------------
 #mechanize login
 br.select_form(nr=0)
-br.form['profiles.login.login_id'] = 'HPKNtiUNat'
-br.form['profiles.login.password'] = 'pw684d'
+br.form['profiles.login.login_id'] = 'N38wppXdYu'
+br.form['profiles.login.password'] = 'pw776e'
 br.submit()
 #----------------------------------------------------------
 
@@ -78,7 +78,7 @@ while i<len(data_list):
 #Writing Parts data to a local file
 with open('table.csv', 'w', encoding='utf-8') as file:
    i=0
-   file.write("Region,Buyer,Model,Model Year,Supplier,Specific Part Name\n")
+   file.write("Region,Buyer,Supplier,Specific Part Name\n")
    for t in tuple_set:
       file.write(t[0]+','+t[1]+','+t[2]+','+t[3]+'\n')
 #--------------------------------------------------------------------------------------------------
@@ -88,6 +88,7 @@ with open('table.csv', 'w', encoding='utf-8') as file:
 #---------------------------------------------------
 #selenium setup
 br.close()
+exit()
 url="https://www.marklines.com/en/members/login"
 browser=start_chrome(url,headless=False)
 #---------------------------------------------------
