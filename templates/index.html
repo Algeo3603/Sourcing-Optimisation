@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Sourcing Optimisation</title>
+{% endblock %}
+
+{% block body %}
+<h1>Sourcing Optimisation</h1>
+
+<h2>Part Search</h2>
+<form action="/search_parts" method="POST">
+    <label for="part_name">Part Name:</label>
+    <input type="text" name="part_name" id="part_name">
+    <br>
+    <button type="submit">Search Parts</button>
+</form>
+<br>
+
+
+<h2>Supplier Search</h2>
+<form action="/search_suppliers" method="POST">
+    <label for="supplier_name">Supplier Name:</label>
+    <input type="text" name="supplier_name" id="supplier_name">
+    <br>
+    <button type="submit">Search Suppliers</button>
+</form>
+{% endblock %}
