@@ -5,6 +5,14 @@ from pathlib import Path
 
 app = Flask(__name__)
 
+@app.route("/search_suppliers",methods=['POST'])
+def search_suppliers():
+    part_name=request.form["supplier_name"]
+    p=Path("Suppliers")
+    with open(p/f"{part_name}.txt",'r') as file:
+        info=file.read()
+    #print(info)
+    return render_template("supplier_details.html",details=info)
 
 @app.route("/", methods=['GET'])
 def index():
