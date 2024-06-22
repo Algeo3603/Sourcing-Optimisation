@@ -88,7 +88,7 @@ with open('table.csv', 'w', encoding='utf-8') as file:
 #---------------------------------------------------
 #selenium setup
 br.close()
-exit()
+#exit()
 url="https://www.marklines.com/en/members/login"
 browser=start_chrome(url,headless=False)
 #---------------------------------------------------
