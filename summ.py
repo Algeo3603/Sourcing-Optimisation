@@ -13,7 +13,7 @@ content = df.to_string(index=False)
 completion = client.chat.completions.create(
   model=MODEL,
   messages=[
-    {"role": "system", "content": "Derive some insight from the excel sheet that I am providing"},
+    {"role": "system", "content": "Derive as many insights as possible from the excel sheet that I am providing regarding suppliers and buyers. Make them as concise as possible."},
     {"role": "user", "content": content}
   ]
 )
