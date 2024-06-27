@@ -23,18 +23,21 @@ def index():
 @app.route("/search_parts", methods=["POST"])
 def search_parts():
     part_name = request.form["part_name"]
-
+    query=request.form["query"]
     # Marklines
-    # excel_file_path = Path(part_name+'.xlsx')
-    # df = pd.read_excel(excel_file_path)
-    # table_html = df.to_html(classes='data', header="true",index=False)
     marklines_data,insights = getMarklinesData(part_name)
+    
+    if(query):
+        query_resp=getResp(query,part_name)
+    else:
+        query_resp=""
+        
     
     # Zauba 
     india_imports = getZaubaData(part_name, 'india')
     us_imports = getZaubaData(part_name, 'us')
 
-    return render_template("part_details.html", part_name=part_name, india_imports=india_imports, us_imports=us_imports, marklines_data=marklines_data,insights=insights)
+    return render_template("part_details.html", part_name=part_name, india_imports=india_imports, us_imports=us_imports, marklines_data=marklines_data,insights=insights,query_resp=query_resp)
 
 
 def getZaubaData(part_name, country):
@@ -54,10 +57,22 @@ def getMarklinesData(part_name):
     df=df.sample(n=400)
     content = df.to_string(index=False)
     
+    prompt="""You are an expert data analyst who specializes in deriving insights from large excel sheets.
+    Your task is to identify as many insights as possible regarding industry trends, suppliers, buyers and partnerships between suppliers and buyers from the excel sheet being provided to you as well as any other information that you have access to.
+    Divide your response into sections for industry trends, buyers, suppliers, partnerships, and misc.
+
+    When highlighting an insight:
+    1) Give it a short title, and follow it up with concise sentence that gives further details on the next line.
+    2) There should be no formatting
+    3) Do not make the insights too long
+
+    Your goal is to help your client make smarter decisions regarding their business using this data.
+    """
+    
     completion = client.chat.completions.create(
         model=MODEL,
         messages=[
-            {"role": "system", "content": "Derive as many insights as possible from the excel sheet that I am providing regarding suppliers and buyers. Make them as concise as possible."},
+            {"role": "system", "content": prompt},
             {"role": "user", "content": content}
         ]
     )
@@ -66,6 +81,25 @@ def getMarklinesData(part_name):
     
     data = df.to_dict(orient='records')
     return data,insights
+
+
+def getResp(query,part_name):
+    client = OpenAI(api_key="")
+    MODEL="gpt-4o"
+    df = pd.read_excel(f"{part_name}.xlsx")
+    df=df.sample(n=400)
+    content = df.to_string(index=False)
+    
+    completion = client.chat.completions.create(
+        model=MODEL,
+        messages=[
+            {"role": "system", "content": "Based on the excel sheet, try to answer the following query. Query:"+query},
+            {"role": "user", "content": content}
+        ]
+    )
+    resp=completion.choices[0].message.content
+    return resp
+
 
 if __name__ == "__main__":
   app.run(debug=True)
