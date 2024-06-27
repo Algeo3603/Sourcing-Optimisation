@@ -1,3 +1,7 @@
+#THIS IS A ROUGH FILE TO TEST THE GPT-4o RESPONSE
+#THIS IS A ROUGH FILE TO TEST THE GPT-4o RESPONSE
+#THIS IS A ROUGH FILE TO TEST THE GPT-4o RESPONSE
+
 from openai import OpenAI
 from pathlib import Path
 import pandas as pd

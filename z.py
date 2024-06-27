@@ -1,10 +1,11 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, session,jsonify
 import pandas as pd
 import re
 from openai import OpenAI
 from pathlib import Path
 
 app = Flask(__name__)
+app.secret_key="123456"
 
 @app.route("/search_suppliers",methods=['POST'])
 def search_suppliers():
@@ -23,21 +24,22 @@ def index():
 @app.route("/search_parts", methods=["POST"])
 def search_parts():
     part_name = request.form["part_name"]
-    query=request.form["query"]
+    session["part_name"]=part_name
+    #query=request.form["query"]
     # Marklines
     marklines_data,insights = getMarklinesData(part_name)
     
-    if(query):
-        query_resp=getResp(query,part_name)
-    else:
-        query_resp=""
+    # if(query):
+    #     query_resp=getResp(query,part_name)
+    # else:
+    #     query_resp=""
         
     
     # Zauba 
     india_imports = getZaubaData(part_name, 'india')
     us_imports = getZaubaData(part_name, 'us')
 
-    return render_template("part_details.html", part_name=part_name, india_imports=india_imports, us_imports=us_imports, marklines_data=marklines_data,insights=insights,query_resp=query_resp)
+    return render_template("part_details.html", part_name=part_name, india_imports=india_imports, us_imports=us_imports, marklines_data=marklines_data,insights=insights,query_resp="")
 
 
 def getZaubaData(part_name, country):
@@ -82,8 +84,11 @@ def getMarklinesData(part_name):
     data = df.to_dict(orient='records')
     return data,insights
 
-
-def getResp(query,part_name):
+@app.route("/getResp", methods=["POST"])
+def getResp():
+    data = request.json
+    query = data.get('query')
+    part_name=session['part_name']
     client = OpenAI(api_key="")
     MODEL="gpt-4o"
     df = pd.read_excel(f"{part_name}.xlsx")
@@ -98,7 +103,7 @@ def getResp(query,part_name):
         ]
     )
     resp=completion.choices[0].message.content
-    return resp
+    return jsonify({'query_resp': resp})
 
 
 if __name__ == "__main__":

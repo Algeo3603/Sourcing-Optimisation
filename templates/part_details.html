@@ -1,6 +1,46 @@
 {% extends 'base.html' %}
 
 {% block head %}
+
+<form id="queryForm" action="/getResp" method="POST">
+    <label for="query">Query:</label>
+    <input type="text" name="query" id="query">
+    <br>
+    <button type="submit">Submit Query</button>
+</form>
+
+<h3>
+    QUERY RESPONSE:
+    <br>
+    <pre id="queryResp"></pre>
+</h3>
+
+<script>
+    $(document).ready(function() {
+        $('#queryForm').submit(function(event) {
+            event.preventDefault(); // Prevent form from submitting the traditional way
+
+            var query = $('#query').val();
+            $.ajax({
+                url: '/getResp',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ 'query': query }),
+                success: function(response) {
+                    $('#queryResp').text(response.query_resp);
+                },
+                error: function() {
+                    $('#queryResp').text('An error occurred');
+                }
+            });
+        });
+    });
+</script>
+
+<br>
+<br>
+
+
 <title>Part Details</title>
 <style>
     table {
@@ -50,11 +90,6 @@
 <br>
 <br>
 
-<h3>
-    QUERY RESPONSE:
-    <br>
-    <pre>{{ query_resp }}</pre>
-</h3>
 
 
 <h2>India Imports</h2>
