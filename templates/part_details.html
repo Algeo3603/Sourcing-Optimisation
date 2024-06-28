@@ -1,6 +1,25 @@
 {% extends 'base.html' %}
 
 {% block head %}
+<title>Part Details</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    table, th, td {
+        border: 1px solid black;
+    }
+    th, td {
+        padding: 10px;
+        text-align: left;
+    }
+</style>
+{% endblock %}
+
+{% block body %}
+<!-- <h1>{{partname}}</h1> -->
+<h1>{{ part_name }}</h1>
 
 <form id="queryForm" action="/getResp" method="POST">
     <label for="query">Query:</label>
@@ -41,27 +60,6 @@
 <br>
 
 
-<title>Part Details</title>
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    table, th, td {
-        border: 1px solid black;
-    }
-    th, td {
-        padding: 10px;
-        text-align: left;
-    }
-</style>
-
-{% endblock %}
-
-{% block body %}
-<!-- <h1>{{partname}}</h1> -->
-<h1>{{ part_name }}</h1>
-
 <h2>Marklines</h2>
 <table>
     <thead>
@@ -91,8 +89,8 @@
 <br>
 
 
-
-<h2>India Imports</h2>
+<h2>Zauba - India Imports</h2>
+<a href="{{ url_for('india_imports_visualisation') }}">Map Visualisation</a>
 <table>
     <thead>
         <tr>
@@ -112,7 +110,8 @@
     </tbody>
 </table>
 
-<h2>US Imports</h2>
+<h2>Zauba - US Imports</h2>
+<a href="{{ url_for('us_imports_visualisation') }}">Map Visualisation</a>
 <table>
     <thead>
         <tr>

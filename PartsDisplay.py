@@ -10,7 +10,7 @@ def home():
 
 @app.route('/supplierDisp/<supplierName>')
 def supplier(supplierName):
-    
+    pass
 
 @app.route('/partDisp/<partName>')
 def index(partName):
