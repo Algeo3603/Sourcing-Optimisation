@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<form action="/visualize/filtered" method="post">
+    <label for="companies">Select Companies:</label><br>
+    <select id="companies" name="companies" multiple size="30">
+        {% for company in companies %}
+            <option value="{{ company }}"
+                {% if company in selected_companies %}
+                    selected
+                {% endif %}
+            >{{ company }}</option>
+        {% endfor %}
+    </select><br>
+    <input type="submit" value="Submit">
+</form>
+
+{% if selected_companies %}
+    <h2>Selected Companies:</h2>
+    <ul>
+        {% for company in selected_companies %}
+            <li>{{ company }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
+{% endblock %}

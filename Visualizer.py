@@ -45,16 +45,16 @@ def Visualizer(search_list):
         a=a+1
 
     for relation in relations:
-        net.add_edge(relation[1],relation[0],colour='black',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])]))
+        net.add_edge(relation[1],relation[0],colour='black',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])]),title="Brake Lines")
 
-    net.show('search.html')
+    net.show('templates/search.html')
     
 
-search_list=set()    
-a=""
-while True:
-    a=str(input('Enter Company name: '))
-    if a=='search':
-        break
-    search_list.add(a)
-Visualizer(search_list)
+# search_list=set()    
+# a=""
+# while True:
+#     a=str(input('Enter Company name: '))
+#     if a=='search':
+#         break
+#     search_list.add(a)
+# Visualizer(search_list)

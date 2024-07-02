@@ -7,6 +7,8 @@ import os
 from dotenv import load_dotenv
 import folium
 from geopy.geocoders import Nominatim
+import csv
+from Visualizer import Visualizer
 
 
 load_dotenv()
@@ -269,6 +271,51 @@ def process_us_imports():
     print("")
     
     return source_markers, destination_markers, arrow_coordinates, popup_info
+
+
+@app.route("/visualize/filter", methods=['GET', 'POST'])
+def select():
+    companies = []
+    with open('table.csv', newline='', encoding='utf-8') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            companies.append(row['Buyer'])
+            companies.append(row['Supplier'])
+    
+    selected_companies = []
+    if request.method == 'POST':
+        selected_companies = request.form.getlist('companies')
+    
+    return render_template('VisSelect.html', selected_companies=selected_companies, companies=companies)
+
+@app.route("/visualize/filtered", methods=['POST'])
+def graph_vis():
+    selected_companies = request.form.getlist('companies')
+    for company in selected_companies:
+        print(company)
+    Visualizer(selected_companies)
+    return render_template('search.html')
+
+
+
+@app.route("/visualize",methods=['POST','GET'])
+def visualize_relations():
+    companies = []
+    with open('table.csv', newline='', encoding='utf-8') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            companies.append(row['Supplier'])
+    Visualizer(companies)
+    
+    with open('templates/search.html','r') as file:
+        html=file.read()
+    
+    link='<h2><a href="/visualize/filter">Filter</a><h2>'
+        
+    with open('templates/search.html','w') as file:
+        file.write(link+html)
+    return render_template('search.html')
+        
 
 
 
