@@ -282,6 +282,8 @@ def select():
             companies.append(row['Buyer'])
             companies.append(row['Supplier'])
     
+    companies=list(set(companies))
+    companies.sort()
     selected_companies = []
     if request.method == 'POST':
         selected_companies = request.form.getlist('companies')
@@ -300,21 +302,7 @@ def graph_vis():
 
 @app.route("/visualize",methods=['POST','GET'])
 def visualize_relations():
-    companies = []
-    with open('table.csv', newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            companies.append(row['Supplier'])
-    Visualizer(companies)
-    
-    with open('templates/search.html','r') as file:
-        html=file.read()
-    
-    link='<h2><a href="/visualize/filter">Filter</a><h2>'
-        
-    with open('templates/search.html','w') as file:
-        file.write(link+html)
-    return render_template('search.html')
+    return render_template('graph.html')
         
 
 

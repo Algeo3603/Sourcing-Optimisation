@@ -3,6 +3,7 @@
 .env
 /Playground
 /templates/search.html
+__pycache__
 
 
 # Siddhesh
