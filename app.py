@@ -28,15 +28,9 @@ def index():
 def search_parts():
     part_name = request.form["part_name"]
     session["part_name"]=part_name
-    #query=request.form["query"]
+
     # Marklines
     marklines_data,insights = getMarklinesData(part_name)
-    
-    # if(query):
-    #     query_resp=getResp(query,part_name)
-    # else:
-    #     query_resp=""
-        
     
     # Zauba 
     india_imports = getZaubaData(part_name, 'india')
@@ -121,6 +115,48 @@ def india_imports_visualisation():
     return render_template('map_india_imports.html', map_html=map_html)
 
 
+@app.route("/search_suppliers",methods=['POST'])
+def search_suppliers():
+    part_name=request.form["supplier_name"]
+    p=Path("Suppliers")
+    with open(p/f"{part_name}.txt",'r') as file:
+        info=file.read()
+    #print(info)
+    return render_template("supplier_details.html",details=info)
+
+
+@app.route("/visualize",methods=['POST','GET'])
+def visualize_relations():
+    return render_template('graph.html')
+
+
+@app.route("/visualize/filter", methods=['GET', 'POST'])
+def select():
+    companies = []
+    with open('table.csv', newline='', encoding='utf-8') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            companies.append(row['Buyer'])
+            companies.append(row['Supplier'])
+    
+    companies=list(set(companies))
+    companies.sort()
+    selected_companies = []
+    if request.method == 'POST':
+        selected_companies = request.form.getlist('companies')
+    
+    return render_template('VisSelect.html', selected_companies=selected_companies, companies=companies)
+
+
+@app.route("/visualize/filtered", methods=['POST'])
+def graph_vis():
+    selected_companies = request.form.getlist('companies')
+    # for company in selected_companies:
+    #     print(company)
+    Visualizer(selected_companies)
+    return render_template('search.html')
+
+
 def extract_location_from_llm(detailed_location):
     client = OpenAI()
     response = client.chat.completions.create(
@@ -134,16 +170,6 @@ def extract_location_from_llm(detailed_location):
     response_json = response.choices[0].message.content
     extracted_location = response.choices[0].message.content.split('"')[-2]
     return extracted_location
-
-
-@app.route("/search_suppliers",methods=['POST'])
-def search_suppliers():
-    part_name=request.form["supplier_name"]
-    p=Path("Suppliers")
-    with open(p/f"{part_name}.txt",'r') as file:
-        info=file.read()
-    #print(info)
-    return render_template("supplier_details.html",details=info)
 
 
 def getMarklinesData(part_name):
@@ -271,40 +297,6 @@ def process_us_imports():
     print("")
     
     return source_markers, destination_markers, arrow_coordinates, popup_info
-
-
-@app.route("/visualize/filter", methods=['GET', 'POST'])
-def select():
-    companies = []
-    with open('table.csv', newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            companies.append(row['Buyer'])
-            companies.append(row['Supplier'])
-    
-    companies=list(set(companies))
-    companies.sort()
-    selected_companies = []
-    if request.method == 'POST':
-        selected_companies = request.form.getlist('companies')
-    
-    return render_template('VisSelect.html', selected_companies=selected_companies, companies=companies)
-
-@app.route("/visualize/filtered", methods=['POST'])
-def graph_vis():
-    selected_companies = request.form.getlist('companies')
-    # for company in selected_companies:
-    #     print(company)
-    Visualizer(selected_companies)
-    return render_template('search.html')
-
-
-
-@app.route("/visualize",methods=['POST','GET'])
-def visualize_relations():
-    return render_template('graph.html')
-        
-
 
 
 if __name__ == "__main__":
