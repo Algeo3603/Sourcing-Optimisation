@@ -291,8 +291,8 @@ def select():
 @app.route("/visualize/filtered", methods=['POST'])
 def graph_vis():
     selected_companies = request.form.getlist('companies')
-    for company in selected_companies:
-        print(company)
+    # for company in selected_companies:
+    #     print(company)
     Visualizer(selected_companies)
     return render_template('search.html')
 

@@ -27,7 +27,7 @@ def Visualizer(search_list):
                 relations.add((row['Buyer'],row['Supplier']))
                 buyers.add(row['Buyer'])
                 suppliers.add(row['Supplier'])
-                print(row['Buyer'] + " and " + row['Supplier'])
+                # print(row['Buyer'] + " and " + row['Supplier'])
                 if (row['Buyer'],row['Supplier']) in dict:
                     dict[(row['Buyer'],row['Supplier'])]=dict[(row['Buyer'],row['Supplier'])]+1
                     continue
