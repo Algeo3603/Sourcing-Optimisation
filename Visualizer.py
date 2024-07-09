@@ -47,8 +47,12 @@ def Visualizer(search_list):
     for company in search_list:
         net.node_map[company]['color']='purple'
 
+    a=0
     for relation in relations:
-        net.add_edge(relation[1],relation[0],color='blue',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])]),title="Brake Lines")
+        net.add_node(str(relation),label="Brake Line",color='black',x=0,y=a*100)
+        a=a+1
+        net.add_edge(relation[1],str(relation),color='blue',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])]),title="Brake Lines")
+        net.add_edge(str(relation),relation[0],color='blue',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])]),title="Brake Lines")
 
     net.show('templates/search.html')
     

@@ -7,3 +7,5 @@ Beginning of operation:1998
 URL:https://www.tifluidsystems.com/
 Quality certification:IATF16949 (Formerly ISO/TS16949)
 Remarks:-Shareholder(s): TI Automotive (Hong Kong) Holdings Ltd.
+
+Parts: Brake Line

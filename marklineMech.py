@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 import mechanize
+import json
 from bs4 import BeautifulSoup
 import http.cookiejar
 from helium import *
@@ -23,8 +24,8 @@ br.open("https://www.marklines.com/en/members/login")
 #---------------------------------------------------------
 #mechanize login
 br.select_form(nr=0)
-br.form['profiles.login.login_id'] = 'N38wppXdYu'
-br.form['profiles.login.password'] = 'pw776e'
+br.form['profiles.login.login_id'] = 'zPDkOL76d3'
+br.form['profiles.login.password'] = 'pw3966'
 br.submit()
 #----------------------------------------------------------
 
@@ -83,7 +84,7 @@ with open('table.csv', 'w', encoding='utf-8') as file:
       file.write(t[0]+','+t[1]+','+t[2]+','+t[3]+'\n')
 #--------------------------------------------------------------------------------------------------
 
-
+print("Mech done")
 
 #---------------------------------------------------
 #selenium setup
@@ -101,8 +102,8 @@ username_field = browser.find_element(By.NAME,"profiles.login.login_id")
 password_field = browser.find_element(By.NAME,"profiles.login.password")
 login_button=browser.find_element(By.ID,"login_btn")  
 
-username_field.send_keys('HPKNtiUNat')
-password_field.send_keys('pw684d')
+username_field.send_keys('zPDkOL76d3')
+password_field.send_keys('pw3966')
 login_button.click()
 #-----------------------------------------------------------------------------
 
@@ -111,8 +112,10 @@ login_button.click()
 #-------------------------------------------------------------------------------------------------------------
 #navigating to part information page
 xpath_expression = "//a[contains(text(), '{}')]".format("300 Components")
-link_element = WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.XPATH, xpath_expression)))
-link_element.click()
+link = WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, "300 Components")))
+browser.execute_script("arguments[0].setAttribute('target', '_self');", link)
+browser.execute_script("arguments[0].scrollIntoView();", link)
+browser.execute_script("arguments[0].click();", link)
 
 xpath_expression = "//a[contains(text(), '{}')]".format(inp)
 link_element = browser.find_element(By.XPATH, xpath_expression)
@@ -157,22 +160,50 @@ for element in supplier_set:
    #top 500 suppliers and other suppliers have different data formats, 
    #require different methods to extract their data
    url=browser.current_url
+   
+   
+   #----------------------------------------------------------
+   #if file already exists, append part name and continue
+   # if check.exists():
+   #    with open(check,'a',encoding='utf-8')as file:
+   #       file.write(","+inp)
+   #    browser.back()
+   #    continue
+   #----------------------------------------------------------   
+   
+   
+   p=Path('suppliersJSON')
    if 'top500' in url:
       soup=soup.find('div',class_='over-view')
       para=soup.find_all('p')
       info=[t.get_text().strip() for t in para]
-      p=Path('suppliers')
-      with open(p/f"{element}.txt",'w',encoding='utf-8') as file:
-         file.write("TOP 500=TRUE\n")
-         for i in range (0,len(info)):
-            file.write(info[i])
-            if i&1:
-               file.write('\n')
-            else:
-               file.write(':')
-         div=soup.find_all('div')
-         d=div[len(div)-1]
-         file.write(d.get_text().strip())
+      p=Path('suppliersJSON')
+      
+      # with open(p/f"{element}.txt",'w',encoding='utf-8') as file:
+      #    file.write("TOP 500=TRUE\n")
+      #    for i in range (0,len(info)):
+      #       # file.write(info[i])
+      #       # if i&1:
+      #       #    file.write('\n')
+      #       # else:
+      #       #    file.write(':')
+      #       print(info[i])
+      #    div=soup.find_all('div')
+      #    d=div[len(div)-1]
+      #    file.write(d.get_text().strip())      
+      data={
+         "top500":True,
+      }
+      while i<len(info):
+         data[info[i]]=info[i+1]
+         i=i+2
+      with open(p/f"{element}.json",'w',encoding='utf-8') as file:
+         json.dump(data, file, indent=4)
+      
+      
+         
+         
+         
    else:
       soup=soup.find('div',id="basic-info")
       soup= soup.find('tbody')
@@ -185,6 +216,7 @@ for element in supplier_set:
          file.write("TOP 500=FALSE\n")
          for i in range(0,len(td)):
             file.write(th[i]+':'+td[i]+'\n')
+         file.write("\n"+"Parts: "+inp)
    #--------------------------------------------------------------------------------         
    browser.back()
 browser.quit()
