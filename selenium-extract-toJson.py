@@ -45,20 +45,36 @@ partname = 'Brake Line'
 driver.get(partlink)
 print('Navigated to part link')
 
+
 # Fetch table using beautiful soup 
 html_content = driver.page_source
 soup = BeautifulSoup(html_content, 'html.parser')
 table = soup.find('table', id='market_share_data').find('tbody')
-# Fetch the rows
+# Fetch relevant data from each row and add to part_dict
 rows = table.find_all('tr')
-# Fetch relevant data from each row
 for row in rows:
     tds = row.find_all('td')
     tds = [td.get_text().strip() for td in tds]
-    part_dict['buyer'].add(tds[1])
-    part_dict['supplier'].add(tds[4])
-    print('.', end='')
+    buyer, supplier, specific_part = tds[1], tds[4], tds[5]
+    part_dict['buyer'].add(buyer)
+    part_dict['supplier'].add(supplier)
+    # Update/Create buyer.json
+    if os.path.exists(f'TempJSONs/Buyers/{buyer}.json'):
+        with open(f'TempJSONs/Buyers/{buyer}.json', 'r') as file:
+            buyer_dict = json.load(file)
+    else:
+        buyer_dict = {'parts-bought':[], 'specific-parts-bought':[], 'suppliers':[]}
+    if supplier not in buyer_dict['suppliers']:
+        buyer_dict['suppliers'].append(supplier)
+    if specific_part not in buyer_dict['specific-parts-bought']:
+        buyer_dict['specific-parts-bought'].append(specific_part)
+    if partname not in buyer_dict['parts-bought']:
+        buyer_dict['parts-bought'].append(partname)
+    with open(f'TempJSONs/Buyers/{buyer}.json', 'w') as file:
+        json.dump(buyer_dict, file, ensure_ascii=False, indent=4)
+    print('.', end='') # To see progress in terminal as the script runs
 print()
+
 
 # Write the part dictionary to a json
 part_dict['buyer'] = list(part_dict['buyer'])
@@ -66,8 +82,6 @@ part_dict['supplier'] = list(part_dict['supplier'])
 with open(f'TempJSONs/Parts/{partname}.json', 'w') as file:
     json.dump(part_dict, file, ensure_ascii=False, indent=4)
 print("Part file created")
-
-
 
 
 
