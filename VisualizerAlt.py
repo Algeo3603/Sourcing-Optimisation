@@ -15,7 +15,6 @@ def Visualizer(search_list,minThickness):
     buyers = set()
     suppliers = set()
     relations=set()
-    relations2=set()
     dict={}
         
         
@@ -33,12 +32,14 @@ def Visualizer(search_list,minThickness):
                     dict[(row['Buyer'],row['Supplier'])]=dict[(row['Buyer'],row['Supplier'])]+1
                     continue
                 dict[(row['Buyer'],row['Supplier'])]=1
-
+        
+        relations2=set()
         for relation in relations:
             if(dict[(relation[0],relation[1])]>=minThickness):
                 relations2.add(relation)
 
         relations=relations2
+
     a=0
     for buyer in buyers:
         net.add_node(buyer,label=buyer,color='red',x=-200,y=a*100)
@@ -54,10 +55,8 @@ def Visualizer(search_list,minThickness):
 
     a=0
     for relation in relations:
-        net.add_node(str(relation),label="Brake Line",color='black',x=0,y=a*100)
         a=a+1
-        net.add_edge(relation[1],str(relation),color='blue',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])]),title="Brake Lines")
-        net.add_edge(str(relation),relation[0],color='blue',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])]),title="Brake Lines")
+        net.add_edge(relation[1],relation[0],color='blue',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])])+"\nBrake Line")
 
     net.show('templates/search.html')
     

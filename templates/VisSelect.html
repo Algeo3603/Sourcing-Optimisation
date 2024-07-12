@@ -6,16 +6,40 @@
 
 {% block body %}
 <form action="/visualize/filtered" method="post">
-    <label for="companies">Select Companies:</label><br>
-    <select id="companies" name="companies" multiple size="30">
-        {% for company in companies %}
-            <option value="{{ company }}"
-                {% if company in selected_companies %}
+    <br><label for="companies">Select Sellers:</label><br>
+    <select id="buyers" name="buyers" multiple size="10" style="width:1000px;">
+        {% for buyer in buyers %}
+            <option value="{{ buyer }}"
+                {% if buyer in selected_buyers %}
                     selected
                 {% endif %}
-            >{{ company }}</option>
+            >{{ buyer }}</option>
         {% endfor %}
     </select><br>
+
+    <br><label for="companies">Select Buyers:</label><br>
+    <select id="sellers" name="sellers" multiple size="10" style="width:1000px;">
+        {% for seller in sellers %}
+            <option value="{{ seller }}"
+                {% if seller in selected_sellers %}
+                    selected
+                {% endif %}
+            >{{ seller }}</option>
+        {% endfor %}
+    </select>
+    
+    <br>
+    <br>
+
+    <label for="minThickness">Select minimum thickness:</label>
+    <select id="minThickness" name="minThickness">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+    </select>
     <input type="submit" value="Submit">
 </form>
 

@@ -132,28 +132,34 @@ def visualize_relations():
 
 @app.route("/visualize/filter", methods=['GET', 'POST'])
 def select():
-    companies = []
+    buyers = []
+    sellers = []
     with open('table.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            companies.append(row['Buyer'])
-            companies.append(row['Supplier'])
+            sellers.append(row['Buyer'])
+            buyers.append(row['Supplier'])
     
-    companies=list(set(companies))
-    companies.sort()
+    buyers=list(set(buyers))
+    buyers.sort()
+    sellers=list(set(sellers))
+    sellers.sort()
     selected_companies = []
     if request.method == 'POST':
-        selected_companies = request.form.getlist('companies')
+        selected_buyers = request.form.getlist('selected_buyers')
+        selected_sellers = request.form.getlist('selected_sellers')
     
-    return render_template('VisSelect.html', selected_companies=selected_companies, companies=companies)
+    return render_template('VisSelect.html', selected_companies=selected_companies, buyers=buyers , sellers=sellers)
 
 
 @app.route("/visualize/filtered", methods=['POST'])
 def graph_vis():
-    selected_companies = request.form.getlist('companies')
+    selected_companies = request.form.getlist('sellers')+request.form.getlist('buyers')
+    minThickness=request.form['minThickness']
+    minThickness=int(minThickness)
     # for company in selected_companies:
     #     print(company)
-    Visualizer(selected_companies)
+    Visualizer(selected_companies,minThickness)
     return render_template('search.html')
 
 
