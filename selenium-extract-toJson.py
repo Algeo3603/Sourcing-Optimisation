@@ -7,12 +7,14 @@ from bs4 import BeautifulSoup
 import os
 from dotenv import load_dotenv
 import json
-
+from openai import OpenAI
+from extract_country_gpt import get_country
 
 # Fetch env variables
 load_dotenv()
 MARKLINES_USERNAME = os.getenv('MARKLINES_USERNAME')
 MARKLINES_PASSWORD = os.getenv('MARKLINES_PASSWORD')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 
 # Selenium setup ('Arch Linux')
@@ -35,13 +37,13 @@ print('Logged in to MarkLines')
 
 
 # Dictionary for the current part which will be written to a json file
-part_dict = {'buyer':set(), 'supplier':set()}
+part_dict = {'buyer':{}, 'supplier':{}}
 
 
 # Open the link of the part to be scraped
 # Future scope -> iterate through links dynamically or read them from a file
-part_link = 'https://www.marklines.com/en/wsw/rear-lamp/'
-part_name = 'Rear Lamp'
+part_link = 'https://www.marklines.com/en/wsw/wiring-harness/'
+part_name = 'Wiring Harness'
 driver.get(part_link)
 print('Navigated to part link')
 
@@ -52,72 +54,102 @@ soup = BeautifulSoup(html_content, 'html.parser')
 table = soup.find('table', id='market_share_data').find('tbody')
 # Fetch relevant data from each row and add to part_dict
 rows = table.find_all('tr')
-for row in rows[:]:
+for row in rows[:5]:
     tds = row.find_all('td')
     try:
         supplier_link = 'https://www.marklines.com/' + tds[4].find('a')['href']
     except:
         supplier_link = None
     tds = [td.get_text().strip() for td in tds]
-    buyer, supplier, specific_part = tds[1], tds[4], tds[5]
-    part_dict['buyer'].add(buyer)
-    part_dict['supplier'].add(supplier)
-    
+    region, buyer, supplier, specific_part = tds[0], tds[1], tds[4], tds[5]
+    if buyer not in part_dict['buyer']:
+        part_dict['buyer'][buyer] = 1
+    else:
+        part_dict['buyer'][buyer] += 1
+    if supplier not in part_dict['supplier']:
+        part_dict['supplier'][supplier] = 1
+    else:
+        part_dict['supplier'][supplier] += 1
+
     # Update/Create buyer.json
     if os.path.exists(f'TempJSONs/Buyers/{buyer}.json'):
         with open(f'TempJSONs/Buyers/{buyer}.json', 'r') as file:
             buyer_dict = json.load(file)
     else:
-        buyer_dict = {'parts-bought':[], 'specific-parts-bought':[], 'suppliers':[]}
+        buyer_dict = {'region':region, 'parts-bought':{}, 'specific-parts-bought':{}, 'suppliers':{}}
     if supplier not in buyer_dict['suppliers']:
-        buyer_dict['suppliers'].append(supplier)
+        buyer_dict['suppliers'][supplier] = 1
+    else:
+        buyer_dict['suppliers'][supplier] += 1
     if specific_part not in buyer_dict['specific-parts-bought']:
-        buyer_dict['specific-parts-bought'].append(specific_part)
+        buyer_dict['specific-parts-bought'][specific_part] = 1
+    else:
+        buyer_dict['specific-parts-bought'][specific_part] += 1
     if part_name not in buyer_dict['parts-bought']:
-        buyer_dict['parts-bought'].append(part_name)
+        buyer_dict['parts-bought'][part_name] = 1
+    else:
+        buyer_dict['parts-bought'][part_name] += 1
     with open(f'TempJSONs/Buyers/{buyer}.json', 'w') as file:
         json.dump(buyer_dict, file, ensure_ascii=False, indent=4)
 
     # Update/Create supplier.json
-    if supplier_link and 'top500' in supplier_link:
-        if os.path.exists(f'TempJSONs/Suppliers/{supplier}.json'):
-            with open(f'TempJSONs/Suppliers/{supplier}.json', 'r') as file:
-                supplier_dict = json.load(file)
-        else:
-            print(supplier)
-            supplier_dict = {'top500':True, 'parts_sold':[], 'specific_parts_sold':[], 'buyers':[]}
-            main_window = driver.current_window_handle
-            driver.switch_to.new_window('tab')
-            driver.get(supplier_link)
-            html_content = driver.page_source
-            soup = BeautifulSoup(html_content, 'html.parser')
-            company_profile = soup.find('div', class_='over-view')
-            p_tags = company_profile.find_all('p')
-            info = [p.get_text().strip() for p in p_tags]
-            for i in range(len(info)):
-                if not info[i][0].isalpha():
-                    info[i] = info[i][1:]
-            for i in range(0, len(info) - 1, 2):
-                supplier_dict[info[i]] = info[i + 1]
-            address = company_profile.find_all('div')[-1].get_text().strip()
-            supplier_dict[info[len(info) - 1]] = address
-            driver.close()
-            driver.switch_to.window(main_window)
-        if part_name not in supplier_dict['parts_sold']:
-            supplier_dict['parts_sold'].append(part_name)
-        if buyer not in supplier_dict['buyers']:
-            supplier_dict['buyers'].append(buyer)
-        if specific_part not in supplier_dict['specific_parts_sold']:
-            supplier_dict['specific_parts_sold'].append(specific_part)    
-        with open(f'TempJSONs/Suppliers/{supplier}.json', 'w') as file:
-            json.dump(supplier_dict, file, ensure_ascii=False, indent=4)
-    # print('.', end='') # To see progress in terminal as the script runs
-# print()
+    if os.path.exists(f'TempJSONs/Suppliers/{supplier}.json'):
+        with open(f'TempJSONs/Suppliers/{supplier}.json', 'r') as file:
+            supplier_dict = json.load(file)
+    elif supplier_link and 'top500' in supplier_link:
+        print(supplier)
+        supplier_dict = {'top500':True, 'parts_sold':{}, 'specific_parts_sold':{}, 'buyers':{}}
+        main_window = driver.current_window_handle
+        driver.switch_to.new_window('tab')
+        driver.get(supplier_link)
+        html_content = driver.page_source
+        soup = BeautifulSoup(html_content, 'html.parser')
+        company_profile = soup.find('div', class_='over-view')
+        p_tags = company_profile.find_all('p')
+        info = [p.get_text().strip() for p in p_tags]
+        for i in range(len(info)):
+            if not info[i][0].isalpha():
+                info[i] = info[i][1:]
+        for i in range(0, len(info) - 1, 2):
+            supplier_dict[info[i]] = info[i + 1]
+        address = company_profile.find_all('div')[-1].get_text().strip()
+        supplier_dict[info[len(info) - 1]] = address
+        supplier_dict['Country'] = get_country(address)
+        driver.close()
+        driver.switch_to.window(main_window)
+    elif supplier_link:
+        print(supplier)
+        supplier_dict = {'top500':False, 'parts_sold':{}, 'specific_parts_sold':{}, 'buyers':{}}
+        main_window = driver.current_window_handle
+        driver.switch_to.new_window('tab')
+        driver.get(supplier_link)
+        html_content = driver.page_source
+        soup = BeautifulSoup(html_content, 'html.parser')
+        info_table = soup.find('div', id='basic-info').find('tbody')
+        info_headers = info_table.find_all('th')
+        info_headers = [th.get_text().strip() for th in info_headers]
+        info_data = info_table.find_all('td')
+        info_data = [td.get_text().strip() for td in info_data]
+        for i in range(len(info_headers)):
+            supplier_dict[info_headers[i]] = info_data[i]
+
+    if part_name not in supplier_dict['parts_sold']:
+        supplier_dict['parts_sold'][part_name] = 1
+    else:
+        supplier_dict['parts_sold'][part_name] += 1
+    if buyer not in supplier_dict['buyers']:
+        supplier_dict['buyers'][buyer] = 1
+    else:
+        supplier_dict['buyers'][buyer] += 1
+    if specific_part not in supplier_dict['specific_parts_sold']:
+        supplier_dict['specific_parts_sold'][specific_part] = 1
+    else:
+        supplier_dict['specific_parts_sold'][specific_part] += 1
+    with open(f'TempJSONs/Suppliers/{supplier}.json', 'w') as file:
+        json.dump(supplier_dict, file, ensure_ascii=False, indent=4)
 
 
 # Write the part dictionary to a json
-part_dict['buyer'] = list(part_dict['buyer'])
-part_dict['supplier'] = list(part_dict['supplier'])
 with open(f'TempJSONs/Parts/{part_name}.json', 'w') as file:
     json.dump(part_dict, file, ensure_ascii=False, indent=4)
 print("Part file created")
