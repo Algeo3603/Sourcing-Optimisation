@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 268,
-        "Rear Lamp": 19
+        "Rear Lamp": 19,
+        "Clutch": 4
     },
     "specific-parts-bought": {
         "Door wiring harness(2.0L)(CVT)": 3,
@@ -83,7 +84,10 @@
         "Main wiring harness": 1,
         "Rear lamp": 9,
         "Rear combination lamp": 9,
-        "Signal lamp": 1
+        "Signal lamp": 1,
+        "Clutch": 2,
+        "Clutch cover": 1,
+        "Clutch automatic control system": 1
     },
     "suppliers": {
         "Tianjin Yazaki Automotive Parts Co., Ltd. Chengdu Branch": 28,
@@ -99,6 +103,9 @@
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 5,
         "Valeo Ichikoh (China) Auto Lighting Co., Ltd.": 1,
         "Tianjin Stanley Electric Co., Ltd.": 1,
-        "Ichikoh Industries, Ltd.": 1
+        "Ichikoh Industries, Ltd.": 1,
+        "Exedy Chongqing Co., Ltd.": 2,
+        "EXEDY Corporation": 1,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 1
     }
 }

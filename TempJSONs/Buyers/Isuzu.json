@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 36,
-        "Rear Lamp": 28
+        "Rear Lamp": 28,
+        "Clutch": 23
     },
     "specific-parts-bought": {
         "Wiring harness protector": 4,
@@ -20,7 +21,11 @@
         "Main wiring harness": 1,
         "Rear lamp": 11,
         "Rear combination lamp": 16,
-        "Rear combination lamp assembly": 1
+        "Rear combination lamp assembly": 1,
+        "Clutch cover assembly": 14,
+        "Clutch cover": 4,
+        "Clutch oil pipe": 4,
+        "Clutch": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 4,
@@ -41,6 +46,10 @@
         "Thai Stanley Electric PCL": 11,
         "AAPICO Hitech Public Co., Ltd.": 1,
         "Thai Koito Co., Ltd.": 5,
-        "PT. Ichikoh Indonesia": 2
+        "PT. Ichikoh Indonesia": 2,
+        "EXEDY (Thailand) Co., Ltd.": 15,
+        "EXEDY Corporation": 3,
+        "Ezaki Industrial (Thailand) Co., Ltd.": 4,
+        "ZF Friedrichshafen AG": 1
     }
 }

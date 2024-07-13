@@ -1,13 +1,16 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Clutch": 2
     },
     "specific_parts_sold": {
-        "High-voltage wiring harness": 1
+        "High-voltage wiring harness": 1,
+        "Clutch hose cover": 2
     },
     "buyers": {
-        "BMW": 1
+        "BMW": 1,
+        "Volkswagen": 2
     },
     "Year Established": "849",
     "Number of Employees": "2,241 employees (As of Dec. 31, 2023)",

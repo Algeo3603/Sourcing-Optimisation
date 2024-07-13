@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 5
+        "Wiring Harness": 5,
+        "Clutch": 5
     },
     "specific-parts-bought": {
-        "Wire harness": 5
+        "Wire harness": 5,
+        "Clutch": 5
     },
     "suppliers": {
-        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 5
+        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 5,
+        "Changchun Yidong Clutch Co., Ltd.": 5
     }
 }

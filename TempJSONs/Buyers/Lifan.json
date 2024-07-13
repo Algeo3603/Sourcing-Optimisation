@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 17,
-        "Rear Lamp": 9
+        "Rear Lamp": 9,
+        "Clutch": 4
     },
     "specific-parts-bought": {
         "Left body wiring harness assembly": 1,
@@ -22,12 +23,16 @@
         "Battery ground cable assembly": 1,
         "Wiring harness": 2,
         "Rear combination lamp": 1,
-        "Stop lamp": 8
+        "Stop lamp": 8,
+        "Clutch": 3,
+        "Clutch cover": 1
     },
     "suppliers": {
         "Chongqing Qinchuan Industry (Group) Co., Ltd.": 15,
         "Tianhai Snowcity (Chongqing) Auto Electric Co., Ltd.": 2,
         "Nanning Liaowang Auto Lamp Co., Ltd.": 1,
-        "Jiangsu Tongming Auto Lamp Co., Ltd.": 8
+        "Jiangsu Tongming Auto Lamp Co., Ltd.": 8,
+        "Exedy Chongqing Co., Ltd.": 2,
+        "Changchun Yidong Clutch Co., Ltd.": 2
     }
 }

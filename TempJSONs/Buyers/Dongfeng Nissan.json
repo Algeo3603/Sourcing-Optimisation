@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 201,
-        "Rear Lamp": 31
+        "Rear Lamp": 31,
+        "Clutch": 9
     },
     "specific-parts-bought": {
         "Body wiring harness": 7,
@@ -66,7 +67,11 @@
         "Rear combination lamp": 19,
         "Signal lamp": 4,
         "Stop lamp": 1,
-        "Rear lamp": 7
+        "Rear lamp": 7,
+        "Clutch(1.6L)(CVT)": 1,
+        "Clutch": 3,
+        "Clutch cover": 2,
+        "Clutch automatic control system": 3
     },
     "suppliers": {
         "Guangzhou Zhongke Electric Co., Ltd.": 22,
@@ -91,6 +96,8 @@
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 2,
         "Valeo Ichikoh (China) Auto Lighting Co., Ltd. - Foshan Branch": 1,
         "Valeo Group": 1,
-        "Ichikoh Industries, Ltd.": 2
+        "Ichikoh Industries, Ltd.": 2,
+        "Exedy Chongqing Co., Ltd.": 6,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 3
     }
 }

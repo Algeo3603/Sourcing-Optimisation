@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 28
+    },
+    "specific_parts_sold": {
+        "Clutch cover": 27,
+        "Clutch": 1
+    },
+    "buyers": {
+        "Honda": 5,
+        "Maruti Suzuki": 12,
+        "Tata": 7,
+        "Toyota": 4
+    },
+    "Country": "India",
+    "Address": "Plot No.9, Udyog Kendra Industrial Area, Greater Noida, 201 304, U.P., India",
+    "TEL": "+91-750-3131000",
+    "URL": "https://www.exedy.com/",
+    "Remarks": "-Shareholder: EXEDY Corporation"
+}

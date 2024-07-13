@@ -2,7 +2,8 @@
     "region": "Japan",
     "parts-bought": {
         "Wiring Harness": 884,
-        "Rear Lamp": 597
+        "Rear Lamp": 597,
+        "Clutch": 86
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 20,
@@ -80,7 +81,33 @@
         "Rear left combination lamp assembly": 1,
         "Rear left lamp assembly": 1,
         "Rear right combination lamp assembly": 1,
-        "Back-up lamp": 2
+        "Back-up lamp": 2,
+        "Clutch cover": 22,
+        "Clutch tube": 1,
+        "CVT clutch": 1,
+        "8-speed automatic transmission clutch assembly": 1,
+        "Wet clutch for lock-up": 2,
+        "Clutch": 5,
+        "Pawl type one way clutch": 1,
+        "FF 8 speed automatic transmission clutch": 1,
+        "Clutch cover(2ZR-FAE)(6MT)": 1,
+        "Clutch cover(1NZ-FE)(5MT)": 2,
+        "Clutch set": 1,
+        "Clutch plate(AT)": 7,
+        "Clutch plate(AWD coupling)": 2,
+        "Lock-up clutch": 11,
+        "Clutch plate(CVT)": 1,
+        "One-way clutch": 5,
+        "Clutch plate for CVT": 1,
+        "Tandem one-way clutch": 1,
+        "Clutch cover assembly": 2,
+        "One-way clutch(6AT)": 2,
+        "Roller one-way clutch and race assembly": 1,
+        "One-way clutch(AT)": 1,
+        "Clutch friction plate and reactoin plate for automatic transmission": 8,
+        "Clutch friction plate and reactoin plate for 4WD coupling": 2,
+        "High capacity high damping clutch system": 3,
+        "Overrunning clutch": 1
     },
     "suppliers": {
         "Yazaki Corporation": 370,
@@ -106,7 +133,7 @@
         "Furukawa Automotive Systems Inc.": 17,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 2,
         "Yazaki do Brasil Ltda.": 3,
-        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 1,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 11,
         "Yazaki Brasil Minas gerais, Sistemas Eletricos Ltda.": 1,
         "Nissei Mizuki Co., Ltd.": 1,
         "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 7,
@@ -142,7 +169,7 @@
         "North American Lighting, Inc. -Alabama Plant": 1,
         "Valeo Sylvania LLC": 2,
         "Koito Czech s.r.o.": 2,
-        "Valeo Group": 4,
+        "Valeo Group": 5,
         "Arteb": 1,
         "Kaneka Corporation": 4,
         "PT. Ichikoh Indonesia": 6,
@@ -151,6 +178,17 @@
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
         "Farba Aydinlatma Sistemleri A.Ş.": 1,
         "P.T. Indonesia Stanley Electric - Factory1": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
+        "Schaeffler AG": 4,
+        "EXEDY Corporation": 4,
+        "EXEDY India Ltd. - Greater Noida Plant": 4,
+        "F.C.C. Co., Ltd.": 3,
+        "Dynax Corporation": 34,
+        "PT. Aisin Indonesia": 11,
+        "NSK Ltd.": 2,
+        "ZF Friedrichshafen AG": 1,
+        "BorgWarner Inc.": 9,
+        "P.T. EXEDY Manufacturing Indonesia": 2,
+        "Univance Corporation": 1
     }
 }

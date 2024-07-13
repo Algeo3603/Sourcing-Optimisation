@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 624,
-        "Rear Lamp": 343
+        "Rear Lamp": 343,
+        "Clutch": 119
     },
     "specific-parts-bought": {
         "Battery wiring harness": 6,
@@ -60,7 +61,32 @@
         "Brake lamp": 4,
         "Back-up lamp": 4,
         "Rear brake lamp": 2,
-        "Stop lighting": 1
+        "Stop lighting": 1,
+        "Clutch": 8,
+        "Clutch assembly": 18,
+        "Clutch cover": 6,
+        "Overdrive Clutch (for HEV)": 8,
+        "CVT clutch": 17,
+        "Manual transmission clutch": 1,
+        "Manual transmission clutch assembly": 5,
+        "Automatic transmission clutch assembly": 3,
+        "6-speed automatic transmission clutch assembly": 3,
+        "5-speed manual transmission clutch assembly": 9,
+        "5-speed automatic transmission clutch assembly": 10,
+        "6-speed manual transmission clutch assembly": 8,
+        "Clutch assembly for CVT": 7,
+        "One-way clutch for automatic transmission": 1,
+        "One way clutch for 6-speed automatic transmission": 1,
+        "One-way clutch (for 6 speed automatic transmission)": 2,
+        "Clutch cover assembly": 2,
+        "Dry dual clutch": 1,
+        "Clutch damper": 1,
+        "One way clutch for automatic transmission": 1,
+        "Lock-up clutch": 1,
+        "CVT starting clutch": 1,
+        "CVT forward clutch": 3,
+        "Overrunning clutch for automatic transmission": 1,
+        "Differential system clutch with cam function": 1
     },
     "suppliers": {
         "Sumitomo Electric Wiring Systems, Inc.": 11,
@@ -112,6 +138,21 @@
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4,
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 1,
         "Imasen Electric Industrial Co., Ltd.": 2,
-        "PT. Ichikoh Indonesia": 2
+        "PT. Ichikoh Indonesia": 2,
+        "Valeo Kapec Japan K.K.": 3,
+        "FCC Clutch India Private Limited (Formerly FCC India Manufacturing Pvt. Ltd.)": 4,
+        "EXEDY Corporation": 1,
+        "F.C.C. Co., Ltd.": 51,
+        "EXEDY India Ltd. - Greater Noida Plant": 5,
+        "FCC (Thailand) Co., Ltd.": 28,
+        "FCC (Adams), LLC.": 1,
+        "P.T. FCC Indonesia": 13,
+        "BorgWarner Inc.": 5,
+        "EXEDY (Thailand) Co., Ltd.": 2,
+        "Schaeffler Japan Co., Ltd.": 1,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 1,
+        "Schaeffler AG": 2,
+        "Dynax Corporation": 1,
+        "Univance Corporation": 1
     }
 }

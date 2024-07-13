@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 133,
-        "Rear Lamp": 61
+        "Rear Lamp": 61,
+        "Clutch": 48
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 4,
@@ -33,7 +34,26 @@
         "Stepped LED clinch frame design": 1,
         "LED rear combination lamp": 6,
         "Rear lamp system": 1,
-        "Rear lamp bulb": 1
+        "Rear lamp bulb": 1,
+        "Clutch hub": 1,
+        "Selectable one-way clutch": 1,
+        "Clutch housing": 1,
+        "One-way clutch (6-speed AT)": 3,
+        "Clutch Hub and housing": 1,
+        "One way clutch assembly for 6 Speed automatic transmission": 1,
+        "Clutch hydraulic actuation system": 6,
+        "Selectable one way clutch for 9 speed automatic transmission": 1,
+        "One-way clutch assembly(6AT)": 2,
+        "Clutch system": 1,
+        "Clutch": 9,
+        "Clutch pulley": 4,
+        "Hydraulic clutch actuation system": 1,
+        "One-way clutch": 6,
+        "One-way clutch(6AT)": 3,
+        "One-way clutch(AT)": 1,
+        "Clutch set": 2,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 3,
+        "Clutch set (Luk)": 1
     },
     "suppliers": {
         "Lear Corporation": 12,
@@ -81,6 +101,17 @@
         "Valeo Sylvania LLC": 2,
         "Visteon Corporation": 2,
         "OSRAM GmbH": 1,
-        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
+        "Means Industries, Inc.": 13,
+        "FTE automotive GmbH": 5,
+        "ZF Friedrichshafen AG": 4,
+        "ZF do Brasil Ltda. - Piraporinha": 8,
+        "Zen S.A.": 4,
+        "FTE automotive USA Inc.": 2,
+        "BorgWarner Inc.": 8,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 1,
+        "Schaeffler Transmission Systems, LLC – Wooster (Formerly LuK USA LLC)": 1,
+        "Schaeffler Group USA Inc.": 1,
+        "Schaeffler AG": 1
     }
 }

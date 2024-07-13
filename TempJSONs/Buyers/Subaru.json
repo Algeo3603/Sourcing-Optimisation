@@ -2,7 +2,8 @@
     "region": "Japan",
     "parts-bought": {
         "Wiring Harness": 175,
-        "Rear Lamp": 120
+        "Rear Lamp": 120,
+        "Clutch": 10
     },
     "specific-parts-bought": {
         "Back-up lamp wiring harness": 1,
@@ -37,7 +38,10 @@
         "LED rear combination lamp": 6,
         "Rear Lamp": 1,
         "LED light source unit MonoLED for stop lamp": 1,
-        "LED rear lamp": 5
+        "LED rear lamp": 5,
+        "Clutch cover": 8,
+        "CVT clutch": 1,
+        "Clutch cover(KF)(5MT)": 1
     },
     "suppliers": {
         "Furukawa Electric Co., Ltd.": 26,
@@ -61,6 +65,9 @@
         "Koito Manufacturing Co., Ltd.": 38,
         "Hyundai Mobis Co., Ltd.": 17,
         "Stanley Electric U.S. Co., Inc.": 2,
-        "North American Lighting, Inc.": 3
+        "North American Lighting, Inc.": 3,
+        "EXEDY Corporation": 8,
+        "F.C.C. Co., Ltd.": 1,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 1
     }
 }

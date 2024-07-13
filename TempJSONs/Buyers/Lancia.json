@@ -2,19 +2,24 @@
     "region": "Europe",
     "parts-bought": {
         "Wiring Harness": 2,
-        "Rear Lamp": 5
+        "Rear Lamp": 5,
+        "Clutch": 2
     },
     "specific-parts-bought": {
         "Electrical distribution system": 1,
         "Wiring harness": 1,
         "Rear lamp": 3,
         "LED rear lamp": 1,
-        "Reversing lamp": 1
+        "Reversing lamp": 1,
+        "Clutch line": 1,
+        "Diaphragm clutch": 1
     },
     "suppliers": {
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
         "Valeo Group": 1,
         "Flex-N-Gate Corporation": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4,
+        "FTE automotive GmbH": 1,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 1
     }
 }

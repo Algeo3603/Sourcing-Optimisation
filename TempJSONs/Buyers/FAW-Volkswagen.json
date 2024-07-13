@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 123,
-        "Rear Lamp": 38
+        "Rear Lamp": 38,
+        "Clutch": 13
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 8,
@@ -37,7 +38,11 @@
         "Rear combination lamp": 21,
         "LED rear lamp": 2,
         "Tail lamp assembly": 1,
-        "Rear lamp": 14
+        "Rear lamp": 14,
+        "Clutch": 10,
+        "Aluminum clutch housing": 1,
+        "Clutch cover": 1,
+        "DL501 clutch module": 1
     },
     "suppliers": {
         "Guangdong KSD Automotive Components Co., Ltd.": 18,
@@ -67,6 +72,11 @@
         "Changchun Hongde Automotive Lighting Co., Ltd.": 1,
         "Changchun Hella Automotive Lighting Co., Ltd.": 1,
         "Koito Manufacturing Co., Ltd.": 1,
-        "Huayu Automotive Systems Co., Ltd.": 1
+        "Huayu Automotive Systems Co., Ltd.": 1,
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 5,
+        "Ryobi Die Casting Dalian Co., Ltd.": 1,
+        "BorgWarner United Transmission Systems Co., Ltd.": 1,
+        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 2,
+        "Changchun Yidong Clutch Co., Ltd.": 4
     }
 }

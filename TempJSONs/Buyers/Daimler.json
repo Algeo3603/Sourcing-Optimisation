@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 82,
-        "Rear Lamp": 63
+        "Rear Lamp": 63,
+        "Clutch": 17
     },
     "specific-parts-bought": {
         "Door module wiring harness (via Brose (Thailand))": 9,
@@ -38,7 +39,16 @@
         "Brake lamp": 2,
         "Rear combination lamp": 2,
         "Additional LED brake light": 1,
-        "LED brake light": 1
+        "LED brake light": 1,
+        "Clutch housing": 2,
+        "Clutch system": 1,
+        "Clutch line": 2,
+        "Clutch": 5,
+        "Clutch actuating system": 1,
+        "Self-adjusting clutch": 1,
+        "AWD differential clutch": 2,
+        "Clutch set (MT diesel & gasoline)": 1,
+        "Hydrodynamically cooled clutch (HCC)": 2
     },
     "suppliers": {
         "DTS Dräxlmaier Automotive Systems (Thailand) Co., Ltd. - Samutprakarn Plant": 36,
@@ -54,7 +64,7 @@
         "LEONI Cable S.A. de C.V.": 2,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 7,
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 4,
-        "Valeo Group": 4,
+        "Valeo Group": 8,
         "odelo GmbH": 13,
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 12,
         "Wipac Technology Limited": 3,
@@ -66,6 +76,13 @@
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 13,
         "Visteon Corporation": 2,
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2,
-        "Leopold Kostal GmbH & Co. KG": 1
+        "Leopold Kostal GmbH & Co. KG": 1,
+        "Endurance Technologies Ltd.": 1,
+        "ZF Friedrichshafen AG": 3,
+        "FTE automotive GmbH": 3,
+        "Schaeffler AG": 2,
+        "KSM Castings Group GmbH": 1,
+        "F.C.C. Co., Ltd.": 2,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 1
     }
 }

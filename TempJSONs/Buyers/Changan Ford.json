@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 26,
-        "Rear Lamp": 4
+        "Rear Lamp": 4,
+        "Clutch": 26
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 1,
@@ -29,7 +30,13 @@
         "Rear lamp": 1,
         "LED taillamp with crystal design": 1,
         "Rear combination lamp": 1,
-        "Rear Lamp": 1
+        "Rear Lamp": 1,
+        "Clutch assembly(8AT)": 10,
+        "Clutch(8AMT)": 3,
+        "Clutch(8AT)": 3,
+        "Clutch(6AMT)": 1,
+        "Clutch": 8,
+        "Clutch automatic control system(1.8L)": 1
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
@@ -41,6 +48,9 @@
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
         "Shanghai Sunlight Enterprise Co., Ltd.": 1,
-        "Laster Tech Automotive (Shanghai) Co., Ltd.": 1
+        "Laster Tech Automotive (Shanghai) Co., Ltd.": 1,
+        "Ningbo Shenglong Automotive Powertrain System Co., Ltd.": 10,
+        "Chengdu Yonghua F.C.C. Clutches Co., Ltd.": 15,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 1
     }
 }

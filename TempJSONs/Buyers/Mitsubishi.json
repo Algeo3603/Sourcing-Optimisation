@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 213,
-        "Rear Lamp": 161
+        "Rear Lamp": 161,
+        "Clutch": 43
     },
     "specific-parts-bought": {
         "Wiring harness protector": 5,
@@ -40,7 +41,15 @@
         "LED light source unit MonoLED for stop lamp": 1,
         "Tail stop lamp": 1,
         "LED rear lamp": 3,
-        "LED rear lamp + bulb": 1
+        "LED rear lamp + bulb": 1,
+        "Clutch cover assembly": 10,
+        "CVT clutch assembly (via JATCO (Thailand))": 2,
+        "Clutch cover": 5,
+        "Automatic transmission clutch assembly (via JATCO (Thailand))": 2,
+        "Lock-up clutch": 14,
+        "Clutch": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 1,
+        "One-way clutch for automatic transmission": 8
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 5,
@@ -71,6 +80,12 @@
         "Thai Koito Co., Ltd.": 4,
         "Sakae Riken Kogyo Co., Ltd.": 1,
         "North American Lighting, Inc.": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
+        "EXEDY (Thailand) Co., Ltd.": 11,
+        "FCC (Thailand) Co., Ltd.": 4,
+        "EXEDY Corporation": 5,
+        "Dynax Corporation": 14,
+        "ZF Friedrichshafen AG": 1,
+        "NSK Ltd.": 8
     }
 }

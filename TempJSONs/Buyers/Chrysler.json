@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 11,
-        "Rear Lamp": 6
+        "Rear Lamp": 6,
+        "Clutch": 1
     },
     "specific-parts-bought": {
         "Transmission wiring harness": 4,
@@ -12,7 +13,8 @@
         "Rear lamp": 2,
         "Rear lamp housing": 1,
         "Rear lamp (bulb)": 1,
-        "LED rear lamp": 2
+        "LED rear lamp": 2,
+        "One-way clutch": 1
     },
     "suppliers": {
         "General Cable - Rhode Island": 4,
@@ -22,6 +24,7 @@
         "Yazaki Corporation": 2,
         "Magna International Inc.": 2,
         "Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC)": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
+        "BorgWarner Inc.": 1
     }
 }

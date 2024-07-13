@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 29,
-        "Rear Lamp": 45
+        "Rear Lamp": 45,
+        "Clutch": 9
     },
     "specific-parts-bought": {
         "Battery wiring harness": 4,
@@ -16,7 +17,10 @@
         "Wiring harness": 9,
         "Rear lamp": 38,
         "LED rear lamp": 1,
-        "Rear combination lamp": 6
+        "Rear combination lamp": 6,
+        "Clutch housing": 1,
+        "Clutch cover": 7,
+        "Clutch": 1
     },
     "suppliers": {
         "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 19,
@@ -31,6 +35,9 @@
         "Fiem Industries Limited": 5,
         "Autolite (India) Ltd.": 1,
         "Electrica Engineers (India) Pvt. Ltd.": 1,
-        "India Japan Lighting Pvt. Ltd.": 1
+        "India Japan Lighting Pvt. Ltd.": 1,
+        "Endurance Technologies Ltd.": 1,
+        "EXEDY India Ltd. - Greater Noida Plant": 7,
+        "Valeo Group": 1
     }
 }

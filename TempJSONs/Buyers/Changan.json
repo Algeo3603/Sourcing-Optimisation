@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 26,
-        "Rear Lamp": 20
+        "Rear Lamp": 20,
+        "Clutch": 1
     },
     "specific-parts-bought": {
         "Wiring harness": 3,
@@ -23,7 +24,8 @@
         "Positive battery cable assembly": 1,
         "Rear combination lamp": 16,
         "Rear lamp": 3,
-        "Rear lamp(1.8T)(6AMT)": 1
+        "Rear lamp(1.8T)(6AMT)": 1,
+        "Clutch(1.6L)(4AMT)": 1
     },
     "suppliers": {
         "Chongqing Changhua Automobile Harness Co., Ltd.": 1,
@@ -33,6 +35,7 @@
         "Hubei Xiaogan Huazhong Auto Lamp Co., Ltd.": 10,
         "Hubei Huazhong Magneti Marelli Automotive Lighting Co., Ltd.": 1,
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 2,
-        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.": 1
+        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.": 1,
+        "Schaeffler (China) Co., Ltd.": 1
     }
 }

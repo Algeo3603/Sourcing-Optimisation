@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 14,
-        "Rear Lamp": 10
+        "Rear Lamp": 10,
+        "Clutch": 4
     },
     "specific-parts-bought": {
         "Wiring harness": 7,
@@ -16,7 +17,11 @@
         "Rear lamp housing": 5,
         "Rear combination lamp": 1,
         "LED rear lamp": 3,
-        "Rear lamp": 1
+        "Rear lamp": 1,
+        "One-way clutch": 1,
+        "Clutch hydraulic actuation system": 1,
+        "Clutch": 1,
+        "Clutch(MT)": 1
     },
     "suppliers": {
         "Yazaki North America Inc.": 3,
@@ -30,6 +35,9 @@
         "Ventra Evart, LLC": 2,
         "Varroc Lighting System (India) Pvt. Ltd.": 1,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
-        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
+        "BorgWarner Inc.": 1,
+        "FTE automotive GmbH": 1,
+        "ZF Friedrichshafen AG": 2
     }
 }

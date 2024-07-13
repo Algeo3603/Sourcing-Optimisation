@@ -1,0 +1,50 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Clutch": 98
+    },
+    "specific_parts_sold": {
+        "Clutch": 22,
+        "Clutch system": 5,
+        "Clutch set": 2,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 59,
+        "Hydrodynamically cooled clutch (HCC)": 2,
+        "Clutch cover": 3,
+        "Clutch mechanism": 4,
+        "Clutch(MT)": 1
+    },
+    "buyers": {
+        "Audi": 7,
+        "Ford": 5,
+        "Skoda": 8,
+        "Daimler": 3,
+        "Volkswagen": 15,
+        "GM": 4,
+        "Toyota": 1,
+        "Iveco": 2,
+        "GAZ": 1,
+        "Opel": 11,
+        "Porsche": 3,
+        "Alfa Romeo": 1,
+        "Citroen": 9,
+        "Fiat": 1,
+        "Hyundai": 4,
+        "Isuzu": 1,
+        "Kia": 4,
+        "Mazda": 2,
+        "Mitsubishi": 1,
+        "Nissan": 1,
+        "Peugeot": 4,
+        "SEAT": 6,
+        "smart": 1,
+        "Jeep": 1,
+        "Dodge": 2
+    },
+    "Year Established": "915",
+    "Number of Employees": "68,738 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "EUR 46,627 million (FY ended Dec. 31, 2023)",
+    "Representative": "Holger Klein (CEO)",
+    "URL": "https://www.zf.com",
+    "Address": "ZF Forum, Loewentaler Strasse 20, 88046 Friedrichshafen, Germany",
+    "Country": "Germany"
+}

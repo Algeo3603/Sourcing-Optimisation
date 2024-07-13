@@ -2,7 +2,8 @@
     "region": "Japan",
     "parts-bought": {
         "Wiring Harness": 258,
-        "Rear Lamp": 132
+        "Rear Lamp": 132,
+        "Clutch": 26
     },
     "specific-parts-bought": {
         "Back door wiring harness": 12,
@@ -35,7 +36,15 @@
         "Tail & stop lamp": 2,
         "Stop lamp": 2,
         "LED Rear combination lamp": 1,
-        "LED rear lamp": 5
+        "LED rear lamp": 5,
+        "Clutch cover": 4,
+        "Automatic transmission clutch": 2,
+        "CVT clutch": 6,
+        "Clutch cover(KF)(5MT)": 1,
+        "Clutch": 2,
+        "Clutch cover assembly": 3,
+        "Clutch cover for CVT": 1,
+        "One-way clutch for automatic transmission": 7
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 81,
@@ -53,6 +62,12 @@
         "Kyushu Ichikou Industries Ltd.": 1,
         "PT. Ichikoh Indonesia": 5,
         "PT. Takagi Sari Multi Utama": 2,
-        "P.T. Indonesia Stanley Electric - Factory1": 1
+        "P.T. Indonesia Stanley Electric - Factory1": 1,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 2,
+        "F.C.C. Co., Ltd.": 8,
+        "PT. Aisin Indonesia": 5,
+        "P.T. EXEDY Manufacturing Indonesia": 3,
+        "EXEDY Corporation": 1,
+        "NSK Ltd.": 7
     }
 }

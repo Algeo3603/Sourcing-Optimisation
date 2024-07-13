@@ -2,19 +2,25 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 16,
-        "Rear Lamp": 12
+        "Rear Lamp": 12,
+        "Clutch": 3
     },
     "specific-parts-bought": {
         "High voltage wiring harness": 2,
         "Wiring harness": 13,
         "Main wiring harness": 1,
         "Rear lamp(1.4L)(6MT)": 1,
-        "Rear lamp": 11
+        "Rear lamp": 11,
+        "Clutch": 1,
+        "Clutch automatic control system(1.6L)": 1,
+        "Clutch automatic control system(1.4L)": 1
     },
     "suppliers": {
         "Beijing BHAP Lear Automotive Systems Co., Ltd.": 2,
         "YURA Corporation": 1,
         "Sanhe INFAC Automotive Components Co., Ltd.": 13,
-        "Beijing Samlip Automotive Lighting Co., Ltd.": 12
+        "Beijing Samlip Automotive Lighting Co., Ltd.": 12,
+        "Valeo Pyeong Hwa Co., Ltd.": 1,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 2
     }
 }

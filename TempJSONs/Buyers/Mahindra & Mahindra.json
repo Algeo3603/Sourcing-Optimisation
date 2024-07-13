@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 27,
-        "Rear Lamp": 29
+        "Rear Lamp": 29,
+        "Clutch": 13
     },
     "specific-parts-bought": {
         "Head lamp wiring harness": 1,
@@ -11,7 +12,10 @@
         "Rear lamp": 25,
         "Rear left combination lamp assembly": 1,
         "Rear right combination lamp assembly": 1,
-        "Rear combination lamp": 2
+        "Rear combination lamp": 2,
+        "Clutch assembly": 8,
+        "Clutch": 3,
+        "Clutch cover": 2
     },
     "suppliers": {
         "Essem Technodesign Pvt. Ltd. (Formerly ESSEM SRINISONS SYS. (P) LTD)": 1,
@@ -24,6 +28,10 @@
         "Lumax Industries Ltd.": 14,
         "Varroc Engineering Ltd.": 3,
         "Neolite ZKW Lightings Pvt. Ltd.": 2,
-        "Visteon Group (China)": 1
+        "Visteon Group (China)": 1,
+        "Valeo Engineering Center(India), Lighting Systems, Wiper Systems, Pvt. Ltd": 8,
+        "Schaeffler India Limited": 2,
+        "Schaeffler India Limited (Formerly Luk India Pvt. Ltd.)": 2,
+        "Valeo Group": 1
     }
 }

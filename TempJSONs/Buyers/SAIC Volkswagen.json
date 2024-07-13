@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 80,
-        "Rear Lamp": 20
+        "Rear Lamp": 20,
+        "Clutch": 1
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 4,
@@ -34,7 +35,8 @@
         "Rear view mirror wire harness": 2,
         "LED rear lamp": 3,
         "Rear lamp": 16,
-        "Rear combination lamp": 1
+        "Rear combination lamp": 1,
+        "Clutch": 1
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 32,
@@ -48,6 +50,7 @@
         "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)": 2,
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
         "Shanghai Pudong Automotive Lamps Co., Ltd.": 2,
-        "Koito Manufacturing Co., Ltd.": 1
+        "Koito Manufacturing Co., Ltd.": 1,
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 1
     }
 }

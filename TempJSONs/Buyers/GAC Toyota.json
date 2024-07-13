@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 357,
-        "Rear Lamp": 13
+        "Rear Lamp": 13,
+        "Clutch": 3
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -96,7 +97,10 @@
         "Engine wiring harness": 6,
         "Rear combination lamp": 6,
         "Signal lamp": 4,
-        "Rear lamp": 3
+        "Rear lamp": 3,
+        "Clutch(2.0L)(10CVT)": 1,
+        "Clutch": 1,
+        "Clutch cover": 1
     },
     "suppliers": {
         "Dongguan Nifco Co., Ltd.": 2,
@@ -111,6 +115,8 @@
         "Yazaki Corporation": 2,
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 2,
         "Guangzhou Koito Automotive Lamp Co., Ltd.": 10,
-        "Foshan Ichikoh Valeo Auto Lighting Systems Co., Ltd.": 1
+        "Foshan Ichikoh Valeo Auto Lighting Systems Co., Ltd.": 1,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 1,
+        "Exedy Chongqing Co., Ltd.": 2
     }
 }

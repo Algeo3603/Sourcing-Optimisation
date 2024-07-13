@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 13,
-        "Rear Lamp": 6
+        "Rear Lamp": 6,
+        "Clutch": 8
     },
     "specific-parts-bought": {
         "Combination switch wiring harness": 1,
@@ -20,12 +21,15 @@
         "Wire": 1,
         "Rear combination lamp": 4,
         "Rear lamp": 1,
-        "Stop lamp": 1
+        "Stop lamp": 1,
+        "Clutch": 4,
+        "Clutch cover": 4
     },
     "suppliers": {
         "Baicheng Xinyu Auto Wire Harness Co., Ltd.": 12,
         "Beijing Force Automotive Wire Co., Ltd.": 1,
         "Tianjin Stanley Electric Co., Ltd.": 3,
-        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 3
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 3,
+        "Exedy Chongqing Co., Ltd.": 8
     }
 }

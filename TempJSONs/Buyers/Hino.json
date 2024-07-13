@@ -2,14 +2,16 @@
     "region": "Japan",
     "parts-bought": {
         "Wiring Harness": 22,
-        "Rear Lamp": 6
+        "Rear Lamp": 6,
+        "Clutch": 3
     },
     "specific-parts-bought": {
         "Body wiring harness": 10,
         "Door wiring harness": 11,
         "Engine wiring harness(N04C-WD)": 1,
         "Rear lamp": 4,
-        "Rear combination lamp assembly": 2
+        "Rear combination lamp assembly": 2,
+        "Clutch cover": 3
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 2,
@@ -19,6 +21,7 @@
         "Taiwan Yazaki Corporation": 2,
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 3,
         "Koito Manufacturing Co., Ltd.": 1,
-        "AAPICO Hitech Public Co., Ltd.": 2
+        "AAPICO Hitech Public Co., Ltd.": 2,
+        "EXEDY Corporation": 3
     }
 }

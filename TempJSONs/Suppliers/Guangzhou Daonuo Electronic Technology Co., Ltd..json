@@ -1,0 +1,32 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 23
+    },
+    "specific_parts_sold": {
+        "Clutch automatic control system(1.6L)": 6,
+        "Clutch automatic control system(1.4L)": 1,
+        "Clutch automatic control system(1.8L)": 1,
+        "Clutch automatic control system(1.3L)": 2,
+        "Clutch automatic control system": 7,
+        "Clutch automatic control system(1.5L)": 1,
+        "Clutch automatic control system(1.6T )": 1,
+        "Clutch automatic control system(1.2L)": 4
+    },
+    "buyers": {
+        "Beijing Hyundai": 2,
+        "Changan Ford": 1,
+        "Changan Suzuki": 2,
+        "Dongfeng Nissan": 3,
+        "Dongfeng Yueda Kia": 2,
+        "FAW Toyota": 1,
+        "GAC Honda": 4,
+        "SAIC GM": 1,
+        "Shanghai GM": 6,
+        "Shanghai GM Wuling": 1
+    },
+    "Country": "China",
+    "Address": "No. 22, Huateng Road, Huachuang Dongman Industrial Park, Jinshan Village, Shiqi Town, Panyu, Guangzhou, Guangdong, China",
+    "TEL": "+86-20-84781519",
+    "Year established": "Oct. 2012"
+}

@@ -1,14 +1,18 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Wiring Harness": 10
+        "Wiring Harness": 10,
+        "Clutch": 6
     },
     "specific-parts-bought": {
         "Body wiring harness": 5,
-        "Door wiring harness": 5
+        "Door wiring harness": 5,
+        "Clutch cover": 5,
+        "Dual clutch transmission clutch": 1
     },
     "suppliers": {
         "Yazaki Corporation": 4,
-        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 6
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 6,
+        "EXEDY Corporation": 6
     }
 }

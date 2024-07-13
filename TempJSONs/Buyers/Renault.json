@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Wiring Harness": 48,
-        "Rear Lamp": 40
+        "Rear Lamp": 40,
+        "Clutch": 10
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -33,7 +34,10 @@
         "LED rear combination lamp": 1,
         "LED stop lamp": 1,
         "Rearlamp with MicroOptics": 1,
-        "Stop lighting": 1
+        "Stop lighting": 1,
+        "Clutch": 6,
+        "Diaphragm clutch": 2,
+        "Clutch mechanism": 2
     },
     "suppliers": {
         "Delfingen Industry S.A.": 4,
@@ -43,7 +47,7 @@
         "Sumitomo Wiring Systems, Ltd.": 4,
         "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 4,
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 3,
-        "Valeo Group": 12,
+        "Valeo Group": 14,
         "Yazaki Corporation": 2,
         "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 2,
         "FORVIA SE (FORVIA faurecia) (Formerly Faurecia SE)": 2,
@@ -59,6 +63,9 @@
         "Koito Czech s.r.o.": 1,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 9,
         "Koito Manufacturing Co., Ltd.": 1,
-        "Lumax Industries Ltd.": 1
+        "Lumax Industries Ltd.": 1,
+        "Schaeffler India Limited": 1,
+        "Schaeffler AG": 3,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 4
     }
 }

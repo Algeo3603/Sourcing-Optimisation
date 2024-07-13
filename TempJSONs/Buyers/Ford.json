@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 90,
-        "Rear Lamp": 63
+        "Rear Lamp": 63,
+        "Clutch": 55
     },
     "specific-parts-bought": {
         "Wiring harness protector": 4,
@@ -28,7 +29,29 @@
         "Rear combination lamp": 2,
         "Brake lamp": 4,
         "Rear lamp with patented solution of tail light pipe": 1,
-        "LED rear combination lamp": 1
+        "LED rear combination lamp": 1,
+        "Clutch line": 5,
+        "Clutch hub": 4,
+        "Selectable one-way clutch": 2,
+        "Clutch": 9,
+        "10-speed automatic transmission clutch assembly": 2,
+        "Clutch housing": 1,
+        "Clutch oil cooler": 1,
+        "Clutch plate": 2,
+        "FR 10 speed automatic transmission clutch": 1,
+        "Rocker one-way clutch": 5,
+        "Transmission clutch module": 2,
+        "Clutch hydraulic actuation system": 3,
+        "One-way clutch assembly": 3,
+        "One-way clutch": 3,
+        "Clutch cover assembly": 2,
+        "Automatic transmission clutch": 2,
+        "Clutch pulley": 1,
+        "Transmission one-way clutch": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 3,
+        "Low and reverse clutch assembly": 1,
+        "Double clutch ( LuK )(2.0L)": 1,
+        "Dual clutch module": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 2,
@@ -70,6 +93,23 @@
         "Godks Industria De Plasticos Ltda.": 2,
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
         "Marelli Tepotzotlan Mexico, S.A. de C.V. (Formerly Magneti Marelli Mexico, S.A. de C.V.)": 1,
-        "Visteon Corporation": 3
+        "Visteon Corporation": 3,
+        "FTE Mexicana, S.A. de C.V. (Valeo Mexico Puebla)": 1,
+        "Means Industries, Inc.": 6,
+        "ZF Friedrichshafen AG": 5,
+        "F.C.C. Co., Ltd.": 6,
+        "FCC (North America), Inc.": 1,
+        "Means Transform Products - London, Ontario Canada (Formerly Transform Automotive Canada Ltd)": 1,
+        "Setrab AB": 1,
+        "Keystone Powdered Metal Company": 13,
+        "FTE automotive GmbH": 7,
+        "ZF do Brasil Ltda. - Piraporinha": 5,
+        "Metaldyne Performance Group Inc.": 2,
+        "Means Transform Products - Sterling Heights": 1,
+        "EXEDY (Thailand) Co., Ltd.": 2,
+        "Zen S.A.": 1,
+        "Schaeffler AG": 1,
+        "KSR International Inc.": 1,
+        "BorgWarner Inc.": 1
     }
 }

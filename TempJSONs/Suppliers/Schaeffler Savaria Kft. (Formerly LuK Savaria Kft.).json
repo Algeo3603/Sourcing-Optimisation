@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 1
+    },
+    "specific_parts_sold": {
+        "Self-adjusting clutch (SAC)(MQ350)": 1
+    },
+    "buyers": {
+        "Volkswagen": 1
+    },
+    "Country": "Hungary",
+    "Address": "Zanati ut. 31, 9700 Szombathely, Hungary",
+    "TEL": "+36-94-588-100",
+    "URL": "https://www.schaeffler.hu",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Schaeffler Group"
+}

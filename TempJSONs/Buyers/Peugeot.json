@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Wiring Harness": 36,
-        "Rear Lamp": 32
+        "Rear Lamp": 32,
+        "Clutch": 13
     },
     "specific-parts-bought": {
         "Interior wiring harness": 4,
@@ -26,7 +27,12 @@
         "Rear lamp": 21,
         "Rear combination lamp": 1,
         "Futuristic rear lamp with LED tail light function": 1,
-        "Stop lighting": 1
+        "Stop lighting": 1,
+        "Clutch line": 2,
+        "Clutch": 5,
+        "Diaphragm clutch": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
+        "Clutch mechanism": 1
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 7,
@@ -38,7 +44,7 @@
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 5,
         "Lear Corporation": 1,
-        "Valeo Group": 11,
+        "Valeo Group": 12,
         "Yazaki Corporation": 1,
         "Valeo Lighting Systems - Chrzanow": 1,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 13,
@@ -48,6 +54,11 @@
         "Varroc Lighting System (India) Pvt. Ltd.": 2,
         "Visteon Corporation": 1,
         "Koito Europe Ltd.": 1,
-        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
+        "FTE automotive GmbH": 2,
+        "Schaeffler AG": 1,
+        "ZF do Brasil Ltda. - Piraporinha": 3,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 2,
+        "ZF Friedrichshafen AG": 4
     }
 }

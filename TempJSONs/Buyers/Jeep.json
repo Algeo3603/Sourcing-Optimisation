@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Wiring Harness": 24,
-        "Rear Lamp": 29
+        "Rear Lamp": 29,
+        "Clutch": 12
     },
     "specific-parts-bought": {
         "Wiring harness": 12,
@@ -19,7 +20,10 @@
         "Rear lamp housing": 10,
         "Rear lamp bulb": 1,
         "LED rear lights": 1,
-        "LED rear lamp": 2
+        "LED rear lamp": 2,
+        "Clutch plate": 8,
+        "Dry dual clutch": 1,
+        "Clutch": 3
     },
     "suppliers": {
         "Coficab -Tunisie": 1,
@@ -43,6 +47,11 @@
         "Magneti Marelli Powertrain India Pvt. Ltd.": 1,
         "Hyundai Mobis Co., Ltd.": 1,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4,
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
+        "Schaeffler Transmission Systems, LLC – Wooster (Formerly LuK USA LLC)": 8,
+        "Brake Parts Inc. - Mexico": 1,
+        "American Axle & Manufacturing Holdings, Inc.": 1,
+        "F.C.C. Co., Ltd.": 1,
+        "ZF Friedrichshafen AG": 1
     }
 }

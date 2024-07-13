@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 53,
-        "Rear Lamp": 51
+        "Rear Lamp": 51,
+        "Clutch": 2
     },
     "specific-parts-bought": {
         "Wiring harness(2.0T)(8AT)": 7,
@@ -31,7 +32,8 @@
         "Stop lamp": 2,
         "Rear lamp(2.0T)(8AT)": 1,
         "Rear lamp(2.0T)(7DCT)": 1,
-        "Rear lamp(1.8T)(6AMT)": 1
+        "Rear lamp(1.8T)(6AMT)": 1,
+        "Clutch": 2
     },
     "suppliers": {
         "Jining Lear Automotive Parts Co., Ltd. (Formerly Shanghai Lear Automotive Parts Co., Ltd.)": 4,
@@ -52,6 +54,7 @@
         "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.": 3,
         "Jiangsu Tongming Auto Lamp Co., Ltd.": 1,
         "Chongqing Qinchuan Industry and Trade Co., Ltd.": 2,
-        "Jiangsu Tianhe Auto Parts Co., Ltd.": 7
+        "Jiangsu Tianhe Auto Parts Co., Ltd.": 7,
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 2
     }
 }

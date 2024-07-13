@@ -2,7 +2,8 @@
     "region": "Japan",
     "parts-bought": {
         "Wiring Harness": 181,
-        "Rear Lamp": 157
+        "Rear Lamp": 157,
+        "Clutch": 54
     },
     "specific-parts-bought": {
         "Engine wiring harness": 7,
@@ -33,7 +34,15 @@
         "LED rear combination lamp": 3,
         "Tail & stop lamp": 1,
         "Stop lamp": 1,
-        "LED rear lamp": 8
+        "LED rear lamp": 8,
+        "Clutch cover assembly": 3,
+        "Clutch cover": 24,
+        "Clutch cover(S5-DPTS)(6MT)": 2,
+        "Clutch cover(P5-VP[RS])(6MT)": 1,
+        "Clutch plate": 13,
+        "Lock-up clutch": 8,
+        "One-way clutch": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 2
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 72,
@@ -60,6 +69,14 @@
         "Ichikoh Industries, Ltd.": 8,
         "Tokaidenso Corporation": 10,
         "Thai Koito Co., Ltd.": 3,
-        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 2
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 2,
+        "EXEDY (Thailand) Co., Ltd.": 5,
+        "EXEDY DYNAX Mexico S.A de C.V.": 3,
+        "EXEDY Corporation": 19,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 3,
+        "Dynax Corporation": 20,
+        "Means Industries, Inc.": 1,
+        "GKN Driveline Tochigi Holdings KK": 1,
+        "ZF Friedrichshafen AG": 2
     }
 }

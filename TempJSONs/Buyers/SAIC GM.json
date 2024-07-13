@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 43,
-        "Rear Lamp": 14
+        "Rear Lamp": 14,
+        "Clutch": 33
     },
     "specific-parts-bought": {
         "Trunk wiring harness(2.0T)(9AMT)": 2,
@@ -27,7 +28,10 @@
         "Wire harness": 3,
         "LED rear lamp": 3,
         "Rear lamp": 10,
-        "Rear combination lamp": 1
+        "Rear combination lamp": 1,
+        "Clutch assembly(9AMT)": 14,
+        "Clutch assembly(9AT)": 18,
+        "Clutch automatic control system(1.6T )": 1
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 35,
@@ -41,6 +45,8 @@
         "Valeo Group (China)": 2,
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 8,
         "ZKW Lighting Systems (Dalian) Co., Ltd.": 2,
-        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)": 2
+        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)": 2,
+        "Ningbo Shenglong Automotive Powertrain System Co., Ltd.": 32,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 1
     }
 }

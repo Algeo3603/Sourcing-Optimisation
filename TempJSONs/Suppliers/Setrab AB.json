@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 2
+    },
+    "specific_parts_sold": {
+        "Clutch oil cooler": 1,
+        "Clutch": 1
+    },
+    "buyers": {
+        "Ford": 1,
+        "Ferrari": 1
+    },
+    "Country": "Sweden",
+    "Address": "Ringugnsgatan 3 Malmo SE-21610, Sweden",
+    "TEL": "+46-40-15-8060",
+    "URL": "http://www.setrab.com"
+}

@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Wiring Harness": 24,
-        "Rear Lamp": 45
+        "Rear Lamp": 45,
+        "Clutch": 3
     },
     "specific-parts-bought": {
         "Wiring harness": 15,
@@ -19,7 +20,10 @@
         "Rear combination lamp": 2,
         "LED stop lamp": 1,
         "Styling LED rear lamp": 1,
-        "Full-LED rear lamp with thick light blades": 1
+        "Full-LED rear lamp with thick light blades": 1,
+        "Clutch line": 1,
+        "FF9 speed automatic transmission clutch (Transmission: ZF)": 1,
+        "Clutch system": 1
     },
     "suppliers": {
         "Leoni AG": 7,
@@ -43,6 +47,9 @@
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 2,
         "Koito Europe Ltd.": 2,
         "Visteon Corporation": 2,
-        "Grupo Antolin Besancon S.A.S.": 1
+        "Grupo Antolin Besancon S.A.S.": 1,
+        "FTE automotive GmbH": 1,
+        "F.C.C. Co., Ltd.": 1,
+        "Dowlais Group plc": 1
     }
 }

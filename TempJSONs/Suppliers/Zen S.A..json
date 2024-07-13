@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 6
+    },
+    "specific_parts_sold": {
+        "Clutch pulley": 6
+    },
+    "buyers": {
+        "Ford": 1,
+        "GM": 4,
+        "Opel": 1
+    },
+    "Country": "Brazil",
+    "Address": "Rua Guilherme Steflen, 65 88.355-100 - Brusque - SC, Brazil",
+    "TEL": "+55-47-3255-2800",
+    "URL": "https://www.zensa.com.br/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)"
+}

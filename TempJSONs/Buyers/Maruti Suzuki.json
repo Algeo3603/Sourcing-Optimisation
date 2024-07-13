@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 44,
-        "Rear Lamp": 72
+        "Rear Lamp": 72,
+        "Clutch": 26
     },
     "specific-parts-bought": {
         "Wiring harness": 19,
@@ -15,7 +16,10 @@
         "Rear lamp": 60,
         "Rear combination lamp": 6,
         "LED rear combination lamp": 5,
-        "Rear lamp bulb": 1
+        "Rear lamp bulb": 1,
+        "Clutch assembly": 12,
+        "Clutch cover": 11,
+        "Clutch": 3
     },
     "suppliers": {
         "Furukawa Minda Electric Private Limited (FME)": 5,
@@ -31,6 +35,9 @@
         "India Japan Lighting Pvt. Ltd.": 10,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4,
         "Autolite (India) Ltd.": 1,
-        "Koito Manufacturing Co., Ltd.": 2
+        "Koito Manufacturing Co., Ltd.": 2,
+        "Valeo Group": 12,
+        "EXEDY India Ltd. - Greater Noida Plant": 12,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 2
     }
 }

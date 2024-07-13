@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 57,
-        "Rear Lamp": 91
+        "Rear Lamp": 91,
+        "Clutch": 43
     },
     "specific-parts-bought": {
         "Door wiring harness": 9,
@@ -31,7 +32,24 @@
         "Rear lamp housing": 9,
         "LED rear lamp": 20,
         "Brake lamp": 2,
-        "LED rear combination lamp": 2
+        "LED rear combination lamp": 2,
+        "Clutch module": 2,
+        "Clutch hose cover": 2,
+        "Clutch": 14,
+        "Clutch line": 4,
+        "Clutch oil pipe": 1,
+        "Clutch cover": 1,
+        "Clutch set": 1,
+        "Clutch actuating system": 1,
+        "Aluminum clutch housing": 1,
+        "Clutch system": 2,
+        "Clutch hydraulic actuation system": 2,
+        "6MT cluch": 1,
+        "Self-adjusting clutch (SAC)(MQ350)": 1,
+        "Dual clutch (6-speed dual clutch transmission)": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 7,
+        "Clutch cover(1.2L I3 Diesel DOHC)": 1,
+        "Wet dual clutch": 1
     },
     "suppliers": {
         "Arcomex, S.A. de C.V.": 8,
@@ -75,6 +93,19 @@
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 5,
         "REBO Lighting & Electronics GmbH": 1,
         "odelo GmbH": 4,
-        "Visteon Corporation": 1
+        "Visteon Corporation": 1,
+        "BOGE Elastmetall GmbH": 2,
+        "Freudenberg SE": 2,
+        "ZF Friedrichshafen AG": 15,
+        "FTE automotive GmbH": 6,
+        "KACO GmbH + Co. KG": 1,
+        "Brose Fahrzeugteile SE & Co. KG, Coburg": 1,
+        "Schaeffler AG": 4,
+        "Ryobi Aluminium Casting (UK) Ltd.": 1,
+        "ZF do Brasil Ltda. - Piraporinha": 6,
+        "Schaeffler Savaria Kft. (Formerly LuK Savaria Kft.)": 1,
+        "BorgWarner Inc.": 2,
+        "Valeo Automotiv Sistemleri Endustrisi A.S.": 1,
+        "FTE Mexicana, S.A. de C.V. (Valeo Mexico Puebla)": 1
     }
 }

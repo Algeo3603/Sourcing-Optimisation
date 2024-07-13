@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 39,
-        "Rear Lamp": 41
+        "Rear Lamp": 41,
+        "Clutch": 21
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 7,
@@ -18,7 +19,15 @@
         "Rear lamp housing": 3,
         "Rear lamp(1.6L)": 1,
         "Rear combination lamp": 11,
-        "Rear lamp assembly": 1
+        "Rear lamp assembly": 1,
+        "Clutch cover": 4,
+        "Automatic transmission clutch": 1,
+        "Clutch housing": 1,
+        "DCT clutch housing assembly": 8,
+        "Clutch module for 8-speed automatic transmission": 1,
+        "Clutch module(3.3L V6)(8AT)": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
+        "Roller one-way clutche(4.6L)(8AT)": 1
     },
     "suppliers": {
         "Kyungshin Corporation": 3,
@@ -39,6 +48,12 @@
         "Hyundai IHL Corporation": 9,
         "DH Lighting Co., Ltd. - 2nd plant (Formerly DH Innorex Co., Ltd.)": 4,
         "Seoyon Autovision Co.,Ltd.": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
+        "KOMOS Automotive India": 4,
+        "Hwasin Precision Co.,Ltd.": 1,
+        "Endurance Technologies Ltd.": 1,
+        "Samkee Corp. (Formerly Samkee Automotive Co., Ltd.)": 8,
+        "BorgWarner Inc.": 3,
+        "ZF Friedrichshafen AG": 4
     }
 }

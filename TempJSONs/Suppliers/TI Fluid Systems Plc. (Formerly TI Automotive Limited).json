@@ -1,13 +1,16 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 2
+        "Wiring Harness": 2,
+        "Clutch": 1
     },
     "specific_parts_sold": {
-        "Air suspension harness": 2
+        "Air suspension harness": 2,
+        "Clutch line": 1
     },
     "buyers": {
-        "Volvo Cars": 2
+        "Volvo Cars": 2,
+        "Hyundai": 1
     },
     "Year Established": "919",
     "Number of Employees": "7,000 employees (As of Dec. 2023)",

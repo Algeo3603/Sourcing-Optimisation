@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 2
+    },
+    "specific_parts_sold": {
+        "Clutch line": 1,
+        "Clutch hydraulic actuation system": 1
+    },
+    "buyers": {
+        "Ford": 1,
+        "Volkswagen": 1
+    },
+    "Country": "Mexico",
+    "Address": "Km. 14.5 Autopista Puebla-Orizaba Parque Industrial Chachapa Municipio de Amozoc, C.P. 72990 Puebla, Mexico",
+    "TEL": "+52-222-286-6038",
+    "URL": "https://www.fte.de/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Group: Valeo Group"
+}

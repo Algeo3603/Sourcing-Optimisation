@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 4
+    },
+    "specific_parts_sold": {
+        "Clutch housing": 4
+    },
+    "buyers": {
+        "Kia": 1,
+        "Mercedes-Benz": 1,
+        "Tata": 1,
+        "Daimler": 1
+    },
+    "Country": "India",
+    "Address": "E-92, MIDC Industrial Area, Waluj, Aurangabad 431136. Maharashtra, India",
+    "TEL": "+91-240-2569600",
+    "Year established": "Aug. 1985",
+    "URL": "http://www.endurancegroup.com",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Group: Endurance Group"
+}

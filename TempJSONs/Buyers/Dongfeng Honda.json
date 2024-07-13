@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 217,
-        "Rear Lamp": 23
+        "Rear Lamp": 23,
+        "Clutch": 8
     },
     "specific-parts-bought": {
         "Body wiring harness(1.5T)(CVT)": 35,
@@ -41,7 +42,9 @@
         "Stop lamp": 2,
         "Rear combination lamp": 9,
         "LED rear lamp": 1,
-        "Signal lamp": 2
+        "Signal lamp": 2,
+        "Clutch": 7,
+        "Clutch cover": 1
     },
     "suppliers": {
         "Fujikura Zhuhai Ltd.": 24,
@@ -58,6 +61,8 @@
         "Fuzhou Koito Tayih Automotive Lamp Co., Ltd.": 1,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
         "Guangzhou Koito Automotive Lamp Co., Ltd.": 4,
-        "Koito Manufacturing Co., Ltd.": 1
+        "Koito Manufacturing Co., Ltd.": 1,
+        "China FCC Foshan Co., Ltd.": 6,
+        "Exedy Chongqing Co., Ltd.": 2
     }
 }

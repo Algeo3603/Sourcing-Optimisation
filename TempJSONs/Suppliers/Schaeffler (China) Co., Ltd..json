@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 3
+    },
+    "specific_parts_sold": {
+        "Clutch(1.5T)(7DCT)": 1,
+        "Clutch(1.5T)(6MT)": 1,
+        "Clutch(1.6L)(4AMT)": 1
+    },
+    "buyers": {
+        "SAIC Passenger Vehicle": 2,
+        "Changan": 1
+    },
+    "Country": "China",
+    "Address": "No. 1-3, Schaeffler Road, Taicang Economic Development Zone, Jiangsu Province, China",
+    "TEL": "+86-21-39576666",
+    "Year established": "Sep. 1995",
+    "URL": "http://www.schaeffler.cn",
+    "Remarks": "-Shareholder: Schaeffler AG"
+}

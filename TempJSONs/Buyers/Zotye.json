@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 1
+        "Rear Lamp": 1,
+        "Clutch": 1
     },
     "specific-parts-bought": {
-        "Rear lamp": 1
+        "Rear lamp": 1,
+        "Clutch": 1
     },
     "suppliers": {
-        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.": 1
+        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.": 1,
+        "Zf Automotive Components & Systems (Shanghai) Co., Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co., Ltd.)": 1
     }
 }

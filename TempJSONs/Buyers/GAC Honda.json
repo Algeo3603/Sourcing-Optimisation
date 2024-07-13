@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 167,
-        "Rear Lamp": 22
+        "Rear Lamp": 22,
+        "Clutch": 15
     },
     "specific-parts-bought": {
         "Body wiring harness(1.5T)(CVT)": 12,
@@ -56,7 +57,12 @@
         "Engine wiring harness": 7,
         "Rear combination lamp": 12,
         "Signal lamp": 6,
-        "Rear lamp": 4
+        "Rear lamp": 4,
+        "Clutch": 10,
+        "Clutch cover": 1,
+        "Clutch automatic control system(1.3L)": 1,
+        "Clutch automatic control system(1.5L)": 1,
+        "Clutch automatic control system": 2
     },
     "suppliers": {
         "Fujikura Zhuhai Ltd.": 14,
@@ -69,6 +75,9 @@
         "Dongguan Yokowo Communication Components Co., Ltd.": 3,
         "Huizhou Zhurun Wiring Systems Co., Ltd.": 7,
         "Guangzhou Koito Automotive Lamp Co., Ltd.": 13,
-        "Guangzhou Stanley Electric Co., Ltd.": 9
+        "Guangzhou Stanley Electric Co., Ltd.": 9,
+        "China FCC Foshan Co., Ltd.": 9,
+        "Exedy Chongqing Co., Ltd.": 2,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 4
     }
 }

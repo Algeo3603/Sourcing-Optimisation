@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 157,
-        "Rear Lamp": 78
+        "Rear Lamp": 78,
+        "Clutch": 53
     },
     "specific-parts-bought": {
         "ABS wiring harness": 4,
@@ -28,7 +29,17 @@
         "Rear lamp housing": 7,
         "Rear combination lamp": 26,
         "Stop lamp": 1,
-        "Rear lamp assembly": 3
+        "Rear lamp assembly": 3,
+        "Clutch cover": 9,
+        "Automatic transmission clutch": 3,
+        "DCT clutch housing assembly": 8,
+        "Clutch housing": 12,
+        "Clutch module for 8-speed automatic transmission": 1,
+        "Clutch": 12,
+        "Clutch line": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
+        "Roller one-way clutche(4.6L)(8AT)": 2,
+        "Roller one-way clutche(3.8-Liter)(8-speed AT)": 1
     },
     "suppliers": {
         "Hyundai Mobis Co., Ltd.": 18,
@@ -50,6 +61,17 @@
         "DH Lighting Co., Ltd. - 2nd plant (Formerly DH Innorex Co., Ltd.)": 7,
         "Seoyon Autovision Co.,Ltd.": 3,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
-        "Lumax Industries Ltd.": 2
+        "Lumax Industries Ltd.": 2,
+        "KOMOS Automotive India": 9,
+        "Hwasin Precision Co.,Ltd.": 3,
+        "Samkee Corp. (Formerly Samkee Automotive Co., Ltd.)": 8,
+        "DR Axion Co., Ltd.": 1,
+        "BorgWarner Inc.": 4,
+        "Dae Seung Autoparts India Pvt Ltd.": 10,
+        "MOBIS India, Ltd. (MIA)": 11,
+        "Schaeffler AG": 1,
+        "Nemak, S.A.B. de C.V.": 1,
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)": 1,
+        "ZF Friedrichshafen AG": 4
     }
 }

@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 75,
-        "Rear Lamp": 143
+        "Rear Lamp": 143,
+        "Clutch": 13
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -52,7 +53,12 @@
         "Additional LED brake light": 3,
         "LED brake light": 1,
         "Stop lighting": 1,
-        "LED rear tail light": 1
+        "LED rear tail light": 1,
+        "Clutch line": 4,
+        "Clutch": 5,
+        "Hydraulic clutch actuation system": 1,
+        "One-way clutch (for 6 speed automatic transmission)": 1,
+        "Clutch hydraulic actuation system": 2
     },
     "suppliers": {
         "Delfingen Industry S.A.": 3,
@@ -84,11 +90,16 @@
         "Marelli Automotive Lighting Italy S.p.A. - Tolmezzo (Formerly Automotive Lighting Italia S.p.A. - Tolmezzo)": 1,
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 12,
         "HEYCO-WERK Heynen GmbH & Co. KG": 1,
-        "Valeo Group": 11,
+        "Valeo Group": 13,
         "Magna International Inc.": 1,
         "BMW": 2,
         "REBO Lighting & Electronics GmbH": 2,
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 4,
-        "Flex Ltd. (formerly Flextronics International Ltd.)": 1
+        "Flex Ltd. (formerly Flextronics International Ltd.)": 1,
+        "FTE automotive GmbH": 6,
+        "Schaeffler AG": 1,
+        "BorgWarner Inc.": 1,
+        "FTE automotive USA Inc.": 1,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 2
     }
 }

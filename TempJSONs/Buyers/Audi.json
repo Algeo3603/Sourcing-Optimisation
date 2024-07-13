@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Wiring Harness": 53,
-        "Rear Lamp": 121
+        "Rear Lamp": 121,
+        "Clutch": 17
     },
     "specific-parts-bought": {
         "Front wiring harness": 3,
@@ -35,7 +36,14 @@
         "OLED rear combination lamp": 1,
         "Laser-welded rear LED lamp": 1,
         "Brake lamp": 1,
-        "Rear lamp (LED/Halogen)": 1
+        "Rear lamp (LED/Halogen)": 1,
+        "Clutch": 3,
+        "Clutch line": 4,
+        "Dual-clutch module": 2,
+        "DL501 clutch module": 1,
+        "Dual clutch module": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 5,
+        "Clutch mechanism": 1
     },
     "suppliers": {
         "Leoni AG": 12,
@@ -62,6 +70,11 @@
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 19,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 27,
         "Ichikoh Industries, Ltd.": 1,
-        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2,
+        "ZF Friedrichshafen AG": 7,
+        "FTE automotive GmbH": 4,
+        "Schaeffler AG": 1,
+        "BorgWarner Inc.": 3,
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 2
     }
 }

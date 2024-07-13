@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 26,
-        "Rear Lamp": 37
+        "Rear Lamp": 37,
+        "Clutch": 12
     },
     "specific-parts-bought": {
         "Wiring harness": 8,
@@ -28,7 +29,10 @@
         "LED rear lamp(2.0T)(7DCT)": 3,
         "LED rear lamp(1.6T)(7DCT)": 2,
         "Rear lamp": 5,
-        "LED rear lamp": 1
+        "LED rear lamp": 1,
+        "Clutch assembly": 1,
+        "Clutch cover": 2,
+        "Clutch": 9
     },
     "suppliers": {
         "Wuhu Ruichang Electric Systems Co., Ltd.": 3,
@@ -41,6 +45,11 @@
         "Shandong LDB Automobile Lighting Co., Ltd.": 1,
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 2,
         "SL Yantai Auto Lighting Co., Ltd.": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
+        "Ningbo Shenglong Automotive Powertrain System Co., Ltd.": 1,
+        "Wuhu Hefeng Clutch Co., Ltd.": 2,
+        "Nanjing Valeo Clutch Co., Ltd.": 1,
+        "Changchun Yidong Clutch Co., Ltd.": 7,
+        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 1
     }
 }

@@ -1,0 +1,51 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Clutch": 43
+    },
+    "specific_parts_sold": {
+        "One-way clutch for automatic transmission": 1,
+        "Clutch module for 8-speed automatic transmission": 2,
+        "Clutch module(3.3L V6)(8AT)": 1,
+        "DL501 clutch module": 1,
+        "One way clutch for 6-speed automatic transmission": 1,
+        "One-way clutch (for 6 speed automatic transmission)": 3,
+        "Dual clutch module": 2,
+        "One-way clutch": 13,
+        "One-way clutch(6AT)": 5,
+        "Clutch module": 1,
+        "One-way clutch (6-speed AT)": 1,
+        "One-way clutch(AT)": 2,
+        "Dual clutch (6-speed dual clutch transmission)": 1,
+        "One way clutch for automatic transmission": 2,
+        "Roller one-way clutch and race assembly": 1,
+        "Wet dual clutch": 1,
+        "Roller one-way clutche(4.6L)(8AT)": 3,
+        "Roller one-way clutche(3.8-Liter)(8-speed AT)": 1,
+        "Dual-clutch module": 1
+    },
+    "buyers": {
+        "Honda": 5,
+        "Hyundai": 4,
+        "Kia": 3,
+        "Audi": 3,
+        "BMW": 1,
+        "Chrysler": 1,
+        "GM": 8,
+        "Ram Trucks": 2,
+        "SAIC Passenger Vehicle": 1,
+        "Toyota": 9,
+        "Volkswagen": 2,
+        "Dodge": 1,
+        "Fiat": 1,
+        "Ford": 1,
+        "Rolls-Royce": 1
+    },
+    "Year Established": "928",
+    "Number of Employees": "9,900 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "USD 14,198 million (FY ended Dec. 31, 2023)",
+    "Representative": "Frederic B. Lissalde (President and CEO)",
+    "URL": "https://www.borgwarner.com/",
+    "Address": "3850 Hamlin Rd, Auburn Hills, Michigan, 48326, USA",
+    "Country": "United States of America"
+}

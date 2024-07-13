@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 154
+        "Wiring Harness": 154,
+        "Clutch": 2
     },
     "specific-parts-bought": {
         "High voltage wiring harness": 1,
@@ -18,12 +19,15 @@
         "Trunk lid harness": 11,
         "harness connector": 11,
         "Cable": 10,
-        "Wiring harness": 11
+        "Wiring harness": 11,
+        "Clutch automatic control system": 1,
+        "Clutch automatic control system(1.6L)": 1
     },
     "suppliers": {
         "YURA Corporation": 1,
         "Jiangsu Kyungshin Electronic Co., Ltd.": 132,
         "Qingdao Kyungshin Cable Co., Ltd.": 10,
-        "Sanhe INFAC Automotive Components Co., Ltd.": 11
+        "Sanhe INFAC Automotive Components Co., Ltd.": 11,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 2
     }
 }

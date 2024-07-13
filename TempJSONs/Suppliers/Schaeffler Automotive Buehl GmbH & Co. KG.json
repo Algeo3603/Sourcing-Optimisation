@@ -1,0 +1,36 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 23
+    },
+    "specific_parts_sold": {
+        "Clutch": 10,
+        "Diaphragm clutch": 5,
+        "Wet multi disc double clutch": 1,
+        "Self-adjusting clutch": 1,
+        "Self adjusting clutch": 1,
+        "Clutch mechanism": 5
+    },
+    "buyers": {
+        "Fiat": 2,
+        "Maruti Suzuki": 2,
+        "Renault": 4,
+        "GM": 1,
+        "Porsche": 2,
+        "Citroen": 3,
+        "Peugeot": 2,
+        "Audi": 2,
+        "BMW": 2,
+        "Daimler": 1,
+        "Lancia": 1,
+        "Skoda": 1
+    },
+    "Country": "Germany",
+    "Address": "Industriestraße 3, 77815 Bühl, Germany",
+    "TEL": "+49-7223-9410",
+    "Year established": "1965",
+    "URL": "https://www.schaeffler.de",
+    "Quality certification": "ISO9001QS9000",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Schaeffler Group"
+}

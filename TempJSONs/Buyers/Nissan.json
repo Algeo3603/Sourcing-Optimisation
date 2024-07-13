@@ -2,7 +2,8 @@
     "region": "ASEAN・India・Korea",
     "parts-bought": {
         "Wiring Harness": 465,
-        "Rear Lamp": 297
+        "Rear Lamp": 297,
+        "Clutch": 38
     },
     "specific-parts-bought": {
         "Wiring harness protector": 3,
@@ -60,7 +61,19 @@
         "Stop lamp": 1,
         "Rear Lamp": 2,
         "Tail & stop lamp": 1,
-        "Back-up lamp": 1
+        "Back-up lamp": 1,
+        "CVT clutch assembly (via JATCO Mexico S.A. de C.V.)": 1,
+        "Clutch cover assembly": 14,
+        "Clutch cover": 10,
+        "CVT clutch assembly (via JATCO (Thailand))": 1,
+        "Automatic transmission clutch assembly (via JATCO (Thailand))": 1,
+        "Clutch pack": 1,
+        "Clutch": 3,
+        "Clutch cover(VQ37VHR)(6MT)": 1,
+        "Dry type multi-plate clutch": 2,
+        "Clutch set": 2,
+        "Mechanical clutch unit for steer by wire backup": 1,
+        "Overrunning clutch": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 3,
@@ -113,7 +126,7 @@
         "Hella, Inc. USA": 3,
         "Ichikoh Industries (Thailand) Co., Ltd.": 6,
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 4,
-        "Valeo Group": 7,
+        "Valeo Group": 8,
         "Magna Lighting (Formerly OLSA S.p.A.)": 1,
         "Hyundai Mobis Co., Ltd.": 1,
         "Thai Koito Co., Ltd.": 8,
@@ -121,6 +134,18 @@
         "Valeo Engineering Center(India), Lighting Systems, Wiper Systems, Pvt. Ltd": 1,
         "India Japan Lighting Pvt. Ltd.": 1,
         "North American Lighting, Inc. - Salem Plant": 2,
-        "Koito Europe Ltd.": 1
+        "Koito Europe Ltd.": 1,
+        "FCC Automotive Parts De Mexico, S.A. de C.V.": 1,
+        "EXEDY (Thailand) Co., Ltd.": 13,
+        "EXEDY DYNAX Mexico S.A de C.V.": 1,
+        "EXEDY Corporation": 11,
+        "FCC (Thailand) Co., Ltd.": 2,
+        "UNIPRES Corporation": 1,
+        "Schaeffler AG": 2,
+        "P.T. EXEDY Manufacturing Indonesia": 1,
+        "Schaeffler Transmission Systems, LLC – Wooster (Formerly LuK USA LLC)": 2,
+        "NTN Corporation": 1,
+        "ZF Friedrichshafen AG": 1,
+        "Univance Corporation": 1
     }
 }

@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Wiring Harness": 37,
-        "Rear Lamp": 39
+        "Rear Lamp": 39,
+        "Clutch": 20
     },
     "specific-parts-bought": {
         "Door wiring harness": 7,
@@ -28,7 +29,14 @@
         "LED rear lights": 2,
         "Rear lamp with LED tail light function providing typical Opel shape": 1,
         "LED stop lamp": 1,
-        "Stop lighting": 2
+        "Stop lighting": 2,
+        "Clutch actuation system": 2,
+        "Clutch": 7,
+        "Clutch line": 1,
+        "Clutch pulley": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 6,
+        "Clutch housing": 1,
+        "Clutch mechanism": 2
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 11,
@@ -39,12 +47,18 @@
         "Lear Corporation": 1,
         "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 2,
         "Leoni AG": 12,
-        "Valeo Group": 7,
+        "Valeo Group": 9,
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 9,
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 5,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 14,
         "Varroc Lighting System (India) Pvt. Ltd.": 2,
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
-        "odelo GmbH": 1
+        "odelo GmbH": 1,
+        "FTE automotive GmbH": 3,
+        "Schaeffler AG": 1,
+        "Zen S.A.": 1,
+        "ZF do Brasil Ltda. - Piraporinha": 1,
+        "ZF Friedrichshafen AG": 11,
+        "Albert Handtmann Metallgusswerk GmbH & Co. KG": 1
     }
 }

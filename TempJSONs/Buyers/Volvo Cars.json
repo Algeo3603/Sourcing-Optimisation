@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 22,
-        "Rear Lamp": 19
+        "Rear Lamp": 19,
+        "Clutch": 2
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 3,
@@ -17,7 +18,9 @@
         "Roof wiring harness": 2,
         "Shock absorber wiring harness": 2,
         "Rear lamp": 15,
-        "LED rear lamp": 4
+        "LED rear lamp": 4,
+        "Clutch line": 1,
+        "Clutch actuation system": 1
     },
     "suppliers": {
         "Lear Corporation": 6,
@@ -31,6 +34,7 @@
         "Valeo Group": 3,
         "Hella India Lighting Ltd.": 1,
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 3,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 6
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 6,
+        "FTE automotive GmbH": 2
     }
 }
