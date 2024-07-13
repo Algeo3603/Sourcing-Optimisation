@@ -1,0 +1,26 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 33
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 24,
+        "LED rear combination lamp": 5,
+        "Rear combination lamp": 4
+    },
+    "buyers": {
+        "Honda": 11,
+        "Isuzu": 4,
+        "Toyota": 6,
+        "Maruti Suzuki": 10,
+        "Nissan": 1,
+        "Tata": 1
+    },
+    "Country": "India",
+    "Address": "No.1, Puduchatram, (VIA) Thirumazhisai, Tiruvallur High Road, Chennai, Tamil Nadu 600-124, India",
+    "TEL": "+91-44-3910-6246",
+    "Year established": "Apr. 1997",
+    "URL": "https://www.koito.co.jp/english/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Group: KOITO Group-Shareholders: Koito Manufacturing Co., Ltd. 100%"
+}

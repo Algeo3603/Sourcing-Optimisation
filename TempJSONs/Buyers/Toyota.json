@@ -1,7 +1,8 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Wiring Harness": 884
+        "Wiring Harness": 884,
+        "Rear Lamp": 597
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 20,
@@ -64,7 +65,22 @@
         "HVAC block harness": 1,
         "Fuel tank harness": 1,
         "Harness of rear opening": 1,
-        "Roof harness": 1
+        "Roof harness": 1,
+        "Rear lamp": 290,
+        "Rear combination lamp": 220,
+        "Rear lamp housing": 27,
+        "LED rear lamp": 23,
+        "LED rear combination lamp": 22,
+        "Rear lamp housing(2.5L)": 1,
+        "Rear Lamp": 2,
+        "Thermally conductive plastic materials Hyperite HP for rear lamp socket": 2,
+        "LED light source unit MonoLED for stop lamp": 2,
+        "Engineering resin Hyperite for rear lamp socket": 2,
+        "Brake lamp": 1,
+        "Rear left combination lamp assembly": 1,
+        "Rear left lamp assembly": 1,
+        "Rear right combination lamp assembly": 1,
+        "Back-up lamp": 2
     },
     "suppliers": {
         "Yazaki Corporation": 370,
@@ -104,6 +120,37 @@
         "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)": 4,
         "Yazaki Autoparts do Brasil Ltda.": 1,
         "G.S.W. de Mexico, S. de R.L. de C.V.": 2,
-        "Denso Corporation": 1
+        "Denso Corporation": 1,
+        "Stanley Electric Co., Ltd.": 47,
+        "North American Lighting, Inc.": 33,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 6,
+        "Koito Manufacturing Co., Ltd.": 259,
+        "UNO Minda Ltd. (Formerly Minda Industries Ltd.)": 3,
+        "Ichikoh Industries, Ltd.": 129,
+        "Stanley Electric U.S. Co., Inc.": 4,
+        "India Japan Lighting Pvt. Ltd.": 6,
+        "Tokaidenso Corporation": 9,
+        "Valeo North America": 2,
+        "North American Lighting Mexico, S.A. de C.V.": 4,
+        "Stanley Electric Manufacturing Mexico S.A. de C.V.": 5,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 3,
+        "Lumax Industries Ltd.": 10,
+        "Thai Stanley Electric PCL": 17,
+        "UNO Minda Ltd. - Lighting Division (Formerly Minda Industries Ltd.)": 1,
+        "PT. Indonesia Koito": 2,
+        "Thai Koito Co., Ltd.": 27,
+        "North American Lighting, Inc. -Alabama Plant": 1,
+        "Valeo Sylvania LLC": 2,
+        "Koito Czech s.r.o.": 2,
+        "Valeo Group": 4,
+        "Arteb": 1,
+        "Kaneka Corporation": 4,
+        "PT. Ichikoh Indonesia": 6,
+        "North American Lighting, Inc. - Salem Plant": 2,
+        "Koito Europe Ltd.": 4,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
+        "Farba Aydinlatma Sistemleri A.Ş.": 1,
+        "P.T. Indonesia Stanley Electric - Factory1": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1
     }
 }

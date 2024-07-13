@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 63
+        "Wiring Harness": 63,
+        "Rear Lamp": 4
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 3,
@@ -24,7 +25,8 @@
         "Motor wiring harness": 3,
         "Starter wiring harness": 3,
         "Wire harness": 3,
-        "Wiring system": 6
+        "Wiring system": 6,
+        "Rear lamp": 4
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 3,
@@ -32,6 +34,8 @@
         "Leoni Electrical Systems (Shanghai) Co., Ltd.": 15,
         "Guangdong KSD Automotive Components Co., Ltd.": 6,
         "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 3,
-        "Leoni AG": 3
+        "Leoni AG": 3,
+        "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.": 1,
+        "Beifang Hella Automotive Lighting Ltd.": 3
     }
 }

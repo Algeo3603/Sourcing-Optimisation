@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 24
+        "Wiring Harness": 24,
+        "Rear Lamp": 29
     },
     "specific-parts-bought": {
         "Wiring harness": 12,
@@ -12,7 +13,13 @@
         "Rear view camera wiring harness": 2,
         "Engine wiring harness": 2,
         "Body wiring harness": 2,
-        "Wire harness": 2
+        "Wire harness": 2,
+        "Rear lamp": 13,
+        "Rear combination lamp": 2,
+        "Rear lamp housing": 10,
+        "Rear lamp bulb": 1,
+        "LED rear lights": 1,
+        "LED rear lamp": 2
     },
     "suppliers": {
         "Coficab -Tunisie": 1,
@@ -26,6 +33,16 @@
         "Molex Conectores Eletricos e Eletronicos Comercio e Servicos Ltda.": 1,
         "Tyco Electronics Brasil Ltda.": 1,
         "Yazaki do Brasil Ltda.": 2,
-        "Yazaki Corporation": 4
+        "Yazaki Corporation": 4,
+        "Marelli Motherson Automotive Lighting India Pvt. Ltd. (Formerly Magneti Marelli Motherson Auto System Ltd.)": 4,
+        "Ventra Evart, LLC": 4,
+        "Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC)": 11,
+        "Hyundai IHL Corporation": 1,
+        "Arteb": 1,
+        "Olsa Brasil Industria e Comercio Ltda.": 1,
+        "Magneti Marelli Powertrain India Pvt. Ltd.": 1,
+        "Hyundai Mobis Co., Ltd.": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1
     }
 }

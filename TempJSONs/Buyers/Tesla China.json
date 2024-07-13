@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 15
+        "Wiring Harness": 15,
+        "Rear Lamp": 5
     },
     "specific-parts-bought": {
         "Busbar": 4,
@@ -10,7 +11,8 @@
         "Bus bar": 3,
         "Wire harness": 1,
         "High-voltage cable": 1,
-        "Interior mirror wiring harness": 1
+        "Interior mirror wiring harness": 1,
+        "Rear lamp": 5
     },
     "suppliers": {
         "Kunshan Dragonstate Electronic Technology Co., Ltd.": 4,
@@ -18,6 +20,9 @@
         "Jiangsu Riying Electronics Co., Ltd.": 2,
         "Shenzhen Everwin Precision Technology Co., Ltd.": 3,
         "Shenzhen Deren Electronic Co., Ltd.": 1,
-        "Xiamen Hongfa Electroacoustic Co., Ltd.": 1
+        "Xiamen Hongfa Electroacoustic Co., Ltd.": 1,
+        "Marelli Automotive Components (WUHU) Co. Ltd.(Formerly Magneti Marelli Automotive Components (WUHU) Co. Ltd.)": 2,
+        "HELLA Jiaxing Lighting Co., Ltd.": 2,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1
     }
 }

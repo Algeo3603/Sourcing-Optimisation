@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 26
+    },
+    "specific_parts_sold": {
+        "Rear lamp housing": 21,
+        "Rear lamp": 1,
+        "Stop lamp": 4
+    },
+    "buyers": {
+        "Honda": 20,
+        "Toyota": 4,
+        "Subaru": 2
+    },
+    "Country": "USA",
+    "Address": "420 E.High St., London, OH 43140 USA",
+    "TEL": "+1-740-852-5200",
+    "Year established": "Oct. 1979",
+    "Beginning of operation": "May 1980",
+    "URL": "https://www.stanleyelectricus.com",
+    "Remarks": "-Shareholder: Stanley Electric Holiding of America, Inc. (a subsidiary of Stanley Electric) 100%"
+}

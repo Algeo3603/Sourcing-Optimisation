@@ -1,14 +1,19 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 2
+        "Wiring Harness": 2,
+        "Rear Lamp": 10
     },
     "specific-parts-bought": {
         "Engine wiring harness": 1,
-        "Electrical distribution system": 1
+        "Electrical distribution system": 1,
+        "Rear lamp": 9,
+        "Stop lamp": 1
     },
     "suppliers": {
         "Nexans autoelectric GmbH": 1,
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
+        "Wipac Technology Limited": 8,
+        "odelo GmbH": 2
     }
 }

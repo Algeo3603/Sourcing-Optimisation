@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 7
+        "Wiring Harness": 7,
+        "Rear Lamp": 1
     },
     "specific-parts-bought": {
-        "Speed sensor wiring harness": 7
+        "Speed sensor wiring harness": 7,
+        "Rear combination lamp": 1
     },
     "suppliers": {
-        "United Automotive Electronic Systems Co., Ltd. Liuzhou Branch": 7
+        "United Automotive Electronic Systems Co., Ltd. Liuzhou Branch": 7,
+        "Nanning Liaowang Auto Lamp Co., Ltd.": 1
     }
 }

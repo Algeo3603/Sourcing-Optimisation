@@ -1,13 +1,16 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Rear Lamp": 2
     },
     "specific_parts_sold": {
-        "Fuel pump wiring harness": 1
+        "Fuel pump wiring harness": 1,
+        "Rear lamp": 2
     },
     "buyers": {
-        "GM": 1
+        "GM": 1,
+        "Mercedes-Benz": 2
     },
     "Year Established": "946",
     "Number of Employees": "3,983 employees (As of Dec. 31, 2023)",

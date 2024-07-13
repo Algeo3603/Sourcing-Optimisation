@@ -1,0 +1,15 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Rear Lamp": 9
+    },
+    "specific-parts-bought": {
+        "Rear lamp": 9
+    },
+    "suppliers": {
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 3,
+        "Wuhu Anrui Optoelectronics Co., Ltd.": 1,
+        "Wipac Technology Limited": 4,
+        "Magna International Inc.": 1
+    }
+}

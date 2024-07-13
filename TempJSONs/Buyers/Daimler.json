@@ -1,7 +1,8 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 82
+        "Wiring Harness": 82,
+        "Rear Lamp": 63
     },
     "specific-parts-bought": {
         "Door module wiring harness (via Brose (Thailand))": 9,
@@ -30,7 +31,14 @@
         "ESP wiring harness": 1,
         "Electrical distribution system": 4,
         "Aluminum battery cable": 1,
-        "Wiring system": 1
+        "Wiring system": 1,
+        "LED rear lamp": 29,
+        "Rear lamp": 26,
+        "OLED rear lamp": 2,
+        "Brake lamp": 2,
+        "Rear combination lamp": 2,
+        "Additional LED brake light": 1,
+        "LED brake light": 1
     },
     "suppliers": {
         "DTS Dräxlmaier Automotive Systems (Thailand) Co., Ltd. - Samutprakarn Plant": 36,
@@ -45,6 +53,19 @@
         "Nexans autoelectric GmbH": 2,
         "LEONI Cable S.A. de C.V.": 2,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 7,
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 4
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 4,
+        "Valeo Group": 4,
+        "odelo GmbH": 13,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 12,
+        "Wipac Technology Limited": 3,
+        "Farba Aydinlatma Sistemleri A.Ş.": 3,
+        "ZKW Group GmbH": 2,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 4,
+        "Varroc Lighting System (India) Pvt. Ltd.": 3,
+        "Marelli Automotive Lighting Italy S.p.A. - Tolmezzo (Formerly Automotive Lighting Italia S.p.A. - Tolmezzo)": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 13,
+        "Visteon Corporation": 2,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2,
+        "Leopold Kostal GmbH & Co. KG": 1
     }
 }

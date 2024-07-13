@@ -1,0 +1,15 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Rear Lamp": 5
+    },
+    "specific-parts-bought": {
+        "Rear lamp": 4,
+        "Rear combination lamp": 1
+    },
+    "suppliers": {
+        "Jiangsu Yedi Auto Lamp Co., Ltd.": 3,
+        "Shanghai Sunlight Enterprise Co., Ltd.": 1,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1
+    }
+}

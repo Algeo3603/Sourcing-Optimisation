@@ -1,7 +1,8 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 39
+        "Wiring Harness": 39,
+        "Rear Lamp": 41
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 7,
@@ -11,12 +12,18 @@
         "Side airbag wiring harness": 2,
         "Wire harness assembly": 5,
         "Wire harness": 1,
-        "Wiring protection system": 1
+        "Wiring protection system": 1,
+        "Rear lamp": 22,
+        "Stop lamp": 3,
+        "Rear lamp housing": 3,
+        "Rear lamp(1.6L)": 1,
+        "Rear combination lamp": 11,
+        "Rear lamp assembly": 1
     },
     "suppliers": {
         "Kyungshin Corporation": 3,
         "YURA Corporation": 4,
-        "Hyundai Mobis Co., Ltd.": 13,
+        "Hyundai Mobis Co., Ltd.": 22,
         "MOBIS Alabama, LLC.": 1,
         "Kyungshin Industrial Motherson Private Ltd.": 4,
         "Adient plc (Formerly Automotive seating business division of Johnson Controls Inc.)": 2,
@@ -24,6 +31,14 @@
         "SJG Asentec Co., Ltd. (Formerly Asentec Co., Ltd.)": 5,
         "Dae Young Industry Electric Co., Ltd.": 1,
         "Samvardhana Motherson Group": 1,
-        "Delfingen Industry S.A.": 1
+        "Delfingen Industry S.A.": 1,
+        "SL AP Pvt. Ltd.": 6,
+        "SL Corporation": 6,
+        "Mobis Manufacturing De Mexico, S. De R.L. De C.V.": 2,
+        "SL Lumax Industries Limited": 1,
+        "Hyundai IHL Corporation": 9,
+        "DH Lighting Co., Ltd. - 2nd plant (Formerly DH Innorex Co., Ltd.)": 4,
+        "Seoyon Autovision Co.,Ltd.": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3
     }
 }

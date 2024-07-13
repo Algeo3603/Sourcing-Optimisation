@@ -1,0 +1,27 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Rear Lamp": 36
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 19,
+        "Rear combination lamp": 13,
+        "Reflector": 1,
+        "Rear brake lamp": 1,
+        "Stop lamp": 1,
+        "LED rear lamp": 1
+    },
+    "buyers": {
+        "Mitsubishi": 24,
+        "Nissan": 10,
+        "Honda": 2
+    },
+    "Year Established": "Feb. 1, 1939",
+    "Number of Employees": ",427 employees (As of Mar. 31, 2023)",
+    "Sales Turnover": "JPY 99,730 million (FY ended Mar. 31, 2024)",
+    "Representative": "Kenichi Hasegawa (President)",
+    "Capital": "Non Consolidated JPY 7,289 million (As of Mar. 31, 2023)",
+    "URL": "https://www.imasen.co.jp/en/",
+    "Address": "1 Kakihata, Inuyama-shi, Aichi-ken, 484-8507, Japan",
+    "Country": "Japan"
+}

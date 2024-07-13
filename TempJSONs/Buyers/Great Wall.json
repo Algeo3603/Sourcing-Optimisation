@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 17
+        "Wiring Harness": 17,
+        "Rear Lamp": 14
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 2,
@@ -10,14 +11,24 @@
         "Lithium-ion battery wiring harness": 1,
         "Traction motor wiring harness": 1,
         "Lamp wiring harness": 4,
-        "Wire harness": 2
+        "Wire harness": 2,
+        "Tail lamp assembly": 1,
+        "Rear combination lamp": 3,
+        "Rear lamp": 6,
+        "Rear lamp(2.0T)(7DCT)": 2,
+        "Rear lamp(1.5T)(7DCT)": 1,
+        "Rear Lamp": 1
     },
     "suppliers": {
         "MIND Electronics Appliance Co., Ltd.": 2,
         "TE Connectivity (Qingdao) Co., Ltd.": 6,
         "MIND Electronics Appliance Co., Ltd. Baoding Xushui Electrical System Branch Co.": 1,
         "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 2,
-        "Great Wall - Xushui Branch": 4,
-        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 2
+        "Great Wall - Xushui Branch": 8,
+        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 2,
+        "MIND Electronics Appliance Co., Ltd. Baoding Photoelectric Branch Co.": 7,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
+        "Beijing Hella BHAP Automotive Lighting Co., Ltd.": 1,
+        "Laster Tech Automotive (Shanghai) Co., Ltd.": 1
     }
 }

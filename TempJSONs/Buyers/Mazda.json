@@ -1,7 +1,8 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Wiring Harness": 181
+        "Wiring Harness": 181,
+        "Rear Lamp": 157
     },
     "specific-parts-bought": {
         "Engine wiring harness": 7,
@@ -25,7 +26,14 @@
         "Harness for electric parking brake": 1,
         "Wire harness": 3,
         "Wiring harness": 30,
-        "Side airbag wiring harness": 1
+        "Side airbag wiring harness": 1,
+        "Rear lamp": 92,
+        "Rear combination lamp": 51,
+        "Rear lamp housing": 1,
+        "LED rear combination lamp": 3,
+        "Tail & stop lamp": 1,
+        "Stop lamp": 1,
+        "LED rear lamp": 8
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 72,
@@ -42,6 +50,16 @@
         "Fujikura Automotive (Thailand) Ltd.  (formerly, Yondeden (Thailand) Ltd.)": 3,
         "Fujikura Ltd.": 8,
         "Lear Corporation": 1,
-        "Furukawa Automotive Systems Inc.": 2
+        "Furukawa Automotive Systems Inc.": 2,
+        "Koito Manufacturing Co., Ltd.": 58,
+        "Stanley Electric Co., Ltd.": 49,
+        "North American Lighting Mexico, S.A. de C.V.": 4,
+        "PT. Indonesia Koito": 2,
+        "Thai Stanley Electric PCL": 14,
+        "Hyundai Mobis Co., Ltd.": 7,
+        "Ichikoh Industries, Ltd.": 8,
+        "Tokaidenso Corporation": 10,
+        "Thai Koito Co., Ltd.": 3,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 2
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 201
+        "Wiring Harness": 201,
+        "Rear Lamp": 31
     },
     "specific-parts-bought": {
         "Body wiring harness": 7,
@@ -61,7 +62,11 @@
         "Door wiring harness(1.5L)(5MT)": 2,
         "Engine room wiring harness(1.5L)(5MT)": 1,
         "Wiring harness": 26,
-        "Main wiring harness": 2
+        "Main wiring harness": 2,
+        "Rear combination lamp": 19,
+        "Signal lamp": 4,
+        "Stop lamp": 1,
+        "Rear lamp": 7
     },
     "suppliers": {
         "Guangzhou Zhongke Electric Co., Ltd.": 22,
@@ -74,6 +79,18 @@
         "Aptiv Electric Systems Co., Ltd. Wuhan Branch": 4,
         "Huizhou Zhucheng Wiring Systems Co., Ltd.": 15,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 5,
-        "Kaifeng Zhucheng Wiring Systems Co., Ltd.": 5
+        "Kaifeng Zhucheng Wiring Systems Co., Ltd.": 5,
+        "Tianjin Stanley Electric Co., Ltd.": 4,
+        "Guangzhou Koito Automotive Lamp Co., Ltd.": 10,
+        "Fuzhou Koito Tayih Automotive Lamp Co., Ltd.": 2,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 2,
+        "Marelli Automotive Components (WUHU) Co. Ltd.(Formerly Magneti Marelli Automotive Components (WUHU) Co. Ltd.)": 1,
+        "Foshan Ichikoh Valeo Auto Lighting Systems Co., Ltd.": 2,
+        "Valeo Ichikoh (China) Auto Lighting Co., Ltd.": 1,
+        "Guangzhou Stanley Electric Co., Ltd.": 3,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 2,
+        "Valeo Ichikoh (China) Auto Lighting Co., Ltd. - Foshan Branch": 1,
+        "Valeo Group": 1,
+        "Ichikoh Industries, Ltd.": 2
     }
 }

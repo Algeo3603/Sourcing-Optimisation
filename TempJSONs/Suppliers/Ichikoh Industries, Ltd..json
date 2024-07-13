@@ -1,0 +1,42 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Rear Lamp": 435
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 176,
+        "Rear combination lamp": 167,
+        "LED rear lamp": 26,
+        "Rear lamp housing": 2,
+        "LED rear combination lamp": 50,
+        "LED stop lamp": 1,
+        "Rear Lamp": 7,
+        "LED light source unit MonoLED for stop lamp": 4,
+        "Tail & stop lamp": 1,
+        "Brake lamp": 1
+    },
+    "buyers": {
+        "Honda": 40,
+        "Mitsubishi": 24,
+        "Nissan": 116,
+        "Subaru": 39,
+        "Suzuki": 47,
+        "Toyota": 129,
+        "Daihatsu": 25,
+        "Isuzu": 1,
+        "Mazda": 8,
+        "Jaguar Land Rover": 1,
+        "Audi": 1,
+        "Dongfeng Nissan": 2,
+        "FAW Toyota": 1,
+        "Zhengzhou Nissan": 1
+    },
+    "Year Established": "Dec. 20, 1939",
+    "Number of Employees": ",163 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "JPY 145,897 million (FY ended Dec. 31, 2023)",
+    "Representative": "Christophe Vilatte (President and CEO)",
+    "Capital": "JPY 8,996 million (As of Dec. 31, 2023)",
+    "URL": "https://www.ichikoh.com/en/",
+    "Address": "80 Itado, Isehara-shi, Kanagawa-ken, 259-1192, Japan",
+    "Country": "Japan"
+}

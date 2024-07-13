@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 3
+    },
+    "specific_parts_sold": {
+        "Stop lamp": 2,
+        "Brake lamp": 1
+    },
+    "buyers": {
+        "BMW": 2,
+        "Volkswagen": 1
+    },
+    "Country": "Germany",
+    "Address": "Vor dem Melmen 8-10, 99817 Eisenach, Germany",
+    "TEL": "+49-3-69-20-87-0",
+    "URL": "https://www.rebo-group.de/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Group: Rebo Group"
+}

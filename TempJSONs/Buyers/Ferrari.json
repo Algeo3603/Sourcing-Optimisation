@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 12
+        "Wiring Harness": 12,
+        "Rear Lamp": 16
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 1,
@@ -10,10 +11,18 @@
         "Main wiring harness": 1,
         "Electrical distribution system": 2,
         "Wiring harness": 5,
-        "High voltage wiring harness": 1
+        "High voltage wiring harness": 1,
+        "Rear lamp": 6,
+        "Full-LED tail lamp": 1,
+        "Brake lamp": 1,
+        "LED rear lamp": 8
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 10,
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 2,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 2,
+        "Valeo Group": 2,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 10
     }
 }

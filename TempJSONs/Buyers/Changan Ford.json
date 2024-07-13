@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 26
+        "Wiring Harness": 26,
+        "Rear Lamp": 4
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 1,
@@ -24,7 +25,11 @@
         "Rear bumper parking assist wiring harness": 1,
         "Back door wiring harness": 1,
         "Wire": 1,
-        "Wire harness": 2
+        "Wire harness": 2,
+        "Rear lamp": 1,
+        "LED taillamp with crystal design": 1,
+        "Rear combination lamp": 1,
+        "Rear Lamp": 1
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
@@ -32,6 +37,10 @@
         "Wuhan Youde Auto Electric Appliance Co., Ltd.": 3,
         "Chongqing Qinchuan Industry (Group) Co., Ltd.": 17,
         "Beijing Force Automotive Wire Co., Ltd.": 1,
-        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 2
+        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 2,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
+        "Shanghai Sunlight Enterprise Co., Ltd.": 1,
+        "Laster Tech Automotive (Shanghai) Co., Ltd.": 1
     }
 }

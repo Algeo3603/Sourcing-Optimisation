@@ -1,0 +1,26 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 30
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 17,
+        "LED rear lamp": 11,
+        "Rear lamp housing": 2
+    },
+    "buyers": {
+        "Audi": 8,
+        "Jaguar Land Rover": 10,
+        "Rivian": 2,
+        "Volkswagen": 4,
+        "Skoda": 2,
+        "Dodge": 2,
+        "Ford": 2
+    },
+    "Country": "USA",
+    "Address": "47828 Halyard Drive, Plymouth, MI 48170, USA",
+    "TEL": "+1-734-446-4400",
+    "URL": "https://www.opmobility.com/en/",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): OPmobility SE"
+}

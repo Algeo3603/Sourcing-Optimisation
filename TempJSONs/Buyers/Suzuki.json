@@ -1,7 +1,8 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Wiring Harness": 274
+        "Wiring Harness": 274,
+        "Rear Lamp": 156
     },
     "specific-parts-bought": {
         "Engine wiring harness": 20,
@@ -25,7 +26,13 @@
         "Wire harness": 1,
         "Wiring harness": 35,
         "Main wiring harness": 1,
-        "Wiring harness (through Sumitomo Electric Industries)": 3
+        "Wiring harness (through Sumitomo Electric Industries)": 3,
+        "Rear combination lamp": 47,
+        "Rear lamp": 94,
+        "LED rear combination lamp": 12,
+        "Rear Lamp": 1,
+        "Reflector": 1,
+        "LED rear lamp": 1
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 73,
@@ -39,6 +46,15 @@
         "Furukawa Automotive Systems (Thailand) Co., Ltd. (FAST)": 1,
         "PT. Sumi Indo Wiring Systems": 1,
         "Furukawa Automotive Systems Inc.": 5,
-        "SWS Nishinihon, Ltd.": 9
+        "SWS Nishinihon, Ltd.": 9,
+        "Ichikoh Industries, Ltd.": 47,
+        "Koito Manufacturing Co., Ltd.": 73,
+        "Tokaidenso Corporation": 24,
+        "Thai Stanley Electric PCL": 2,
+        "Fujisangyo Co., Ltd.": 1,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2,
+        "Stanley Electric Co., Ltd.": 3,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 2,
+        "Automotive Lighting Japan K.K": 2
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 53
+        "Wiring Harness": 53,
+        "Rear Lamp": 121
     },
     "specific-parts-bought": {
         "Front wiring harness": 3,
@@ -25,7 +26,16 @@
         "Right front door harness": 1,
         "Rear door harness (right & left)": 1,
         "Engine wiring harness": 1,
-        "Roof harness": 1
+        "Roof harness": 1,
+        "OLED rear lamp": 9,
+        "Rear combination lamp": 5,
+        "Rear lamp": 36,
+        "LED rear lamp": 65,
+        "LED rear combination lamp": 2,
+        "OLED rear combination lamp": 1,
+        "Laser-welded rear LED lamp": 1,
+        "Brake lamp": 1,
+        "Rear lamp (LED/Halogen)": 1
     },
     "suppliers": {
         "Leoni AG": 12,
@@ -41,6 +51,17 @@
         "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 1,
         "MAHLE Behr GmbH & Co. KG": 1,
         "Howmet Aerospace Inc.": 1,
-        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 3
+        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 3,
+        "OLEDWorks GmbH": 7,
+        "Valeo Group": 18,
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)": 8,
+        "odelo GmbH": 21,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 7,
+        "Magna Lighting (Formerly OLSA S.p.A.)": 10,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 19,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 27,
+        "Ichikoh Industries, Ltd.": 1,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2
     }
 }

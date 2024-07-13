@@ -1,0 +1,39 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 78
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 38,
+        "LED rear lamp": 32,
+        "Rear combination lamp": 6,
+        "Stop lighting": 2
+    },
+    "buyers": {
+        "Alfa Romeo": 6,
+        "BMW": 12,
+        "DS Automobiles": 3,
+        "Renault": 1,
+        "Abarth": 3,
+        "Audi": 7,
+        "Citroen": 2,
+        "Fiat": 6,
+        "Jaguar Land Rover": 2,
+        "Peugeot": 4,
+        "Porsche": 9,
+        "SEAT": 1,
+        "Volkswagen": 5,
+        "Ferrari": 2,
+        "Daimler": 4,
+        "Maserati": 1,
+        "Opel": 5,
+        "Honda": 1,
+        "Mazda": 2,
+        "Mitsubishi": 2
+    },
+    "Country": "Germany",
+    "Address": "Tübinger Strasse 123, 72762 Reutlingen, Germany",
+    "TEL": "+49-7121-5600",
+    "URL": "https://www.al.world/",
+    "Remarks": "-Shareholders: Marelli Group"
+}

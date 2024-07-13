@@ -1,7 +1,8 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 14
+        "Wiring Harness": 14,
+        "Rear Lamp": 129
     },
     "specific_parts_sold": {
         "Wiring harness": 7,
@@ -10,14 +11,44 @@
         "Instrument panel wiring harness": 1,
         "Main harness": 1,
         "Driver seat harness": 1,
-        "Passenger seat harness": 1
+        "Passenger seat harness": 1,
+        "Rear combination lamp": 3,
+        "Rear lamp": 66,
+        "LED rear lamp": 36,
+        "Brake lamp": 14,
+        "Rear lamp housing": 2,
+        "Rear lamp(1.8T)(6AMT)": 1,
+        "Laser-welded rear LED lamp": 2,
+        "Stop lighting": 4,
+        "Rearlamp with MicroOptics": 1
     },
     "buyers": {
         "Dacia": 1,
         "Lancia": 1,
-        "Peugeot": 6,
-        "Renault": 4,
-        "Citroen": 2
+        "Peugeot": 11,
+        "Renault": 12,
+        "Citroen": 8,
+        "Audi": 18,
+        "Opel": 7,
+        "Mercedes-Benz": 2,
+        "Nissan": 7,
+        "Volkswagen": 8,
+        "Daimler": 4,
+        "GM": 5,
+        "Jaguar Land Rover": 7,
+        "Porsche": 17,
+        "SEAT": 3,
+        "Skoda": 1,
+        "BMW": 11,
+        "Ford": 5,
+        "Toyota": 4,
+        "Ferrari": 2,
+        "Volvo Cars": 3,
+        "Geely": 1,
+        "Bugatti": 2,
+        "Changan PSA": 1,
+        "Dongfeng Nissan": 1,
+        "Seat": 1
     },
     "Year Established": "923",
     "Number of Employees": "12,740 employees (As of Dec. 31, 2023)",

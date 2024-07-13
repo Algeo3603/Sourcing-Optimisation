@@ -1,7 +1,8 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Wiring Harness": 624
+        "Wiring Harness": 624,
+        "Rear Lamp": 343
     },
     "specific-parts-bought": {
         "Battery wiring harness": 6,
@@ -45,7 +46,21 @@
         "Wiring protection system": 1,
         "Harnesses / Lead wire": 1,
         "Rear door harness (right & left)": 1,
-        "Wiring": 1
+        "Wiring": 1,
+        "Rear lamp housing": 23,
+        "Rear combination lamp": 115,
+        "Rear lamp": 143,
+        "Adapter rear combination lamp": 5,
+        "Rear lamp bracket": 2,
+        "Rear lamp side bracket": 2,
+        "LED rear combination lamp": 14,
+        "Stop lamp": 11,
+        "LED rear lamp": 16,
+        "Reflector": 1,
+        "Brake lamp": 4,
+        "Back-up lamp": 4,
+        "Rear brake lamp": 2,
+        "Stop lighting": 1
     },
     "suppliers": {
         "Sumitomo Electric Wiring Systems, Inc.": 11,
@@ -79,6 +94,24 @@
         "Tyco Electronics Japan G.K.": 1,
         "Delfingen Industry S.A.": 1,
         "Yazaki do Brasil Ltda.": 3,
-        "G.S.W. de Mexico, S. de R.L. de C.V.": 1
+        "G.S.W. de Mexico, S. de R.L. de C.V.": 1,
+        "Stanley Electric U.S. Co., Inc.": 20,
+        "Thai Stanley Electric PCL": 34,
+        "India Japan Lighting Pvt. Ltd.": 11,
+        "PT. Indonesia Thai Summit Auto": 9,
+        "Stanley Electric Co., Ltd.": 100,
+        "North American Lighting Mexico, S.A. de C.V.": 1,
+        "Ichikoh Industries, Ltd.": 40,
+        "Koito Manufacturing Co., Ltd.": 79,
+        "Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC)": 3,
+        "North American Lighting, Inc.": 20,
+        "Thai Koito Co., Ltd.": 6,
+        "Stanley Electric (U.K.) Co., Ltd.": 1,
+        "Lumax Industries Ltd.": 9,
+        "Stanley Electric Manufacturing Mexico S.A. de C.V.": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 1,
+        "Imasen Electric Industrial Co., Ltd.": 2,
+        "PT. Ichikoh Indonesia": 2
     }
 }

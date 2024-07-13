@@ -1,0 +1,15 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Rear Lamp": 3
+    },
+    "specific-parts-bought": {
+        "Brake lamp": 1,
+        "Rear lamp": 1,
+        "LED rear lamp": 1
+    },
+    "suppliers": {
+        "Valeo Group": 2,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1
+    }
+}

@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 22
+        "Wiring Harness": 22,
+        "Rear Lamp": 25
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 6,
@@ -18,7 +19,9 @@
         "Cockpit wiring harnesses": 1,
         "Wiring harness": 1,
         "Front door wiring harness": 1,
-        "Back door wiring harness": 1
+        "Back door wiring harness": 1,
+        "Rear lamp": 21,
+        "Rear combination lamp": 4
     },
     "suppliers": {
         "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 3,
@@ -31,6 +34,10 @@
         "Leoni AG": 4,
         "COFICAB Deutschland GmbH": 1,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
-        "Yazaki Corporation": 1
+        "Yazaki Corporation": 1,
+        "Valeo Lighting Systems - Chrzanow": 3,
+        "odelo GmbH": 18,
+        "Valeo Group": 2,
+        "OPmobility SE (Formerly Compagnie Plastic Omnium SE)": 2
     }
 }

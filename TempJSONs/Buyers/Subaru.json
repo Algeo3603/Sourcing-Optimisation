@@ -1,7 +1,8 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Wiring Harness": 175
+        "Wiring Harness": 175,
+        "Rear Lamp": 120
     },
     "specific-parts-bought": {
         "Back-up lamp wiring harness": 1,
@@ -29,7 +30,14 @@
         "Wiring harness": 24,
         "Automatic transmission wiring harness": 8,
         "CVT wiring harness": 8,
-        "Transmission wiring harness": 2
+        "Transmission wiring harness": 2,
+        "Rear combination lamp": 42,
+        "Rear lamp": 59,
+        "Rear lamp housing": 6,
+        "LED rear combination lamp": 6,
+        "Rear Lamp": 1,
+        "LED light source unit MonoLED for stop lamp": 1,
+        "LED rear lamp": 5
     },
     "suppliers": {
         "Furukawa Electric Co., Ltd.": 26,
@@ -45,6 +53,14 @@
         "Thai Summit Harness Public Company Limited": 4,
         "Delfingen Industry S.A.": 1,
         "Diamond&Zebra Electric Mfg.Co., Ltd.": 16,
-        "Furukawa Automotive Systems Inc.": 5
+        "Furukawa Automotive Systems Inc.": 5,
+        "Ichikoh Industries, Ltd.": 39,
+        "Stanley Electric Co., Ltd.": 12,
+        "II Stanley Co., Inc.": 2,
+        "Tokaidenso Corporation": 7,
+        "Koito Manufacturing Co., Ltd.": 38,
+        "Hyundai Mobis Co., Ltd.": 17,
+        "Stanley Electric U.S. Co., Inc.": 2,
+        "North American Lighting, Inc.": 3
     }
 }

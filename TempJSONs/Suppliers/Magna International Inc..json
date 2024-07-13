@@ -1,0 +1,26 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Rear Lamp": 14
+    },
+    "specific_parts_sold": {
+        "Rear lamp housing": 7,
+        "Rear lamp": 7
+    },
+    "buyers": {
+        "GM": 3,
+        "Volkswagen": 4,
+        "Dodge": 1,
+        "Chrysler": 2,
+        "Ram Trucks": 2,
+        "BMW": 1,
+        "Aston Martin": 1
+    },
+    "Year Established": "961",
+    "Number of Employees": "79,000 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "USD 42,797 million (FY ended Dec 31, 2023)",
+    "Representative": "Seetarama Kotagiri (CEO)",
+    "URL": "https://www.magna.com/",
+    "Address": "337 Magna Drive, Aurora, Ontario, Canada L4G 7K1",
+    "Country": "Canada"
+}

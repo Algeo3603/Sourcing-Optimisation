@@ -1,13 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 5
+        "Wiring Harness": 5,
+        "Rear Lamp": 3
     },
     "specific-parts-bought": {
-        "Wiring harness": 5
+        "Wiring harness": 5,
+        "Rear lamp": 3
     },
     "suppliers": {
         "Aptiv Electric Systems Co., Ltd. Chongqing Branch": 2,
-        "Chongqing Qinchuan Industry and Trade Co., Ltd.": 3
+        "Chongqing Qinchuan Industry and Trade Co., Ltd.": 6
     }
 }

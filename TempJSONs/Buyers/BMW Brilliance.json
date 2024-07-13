@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 34
+        "Wiring Harness": 34,
+        "Rear Lamp": 3
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 3,
@@ -23,13 +24,18 @@
         "Door wiring harness": 2,
         "Transmission wiring harness": 2,
         "Meter wiring harness": 2,
-        "Reverse radar wiring harness": 1
+        "Reverse radar wiring harness": 1,
+        "Rear combination lamp": 1,
+        "Rear lamp": 2
     },
     "suppliers": {
         "Leoni Wiring Systems (Tieling) Co., Ltd.": 3,
         "Guangdong KSD Automotive Components Co., Ltd.": 2,
         "Hirschmann (Nantong) Automotive Co., Ltd.": 7,
         "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 2,
-        "Dräxlmaier (Shenyang) Automotive Components Co., Ltd.": 20
+        "Dräxlmaier (Shenyang) Automotive Components Co., Ltd.": 20,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
+        "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.": 1,
+        "Magna Lighting (Jiaxing) Co., Ltd. (Formerly Jiaxing OLSA Auto Parts Corporation)": 1
     }
 }

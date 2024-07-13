@@ -1,0 +1,37 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Rear Lamp": 61
+    },
+    "specific_parts_sold": {
+        "Rear combination lamp": 53,
+        "LED rear combination lamp": 2,
+        "Rear lamp": 5,
+        "LED rear lamp": 1
+    },
+    "buyers": {
+        "Chery": 23,
+        "SERES": 2,
+        "Volkswagen Anhui": 1,
+        "FAW-Volkswagen": 13,
+        "Li Auto": 1,
+        "NIO": 1,
+        "Citroen": 1,
+        "GAC Toyota": 2,
+        "BMW Brilliance": 1,
+        "SAIC Volkswagen": 1,
+        "Dongfeng Passenger Vehicle": 1,
+        "Dongfeng Nissan": 2,
+        "FAW Toyota": 5,
+        "FAW Car": 3,
+        "FAW Haima": 2,
+        "Shanghai Volkswagen": 2
+    },
+    "Year Established": "May 2000",
+    "Number of Employees": ",750 employees (as of Dec. 31, 2023)",
+    "Sales Turnover": "CNY 10,248.45 millions (as of Dec.31, 2023)",
+    "Representative": "Chairman: Xiaoping ZHOU",
+    "URL": "https://www.xyl.cn/",
+    "Address": "No. 182 Qinling Road Xinbei District, Changzhou, Jiangsu 213022, China",
+    "Country": "China"
+}

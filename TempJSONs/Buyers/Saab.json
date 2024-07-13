@@ -1,12 +1,17 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Rear Lamp": 2
     },
     "specific-parts-bought": {
-        "ESP wire harness": 1
+        "ESP wire harness": 1,
+        "Rear lamp": 1,
+        "LED rear lamp": 1
     },
     "suppliers": {
-        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
+        "Visteon Corporation": 1,
+        "North American Lighting, Inc.": 1
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 213
+        "Wiring Harness": 213,
+        "Rear Lamp": 161
     },
     "specific-parts-bought": {
         "Wiring harness protector": 5,
@@ -31,7 +32,15 @@
         "Wire harness (Battery)": 2,
         "System protection for instrument panel wire harness": 1,
         "System protection for engine wire harness": 1,
-        "Airbag wiring harness": 1
+        "Airbag wiring harness": 1,
+        "Rear lamp": 87,
+        "Rear combination lamp": 61,
+        "LED rear combination lamp": 6,
+        "Reflector": 1,
+        "LED light source unit MonoLED for stop lamp": 1,
+        "Tail stop lamp": 1,
+        "LED rear lamp": 3,
+        "LED rear lamp + bulb": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 5,
@@ -49,6 +58,19 @@
         "Yazaki-Torres Manufacturing, Inc.": 2,
         "Suncall Corporation": 2,
         "Thai Arrow Products Co., Ltd.": 1,
-        "Federal-Mogul Holdings LLC": 2
+        "Federal-Mogul Holdings LLC": 2,
+        "Ichikoh Industries, Ltd.": 24,
+        "Imasen Electric Industrial Co., Ltd.": 24,
+        "Stanley Electric Co., Ltd.": 46,
+        "Tokaidenso Corporation": 4,
+        "Ichikoh Industries (Thailand) Co., Ltd.": 9,
+        "Thai Stanley Electric PCL": 17,
+        "Hyundai Mobis Co., Ltd.": 2,
+        "Koito Manufacturing Co., Ltd.": 24,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 2,
+        "Thai Koito Co., Ltd.": 4,
+        "Sakae Riken Kogyo Co., Ltd.": 1,
+        "North American Lighting, Inc.": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3
     }
 }

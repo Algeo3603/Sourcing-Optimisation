@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 18
+    },
+    "specific_parts_sold": {
+        "Rear lamp housing": 12,
+        "Rear lamp": 6
+    },
+    "buyers": {
+        "Honda": 3,
+        "Jeep": 11,
+        "Volkswagen": 3,
+        "Chrysler": 1
+    },
+    "Country": "USA",
+    "Address": "3900 Automation Avenue Auburn Hills, MI 48326, USA",
+    "TEL": "+1-248-418-3000",
+    "Year established": "1998",
+    "URL": "https://www.al.world/",
+    "Remarks": "-Shareholder: Marelli Group-Automotive Lighting is the lighting business division of Marelli Europe S.p.A.- July 27, 2020, Marelli Automotive Lighting USA LLC announced plans to close its factory in Clarkston, Michigan. Production will end in January 2021."
+}

@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 3
+    },
+    "specific_parts_sold": {
+        "LED rear lamp": 3
+    },
+    "buyers": {
+        "DS Automobiles": 1,
+        "Jaguar Land Rover": 1,
+        "Renault": 1
+    },
+    "Country": "Italy",
+    "Address": "Via dei Prati 20 Cambiano Torino 10020 ITALY",
+    "TEL": "+39-0119-457170",
+    "Year established": "1969",
+    "URL": "https://www.opmobility.com/en/",
+    "Remarks": "-Shareholder(s): OPmobility SE"
+}

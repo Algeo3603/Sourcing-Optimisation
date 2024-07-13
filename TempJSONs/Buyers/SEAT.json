@@ -1,16 +1,26 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 5
+        "Wiring Harness": 5,
+        "Rear Lamp": 13
     },
     "specific-parts-bought": {
         "High voltage wiring harness": 1,
         "Electrical distribution system": 2,
-        "Wiring sytem": 2
+        "Wiring sytem": 2,
+        "LED rear lamp": 7,
+        "Rear lamp": 6
     },
     "suppliers": {
         "Sumitomo Wiring Systems, Ltd.": 1,
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
-        "Leoni AG": 2
+        "Leoni AG": 2,
+        "Varroc Engineering Ltd.": 1,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 1,
+        "odelo GmbH": 1,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
+        "Valeo Group": 3,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 5
     }
 }

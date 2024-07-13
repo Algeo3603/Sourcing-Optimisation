@@ -1,17 +1,29 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 27
+        "Wiring Harness": 27,
+        "Rear Lamp": 29
     },
     "specific-parts-bought": {
         "Head lamp wiring harness": 1,
         "Wire harness": 8,
-        "Wiring harness": 18
+        "Wiring harness": 18,
+        "Rear lamp": 25,
+        "Rear left combination lamp assembly": 1,
+        "Rear right combination lamp assembly": 1,
+        "Rear combination lamp": 2
     },
     "suppliers": {
         "Essem Technodesign Pvt. Ltd. (Formerly ESSEM SRINISONS SYS. (P) LTD)": 1,
         "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 8,
         "Furukawa Minda Electric Private Limited (FME)": 8,
-        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 10
+        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 10,
+        "UNO Minda Ltd. (Formerly Minda Industries Ltd.)": 1,
+        "UNO Minda Ltd. - Lighting Division (Formerly Minda Industries Ltd.)": 5,
+        "Varroc Lighting System (India) Pvt. Ltd.": 3,
+        "Lumax Industries Ltd.": 14,
+        "Varroc Engineering Ltd.": 3,
+        "Neolite ZKW Lightings Pvt. Ltd.": 2,
+        "Visteon Group (China)": 1
     }
 }

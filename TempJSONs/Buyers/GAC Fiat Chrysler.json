@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 14
+        "Wiring Harness": 14,
+        "Rear Lamp": 4
     },
     "specific-parts-bought": {
         "Body wiring harness": 2,
@@ -16,10 +17,15 @@
         "Rear wiring harness": 1,
         "ABS wiring harness": 1,
         "Airbag wiring harness": 1,
-        "Battery harness": 1
+        "Battery harness": 1,
+        "Rear lamp": 3,
+        "LED rear lamp": 1
     },
     "suppliers": {
         "Aptiv Electric Systems Co., Ltd. Jiangmen Branch": 5,
-        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch": 9
+        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch": 9,
+        "Bluestar Technology (Shenzhen) Co., Ltd.": 1,
+        "Marelli Automotive Lighting (Foshan) Co. Ltd.(Formerly Magneti Marelli Automotive Lighting (Foshan) Co., Ltd.)": 2,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1
     }
 }

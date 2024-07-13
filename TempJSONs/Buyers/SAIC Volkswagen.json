@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 80
+        "Wiring Harness": 80,
+        "Rear Lamp": 20
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 4,
@@ -30,7 +31,10 @@
         "Engine wiring harness": 8,
         "Instrument panel wiring harness": 4,
         "Body wiring harness": 4,
-        "Rear view mirror wire harness": 2
+        "Rear view mirror wire harness": 2,
+        "LED rear lamp": 3,
+        "Rear lamp": 16,
+        "Rear combination lamp": 1
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 32,
@@ -39,6 +43,11 @@
         "Changsha Bordnetze Electrical Systems Ltd.": 10,
         "Suzhou Bordnetze Electrical Systems Ltd.": 10,
         "Shanghai Bolson Automotive Parts Co., Ltd.": 2,
-        "Changchun Lear FAWSN Automotive Electrical Co., Ltd.": 3
+        "Changchun Lear FAWSN Automotive Electrical Co., Ltd.": 3,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 14,
+        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)": 2,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
+        "Shanghai Pudong Automotive Lamps Co., Ltd.": 2,
+        "Koito Manufacturing Co., Ltd.": 1
     }
 }

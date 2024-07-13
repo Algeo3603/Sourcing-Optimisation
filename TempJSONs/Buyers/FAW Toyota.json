@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 268
+        "Wiring Harness": 268,
+        "Rear Lamp": 19
     },
     "specific-parts-bought": {
         "Door wiring harness(2.0L)(CVT)": 3,
@@ -79,7 +80,10 @@
         "Engine room wiring harness(3.5L)(6AT)": 2,
         "Battery wiring harness(3.5L)(6AT)": 2,
         "High voltage wiring harness(1.8L)(ECVT)": 1,
-        "Main wiring harness": 1
+        "Main wiring harness": 1,
+        "Rear lamp": 9,
+        "Rear combination lamp": 9,
+        "Signal lamp": 1
     },
     "suppliers": {
         "Tianjin Yazaki Automotive Parts Co., Ltd. Chengdu Branch": 28,
@@ -89,6 +93,12 @@
         "Aptiv Electric Systems Co., Ltd. Tianjin Branch": 24,
         "Tianjin Yazaki Automotive Parts Co., Ltd. Changchun Branch": 10,
         "Chongqing Jinzhu Automobile Harness Co., Ltd.": 4,
-        "Yazaki Corporation": 1
+        "Yazaki Corporation": 1,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 9,
+        "Guangzhou Koito Automotive Lamp Co., Ltd.": 2,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 5,
+        "Valeo Ichikoh (China) Auto Lighting Co., Ltd.": 1,
+        "Tianjin Stanley Electric Co., Ltd.": 1,
+        "Ichikoh Industries, Ltd.": 1
     }
 }

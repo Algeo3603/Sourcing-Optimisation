@@ -1,7 +1,8 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 465
+        "Wiring Harness": 465,
+        "Rear Lamp": 297
     },
     "specific-parts-bought": {
         "Wiring harness protector": 3,
@@ -49,7 +50,17 @@
         "Wiring harness (through Calsonic Kansei)": 1,
         "Harness": 1,
         "Cable harness": 1,
-        "Sunroof harness": 1
+        "Sunroof harness": 1,
+        "Rear lamp": 141,
+        "Rear combination lamp": 102,
+        "Rear lamp housing": 17,
+        "LED rear combination lamp": 15,
+        "LED rear lamp": 16,
+        "LED stop lamp": 1,
+        "Stop lamp": 1,
+        "Rear Lamp": 2,
+        "Tail & stop lamp": 1,
+        "Back-up lamp": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 3,
@@ -69,7 +80,7 @@
         "Proterial (Thailand) Ltd. (Formerly Hitachi Metals (Thailand) Ltd.)": 2,
         "Yazaki Europe Ltd.": 1,
         "PT. Furukawa Automotive Systems Indonesia": 2,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 2,
         "Sumitomo Wiring Systems (U.S.A.), Inc.": 6,
         "Yazaki North America Inc.": 1,
         "Sumitomo Electric Wiring Systems, Inc.": 2,
@@ -88,6 +99,28 @@
         "DELFINGEN US - Rochester Hills": 2,
         "Leoni AG": 1,
         "Federal-Mogul Holdings LLC": 2,
-        "Empire Electronics, Inc.": 1
+        "Empire Electronics, Inc.": 1,
+        "North American Lighting, Inc.": 16,
+        "Ichikoh Industries, Ltd.": 116,
+        "Varroc Lighting System (India) Pvt. Ltd.": 2,
+        "Imasen Electric Industrial Co., Ltd.": 10,
+        "Hella Automotive Mexico S.A. de C.V.": 4,
+        "Koito Manufacturing Co., Ltd.": 46,
+        "Stanley Electric Co., Ltd.": 54,
+        "VALEO Sylvania Illuminacion S. de R.L. de C.V.": 1,
+        "Thai Stanley Electric PCL": 7,
+        "Tokaidenso Corporation": 4,
+        "Hella, Inc. USA": 3,
+        "Ichikoh Industries (Thailand) Co., Ltd.": 6,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 4,
+        "Valeo Group": 7,
+        "Magna Lighting (Formerly OLSA S.p.A.)": 1,
+        "Hyundai Mobis Co., Ltd.": 1,
+        "Thai Koito Co., Ltd.": 8,
+        "Koito Czech s.r.o.": 1,
+        "Valeo Engineering Center(India), Lighting Systems, Wiper Systems, Pvt. Ltd": 1,
+        "India Japan Lighting Pvt. Ltd.": 1,
+        "North American Lighting, Inc. - Salem Plant": 2,
+        "Koito Europe Ltd.": 1
     }
 }

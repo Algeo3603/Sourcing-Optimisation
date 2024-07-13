@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 3
+        "Wiring Harness": 3,
+        "Rear Lamp": 1
     },
     "specific-parts-bought": {
-        "Busbar": 3
+        "Busbar": 3,
+        "Rear combination lamp": 1
     },
     "suppliers": {
-        "Nidec Mobility (Guangzhou) Coproration": 3
+        "Nidec Mobility (Guangzhou) Coproration": 3,
+        "Guangdong Jiali Automobile Lamp Co., Ltd.": 1
     }
 }

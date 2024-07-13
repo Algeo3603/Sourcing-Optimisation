@@ -1,14 +1,17 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 5
+        "Wiring Harness": 5,
+        "Rear Lamp": 1
     },
     "specific-parts-bought": {
         "Wiring harness": 3,
-        "Wire harness": 2
+        "Wire harness": 2,
+        "Rear lamp": 1
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 3,
-        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 2
+        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 2,
+        "Zhejiang Tianchong Vehicle Lamp Group Co., Ltd.": 1
     }
 }

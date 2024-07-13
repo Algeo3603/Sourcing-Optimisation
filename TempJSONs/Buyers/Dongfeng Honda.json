@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 217
+        "Wiring Harness": 217,
+        "Rear Lamp": 23
     },
     "specific-parts-bought": {
         "Body wiring harness(1.5T)(CVT)": 35,
@@ -35,7 +36,12 @@
         "Wiring harness": 8,
         "Sensor harness": 1,
         "Antenna wiring harness": 1,
-        "Engine wiring harness": 6
+        "Engine wiring harness": 6,
+        "Rear lamp": 9,
+        "Stop lamp": 2,
+        "Rear combination lamp": 9,
+        "LED rear lamp": 1,
+        "Signal lamp": 2
     },
     "suppliers": {
         "Fujikura Zhuhai Ltd.": 24,
@@ -46,6 +52,12 @@
         "Yazaki Corporation": 1,
         "Shanghai Han Shin Electric Wire Cable Co., Ltd.": 1,
         "Dongguan Yokowo Communication Components Co., Ltd.": 1,
-        "Huizhou Zhurun Wiring Systems Co., Ltd.": 6
+        "Huizhou Zhurun Wiring Systems Co., Ltd.": 6,
+        "Wuhan Stanley Electric Co., Ltd.": 12,
+        "Guangzhou Stanley Electric Co., Ltd.": 4,
+        "Fuzhou Koito Tayih Automotive Lamp Co., Ltd.": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
+        "Guangzhou Koito Automotive Lamp Co., Ltd.": 4,
+        "Koito Manufacturing Co., Ltd.": 1
     }
 }

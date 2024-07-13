@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 4
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 1,
+        "Rear combination lamp": 3
+    },
+    "buyers": {
+        "Qoros": 1,
+        "Dongfeng Nissan": 1,
+        "FAW Toyota": 1,
+        "FAW-Volkswagen": 1
+    },
+    "Country": "China",
+    "Address": "No.41, Chuangye Road, Wuhan Economic Development Zone, Wuhan, Hubei, China",
+    "TEL": "+86-27-89549515",
+    "Year established": "1995",
+    "URL": "https://www.valeo.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders : Valeo  85%, Ichikoh Industries 15%"
+}

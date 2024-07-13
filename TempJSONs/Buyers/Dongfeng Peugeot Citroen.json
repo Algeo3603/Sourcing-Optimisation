@@ -1,17 +1,22 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 8
+        "Wiring Harness": 8,
+        "Rear Lamp": 9
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 2,
         "High-voltage wiring harness system": 1,
         "Seat Wiring Harness": 4,
-        "USB wire": 1
+        "USB wire": 1,
+        "Rear lamp": 8,
+        "Rear combination lamp": 1
     },
     "suppliers": {
         "Wuhan Zhengao Automotive Electrical System Co., Ltd. (Formerly Wuhan Zhengao Leoni Automotive Wiring Harness Co., Ltd.)": 3,
         "Aptiv Electric Systems Co., Ltd. Wuhan Branch": 4,
-        "Aptiv (China) Investment Co., Ltd.": 1
+        "Aptiv (China) Investment Co., Ltd.": 1,
+        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)": 8,
+        "Shanghai Sunlight Enterprise Co., Ltd.": 1
     }
 }

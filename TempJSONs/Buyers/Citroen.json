@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 33
+        "Wiring Harness": 33,
+        "Rear Lamp": 34
     },
     "specific-parts-bought": {
         "Engine wiring harness": 4,
@@ -16,7 +17,13 @@
         "Passenger seat harness": 2,
         "HVAC block harness": 1,
         "Instrument panel wiring harness": 1,
-        "Main harness": 1
+        "Main harness": 1,
+        "Rear lamp": 24,
+        "LED rear lamp": 6,
+        "LED rear lamp with infinity mirror effect": 1,
+        "LED rear lamp system": 1,
+        "Brake lamp": 1,
+        "Stop lighting": 1
     },
     "suppliers": {
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
@@ -25,6 +32,15 @@
         "FORVIA SE (FORVIA faurecia) (Formerly Faurecia SE)": 1,
         "Lear Corporation": 4,
         "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 2,
-        "Valeo Group": 2
+        "Valeo Group": 8,
+        "Neolite ZKW Lightings Pvt. Ltd.": 3,
+        "Varroc Lighting System (India) Pvt. Ltd.": 5,
+        "Varroc Lighting Systems - Morocco": 1,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 2,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 2,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 9,
+        "Koito Manufacturing Co., Ltd.": 1,
+        "Visteon Corporation": 4
     }
 }

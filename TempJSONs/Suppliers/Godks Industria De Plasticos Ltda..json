@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 5
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 5
+    },
+    "buyers": {
+        "Fiat": 3,
+        "Ford": 2
+    },
+    "Country": "Brazil",
+    "Address": "Av. Maria Leonor, 500, Diadema SP 09920-080, Brazil",
+    "TEL": "+55-11-4057-5000",
+    "URL": "http://www.godks.com.br",
+    "Quality certification": "ISO9001"
+}

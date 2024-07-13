@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 13
+        "Wiring Harness": 13,
+        "Rear Lamp": 6
     },
     "specific-parts-bought": {
         "Combination switch wiring harness": 1,
@@ -16,10 +17,15 @@
         "Reverse radar wiring harness": 1,
         "Evaporator box wiring harness": 1,
         "Airbag wiring harness": 1,
-        "Wire": 1
+        "Wire": 1,
+        "Rear combination lamp": 4,
+        "Rear lamp": 1,
+        "Stop lamp": 1
     },
     "suppliers": {
         "Baicheng Xinyu Auto Wire Harness Co., Ltd.": 12,
-        "Beijing Force Automotive Wire Co., Ltd.": 1
+        "Beijing Force Automotive Wire Co., Ltd.": 1,
+        "Tianjin Stanley Electric Co., Ltd.": 3,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 3
     }
 }

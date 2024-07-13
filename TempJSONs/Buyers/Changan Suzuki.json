@@ -1,14 +1,18 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 9
+        "Wiring Harness": 9,
+        "Rear Lamp": 7
     },
     "specific-parts-bought": {
         "Wiring harness": 2,
-        "Wire harness": 7
+        "Wire harness": 7,
+        "Rear lamp": 7
     },
     "suppliers": {
         "Chongqing Changhua Automobile Harness Co., Ltd.": 2,
-        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 7
+        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 7,
+        "Hubei Xiaogan Huazhong Auto Lamp Co., Ltd.": 1,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 6
     }
 }

@@ -1,18 +1,22 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 4
+        "Wiring Harness": 4,
+        "Rear Lamp": 9
     },
     "specific-parts-bought": {
         "Engine wiring harness": 1,
         "Battery cable assembly": 1,
         "Kick sensor": 1,
-        "Wiring system": 1
+        "Wiring system": 1,
+        "Rear lamp": 9
     },
     "suppliers": {
         "Nexans autoelectric GmbH": 1,
         "Gebauer & Griller Kabelwerke GmbH": 1,
         "Huf Huelsbeck & Fuerst GmbH & Co. KG": 1,
-        "Leoni AG": 1
+        "Leoni AG": 1,
+        "Wipac Technology Limited": 8,
+        "Koito Europe Ltd.": 1
     }
 }

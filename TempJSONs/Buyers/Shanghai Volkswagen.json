@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 13
+        "Wiring Harness": 13,
+        "Rear Lamp": 5
     },
     "specific-parts-bought": {
         "Wiring harness": 1,
@@ -10,12 +11,16 @@
         "Engine fuel injection wiring harness": 1,
         "Engine compartment wiring harness": 1,
         "Alternator wiring harness": 1,
-        "Interior wiring harness": 1
+        "Interior wiring harness": 1,
+        "Rear lamp": 3,
+        "Rear combination lamp": 2
     },
     "suppliers": {
         "Aptiv Electric Systems Co., Ltd.": 5,
         "Shanghai Dai-Ichi Electronic Co., Ltd.": 2,
         "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 3,
-        "Shanghai Jinting Automobile Harness Ltd.(JAH)": 3
+        "Shanghai Jinting Automobile Harness Ltd.(JAH)": 3,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 3,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 2
     }
 }

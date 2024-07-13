@@ -1,7 +1,8 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 44
+        "Wiring Harness": 44,
+        "Rear Lamp": 72
     },
     "specific-parts-bought": {
         "Wiring harness": 19,
@@ -10,15 +11,26 @@
         "Engine room wiring harness": 4,
         "Battery wiring harness": 4,
         "Wire harness": 2,
-        "Main wiring harness": 3
+        "Main wiring harness": 3,
+        "Rear lamp": 60,
+        "Rear combination lamp": 6,
+        "LED rear combination lamp": 5,
+        "Rear lamp bulb": 1
     },
     "suppliers": {
         "Furukawa Minda Electric Private Limited (FME)": 5,
         "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 18,
         "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 9,
         "Sumitomo Wiring Systems, Ltd.": 8,
-        "UNO Minda Ltd. (Formerly Minda Industries Ltd.)": 1,
+        "UNO Minda Ltd. (Formerly Minda Industries Ltd.)": 23,
         "ASTI Electronics India Pvt. Ltd.": 2,
-        "Motherson Sumi Electric Wires": 1
+        "Motherson Sumi Electric Wires": 1,
+        "UNO Minda Ltd. - Lighting Division (Formerly Minda Industries Ltd.)": 4,
+        "Lumax Industries Ltd.": 24,
+        "Marelli Motherson Automotive Lighting India Pvt. Ltd. (Formerly Magneti Marelli Motherson Auto System Ltd.)": 5,
+        "India Japan Lighting Pvt. Ltd.": 10,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 4,
+        "Autolite (India) Ltd.": 1,
+        "Koito Manufacturing Co., Ltd.": 2
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 37
+        "Wiring Harness": 37,
+        "Rear Lamp": 39
     },
     "specific-parts-bought": {
         "Door wiring harness": 7,
@@ -21,7 +22,13 @@
         "Technical front end harness": 1,
         "Main harness": 2,
         "HVAC block harness": 1,
-        "Electrical/Electronics distribution system": 1
+        "Electrical/Electronics distribution system": 1,
+        "Rear lamp": 25,
+        "LED rear lamp": 8,
+        "LED rear lights": 2,
+        "Rear lamp with LED tail light function providing typical Opel shape": 1,
+        "LED stop lamp": 1,
+        "Stop lighting": 2
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 11,
@@ -31,6 +38,13 @@
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 7,
         "Lear Corporation": 1,
         "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 2,
-        "Leoni AG": 12
+        "Leoni AG": 12,
+        "Valeo Group": 7,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 9,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 5,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 14,
+        "Varroc Lighting System (India) Pvt. Ltd.": 2,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
+        "odelo GmbH": 1
     }
 }

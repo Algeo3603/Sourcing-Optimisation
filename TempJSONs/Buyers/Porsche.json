@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 19
+        "Wiring Harness": 19,
+        "Rear Lamp": 42
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -12,7 +13,16 @@
         "Interior wiring harness": 1,
         "Wiring harness": 7,
         "Engine wiring harness": 2,
-        "Wiring system": 1
+        "Wiring system": 1,
+        "LED rear lamp": 21,
+        "Rear lamp": 13,
+        "LED rear lights": 1,
+        "Laser-welded rear LED lamp": 1,
+        "Brake lamp": 2,
+        "Additional LED brake light": 1,
+        "LED stop lamp": 1,
+        "Rear lamp (with LED)": 1,
+        "LED rear light": 1
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 2,
@@ -22,6 +32,13 @@
         "DMS Dräxlmaier Modulsysteme GmbH": 2,
         "Leoni AG": 2,
         "Hirschmann Automotive GmbH": 1,
-        "Brose Fahrzeugteile SE & Co. KG, Coburg": 1
+        "Brose Fahrzeugteile SE & Co. KG, Coburg": 1,
+        "Valeo Group": 17,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 9,
+        "Wipac Technology Limited": 4,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 7,
+        "Hebei Shuangqi Light Industry Co., Ltd.": 1,
+        "Samvardhana Motherson Innovative Autosystems B.V. & Co. KG": 1
     }
 }

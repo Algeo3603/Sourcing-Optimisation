@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 36
+        "Wiring Harness": 36,
+        "Rear Lamp": 32
     },
     "specific-parts-bought": {
         "Interior wiring harness": 4,
@@ -20,7 +21,12 @@
         "Roof harness": 1,
         "Front door harness (right & left)": 1,
         "Instrument panel wiring harness": 1,
-        "Main harness": 1
+        "Main harness": 1,
+        "LED rear lamp": 8,
+        "Rear lamp": 21,
+        "Rear combination lamp": 1,
+        "Futuristic rear lamp with LED tail light function": 1,
+        "Stop lighting": 1
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 7,
@@ -32,7 +38,16 @@
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 5,
         "Lear Corporation": 1,
-        "Valeo Group": 6,
-        "Yazaki Corporation": 1
+        "Valeo Group": 11,
+        "Yazaki Corporation": 1,
+        "Valeo Lighting Systems - Chrzanow": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 13,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 4,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
+        "Koito Manufacturing Co., Ltd.": 3,
+        "Varroc Lighting System (India) Pvt. Ltd.": 2,
+        "Visteon Corporation": 1,
+        "Koito Europe Ltd.": 1,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1
     }
 }

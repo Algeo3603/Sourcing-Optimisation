@@ -1,17 +1,21 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 8
+        "Wiring Harness": 8,
+        "Rear Lamp": 5
     },
     "specific-parts-bought": {
         "Wiring harness": 4,
         "Low voltage wiring harness for battery pack": 1,
         "High-voltage wiring harness": 1,
-        "High-voltage charging harness": 2
+        "High-voltage charging harness": 2,
+        "Rear lamp": 5
     },
     "suppliers": {
         "Aptiv Electric Systems Co., Ltd.": 4,
         "Shenzhen Uniconn Technology Co., Ltd. (Formerly Shenzhen Qiaoyun Technology Co., Ltd.)": 2,
-        "Leoni Electrical Systems (Jining) Co., Ltd.": 2
+        "Leoni Electrical Systems (Jining) Co., Ltd.": 2,
+        "Guangdong Jiali Automobile Lamp Co., Ltd.": 2,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 3
     }
 }

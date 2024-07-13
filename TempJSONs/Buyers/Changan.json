@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 26
+        "Wiring Harness": 26,
+        "Rear Lamp": 20
     },
     "specific-parts-bought": {
         "Wiring harness": 3,
@@ -19,11 +20,19 @@
         "Battery ground cable assembly": 2,
         "Rear door wiring harness assembly": 1,
         "Airbag wiring harness assembly": 1,
-        "Positive battery cable assembly": 1
+        "Positive battery cable assembly": 1,
+        "Rear combination lamp": 16,
+        "Rear lamp": 3,
+        "Rear lamp(1.8T)(6AMT)": 1
     },
     "suppliers": {
         "Chongqing Changhua Automobile Harness Co., Ltd.": 1,
         "Chongqing Qinchuan Industry (Group) Co., Ltd.": 23,
-        "Tianhai Snowcity (Chongqing) Auto Electric Co., Ltd.": 2
+        "Tianhai Snowcity (Chongqing) Auto Electric Co., Ltd.": 2,
+        "Nanning Liaowang Auto Lamp Co., Ltd.": 6,
+        "Hubei Xiaogan Huazhong Auto Lamp Co., Ltd.": 10,
+        "Hubei Huazhong Magneti Marelli Automotive Lighting Co., Ltd.": 1,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 2,
+        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.": 1
     }
 }

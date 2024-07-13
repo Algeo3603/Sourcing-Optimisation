@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 7
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 1,
+        "Rear lamp housing": 5,
+        "Rear lamp assembly": 1
+    },
+    "buyers": {
+        "Jeep": 4,
+        "Tesla": 1,
+        "Dodge": 2
+    },
+    "Country": "USA",
+    "Address": "601 West 7th Street, Evart, Michigan 49631 USA",
+    "TEL": "+1-231-734-9000",
+    "Beginning of operation": "1968",
+    "URL": "https://www.flex-n-gate.com/",
+    "Remarks": "Shareholders: Flex-N-Gate Corporation (USA)"
+}

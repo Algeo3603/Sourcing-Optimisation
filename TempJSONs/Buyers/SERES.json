@@ -1,13 +1,20 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 12
+        "Wiring Harness": 12,
+        "Rear Lamp": 6
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 6,
-        "Low-voltage wiring harness": 6
+        "Low-voltage wiring harness": 6,
+        "LED rear combination lamp": 2,
+        "Tail stop lamp": 2,
+        "Rear combination lamp": 2
     },
     "suppliers": {
-        "Kunshan Huguang Auto Harness Co., Ltd.": 12
+        "Kunshan Huguang Auto Harness Co., Ltd.": 12,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 2,
+        "Huawei Technologies Co., Ltd.": 2,
+        "Nanning Liaowang Auto Lamp Co., Ltd.": 2
     }
 }

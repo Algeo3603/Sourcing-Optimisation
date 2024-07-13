@@ -1,7 +1,8 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Wiring Harness": 258
+        "Wiring Harness": 258,
+        "Rear Lamp": 132
     },
     "specific-parts-bought": {
         "Back door wiring harness": 12,
@@ -26,7 +27,15 @@
         "Fog lamp wiring harness": 1,
         "Wiring harness": 33,
         "Main wiring harness": 2,
-        "Fuel tank sensor harness": 1
+        "Fuel tank sensor harness": 1,
+        "Rear lamp": 73,
+        "Rear combination lamp": 43,
+        "LED rear combination lamp": 5,
+        "Rear Lamp": 1,
+        "Tail & stop lamp": 2,
+        "Stop lamp": 2,
+        "LED Rear combination lamp": 1,
+        "LED rear lamp": 5
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 81,
@@ -36,6 +45,14 @@
         "Fujikura Ltd.": 2,
         "PT. Furukawa Automotive Systems Indonesia": 2,
         "Sumitomo Wiring Systems, Ltd.": 33,
-        "Furukawa Automotive Systems Inc.": 4
+        "Furukawa Automotive Systems Inc.": 4,
+        "Koito Manufacturing Co., Ltd.": 62,
+        "Tokaidenso Corporation": 34,
+        "PT. Indonesia Koito": 2,
+        "Ichikoh Industries, Ltd.": 25,
+        "Kyushu Ichikou Industries Ltd.": 1,
+        "PT. Ichikoh Indonesia": 5,
+        "PT. Takagi Sari Multi Utama": 2,
+        "P.T. Indonesia Stanley Electric - Factory1": 1
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 17
+        "Wiring Harness": 17,
+        "Rear Lamp": 9
     },
     "specific-parts-bought": {
         "Left body wiring harness assembly": 1,
@@ -19,10 +20,14 @@
         "Positive battery cable assembly": 1,
         "Ashtray lamp wiring harness assembly": 1,
         "Battery ground cable assembly": 1,
-        "Wiring harness": 2
+        "Wiring harness": 2,
+        "Rear combination lamp": 1,
+        "Stop lamp": 8
     },
     "suppliers": {
         "Chongqing Qinchuan Industry (Group) Co., Ltd.": 15,
-        "Tianhai Snowcity (Chongqing) Auto Electric Co., Ltd.": 2
+        "Tianhai Snowcity (Chongqing) Auto Electric Co., Ltd.": 2,
+        "Nanning Liaowang Auto Lamp Co., Ltd.": 1,
+        "Jiangsu Tongming Auto Lamp Co., Ltd.": 8
     }
 }

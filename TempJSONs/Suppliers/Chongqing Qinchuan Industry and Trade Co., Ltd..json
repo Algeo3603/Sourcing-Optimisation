@@ -1,13 +1,16 @@
 {
     "top500": false,
     "parts_sold": {
-        "Wiring Harness": 3
+        "Wiring Harness": 3,
+        "Rear Lamp": 5
     },
     "specific_parts_sold": {
-        "Wiring harness": 3
+        "Wiring harness": 3,
+        "Rear lamp": 5
     },
     "buyers": {
-        "Jiangling Motors": 3
+        "Jiangling Motors": 6,
+        "Geely": 2
     },
     "Country": "China",
     "Address": "No. 2, Cuiqing Road, Jingkaiyuan, Beibu New Area, Chongqing, China",

@@ -1,12 +1,15 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Rear Lamp": 3
     },
     "specific-parts-bought": {
-        "Wiring harness": 1
+        "Wiring harness": 1,
+        "Rear lamp": 3
     },
     "suppliers": {
-        "Motherson Sumi Wiring India Limited (MSWIL)": 1
+        "Motherson Sumi Wiring India Limited (MSWIL)": 1,
+        "Lumax Industries Ltd.": 3
     }
 }

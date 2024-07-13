@@ -1,13 +1,20 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 2
+        "Wiring Harness": 2,
+        "Rear Lamp": 7
     },
     "specific-parts-bought": {
-        "Wiring harness protector": 2
+        "Wiring harness protector": 2,
+        "Rear lamp": 4,
+        "Rear lighting system": 1,
+        "LED rear lamp": 2
     },
     "suppliers": {
         "Delfingen IT - Verona": 1,
-        "Delfingen Industry S.A.": 1
+        "Delfingen Industry S.A.": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 5,
+        "Magna Lighting (Formerly OLSA S.p.A.)": 1,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 1
     }
 }

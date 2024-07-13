@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 9
+    },
+    "specific_parts_sold": {
+        "LED rear lamp": 1,
+        "Rear lamp": 8
+    },
+    "buyers": {
+        "SEAT": 1,
+        "Volkswagen": 4,
+        "Ford": 1,
+        "Mahindra & Mahindra": 3
+    },
+    "Country": "India",
+    "Address": "L-4, MIDC Industrial Area Waluj, Aurangabad – 431136,  Maharashtra, India",
+    "TEL": "+91-240-665-3700",
+    "Year established": "1990",
+    "URL": "https://varroc.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Varroc Group"
+}

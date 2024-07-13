@@ -1,7 +1,8 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Wiring Harness": 48
+        "Wiring Harness": 48,
+        "Rear Lamp": 6
     },
     "specific-parts-bought": {
         "Front wiring harness": 1,
@@ -40,7 +41,13 @@
         "Door wiring harness (Sourced by MUNRO & ASSOCIATES, USA)": 1,
         "Battery cable (Sourced by MUNRO & ASSOCIATES, USA)": 1,
         "Door harness": 1,
-        "Wiring harness": 1
+        "Wiring harness": 1,
+        "Rear lamp bracket": 1,
+        "Rear lamp assembly": 1,
+        "Rear lamp (Sourced by MUNRO & ASSOCIATES, USA)": 1,
+        "Rear combination lamp": 1,
+        "Stop lamp": 1,
+        "Shared LED Stop/Tail system on electric vehicle": 1
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 5,
@@ -66,6 +73,10 @@
         "Delfingen Industry S.A.": 1,
         "HellermannTyton GmbH": 1,
         "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 1,
-        "Yazaki Corporation": 1
+        "Yazaki Corporation": 1,
+        "Blove Light Precision HK Co.,Ltd.": 1,
+        "Ventra Evart, LLC": 1,
+        "Flex-N-Gate Corporation": 1,
+        "Varroc Lighting System (India) Pvt. Ltd.": 3
     }
 }

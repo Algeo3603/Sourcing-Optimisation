@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 3
+        "Wiring Harness": 3,
+        "Rear Lamp": 1
     },
     "specific-parts-bought": {
-        "Wire harness": 3
+        "Wire harness": 3,
+        "Rear combination lamp": 1
     },
     "suppliers": {
-        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 3
+        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 3,
+        "Nanning Liaowang Auto Lamp Co., Ltd.": 1
     }
 }

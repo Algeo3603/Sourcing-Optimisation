@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 346
+        "Wiring Harness": 346,
+        "Rear Lamp": 1
     },
     "specific-parts-bought": {
         "Floor wiring harness": 47,
@@ -20,11 +21,13 @@
         "High-voltage wiring harness(2.0T)(6AT)": 1,
         "High-voltage wiring harness(1.5T)": 2,
         "Wiring harness protector(1.5T)(E-CVT)": 2,
-        "Wiring harness protector": 2
+        "Wiring harness protector": 2,
+        "Rear Lamp": 1
     },
     "suppliers": {
         "FinDreams Technology Co., Ltd.": 338,
         "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.)": 4,
-        "Wenzhou Shenji Electronic Technology Co., Ltd.": 4
+        "Wenzhou Shenji Electronic Technology Co., Ltd.": 4,
+        "Laster Tech Automotive (Shanghai) Co., Ltd.": 1
     }
 }

@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Rear Lamp": 1
     },
     "specific-parts-bought": {
-        "Engine wiring harness": 1
+        "Engine wiring harness": 1,
+        "Rear lamp": 1
     },
     "suppliers": {
-        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
+        "Valeo Ichikoh (China) Auto Lighting Co., Ltd.": 1
     }
 }

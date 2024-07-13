@@ -1,0 +1,42 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 47
+    },
+    "specific_parts_sold": {
+        "Rear lamp": 29,
+        "Rear combination lamp": 8,
+        "Stop lamp": 1,
+        "LED rear lamp with infinity mirror effect": 1,
+        "Rear lamp with patented solution of tail light pipe": 1,
+        "Stepped LED clinch frame design": 1,
+        "Styling LED rear lamp": 1,
+        "Full-LED rear lamp with thick light blades": 1,
+        "Rear lamp with LED tail light function providing typical Opel shape": 1,
+        "Futuristic rear lamp with LED tail light function": 1,
+        "Tail light realized by LED light pipe in typical Skoda C-shape": 1,
+        "Shared LED Stop/Tail system on electric vehicle": 1
+    },
+    "buyers": {
+        "Citroen": 5,
+        "Mahindra & Mahindra": 3,
+        "Nissan": 2,
+        "Skoda": 8,
+        "Volkswagen": 8,
+        "Daimler": 3,
+        "Dodge": 1,
+        "Jaguar Land Rover": 6,
+        "Tata": 1,
+        "Tesla": 3,
+        "Ford": 1,
+        "GM": 2,
+        "Opel": 2,
+        "Peugeot": 2
+    },
+    "Country": "India",
+    "Address": "Survey No. 279, village Mann, Taluka Mulshi, Pune, Maharashtra-411057, India",
+    "TEL": "+91-20-66752100, +91-20-6675-2119",
+    "Year established": "2001",
+    "URL": "https://www.opmobility.com/en/",
+    "Remarks": "-Shareholder(s): OPmobility SE"
+}

@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Rear Lamp": 6
+    },
+    "specific_parts_sold": {
+        "LED rear combination lamp": 2,
+        "Back-up lamp": 2,
+        "Rear combination lamp": 2
+    },
+    "buyers": {
+        "GM": 2,
+        "Nissan": 2,
+        "Toyota": 2
+    },
+    "Country": "USA",
+    "Address": "1875 W. Main Street, Salem, IL 62881, USA",
+    "TEL": "+1-618-548-6249",
+    "URL": "https://www.nal.com/",
+    "Remarks": "-Shareholder: Koito Manufacturing 100%-Signal Lighting Plant"
+}

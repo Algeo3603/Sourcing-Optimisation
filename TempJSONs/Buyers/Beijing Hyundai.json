@@ -1,16 +1,20 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 16
+        "Wiring Harness": 16,
+        "Rear Lamp": 12
     },
     "specific-parts-bought": {
         "High voltage wiring harness": 2,
         "Wiring harness": 13,
-        "Main wiring harness": 1
+        "Main wiring harness": 1,
+        "Rear lamp(1.4L)(6MT)": 1,
+        "Rear lamp": 11
     },
     "suppliers": {
         "Beijing BHAP Lear Automotive Systems Co., Ltd.": 2,
         "YURA Corporation": 1,
-        "Sanhe INFAC Automotive Components Co., Ltd.": 13
+        "Sanhe INFAC Automotive Components Co., Ltd.": 13,
+        "Beijing Samlip Automotive Lighting Co., Ltd.": 12
     }
 }

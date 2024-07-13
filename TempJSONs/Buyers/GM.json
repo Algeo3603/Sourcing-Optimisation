@@ -1,7 +1,8 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Wiring Harness": 133
+        "Wiring Harness": 133,
+        "Rear Lamp": 61
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 4,
@@ -23,7 +24,16 @@
         "High voltage wiring harness": 2,
         "Seat Wiring Harness": 1,
         "Taillamp harness": 1,
-        "Tail lamp harness": 1
+        "Tail lamp harness": 1,
+        "Rear lamp": 29,
+        "Rear lamp housing": 9,
+        "Rear lamp ballast": 3,
+        "LED rear lamp": 9,
+        "Rear combination lamp": 2,
+        "Stepped LED clinch frame design": 1,
+        "LED rear combination lamp": 6,
+        "Rear lamp system": 1,
+        "Rear lamp bulb": 1
     },
     "suppliers": {
         "Lear Corporation": 12,
@@ -49,6 +59,28 @@
         "Sumitomo Electric Industries, Ltd.": 2,
         "Empire Electronics, Inc.": 2,
         "Howmet Aerospace Inc.": 1,
-        "Federal-Mogul Holdings LLC": 1
+        "Federal-Mogul Holdings LLC": 1,
+        "Neolite ZKW Lightings Pvt. Ltd.": 4,
+        "Hella Automotive Mexico S.A. de C.V.": 5,
+        "Magna Lighting -Autosystems America, Inc.": 2,
+        "II Stanley Co., Inc.": 3,
+        "VALEO ILUMINACION S.A.": 3,
+        "SL Tennessee LLC": 1,
+        "Magna International Inc.": 3,
+        "Valeo Group": 5,
+        "Magna Lighting (Formerly OLSA S.p.A.)": 1,
+        "Hyundai Mobis Co., Ltd.": 2,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 2,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 7,
+        "Koito Manufacturing Co., Ltd.": 3,
+        "AMPAS Industries Co., Ltd.": 2,
+        "Varroc Lighting System (India) Pvt. Ltd.": 2,
+        "North American Lighting, Inc.": 7,
+        "North American Lighting, Inc. - Salem Plant": 2,
+        "SL Lumax Industries Limited": 1,
+        "Valeo Sylvania LLC": 2,
+        "Visteon Corporation": 2,
+        "OSRAM GmbH": 1,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1
     }
 }

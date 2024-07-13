@@ -1,7 +1,8 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 90
+        "Wiring Harness": 90,
+        "Rear Lamp": 63
     },
     "specific-parts-bought": {
         "Wiring harness protector": 4,
@@ -21,7 +22,13 @@
         "Wiring harness": 31,
         "Engine wiring harness": 1,
         "Tail lamp harness": 1,
-        "Sunroof harness": 1
+        "Sunroof harness": 1,
+        "Rear lamp": 36,
+        "LED rear lamp": 19,
+        "Rear combination lamp": 2,
+        "Brake lamp": 4,
+        "Rear lamp with patented solution of tail light pipe": 1,
+        "LED rear combination lamp": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 2,
@@ -41,6 +48,28 @@
         "DELFINGEN US - El Paso": 3,
         "Federal-Mogul Holdings LLC": 1,
         "Empire Electronics, Inc.": 4,
-        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 1
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 1,
+        "Flex-N-Gate Corporation": 4,
+        "Ichikoh Industries (Thailand) Co., Ltd.": 5,
+        "SL Corporation": 3,
+        "PO Lighting México, S. de R.L. de C.V. (Formerly Varroc Lighting Systems S. de.R.L. de C.V.)": 1,
+        "Thai Stanley Electric PCL": 2,
+        "Varroc Engineering Ltd.": 1,
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)": 2,
+        "Valeo Group": 5,
+        "AMPAS Industries Co., Ltd.": 1,
+        "Arteb": 4,
+        "OSRAM GmbH": 1,
+        "Varroc Lighting Systems, s.r.o. - Novy Jicin": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 20,
+        "Lumax Industries Ltd.": 2,
+        "SL Lumax Industries Limited": 1,
+        "Varroc Lighting System (India) Pvt. Ltd.": 1,
+        "Marelli Automotive Lighting Juarez Mexico S.A. de C.V. (Tecnologia de Iluminacion Automotriz S.A. de C.V.)": 1,
+        "North American Lighting, Inc.": 1,
+        "Godks Industria De Plasticos Ltda.": 2,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
+        "Marelli Tepotzotlan Mexico, S.A. de C.V. (Formerly Magneti Marelli Mexico, S.A. de C.V.)": 1,
+        "Visteon Corporation": 3
     }
 }

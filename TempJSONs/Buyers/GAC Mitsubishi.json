@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 45
+        "Wiring Harness": 45,
+        "Rear Lamp": 4
     },
     "specific-parts-bought": {
         "Engine room wiring harness(2.4L)(CVT8)": 1,
@@ -27,11 +28,15 @@
         "Door wiring harness(1.6L)(5MT)": 2,
         "Door wiring harness(1.6L)(CVT)": 2,
         "Engine room wiring harness(1.6L)(5MT)": 1,
-        "Engine room wiring harness(1.6L)(CVT)": 1
+        "Engine room wiring harness(1.6L)(CVT)": 1,
+        "Rear lamp": 2,
+        "Rear combination lamp": 2
     },
     "suppliers": {
         "Fushan Shunde Yazaki Auto Parts Co., Ltd.": 13,
         "Aptiv Electric Systems Co., Ltd. Guangzhou Branch": 14,
-        "HuiZhou Sumiden Wiring Systems Co., Ltd.": 18
+        "HuiZhou Sumiden Wiring Systems Co., Ltd.": 18,
+        "Bluestar Technology (Shenzhen) Co., Ltd.": 2,
+        "Wuhan Stanley Electric Co., Ltd.": 2
     }
 }

@@ -1,13 +1,17 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Rear Lamp": 3
     },
     "specific_parts_sold": {
-        "Wiring harness bracket": 1
+        "Wiring harness bracket": 1,
+        "Rear combination lamp assembly": 3
     },
     "buyers": {
-        "Toyota": 1
+        "Toyota": 1,
+        "Hino": 2,
+        "Isuzu": 1
     },
     "Year Established": "996",
     "Number of Employees": ",900 employees (As of Dec. 31, 2023)",

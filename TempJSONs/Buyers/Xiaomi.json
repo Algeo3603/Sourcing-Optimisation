@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 3
+        "Wiring Harness": 3,
+        "Rear Lamp": 3
     },
     "specific-parts-bought": {
-        "High-voltage cable": 3
+        "High-voltage cable": 3,
+        "LED rear combination lamp": 3
     },
     "suppliers": {
-        "Jiangsu Jingwei Cable Co., Ltd.": 3
+        "Jiangsu Jingwei Cable Co., Ltd.": 3,
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 3
     }
 }

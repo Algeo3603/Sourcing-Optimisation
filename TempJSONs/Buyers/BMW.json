@@ -1,7 +1,8 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Wiring Harness": 75
+        "Wiring Harness": 75,
+        "Rear Lamp": 143
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -34,7 +35,24 @@
         "Wiring harness system": 1,
         "Wiring protection system": 1,
         "Instrument panel wiring harness": 1,
-        "HVAC block harness": 1
+        "HVAC block harness": 1,
+        "Rear lamp": 46,
+        "LED rear lamp": 71,
+        "LED rear combination lamp": 3,
+        "Tail light cover": 1,
+        "Tail lamp assembly": 1,
+        "Rear combination lamp": 2,
+        "Rear lamp bracket": 1,
+        "Rear lamp housing": 1,
+        "LED stop lamp": 1,
+        "Stop lamp": 3,
+        "Additional brake light": 1,
+        "All LED taillamp with 3D lightbar": 1,
+        "Brake lamp": 5,
+        "Additional LED brake light": 3,
+        "LED brake light": 1,
+        "Stop lighting": 1,
+        "LED rear tail light": 1
     },
     "suppliers": {
         "Delfingen Industry S.A.": 3,
@@ -51,12 +69,26 @@
         "Kromberg & Schubert Automotive GmbH & Co. KG - Renningen": 2,
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 3,
         "Gebauer & Griller Kabelwerke GmbH": 4,
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 49,
         "MTA S.p.A": 2,
         "Küster Holding GmbH": 1,
         "DAA Draexlmaier Automotive of America LLC": 1,
         "Lear Corporation": 1,
         "DAD Dräxlmaier Automotive d.o.o.": 1,
-        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 1
+        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 1,
+        "Marelli Automotive Lighting Tepotzotlan Mexico S. de R.L. de C.V. (Automotive Lighting Rear Lamps Mexico S. de r.l. de C.V.)": 3,
+        "odelo GmbH": 29,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 12,
+        "Magna Lighting (Formerly OLSA S.p.A.)": 12,
+        "ZKW Lighting Systems USA, Inc.": 4,
+        "Marelli Automotive Lighting Italy S.p.A. - Tolmezzo (Formerly Automotive Lighting Italia S.p.A. - Tolmezzo)": 1,
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 12,
+        "HEYCO-WERK Heynen GmbH & Co. KG": 1,
+        "Valeo Group": 11,
+        "Magna International Inc.": 1,
+        "BMW": 2,
+        "REBO Lighting & Electronics GmbH": 2,
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 4,
+        "Flex Ltd. (formerly Flextronics International Ltd.)": 1
     }
 }

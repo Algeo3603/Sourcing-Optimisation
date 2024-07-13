@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 357
+        "Wiring Harness": 357,
+        "Rear Lamp": 13
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -92,7 +93,10 @@
         "High voltage wiring harness(2.5L)(ECVT)": 1,
         "High voltage wiring harness(1.8L)(ECVT)": 1,
         "Wiring harness": 4,
-        "Engine wiring harness": 6
+        "Engine wiring harness": 6,
+        "Rear combination lamp": 6,
+        "Signal lamp": 4,
+        "Rear lamp": 3
     },
     "suppliers": {
         "Dongguan Nifco Co., Ltd.": 2,
@@ -104,6 +108,9 @@
         "Furukawa Electric (Shenzhen) Co., Ltd. (FESZ)": 17,
         "Huizhou Zhurun Automotive Wire Co., Ltd.": 34,
         "Huizhou Zhurun Wiring Systems Co., Ltd.": 23,
-        "Yazaki Corporation": 2
+        "Yazaki Corporation": 2,
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 2,
+        "Guangzhou Koito Automotive Lamp Co., Ltd.": 10,
+        "Foshan Ichikoh Valeo Auto Lighting Systems Co., Ltd.": 1
     }
 }

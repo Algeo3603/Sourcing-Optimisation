@@ -1,7 +1,8 @@
 {
     "region": "ASEAN・India・Korea",
     "parts-bought": {
-        "Wiring Harness": 157
+        "Wiring Harness": 157,
+        "Rear Lamp": 78
     },
     "specific-parts-bought": {
         "ABS wiring harness": 4,
@@ -21,10 +22,16 @@
         "Door wiring harness": 14,
         "Trunk wiring harness": 14,
         "Main wiring harness": 15,
-        "Wiring protection system": 1
+        "Wiring protection system": 1,
+        "Rear lamp": 37,
+        "LED rear lamp": 4,
+        "Rear lamp housing": 7,
+        "Rear combination lamp": 26,
+        "Stop lamp": 1,
+        "Rear lamp assembly": 3
     },
     "suppliers": {
-        "Hyundai Mobis Co., Ltd.": 4,
+        "Hyundai Mobis Co., Ltd.": 18,
         "Kyungshin Corporation": 16,
         "YURA Corporation": 3,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 4,
@@ -34,6 +41,15 @@
         "THN Corporation": 96,
         "Kyungshin Industrial Motherson Private Ltd.": 12,
         "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 7,
-        "DELFINGEN US - Rochester Hills": 1
+        "DELFINGEN US - Rochester Hills": 1,
+        "SL Lumax Industries Limited": 22,
+        "SL Corporation": 4,
+        "MOBIS Alabama, LLC.": 1,
+        "Hyundai IHL Corporation": 21,
+        "Arteb": 1,
+        "DH Lighting Co., Ltd. - 2nd plant (Formerly DH Innorex Co., Ltd.)": 7,
+        "Seoyon Autovision Co.,Ltd.": 3,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
+        "Lumax Industries Ltd.": 2
     }
 }
