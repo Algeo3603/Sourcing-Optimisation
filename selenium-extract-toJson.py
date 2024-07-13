@@ -40,9 +40,9 @@ part_dict = {'buyer':set(), 'supplier':set()}
 
 # Open the link of the part to be scraped
 # Future scope -> iterate through links dynamically or read them from a file
-partlink = 'https://www.marklines.com/en/wsw/brake-line/'
-partname = 'Brake Line'
-driver.get(partlink)
+part_link = 'https://www.marklines.com/en/wsw/brake-line/'
+part_name = 'Brake Line'
+driver.get(part_link)
 print('Navigated to part link')
 
 
@@ -52,12 +52,14 @@ soup = BeautifulSoup(html_content, 'html.parser')
 table = soup.find('table', id='market_share_data').find('tbody')
 # Fetch relevant data from each row and add to part_dict
 rows = table.find_all('tr')
-for row in rows:
+for row in rows[:]:
     tds = row.find_all('td')
+    supplier_link = 'https://www.marklines.com/' + tds[4].find('a')['href']
     tds = [td.get_text().strip() for td in tds]
     buyer, supplier, specific_part = tds[1], tds[4], tds[5]
     part_dict['buyer'].add(buyer)
     part_dict['supplier'].add(supplier)
+    
     # Update/Create buyer.json
     if os.path.exists(f'TempJSONs/Buyers/{buyer}.json'):
         with open(f'TempJSONs/Buyers/{buyer}.json', 'r') as file:
@@ -68,10 +70,45 @@ for row in rows:
         buyer_dict['suppliers'].append(supplier)
     if specific_part not in buyer_dict['specific-parts-bought']:
         buyer_dict['specific-parts-bought'].append(specific_part)
-    if partname not in buyer_dict['parts-bought']:
-        buyer_dict['parts-bought'].append(partname)
+    if part_name not in buyer_dict['parts-bought']:
+        buyer_dict['parts-bought'].append(part_name)
     with open(f'TempJSONs/Buyers/{buyer}.json', 'w') as file:
         json.dump(buyer_dict, file, ensure_ascii=False, indent=4)
+
+    # Update/Create supplier.json
+    if 'top500' in supplier_link:
+        if os.path.exists(f'TempJSONs/Suppliers/{supplier}.json'):
+            with open(f'TempJSONs/Suppliers/{supplier}.json', 'r') as file:
+                supplier_dict = json.load(file)
+        else:
+            supplier_dict = {'top500':True, 'parts_sold':[], 'specific_parts_sold':[], 'buyers':[]}
+            main_window = driver.current_window_handle
+            driver.switch_to.new_window('tab')
+            driver.get(supplier_link)
+            html_content = driver.page_source
+            soup = BeautifulSoup(html_content, 'html.parser')
+            company_profile = soup.find('div', class_='over-view')
+            p_tags = company_profile.find_all('p')
+            info = [p.get_text().strip() for p in p_tags]
+            for i in range(len(info)):
+                if not info[i][0].isalpha():
+                    info[i] = info[i][1:]
+            for i in range(0, len(info) - 1, 2):
+                supplier_dict[info[i]] = info[i + 1]
+            address = soup.find_all('div')[-1].get_text().strip()
+            supplier_dict[info[len(info) - 1]] = address
+            if part_name not in supplier_dict['parts_sold']:
+                supplier_dict['parts_sold'].append(part_name)
+            if buyer not in supplier_dict['buyers']:
+                supplier_dict['buyers'].append(buyer)
+            if specific_part not in supplier_dict['specific_parts_sold']:
+                supplier_dict['specific_parts_sold'].append(specific_part)    
+            driver.close()
+            driver.switch_to.window(main_window)
+        with open(f'TempJSONs/Suppliers/{supplier}.json', 'w') as file:
+            json.dump(supplier_dict, file, ensure_ascii=False, indent=4)
+
+
     print('.', end='') # To see progress in terminal as the script runs
 print()
 
@@ -79,7 +116,7 @@ print()
 # Write the part dictionary to a json
 part_dict['buyer'] = list(part_dict['buyer'])
 part_dict['supplier'] = list(part_dict['supplier'])
-with open(f'TempJSONs/Parts/{partname}.json', 'w') as file:
+with open(f'TempJSONs/Parts/{part_name}.json', 'w') as file:
     json.dump(part_dict, file, ensure_ascii=False, indent=4)
 print("Part file created")
 
@@ -87,14 +124,3 @@ print("Part file created")
 
 # driver.quit()
 
-######################################################################
-# # HANDLING MULTIPLE TABS
-# main_window = driver.current_window_handle
-# print(main_window)
-# driver.switch_to.new_window('tab')
-# driver.get("https://www.google.com/")
-# time.sleep(3)
-# driver.close()
-# driver.switch_to.window(main_window)
-# time.sleep(3)
-# driver.close()
