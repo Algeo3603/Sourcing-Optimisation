@@ -1,15 +1,27 @@
 {
     "top500": true,
     "parts_sold": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific_parts_sold": [
         "Rear lamp",
         "LED rear lamp bulb",
         "LED rear lamp",
         "LED rear combination lamp",
-        "Wiring harness"
+        "Rear combination lamp",
+        "LED rear lights",
+        "Rear lamp bulb",
+        "LED rear tail light",
+        "All LED taillamp with 3D lightbar",
+        "LED taillamp with crystal design",
+        "Rear lamp (bulb)",
+        "Full-LED tail lamp",
+        "Brake lamp",
+        "Rear lighting system",
+        "LED rear lamp system",
+        "Rear lamp (LED/Halogen)",
+        "Reversing lamp",
+        "LED rear lamp + bulb"
     ],
     "buyers": [
         "BMW",
@@ -19,9 +31,41 @@
         "DS Automobiles",
         "Audi",
         "Volkswagen",
-        "Nissan"
+        "Maruti Suzuki",
+        "Daimler",
+        "Honda",
+        "Porsche",
+        "Alfa Romeo",
+        "Jeep",
+        "Opel",
+        "Changan Ford",
+        "Chrysler",
+        "Dongfeng Honda",
+        "Ferrari",
+        "GM",
+        "Renault",
+        "Ford",
+        "Hyundai",
+        "Citroen",
+        "Dodge",
+        "Jaguar Land Rover",
+        "Bugatti",
+        "Dacia",
+        "GAC Fiat Chrysler",
+        "Kia",
+        "Magyar Suzuki",
+        "Mitsubishi",
+        "Proton",
+        "SEAT",
+        "Suzuki",
+        "Volvo Cars",
+        "Lancia",
+        "Skoda",
+        "Chery",
+        "Nissan",
+        "Toyota"
     ],
     "Year Established": "919",
     "URL": "https://www.marelli.com/",
-    "Address": ""
+    "Address": "Viale Aldo Borletti, 61/63 - 20011 Corbetta, Milano, Italy"
 }

@@ -1,31 +1,17 @@
 {
     "parts-bought": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
         "LED rear lamp",
         "Rear lamp",
-        "High-voltage wiring harness",
-        "Trunk wiring harness(1.4T)(7DCT)",
-        "Engine room wiring harness(1.4T)(7DCT)",
-        "Body wiring harness(1.4T)(7DCT)",
-        "Door wiring harness(1.4T)(7DCT)",
-        "Cluster wiring harness(1.4T)(7DCT)",
-        "Wiring harness",
-        "Trunk wiring harness(2.0T)(7DCT)",
-        "Engine room wiring harness(2.0T)(7DCT)",
-        "Body wiring harness(2.0T)(7DCT)",
-        "Door wiring harness(2.0T)(7DCT)",
-        "Cluster wiring harness(2.0T)(7DCT)",
-        "Trunk wiring harness(2.5T)(7DCT)",
-        "Engine room wiring harness(2.5T)(7DCT)",
-        "Body wiring harness(2.5T)(7DCT)",
-        "Door wiring harness(2.5T)(7DCT)",
-        "Cluster wiring harness(2.5T)(7DCT)"
+        "Rear combination lamp"
     ],
     "suppliers": [
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
-        "Kunshan Huguang Auto Harness Co., Ltd."
+        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)",
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.",
+        "Shanghai Pudong Automotive Lamps Co., Ltd.",
+        "Koito Manufacturing Co., Ltd."
     ]
 }

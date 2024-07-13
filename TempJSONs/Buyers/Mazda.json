@@ -1,44 +1,17 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
-        "Vacuum brake hose",
-        "Brake hose assembly",
         "Rear lamp",
         "Rear combination lamp",
         "Rear lamp housing",
-        "Engine wiring harness",
-        "Front door wiring harness",
-        "Front wiring harness",
-        "Clearance sonar wiring harness",
-        "Floor wiring harness",
-        "Engine room wiring harness",
-        "Rear door wiring harness",
-        "Back door wiring harness",
-        "Wiring harness system",
-        "Rear bumper wiring harness",
-        "Body wiring harness",
-        "Door wiring harness",
-        "Battery wiring harness",
-        "Airbag wiring harness",
-        "Power sliding door wiring harness",
-        "Electric parking brake wiring harness",
-        "Sensor wiring harness",
-        "Instrument panel wiring harness",
-        "Harness for electric parking brake",
-        "Wire harness",
-        "Wiring harness"
+        "LED rear combination lamp",
+        "Tail & stop lamp",
+        "Stop lamp",
+        "LED rear lamp"
     ],
     "suppliers": [
-        "Proterial (Thailand) Ltd. (Formerly Hitachi Metals (Thailand) Ltd.)",
-        "Toyoda Gosei Co., Ltd.",
-        "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)",
-        "Meiji Flow Systems Co., Ltd.",
-        "Nichirin Co., Ltd.",
         "Koito Manufacturing Co., Ltd.",
         "Stanley Electric Co., Ltd.",
         "North American Lighting Mexico, S.A. de C.V.",
@@ -47,17 +20,7 @@
         "Hyundai Mobis Co., Ltd.",
         "Ichikoh Industries, Ltd.",
         "Tokaidenso Corporation",
-        "Sumitomo Electric Industries, Ltd.",
-        "Furukawa Electric Co., Ltd.",
-        "PT. Sumi Indo Wiring Systems",
-        "SEWS MEXICO S.A. de C.V. （SEWS-Mex）",
-        "Sumitomo Electric Wiring Systems (Thailand) Ltd.",
-        "Yazaki Corporation",
-        "Lear Automotive (Thailand) Co., Ltd.",
-        "Sumitomo Wiring Systems, Ltd.",
-        "Elcom Inc.",
-        "Sumitomo Electric Wiring Systems, Inc.",
-        "Fujikura Automotive (Thailand) Ltd.  (formerly, Yondeden (Thailand) Ltd.)",
-        "Fujikura Ltd."
+        "Thai Koito Co., Ltd.",
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)"
     ]
 }

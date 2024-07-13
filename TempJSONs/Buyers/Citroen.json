@@ -1,26 +1,25 @@
 {
     "parts-bought": [
-        "Brake Line",
         "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Front brake hose",
-        "Brake line",
-        "Brake hose",
-        "Rear brake hose",
         "Rear lamp",
-        "LED rear lamp"
+        "LED rear lamp",
+        "LED rear lamp with infinity mirror effect",
+        "LED rear lamp system",
+        "Brake lamp",
+        "Stop lighting"
     ],
     "suppliers": [
-        "Flexitech Europe SAS",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Flexitech Inc.",
-        "Freudenberg SE",
-        "Hutchinson S.A.",
         "Neolite ZKW Lightings Pvt. Ltd.",
         "Varroc Lighting System (India) Pvt. Ltd.",
         "Varroc Lighting Systems - Morocco",
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.",
-        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)"
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Koito Manufacturing Co., Ltd.",
+        "Valeo Group",
+        "Visteon Corporation"
     ]
 }

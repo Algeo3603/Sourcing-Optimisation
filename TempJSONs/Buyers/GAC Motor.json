@@ -1,27 +1,13 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose(1.5L)(6AT)",
-        "Brake hose(2.0L)(6AT)",
         "Rear combination lamp",
-        "Wiring harness(1.5T)(7DCT)",
-        "Traction motor wiring harness",
-        "Body wiring harness",
-        "Engine wiring harness assembly",
-        "Battery wiring harness assembly",
-        "Center console wiring harness assembly",
-        "Door wiring harness assembly",
-        "Lithium-ion battery wiring harness"
+        "Rear Lamp"
     ],
     "suppliers": [
-        "Suzhou Nichirin Automobile Parts Co., Ltd.",
         "Guangdong Jiali Automobile Lamp Co., Ltd.",
-        "Aptiv Electric Systems Co., Ltd.",
-        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)",
-        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch"
+        "Laster Tech Automotive (Shanghai) Co., Ltd."
     ]
 }

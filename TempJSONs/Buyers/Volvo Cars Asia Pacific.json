@@ -1,17 +1,14 @@
 {
     "parts-bought": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
         "Rear lamp",
-        "High-voltage wiring harness",
-        "Wiring harness"
+        "Rear combination lamp"
     ],
     "suppliers": [
         "Zhejiang Jinye Auto Parts Co., Ltd.",
-        "Jining Lear Automotive Parts Co., Ltd. (Formerly Shanghai Lear Automotive Parts Co., Ltd.)",
-        "Lear Automotive Systems (Yangzhou) Co., Ltd.",
-        "Aptiv Electric Systems Co., Ltd. Chongqing Branch"
+        "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.",
+        "Shanghai Sunlight Enterprise Co., Ltd."
     ]
 }

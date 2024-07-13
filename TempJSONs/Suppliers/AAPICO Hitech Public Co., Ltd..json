@@ -1,17 +1,14 @@
 {
     "top500": true,
     "parts_sold": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific_parts_sold": [
-        "Rear combination lamp assembly",
-        "Wiring harness bracket"
+        "Rear combination lamp assembly"
     ],
     "buyers": [
         "Hino",
-        "Isuzu",
-        "Toyota"
+        "Isuzu"
     ],
     "Year Established": "996",
     "Number of Employees": ",900 employees (As of Dec. 31, 2023)",
@@ -19,5 +16,5 @@
     "Representative": "Yeap Swee Chuan (President and CEO)",
     "Capital": "THB 354.84 million (FY 2023)",
     "URL": "https://www.aapico.com",
-    "Address": ""
+    "Address": "99 Moo 1, Hitech Industrial Estate, Tambol Ban Lane, Amphur Bangpa-in, Ayutthaya 13160, Thailand"
 }

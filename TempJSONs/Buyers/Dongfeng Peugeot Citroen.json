@@ -1,17 +1,13 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose(1.2T)(6DCT)",
-        "High-voltage wiring harness",
-        "High-voltage wiring harness system",
-        "Seat Wiring Harness"
+        "Rear lamp",
+        "Rear combination lamp"
     ],
     "suppliers": [
-        "Suzhou Nichirin Automobile Parts Co., Ltd.",
-        "Wuhan Zhengao Automotive Electrical System Co., Ltd. (Formerly Wuhan Zhengao Leoni Automotive Wiring Harness Co., Ltd.)",
-        "Aptiv Electric Systems Co., Ltd. Wuhan Branch"
+        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)",
+        "Shanghai Sunlight Enterprise Co., Ltd."
     ]
 }

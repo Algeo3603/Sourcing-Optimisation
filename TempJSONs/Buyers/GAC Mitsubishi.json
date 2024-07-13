@@ -1,36 +1,13 @@
 {
     "parts-bought": [
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Engine room wiring harness(2.4L)(CVT8)",
-        "Body wiring harness(2.4L)(CVT8)",
-        "Door wiring harness(2.4L)(CVT8)",
-        "Floor wiring harness(2.4L)(CVT8)",
-        "Engine room wiring harness(2.0L)(CVT8)",
-        "Body wiring harness(2.0L)(CVT8)",
-        "Door wiring harness(2.0L)(CVT8)",
-        "Floor wiring harness(2.0L)(CVT8)",
-        "Body wiring harness(1.5T)(CVT8)",
-        "Door wiring harness(1.5T)(CVT8)",
-        "Body wiring harness(1.5T)(6MT)",
-        "Door wiring harness(1.5T)(6MT)",
-        "Body wiring harness(2.4L)(CVT6)",
-        "Door wiring harness(2.4L)(CVT6)",
-        "Engine room wiring harness(2.4L)(CVT6)",
-        "Body wiring harness(2.0L)(CVT6)",
-        "Door wiring harness(2.0L)(CVT6)",
-        "Engine room wiring harness(2.0L)(CVT6)",
-        "Body wiring harness(1.6L)(5MT)",
-        "Body wiring harness(1.6L)(CVT)",
-        "Door wiring harness(1.6L)(5MT)",
-        "Door wiring harness(1.6L)(CVT)",
-        "Engine room wiring harness(1.6L)(5MT)",
-        "Engine room wiring harness(1.6L)(CVT)"
+        "Rear lamp",
+        "Rear combination lamp"
     ],
     "suppliers": [
-        "Fushan Shunde Yazaki Auto Parts Co., Ltd.",
-        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch",
-        "HuiZhou Sumiden Wiring Systems Co., Ltd."
+        "Bluestar Technology (Shenzhen) Co., Ltd.",
+        "Wuhan Stanley Electric Co., Ltd."
     ]
 }

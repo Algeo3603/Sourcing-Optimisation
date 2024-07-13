@@ -1,26 +1,18 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Vacuum hose",
-        "Brake line",
         "LED rear lamp",
-        "Rear lamp",
-        "High voltage wiring harness",
-        "Electrical distribution system"
+        "Rear lamp"
     ],
     "suppliers": [
-        "A. Kayser Automotive Systems GmbH",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
         "Varroc Engineering Ltd.",
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
         "odelo GmbH",
         "Hella GmbH & Co. KGaA (FORVIA HELLA)",
         "Valeo Group",
-        "Sumitomo Wiring Systems, Ltd.",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)"
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)"
     ]
 }

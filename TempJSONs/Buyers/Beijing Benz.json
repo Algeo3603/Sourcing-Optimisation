@@ -1,27 +1,12 @@
 {
     "parts-bought": [
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "High-voltage wiring harness",
-        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(9AMT)",
-        "ABS wiring harness(1.6T)(9AMT)",
-        "ESP wiring harness(1.6T)(9AMT)",
-        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(9AMT)",
-        "ABS wiring harness(2.0T)(9AMT)",
-        "ESP wiring harness(2.0T)(9AMT)",
-        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7AMT)",
-        "ABS wiring harness(2.0T)(7AMT)",
-        "ESP wiring harness(2.0T)(7AMT)",
-        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(7DCT)",
-        "ABS wiring harness(1.6T)(7DCT)",
-        "ESP wiring harness(1.6T)(7DCT)",
-        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7DCT)",
-        "ABS wiring harness(2.0T)(7DCT)",
-        "ESP wiring harness(2.0T)(7DCT)"
+        "Rear lamp"
     ],
     "suppliers": [
-        "Kunshan Huguang Auto Harness Co., Ltd.",
-        "Langfang Leoni Wiring Systems Co., Ltd."
+        "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.",
+        "Beifang Hella Automotive Lighting Ltd."
     ]
 }

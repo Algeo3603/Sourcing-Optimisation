@@ -1,17 +1,12 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Hydraulic brake hose",
-        "Vaccum brake hose",
-        "High voltage wiring harness"
+        "Rear lamp(1.4L)(6MT)",
+        "Rear lamp"
     ],
     "suppliers": [
-        "Hwaseung Automotive Parts (Taicang) Co., Ltd.",
-        "Tianjin Pyung Hwa Auto Parts Co., Ltd.",
-        "Beijing BHAP Lear Automotive Systems Co., Ltd.",
-        "YURA Corporation"
+        "Beijing Samlip Automotive Lighting Co., Ltd."
     ]
 }

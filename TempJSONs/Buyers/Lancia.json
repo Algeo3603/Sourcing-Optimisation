@@ -1,15 +1,14 @@
 {
     "parts-bought": [
-        "Brake Line",
         "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
-        "Brake line",
-        "Rear lamp"
+        "Rear lamp",
+        "LED rear lamp",
+        "Reversing lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Flex-N-Gate Corporation"
+        "Flex-N-Gate Corporation",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)"
     ]
 }

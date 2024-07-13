@@ -1,25 +1,13 @@
 {
     "parts-bought": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
         "Rear lamp",
-        "Rear combination lamp",
-        "Battery cable",
-        "AC charger inlet cable",
-        "High voltage wiring harness",
-        "Trunk wiring harness",
-        "Body wiring harness",
-        "Door wiring harness",
-        "Cluster wiring harness"
+        "Rear combination lamp"
     ],
     "suppliers": [
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
-        "Xunchi Vehicle Jiangsu Ltd.",
-        "Shanghai Sanzhi Automobile Accessories Industrial Co., Ltd.",
-        "Avic Jonhon Optronic Technology Co., Ltd.",
-        "Ningbo Joyson Quin Automotive System Co., Ltd. (Formerly Ningbo Joyson Automotive Electronics Co., Ltd.)",
-        "Kunshan Huguang Auto Harness Co., Ltd."
+        "Xunchi Vehicle Jiangsu Ltd."
     ]
 }

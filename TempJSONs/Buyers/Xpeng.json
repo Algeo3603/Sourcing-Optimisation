@@ -1,23 +1,12 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Rear lamp",
-        "Wiring harness",
-        "Low voltage wiring harness for battery pack",
-        "High-voltage wiring harness",
-        "High-voltage charging harness"
+        "Rear lamp"
     ],
     "suppliers": [
-        "TI Automotive (Tianjin) Co., Ltd. Guangzhou Branch (Formerly Bundy Fluid Systems (Tianjin) Co, Ltd. Guangzhou Branch)",
         "Guangdong Jiali Automobile Lamp Co., Ltd.",
-        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
-        "Aptiv Electric Systems Co., Ltd.",
-        "Shenzhen Uniconn Technology Co., Ltd. (Formerly Shenzhen Qiaoyun Technology Co., Ltd.)",
-        "Leoni Electrical Systems (Jining) Co., Ltd."
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)"
     ]
 }

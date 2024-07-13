@@ -1,29 +1,25 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Vacuum hose",
-        "Brake hose",
         "LED rear lamp",
         "Rear lamp",
-        "Wiring harness protector",
-        "Electrical distribution system"
+        "LED rear lights",
+        "Laser-welded rear LED lamp",
+        "Brake lamp",
+        "Additional LED brake light",
+        "LED stop lamp",
+        "Rear lamp (with LED)",
+        "LED rear light"
     ],
     "suppliers": [
-        "Cooper-Standard Holdings Inc.",
-        "FTE automotive GmbH",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "A. Kayser Automotive Systems GmbH",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)",
-        "Continental AG",
-        "Metzeler Schaum GmbH (Vita Metzo)",
         "Valeo Group",
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
         "Wipac Technology Limited",
-        "Sumitomo Electric Industries, Ltd."
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
+        "Hebei Shuangqi Light Industry Co., Ltd.",
+        "Samvardhana Motherson Innovative Autosystems B.V. & Co. KG"
     ]
 }

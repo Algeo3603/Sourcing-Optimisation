@@ -1,12 +1,10 @@
 {
     "top500": true,
     "parts_sold": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific_parts_sold": [
-        "Rear lamp",
-        "Wire harness"
+        "Rear lamp"
     ],
     "buyers": [
         "Mahindra & Mahindra",
@@ -18,5 +16,5 @@
     "Sales Turnover": "INR 112,364.9 million (FY ended Mar. 31, 2023)",
     "Representative": "Nirmal K Minda (Chairman & Managing Director)",
     "URL": "https://www.unominda.com/",
-    "Address": ""
+    "Address": "B-64/1, Wazirpur Industrial Area, Delhi – 110052, India"
 }

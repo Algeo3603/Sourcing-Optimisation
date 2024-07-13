@@ -1,23 +1,17 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
         "Rear lamp",
-        "High-voltage wiring harness",
-        "Low-voltage wiring harness",
-        "Busbar",
-        "Main wiring harness",
-        "Electrical distribution system"
+        "Full-LED tail lamp",
+        "Brake lamp",
+        "LED rear lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
         "Hella GmbH & Co. KGaA (FORVIA HELLA)",
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
-        "Aptiv PLC (Formerly Delphi Automotive PLC)",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)"
+        "Valeo Group",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)"
     ]
 }

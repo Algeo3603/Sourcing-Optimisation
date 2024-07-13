@@ -1,40 +1,19 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Brake hose",
-        "Vacuum hose",
-        "Front brake hose",
-        "Rear brake hose",
         "OLED rear lamp",
         "Rear combination lamp",
         "Rear lamp",
         "LED rear lamp",
         "LED rear combination lamp",
-        "Front wiring harness",
-        "Antenna wiring harness",
-        "Data cable",
-        "Fiber optic cable",
-        "Engine fuel injection wiring harness",
-        "Electrical distribution system",
-        "Wire harness",
-        "Wiring harness system",
-        "Wiring harness",
-        "Low-voltage wiring harness",
-        "Wiring protection system"
+        "OLED rear combination lamp",
+        "Laser-welded rear LED lamp",
+        "Brake lamp",
+        "Rear lamp (LED/Halogen)"
     ],
     "suppliers": [
-        "Cooper-Standard Holdings Inc.",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Continental AG",
-        "A. Kayser Automotive Systems GmbH",
-        "FTE automotive GmbH",
-        "Flexitech Europe SAS",
-        "Flexitech Inc.",
         "OLEDWorks GmbH",
         "Valeo Group",
         "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",
@@ -44,11 +23,7 @@
         "Magna Lighting (Formerly OLSA S.p.A.)",
         "Hella GmbH & Co. KGaA (FORVIA HELLA)",
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
-        "Leoni AG",
-        "MD ELEKTRONIK GmbH",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)",
-        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)",
-        "Aptiv PLC (Formerly Delphi Automotive PLC)",
-        "Delfingen de Marktrodach GmbH & Co. KG"
+        "Ichikoh Industries, Ltd.",
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)"
     ]
 }

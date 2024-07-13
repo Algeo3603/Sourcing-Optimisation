@@ -40,8 +40,8 @@ part_dict = {'buyer':set(), 'supplier':set()}
 
 # Open the link of the part to be scraped
 # Future scope -> iterate through links dynamically or read them from a file
-part_link = 'https://www.marklines.com/en/wsw/wiring-harness/'
-part_name = 'Wiring Harness'
+part_link = 'https://www.marklines.com/en/wsw/rear-lamp/'
+part_name = 'Rear Lamp'
 driver.get(part_link)
 print('Navigated to part link')
 
@@ -54,7 +54,10 @@ table = soup.find('table', id='market_share_data').find('tbody')
 rows = table.find_all('tr')
 for row in rows[:]:
     tds = row.find_all('td')
-    supplier_link = 'https://www.marklines.com/' + tds[4].find('a')['href']
+    try:
+        supplier_link = 'https://www.marklines.com/' + tds[4].find('a')['href']
+    except:
+        supplier_link = None
     tds = [td.get_text().strip() for td in tds]
     buyer, supplier, specific_part = tds[1], tds[4], tds[5]
     part_dict['buyer'].add(buyer)
@@ -76,7 +79,7 @@ for row in rows[:]:
         json.dump(buyer_dict, file, ensure_ascii=False, indent=4)
 
     # Update/Create supplier.json
-    if 'top500' in supplier_link:
+    if supplier_link and 'top500' in supplier_link:
         if os.path.exists(f'TempJSONs/Suppliers/{supplier}.json'):
             with open(f'TempJSONs/Suppliers/{supplier}.json', 'r') as file:
                 supplier_dict = json.load(file)
@@ -96,7 +99,7 @@ for row in rows[:]:
                     info[i] = info[i][1:]
             for i in range(0, len(info) - 1, 2):
                 supplier_dict[info[i]] = info[i + 1]
-            address = soup.find_all('div')[-1].get_text().strip()
+            address = company_profile.find_all('div')[-1].get_text().strip()
             supplier_dict[info[len(info) - 1]] = address
             driver.close()
             driver.switch_to.window(main_window)

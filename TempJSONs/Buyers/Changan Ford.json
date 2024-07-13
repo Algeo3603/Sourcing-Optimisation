@@ -1,16 +1,17 @@
 {
     "parts-bought": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
         "Rear lamp",
-        "Low-voltage wiring harness",
-        "Wiring harness"
+        "LED taillamp with crystal design",
+        "Rear combination lamp",
+        "Rear Lamp"
     ],
     "suppliers": [
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
-        "Aptiv PLC (Formerly Delphi Automotive PLC)",
-        "Aptiv Electric Systems Co., Ltd. Chongqing Branch"
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Shanghai Sunlight Enterprise Co., Ltd.",
+        "Laster Tech Automotive (Shanghai) Co., Ltd."
     ]
 }

@@ -1,14 +1,12 @@
 {
     "parts-bought": [
-        "Brake Line",
         "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
         "Rear lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Varroc Lighting Systems - Morocco"
+        "Varroc Lighting Systems - Morocco",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)"
     ]
 }

@@ -1,29 +1,16 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
-        "Brake line",
-        "Front brake hose",
         "Rear lamp",
         "Rear lamp housing",
-        "Transmission wiring harness",
-        "Wiring harness"
+        "Rear lamp (bulb)",
+        "LED rear lamp"
     ],
     "suppliers": [
-        "Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "TI Automotive LLC",
-        "Flexitech Inc.",
-        "TI Automotive Reynosa S. de R.L. de C.V.",
-        "Cooper-Standard Holdings Inc.",
-        "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)",
         "Magna International Inc.",
         "Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC)",
-        "General Cable - Rhode Island",
-        "Yazaki North America Inc."
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)"
     ]
 }

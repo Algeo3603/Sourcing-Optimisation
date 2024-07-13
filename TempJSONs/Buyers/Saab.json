@@ -1,12 +1,13 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line"
+        "Rear lamp",
+        "LED rear lamp"
     ],
     "suppliers": [
-        "Cooper-Standard Holdings Inc.",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)"
+        "Visteon Corporation",
+        "North American Lighting, Inc."
     ]
 }

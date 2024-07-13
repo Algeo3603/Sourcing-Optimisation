@@ -1,57 +1,24 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Front brake hose",
-        "Rear brake hose",
-        "Brake hose",
-        "Vacuum hose",
-        "Vacuum brake hose",
         "Rear combination lamp",
         "Rear lamp",
-        "Engine wiring harness",
-        "Front wiring harness",
-        "Clearance sonar wiring harness",
-        "Floor wiring harness",
-        "Engine room wiring harness",
-        "Rear door wiring harness",
-        "Back door wiring harness",
-        "Front door wiring harness",
-        "Instrument panel wiring harness",
-        "Body wiring harness",
-        "Rear bumper wiring harness",
-        "Battery wiring harness",
-        "Fog lamp wiring harness",
-        "Roof wiring harness",
-        "Sensor wiring harness",
-        "Airbag wiring harness",
-        "Power sliding door wiring harness",
-        "Door wiring harness",
-        "Wire harness"
+        "LED rear combination lamp",
+        "Rear Lamp",
+        "Reflector",
+        "LED rear lamp"
     ],
     "suppliers": [
-        "Toyoda Gosei Minda India Pvt. Ltd. - Bawal Plant2 (Formerly MINDA TG Rubber Pvt. Ltd.)",
-        "Proterial (Thailand) Ltd. (Formerly Hitachi Metals (Thailand) Ltd.)",
-        "P.T. Nichirin Indonesia",
-        "Meiji Flow Systems Co., Ltd.",
-        "Toyoda Gosei Co., Ltd.",
-        "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)",
-        "Kinugawa Rubber Industrial Co., Ltd.",
-        "Nichirin Co., Ltd.",
         "Ichikoh Industries, Ltd.",
         "Koito Manufacturing Co., Ltd.",
         "Tokaidenso Corporation",
-        "Sumitomo Electric Industries, Ltd.",
-        "Furukawa Electric Co., Ltd.",
-        "ASTI Corporation",
-        "Yazaki Corporation",
-        "Sumitomo Electric Wiring Systems (Thailand) Ltd.",
-        "PT. Furukawa Automotive Systems Indonesia",
-        "Sumitomo Wiring Systems, Ltd.",
-        "Thai Summit Harness Public Company Limited",
-        "Furukawa Automotive Systems (Thailand) Co., Ltd. (FAST)"
+        "Thai Stanley Electric PCL",
+        "Fujisangyo Co., Ltd.",
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)",
+        "Stanley Electric Co., Ltd.",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Automotive Lighting Japan K.K"
     ]
 }

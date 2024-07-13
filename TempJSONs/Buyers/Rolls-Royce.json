@@ -1,17 +1,13 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
         "Rear lamp",
-        "Engine wiring harness"
+        "Stop lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
         "Wipac Technology Limited",
-        "Nexans autoelectric GmbH"
+        "odelo GmbH"
     ]
 }

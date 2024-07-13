@@ -1,35 +1,16 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
         "LED rear lamp",
         "Rear lamp",
-        "Rear combination lamp",
-        "Trunk wiring harness(2.0T)(9AMT)",
-        "Cluster wiring harness(2.0T)(9AMT)",
-        "Engine room wiring harness(2.0T)(9AMT)",
-        "Body wiring harness(2.0T)(9AMT)",
-        "Door wiring harness(2.0T)(9AMT)",
-        "Trunk wiring harness(1.5T)(9AT)",
-        "Trunk wiring harness(2.0T)(9AT)",
-        "Engine room wiring harness(1.5T)(9AT)",
-        "Engine room wiring harness(2.0T)(9AT)",
-        "Body wiring harness(1.5T)(9AT)",
-        "Body wiring harness(2.0T)(9AT)",
-        "Door wiring harness(1.5T)(9AT)",
-        "Door wiring harness(2.0T)(9AT)",
-        "Cluster wiring harness(1.5T)(9AT)",
-        "Cluster wiring harness(2.0T)(9AT)"
+        "Rear combination lamp"
     ],
     "suppliers": [
-        "Nichirin Vietnam Co., Ltd.",
         "Valeo Group (China)",
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
         "ZKW Lighting Systems (Dalian) Co., Ltd.",
-        "Kunshan Huguang Auto Harness Co., Ltd."
+        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)"
     ]
 }

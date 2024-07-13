@@ -1,7 +1,6 @@
 {
     "parts-bought": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
         "Rear combination lamp",
@@ -11,15 +10,7 @@
         "Stop lamp",
         "Rear lamp(2.0T)(8AT)",
         "Rear lamp(2.0T)(7DCT)",
-        "Wiring harness(2.0T)(8AT)",
-        "Wiring harness(1.5T)(3AT)",
-        "Wiring harness(1.5T)(7DCT)",
-        "Wiring harness(2.0T)(7DCT)",
-        "Wiring harness(1.8T)(7DCT)",
-        "Wiring harness(1.8T)(6MT)",
-        "Battery wiring harness",
-        "Traction motor wiring harness",
-        "Lithium-ion battery wiring harness"
+        "Rear lamp(1.8T)(6AMT)"
     ],
     "suppliers": [
         "Lynway Vision Technology (Nb) Co., Ltd.",
@@ -27,8 +18,10 @@
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
         "HELLA Jiaxing Lighting Co., Ltd.",
         "ZKW Lighting Systems (Dalian) Co., Ltd.",
-        "Jining Lear Automotive Parts Co., Ltd. (Formerly Shanghai Lear Automotive Parts Co., Ltd.)",
-        "Lear Automotive Systems (Yangzhou) Co., Ltd.",
-        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)"
+        "Valeo Group",
+        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.",
+        "Jiangsu Tongming Auto Lamp Co., Ltd.",
+        "Chongqing Qinchuan Industry and Trade Co., Ltd.",
+        "Jiangsu Tianhe Auto Parts Co., Ltd."
     ]
 }

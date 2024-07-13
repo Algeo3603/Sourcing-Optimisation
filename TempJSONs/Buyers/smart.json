@@ -1,14 +1,13 @@
 {
     "parts-bought": [
-        "Brake Line",
         "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Rear combination lamp"
+        "Rear combination lamp",
+        "Rear lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd."
+        "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.",
+        "odelo GmbH"
     ]
 }

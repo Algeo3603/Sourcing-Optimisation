@@ -1,28 +1,16 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Brake hose",
-        "Front brake hose",
-        "Rear brake hose",
         "Rear lamp",
-        "Low-voltage wiring harness",
-        "Wiring harness",
-        "Wiring harness protector",
-        "Audio wiring harness"
+        "LED rear lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Continental AG",
-        "Hutchinson S.A.",
         "Hella GmbH & Co. KGaA (FORVIA HELLA)",
-        "Lear Corporation",
-        "Aptiv PLC - Leskovac",
-        "Delfingen Industry S.A.",
-        "Analog Devices, Inc."
+        "Valeo Group",
+        "Hella India Lighting Ltd.",
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)"
     ]
 }

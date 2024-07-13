@@ -1,34 +1,22 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Brake line bundle assembly",
-        "Vacuum brake booster line",
-        "Brake hose",
-        "Front brake hose",
-        "Rear brake hose",
         "Rear lamp",
         "LED rear lamp",
-        "Door wiring harness",
-        "Rear bumper parking assist wiring harness",
-        "Electrical distribution system",
-        "Wiring protection system"
+        "LED rear lights",
+        "Rear lamp with LED tail light function providing typical Opel shape",
+        "LED stop lamp",
+        "Stop lighting"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "DN Automotive Italy s.r.l. (Formerly C.F. Gomma S.p.A.)",
-        "Freudenberg SE",
-        "Hutchinson S.A.",
-        "Cooper-Standard Holdings Inc.",
-        "Flexitech Inc.",
         "Valeo Group",
         "Hella GmbH & Co. KGaA (FORVIA HELLA)",
-        "Sumitomo Electric Industries, Ltd.",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)",
-        "Delfingen de Marktrodach GmbH & Co. KG"
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Varroc Lighting System (India) Pvt. Ltd.",
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)",
+        "odelo GmbH"
     ]
 }

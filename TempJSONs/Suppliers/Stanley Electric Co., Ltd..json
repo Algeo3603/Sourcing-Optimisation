@@ -6,7 +6,14 @@
     "specific_parts_sold": [
         "Rear combination lamp",
         "Rear lamp",
-        "Rear lamp housing"
+        "Rear lamp housing",
+        "Stop lamp",
+        "LED rear combination lamp",
+        "Reflector",
+        "Back-up lamp",
+        "Tail & stop lamp",
+        "Rear brake lamp",
+        "LED rear lamp"
     ],
     "buyers": [
         "Honda",
@@ -14,7 +21,8 @@
         "Mitsubishi",
         "Nissan",
         "Subaru",
-        "Toyota"
+        "Toyota",
+        "Suzuki"
     ],
     "Year Established": "May 5, 1933",
     "Number of Employees": "6,964 employees (As of Mar. 31, 2023)",
@@ -22,5 +30,5 @@
     "Representative": "Yasuaki Kaizumi (President)",
     "Capital": "Non Consolidated JPY 30,514 million (As of Mar. 31, 2023)",
     "URL": "http://www.stanley.co.jp/e/",
-    "Address": ""
+    "Address": "2-9-13 Nakameguro, Meguro-ku Tokyo, 153-8636 Japan"
 }

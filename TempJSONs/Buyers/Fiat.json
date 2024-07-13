@@ -1,39 +1,22 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Brake hose",
-        "Rigid brake line",
-        "Rear brake hose",
-        "Front brake hose",
         "Rear lamp",
         "LED rear lamp",
-        "Wiring harness",
-        "Engine wiring harness",
-        "Seat belt sensor wiring harness",
-        "Wire harness"
+        "LED brake light",
+        "Reversing lamp",
+        "Stop lighting"
     ],
     "suppliers": [
-        "Flexitech do Brasil Industria e Comercio de Mangueiras de Freios Ltda.",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "TMD Friction Holdings GmbH",
-        "Continental AG",
-        "Hutchinson S.A.",
-        "Teklas Kaucuk San. Ve Tic. A.S.",
-        "DN Automotive Italy s.r.l. (Formerly C.F. Gomma S.p.A.)",
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
         "Magna Lighting (Formerly OLSA S.p.A.)",
         "Arteb",
-        "Aptiv PLC (Formerly Delphi Automotive PLC)",
-        "Delphi Automotive Systems do Brasil Ltda.",
-        "Molex Conectores Eletricos e Eletronicos Comercio e Servicos Ltda.",
-        "Prettl Indústria de Componentes Automotivos do Brasil",
-        "Tyco Electronics Brasil Ltda.",
-        "Yazaki Corporation"
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)",
+        "Godks Industria De Plasticos Ltda.",
+        "Lumax Industries Ltd.",
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)"
     ]
 }

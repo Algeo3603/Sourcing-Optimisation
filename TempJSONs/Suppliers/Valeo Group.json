@@ -8,7 +8,11 @@
         "Rear lamp",
         "LED rear lamp",
         "Brake lamp",
-        "Rear lamp housing"
+        "Rear lamp housing",
+        "Rear lamp(1.8T)(6AMT)",
+        "Laser-welded rear LED lamp",
+        "Stop lighting",
+        "Rearlamp with MicroOptics"
     ],
     "buyers": [
         "Audi",
@@ -25,7 +29,16 @@
         "Skoda",
         "BMW",
         "Ford",
-        "Toyota"
+        "Toyota",
+        "Ferrari",
+        "Renault",
+        "Volvo Cars",
+        "Geely",
+        "Bugatti",
+        "Changan PSA",
+        "Citroen",
+        "Dongfeng Nissan",
+        "Seat"
     ],
     "Year Established": "923",
     "Number of Employees": "12,740 employees (As of Dec. 31, 2023)",
@@ -33,5 +46,5 @@
     "Representative": "Christophe Périllat (Chief Executive Officer and Director)",
     "Capital": "EUR 245 million (As of Dec. 31, 2023)",
     "URL": "https://www.valeo.com/en/",
-    "Address": ""
+    "Address": "100 rue de Courcelles, 75017 Paris, France"
 }

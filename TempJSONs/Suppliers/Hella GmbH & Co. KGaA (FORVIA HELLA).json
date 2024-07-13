@@ -1,8 +1,7 @@
 {
     "top500": true,
     "parts_sold": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific_parts_sold": [
         "Rear lamp",
@@ -11,8 +10,17 @@
         "LED rear combination lamp",
         "OLED rear lamp",
         "Tail lamp assembly",
-        "Antenna wiring harness",
-        "Negative battery cable"
+        "LED stop lamp",
+        "OLED rear combination lamp",
+        "Brake lamp",
+        "Additional brake light",
+        "LED rear light",
+        "Stop lamp",
+        "Additional LED brake light",
+        "LED brake light",
+        "LED rear tail light",
+        "Rear lamp (with LED)",
+        "Stop lighting"
     ],
     "buyers": [
         "Aston Martin",
@@ -32,7 +40,14 @@
         "Peugeot",
         "Renault",
         "SEAT",
-        "Tesla China"
+        "Tesla China",
+        "Jaguar Land Rover",
+        "Citroen",
+        "GM",
+        "Porsche",
+        "Jeep",
+        "Seat",
+        "Fiat"
     ],
     "Year Established": "899",
     "Number of Employees": "6,280 employees (As of Dec. 31, 2022)",
@@ -40,5 +55,5 @@
     "Representative": "Michel Favre (CEO)",
     "Capital": "EUR 222.2 million (FY ended Dec. 31, 2022)",
     "URL": "https://www.hella.com",
-    "Address": ""
+    "Address": "Rixbecker Straße 75, 59552 Lippstadt, Germany"
 }

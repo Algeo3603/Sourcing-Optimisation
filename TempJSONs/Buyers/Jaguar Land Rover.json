@@ -1,26 +1,18 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Vacuum brake line",
-        "Brake booster line",
-        "Brake line",
-        "Brake hose",
         "LED rear lamp",
         "Rear lamp",
-        "Wiring harness",
-        "Low-voltage wiring harness",
-        "Electrical distribution system",
-        "Wire harness",
-        "High voltage wire"
+        "Brake lamp",
+        "Additional brake light",
+        "Rear combination lamp",
+        "LED stop lamp",
+        "Styling LED rear lamp",
+        "Full-LED rear lamp with thick light blades"
     ],
     "suppliers": [
-        "Hutchinson S.A.",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Goodridge UK Ltd",
         "Varroc Lighting Systems - Morocco",
         "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",
         "Neolite ZKW Lightings Pvt. Ltd.",
@@ -28,8 +20,12 @@
         "Varroc Lighting Systems Italy S.p.A.",
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
         "Valeo Group",
-        "Leoni AG",
-        "Lear Corporation",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)"
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
+        "Ichikoh Industries, Ltd.",
+        "Varroc Lighting System (India) Pvt. Ltd.",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Koito Europe Ltd.",
+        "Visteon Corporation",
+        "Grupo Antolin Besancon S.A.S."
     ]
 }

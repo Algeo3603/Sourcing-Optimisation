@@ -1,20 +1,13 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Vacuum brake hose",
-        "Brake vacuum hose",
         "Rear lamp",
-        "Lithium iron phosphate battery high-voltage wiring harness",
-        "Three-dimensional lithium-ion battery high-voltage wiring harness",
-        "High voltage wiring harness"
+        "Rear combination lamp"
     ],
     "suppliers": [
-        "Sichuan Chuanhuan Technology Co., Ltd.",
         "Nanning Liaowang Auto Lamp Co., Ltd.",
-        "Tiecheng Information Technology Co., Ltd. (Formerly Hangzhou Tiecheng Information Technology Co., Ltd.)"
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)"
     ]
 }

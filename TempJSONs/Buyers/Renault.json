@@ -1,41 +1,18 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Vacuum brake hose",
-        "Brake line",
-        "Front brake hose",
-        "Vacuum brake booster line",
-        "Brake hose",
-        "Rear brake hose",
-        "Brake line assembly",
         "Rear lamp",
         "LED rear lamp",
         "Rear combination lamp",
-        "Wiring harness protector",
-        "High-voltage wiring harness",
-        "Traction motor wiring harness",
-        "Wiring harness",
-        "Battery wiring harness",
-        "Body wiring harness",
-        "Door wiring harness",
-        "Engine room wiring harness",
-        "Wiring protection system",
-        "Electrical distribution system"
+        "LED rear light",
+        "LED rear combination lamp",
+        "LED stop lamp",
+        "Rearlamp with MicroOptics",
+        "Stop lighting"
     ],
     "suppliers": [
-        "Hutchinson S.A.",
-        "Hanil Tube India Private Ltd.",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Flexitech Inc.",
-        "Teklas Kaucuk San. Ve Tic. A.S.",
-        "Freudenberg SE",
-        "Cikautxo S. Coop.",
-        "Akwel SA - Champfromier (Formerly MGI Coutier)",
-        "Cooper-Standard Holdings Inc.",
         "Marelli Morocco LLC SARL",
         "UNO Minda Ltd. - Lighting Division (Formerly Minda Industries Ltd.)",
         "Varroc Lighting Systems - Morocco",
@@ -45,12 +22,9 @@
         "Hella GmbH & Co. KGaA (FORVIA HELLA)",
         "odelo GmbH",
         "Koito Czech s.r.o.",
-        "Delfingen Industry S.A.",
-        "Lear Corporation",
-        "Aptiv PLC (Formerly Delphi Automotive PLC)",
-        "Furukawa Minda Electric Private Limited (FME)",
-        "Sumitomo Wiring Systems, Ltd.",
-        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)"
+        "Valeo Group",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Koito Manufacturing Co., Ltd.",
+        "Lumax Industries Ltd."
     ]
 }

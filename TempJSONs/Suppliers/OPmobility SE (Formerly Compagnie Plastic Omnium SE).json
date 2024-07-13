@@ -1,16 +1,13 @@
 {
     "top500": true,
     "parts_sold": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific_parts_sold": [
-        "Rear lamp",
-        "Fuel pump wiring harness"
+        "Rear lamp"
     ],
     "buyers": [
-        "Mercedes-Benz",
-        "GM"
+        "Mercedes-Benz"
     ],
     "Year Established": "946",
     "Number of Employees": "3,983 employees (As of Dec. 31, 2023)",
@@ -18,5 +15,5 @@
     "Representative": "Laurent Favre (CEO)",
     "Capital": "EUR 8.7 million (As of Dec. 31, 2023)",
     "URL": "https://www.opmobility.com/en/",
-    "Address": ""
+    "Address": "1, allee Pierre Burelle, 92593 Levallois Cedex, France"
 }

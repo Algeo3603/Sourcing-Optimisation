@@ -1,46 +1,24 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "Front brake hose",
-        "Brake hose",
-        "Brake line assembly",
-        "Rear brake hose",
         "LED rear lamp",
         "Rear lamp",
         "Rear combination lamp",
-        "Interior wiring harness",
-        "Wiring harness protector",
-        "Rear bumper wiring harness",
-        "Front wiring harness",
-        "High-voltage wiring harness",
-        "Wiring harness",
-        "Wiring system",
-        "Electrical distribution system"
+        "Futuristic rear lamp with LED tail light function",
+        "Stop lighting"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Flexitech Inc.",
-        "Meiji Flow Systems Co., Ltd.",
-        "Freudenberg SE",
-        "Hutchinson S.A.",
-        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)",
-        "Cooper-Standard Holdings Inc.",
         "Valeo Lighting Systems - Chrzanow",
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
         "Valeo Group",
         "Hella GmbH & Co. KGaA (FORVIA HELLA)",
-        "Sumitomo Electric Industries, Ltd.",
-        "Delfingen Industry S.A.",
-        "Sumitomo Electric Wiring Systems (Europe) Ltd.",
-        "Yazaki Europe Ltd.",
-        "Yazaki Wiring Technologies Slovakia s.r.o.",
-        "Leoni AG",
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)"
+        "Koito Manufacturing Co., Ltd.",
+        "Varroc Lighting System (India) Pvt. Ltd.",
+        "Visteon Corporation",
+        "Koito Europe Ltd.",
+        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)"
     ]
 }

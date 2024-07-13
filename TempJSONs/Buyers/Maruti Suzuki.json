@@ -1,36 +1,21 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Front brake hose",
-        "Rear brake hose",
-        "Brake line",
-        "Brake hose",
         "Rear lamp",
         "Rear combination lamp",
         "LED rear combination lamp",
-        "Wiring harness",
-        "Body wiring harness",
-        "Door wiring harness",
-        "Engine room wiring harness",
-        "Battery wiring harness",
-        "Wire harness"
+        "Rear lamp bulb"
     ],
     "suppliers": [
-        "Toyoda Gosei Minda India Pvt. Ltd. - Bawal Plant2 (Formerly MINDA TG Rubber Pvt. Ltd.)",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Imperial Auto Industries Ltd.",
         "UNO Minda Ltd. (Formerly Minda Industries Ltd.)",
         "UNO Minda Ltd. - Lighting Division (Formerly Minda Industries Ltd.)",
         "Lumax Industries Ltd.",
         "Marelli Motherson Automotive Lighting India Pvt. Ltd. (Formerly Magneti Marelli Motherson Auto System Ltd.)",
         "India Japan Lighting Pvt. Ltd.",
-        "Furukawa Minda Electric Private Limited (FME)",
-        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))",
-        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)",
-        "Sumitomo Wiring Systems, Ltd."
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Autolite (India) Ltd.",
+        "Koito Manufacturing Co., Ltd."
     ]
 }

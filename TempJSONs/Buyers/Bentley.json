@@ -1,22 +1,12 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
-        "Vacuum hose",
-        "Brake line",
-        "Rear lamp",
-        "Engine wiring harness"
+        "Rear lamp"
     ],
     "suppliers": [
-        "Continental AG",
-        "FTE automotive GmbH",
-        "A. Kayser Automotive Systems GmbH",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
         "Wipac Technology Limited",
-        "Nexans autoelectric GmbH"
+        "Koito Europe Ltd."
     ]
 }

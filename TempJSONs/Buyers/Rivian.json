@@ -1,23 +1,12 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line",
-        "LED rear lamp",
-        "Battery cable",
-        "Busbar",
-        "High-voltage wiring harness"
+        "LED rear lamp"
     ],
     "suppliers": [
-        "TI Automotive LLC",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
         "Varroc Lighting Systems - Morocco",
-        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",
-        "Coficab -Tunisie",
-        "Ennovi Holdings Pte. Ltd. (Formerly Interplex Holdings Pte. Ltd.)",
-        "Gentherm Inc.  (Formerly Amerigon Inc.)"
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)"
     ]
 }

@@ -7,7 +7,11 @@
         "Rear lamp",
         "Rear combination lamp",
         "Rear lamp housing",
-        "LED rear combination lamp"
+        "LED rear combination lamp",
+        "Tail & stop lamp",
+        "Brake lamp",
+        "LED rear lamp",
+        "Stop lighting"
     ],
     "buyers": [
         "Daihatsu",
@@ -20,7 +24,18 @@
         "Toyota",
         "Hino",
         "Magyar Suzuki",
-        "Mitsubishi"
+        "Mitsubishi",
+        "Peugeot",
+        "Yulon",
+        "Dongfeng Yulon",
+        "GM",
+        "SAIC Volkswagen",
+        "FAW-Volkswagen",
+        "Renault",
+        "Shanghai GM",
+        "Citroen",
+        "Dongfeng Honda",
+        "Maruti Suzuki"
     ],
     "Year Established": " April 1936",
     "Number of Employees": "3,488 employees (As of Mar. 31, 2023)",
@@ -28,5 +43,5 @@
     "Representative": "Michiaki Kato (President and COO)",
     "Capital": "JPY 14,270 million (As of Mar. 31, 2023)",
     "URL": "https://www.koito.co.jp/english/",
-    "Address": ""
+    "Address": "Sumitomo Fudosan Osaki Twin Bldg. East, 5-1-18 Kitashinagawa, Shinagawa-ku, Tokyo 141-0001, Japan"
 }

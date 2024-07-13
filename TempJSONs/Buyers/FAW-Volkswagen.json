@@ -1,36 +1,26 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Vacuum hose",
         "Rear combination lamp",
         "LED rear lamp",
         "Tail lamp assembly",
-        "High-voltage wiring harness",
-        "Low voltage wiring harness for battery pack",
-        "ABS wiring harness(1.4T)(7DCT)",
-        "ABS wiring harness(1.6L)(5MT)",
-        "ABS wiring harness(1.6L)(6AMT)",
-        "ABS wiring harness(1.4T)(5MT)",
-        "ABS wiring harness(1.2T)(7DCT)",
-        "Engine wiring harness assembly",
-        "Battery wiring harness assembly",
-        "Center console wiring harness assembly",
-        "Door wiring harness assembly",
-        "Engine wiring harness",
-        "Main wiring harness"
+        "Rear lamp"
     ],
     "suppliers": [
-        "Changchun Chinaust Automobile Parts Co., Ltd.",
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.",
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
         "Hella FAWAY Automotive Lighting (Tianjin) Co., Ltd.",
-        "Guangdong KSD Automotive Components Co., Ltd.",
-        "Shenzhen Deren Electronic Co., Ltd.",
-        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch",
-        "Aptiv Electric Systems Co., Ltd. Chengdu Branch"
+        "Chengdu Hella FAWAY Automotive Lighting Co., Ltd.",
+        "Marelli Automotive Lighting (Foshan) Co. Ltd.(Formerly Magneti Marelli Automotive Lighting (Foshan) Co., Ltd.)",
+        "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.",
+        "Shanghai Sunlight Enterprise Co., Ltd.",
+        "Valeo Ichikoh (China) Auto Lighting Co., Ltd.",
+        "Marelli Automotive Components (WUHU) Co. Ltd.(Formerly Magneti Marelli Automotive Components (WUHU) Co. Ltd.)",
+        "Changchun Hongde Automotive Lighting Co., Ltd.",
+        "Changchun Hella Automotive Lighting Co., Ltd.",
+        "Koito Manufacturing Co., Ltd.",
+        "Huayu Automotive Systems Co., Ltd."
     ]
 }

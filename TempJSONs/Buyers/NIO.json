@@ -1,24 +1,14 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
         "Rear combination lamp",
-        "Rear lamp",
-        "Main wiring harness",
-        "Lamp wiring harness",
-        "Thermal system harness"
+        "Rear lamp"
     ],
     "suppliers": [
-        "Continental Automotive Systems (Changshu) Co., Ltd.",
-        "Qingdao Meiji Rubber Products Co., Ltd.",
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.",
         "Marelli Automotive Components (WUHU) Co. Ltd.(Formerly Magneti Marelli Automotive Components (WUHU) Co. Ltd.)",
-        "Hubei Huazhong Magneti Marelli Automotive Lighting Co., Ltd.",
-        "Hebi Thb International Electric Co., Ltd.",
-        "Wuhu Bokang Electrical Co., Ltd."
+        "Hubei Huazhong Magneti Marelli Automotive Lighting Co., Ltd."
     ]
 }

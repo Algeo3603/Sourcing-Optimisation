@@ -1,14 +1,11 @@
 {
     "parts-bought": [
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Rear combination lamp",
-        "Instrument panel wiring harness"
+        "Rear combination lamp"
     ],
     "suppliers": [
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
-        "Aptiv PLC (Formerly Delphi Automotive PLC)"
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)"
     ]
 }

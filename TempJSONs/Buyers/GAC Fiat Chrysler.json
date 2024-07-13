@@ -1,15 +1,14 @@
 {
     "parts-bought": [
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Body wiring harness",
-        "Engine wiring harness assembly",
-        "Battery wiring harness assembly",
-        "Center console wiring harness assembly",
-        "Door wiring harness assembly"
+        "Rear lamp",
+        "LED rear lamp"
     ],
     "suppliers": [
-        "Aptiv Electric Systems Co., Ltd. Jiangmen Branch"
+        "Bluestar Technology (Shenzhen) Co., Ltd.",
+        "Marelli Automotive Lighting (Foshan) Co. Ltd.(Formerly Magneti Marelli Automotive Lighting (Foshan) Co., Ltd.)",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)"
     ]
 }

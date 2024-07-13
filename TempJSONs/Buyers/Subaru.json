@@ -1,43 +1,17 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Rear Lamp",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose",
-        "Vacuum brake hose",
         "Rear combination lamp",
         "Rear lamp",
         "Rear lamp housing",
-        "Back-up lamp wiring harness",
-        "Front door wiring harness",
-        "Back door wiring harness",
-        "Rear door wiring harness",
-        "Engine wiring harness",
-        "Front wiring harness",
-        "Instrument panel wiring harness",
-        "Clearance sonar wiring harness",
-        "Engine room wiring harness",
-        "Fog lamp wiring harness",
-        "Battery wiring harness",
-        "Airbag wiring harness",
-        "Body wiring harness",
-        "Door wiring harness",
-        "Seat wiring harness",
-        "Electric power steering wiring harness",
-        "Exterior mirror wiring harness",
-        "Wiring harness protector",
-        "Roof wiring harness",
-        "Floor wiring harness",
-        "High-voltage wiring harness",
-        "Wiring protection system",
-        "Wiring harness"
+        "LED rear combination lamp",
+        "Rear Lamp",
+        "LED light source unit MonoLED for stop lamp",
+        "LED rear lamp"
     ],
     "suppliers": [
-        "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)",
-        "Nichirin Co., Ltd.",
-        "Toyoda Gosei Co., Ltd.",
         "Ichikoh Industries, Ltd.",
         "Stanley Electric Co., Ltd.",
         "II Stanley Co., Inc.",
@@ -45,17 +19,6 @@
         "Koito Manufacturing Co., Ltd.",
         "Hyundai Mobis Co., Ltd.",
         "Stanley Electric U.S. Co., Inc.",
-        "Furukawa Electric Co., Ltd.",
-        "Sumitomo Electric Industries, Ltd.",
-        "Yazaki Corporation",
-        "Fujikura Ltd.",
-        "Sumitomo Electric Wiring Systems (Thailand) Ltd.",
-        "Nifco Inc.",
-        "Chiyoda USA Corp.",
-        "CHIYODAMANUFACTURINGCOLTD",
-        "Thai Arrow Products Co., Ltd.",
-        "Sumitomo Wiring Systems, Ltd.",
-        "Thai Summit Harness Public Company Limited",
-        "Delfingen Industry S.A."
+        "North American Lighting, Inc."
     ]
 }

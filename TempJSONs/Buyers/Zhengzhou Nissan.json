@@ -1,29 +1,11 @@
 {
     "parts-bought": [
-        "Brake Line",
-        "Wiring Harness"
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose assembly",
-        "Body wiring harness(2.5L)(6MT)",
-        "Door wiring harness(2.5L)(6MT)",
-        "Engine room wiring harness(2.5L)(6MT)",
-        "Wire harness",
-        "Wire harness(2.5L)(6MT)",
-        "Body wiring harness(2.5L)(7AT)",
-        "Door wiring harness(2.5L)(7AT)",
-        "Engine room wiring harness(2.5L)(7AT)",
-        "Wire harness(2.5L)(7AT)",
-        "Wire harness(1.8L)(6MT)",
-        "Wire harness(2.4L)(5MT)",
-        "Wire harness(2.3L)(6MT)",
-        "Wire harness(2.3L)(8AT)",
-        "Wire harness(6MT)"
+        "Rear lamp"
     ],
     "suppliers": [
-        "Suzhou Nichirin Automobile Parts Co., Ltd.",
-        "Kaifeng Zhucheng Wiring Systems Co., Ltd.",
-        "Tianjin Yazaki Automotive Parts Co., Ltd.",
-        "Jilin Shiji Qingshan Car Parts Manufacturing Co., Ltd. (Formerly Fujikura Changchun Ltd.)"
+        "Ichikoh Industries, Ltd."
     ]
 }
