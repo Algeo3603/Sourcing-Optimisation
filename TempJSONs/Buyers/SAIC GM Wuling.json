@@ -4,7 +4,8 @@
         "Wiring Harness": 17,
         "Rear Lamp": 3,
         "Clutch": 4,
-        "Axle": 4
+        "Axle": 4,
+        "Shock Absorber": 33
     },
     "specific-parts-bought": {
         "Lithium iron phosphate battery high-voltage wiring harness": 1,
@@ -22,7 +23,24 @@
         "Axle": 1,
         "Rear axle module": 1,
         "Drive axle": 1,
-        "Rear drive axle": 1
+        "Rear drive axle": 1,
+        "Shock absorber piston": 3,
+        "Shock absorber base": 3,
+        "Shock absorber(1.5L)(6MT)": 1,
+        "Buffer block(1.5L)(6MT)": 1,
+        "Shock absorber(1.8L)(5AT)": 2,
+        "Shock absorber(1.5T)(6MT)": 2,
+        "Shock absorber(1.5T)(6DCT)": 1,
+        "Buffer block(1.8L)(5AT)": 2,
+        "Buffer block(1.5T)(6MT)": 2,
+        "Buffer block(1.5T)(6DCT)": 1,
+        "Shock absorber(1.5L)(5MT)": 3,
+        "Shock absorber(1.5L)(6AMT)": 1,
+        "Buffer block(1.5L)(5MT)": 3,
+        "Buffer block(1.5L)(6AMT)": 1,
+        "Shock absorber": 3,
+        "Shock absorber(1.8L)(5MT)": 1,
+        "Front shock absorber": 3
     },
     "suppliers": {
         "Tiecheng Information Technology Co., Ltd. (Formerly Hangzhou Tiecheng Information Technology Co., Ltd.)": 3,
@@ -38,6 +56,13 @@
         "HASCO Powertrain Components Systems (Shanghai) Co., Ltd. Liuzhou Branch (Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd. Liuzhou Branch)": 2,
         "Liaoning SG Automotive Chassis Systems Co., Ltd.": 1,
         "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 1,
-        "Sichuan Jianan Industrial Co., Ltd.": 2
+        "Sichuan Jianan Industrial Co., Ltd.": 2,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 6,
+        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.)": 3,
+        "Shanghai Carthane Co., Ltd.": 10,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 7,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 2,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 3,
+        "Zhejiang Wanxiang Marelli Absorber Co., Ltd.": 2
     }
 }

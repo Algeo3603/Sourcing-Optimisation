@@ -1,0 +1,39 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 63
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 58,
+        "Rear shock absorber assembly": 1,
+        "Strut module": 1,
+        "Rear shock absorber": 2,
+        "Shock absorber(1.8L)(5MT)": 1
+    },
+    "buyers": {
+        "Xpeng": 2,
+        "BMW Brilliance": 3,
+        "NIO": 4,
+        "Li Auto": 1,
+        "Chery": 1,
+        "SAIC Passenger Vehicle": 3,
+        "Beijing Benz": 2,
+        "Brilliance": 1,
+        "Changan Ford": 3,
+        "Changan PSA": 3,
+        "Dongfeng Peugeot Citroen": 2,
+        "FAW-Volkswagen": 11,
+        "SAIC GM": 8,
+        "SAIC GM Wuling": 2,
+        "SAIC Maxus": 2,
+        "SAIC Volkswagen": 13,
+        "Shanghai GM": 2
+    },
+    "Country": "China",
+    "Address": "No.280, Shenwang Road, Xinzhuang Industrial Zone, Shanghai 201108, China",
+    "TEL": "+86-21-51795188",
+    "Year established": "Mar., 2000",
+    "URL": "https://www.zf.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Shareholder: ZF (China) Investment Co., Ltd., Shanghai Huizhong Automotive Mfg. Co., Ltd.(SAIC Motor)"
+}

@@ -4,7 +4,8 @@
         "Wiring Harness": 624,
         "Rear Lamp": 343,
         "Clutch": 119,
-        "Axle": 41
+        "Axle": 41,
+        "Shock Absorber": 202
     },
     "specific-parts-bought": {
         "Battery wiring harness": 6,
@@ -89,7 +90,26 @@
         "Overrunning clutch for automatic transmission": 1,
         "Differential system clutch with cam function": 1,
         "Axle beam": 6,
-        "Rear axle beam": 35
+        "Rear axle beam": 35,
+        "Rear shock absorber": 72,
+        "Front shock absorber": 45,
+        "Electronically controlled damper": 3,
+        "Shock absorber": 41,
+        "Dynamic damper": 10,
+        "Damper assembly": 6,
+        "Damper": 2,
+        "Shock absorber/strut": 1,
+        "Damper & strut": 1,
+        "MacPherson strut": 1,
+        "Arm damper (through Summit Showa Manufacturing)": 4,
+        "Front & rear shock absorber": 1,
+        "Sensitive Frequency Response Damper": 5,
+        "Lightweight damper": 2,
+        "Intelligent Electronic Control Adaptive Suspension": 3,
+        "Adaptive damper system": 1,
+        "Front sensitive damping control": 1,
+        "Rear sensitive damping control": 1,
+        "Sensitive damping control (front & rear axle)": 2
     },
     "suppliers": {
         "Sumitomo Electric Wiring Systems, Inc.": 11,
@@ -153,7 +173,7 @@
         "BorgWarner Inc.": 5,
         "EXEDY (Thailand) Co., Ltd.": 2,
         "Schaeffler Japan Co., Ltd.": 1,
-        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 1,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 97,
         "Schaeffler AG": 2,
         "Dynax Corporation": 1,
         "Univance Corporation": 1,
@@ -162,6 +182,20 @@
         "Yorozu (Thailand) Co., Ltd.": 14,
         "PT. F.Tech Indonesia": 1,
         "Yorozu Corp.": 7,
-        "Y-Ogura Automotive (Thailand) Co., Ltd.": 7
+        "Y-Ogura Automotive (Thailand) Co., Ltd.": 7,
+        "KYB Corporation": 33,
+        "ZF Friedrichshafen AG": 27,
+        "KYB (Thailand) Co., Ltd.": 2,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 12,
+        "Y-TEC Co., Ltd.": 10,
+        "Hitachi Astemo Korat Brake Systems Ltd. (Formerly Nissin Brake (Thailand) Co., Ltd.)": 6,
+        "ZF Sachs Korea Co., Ltd.": 4,
+        "Vibracoustic CV Air Springs Magyarorszag Kft.": 1,
+        "Gabriel India Ltd.": 2,
+        "Yanagawa Techno Forge (Thailand) Co., Ltd.": 4,
+        "Munjal Showa Ltd.": 1,
+        "Beijing West Industries Co., Ltd.": 2,
+        "thyssenkrupp Bilstein GmbH": 1,
+        "ZF Japan Co., Ltd.": 1
     }
 }

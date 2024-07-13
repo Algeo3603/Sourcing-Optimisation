@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 201,
         "Rear Lamp": 31,
-        "Clutch": 9
+        "Clutch": 9,
+        "Shock Absorber": 38
     },
     "specific-parts-bought": {
         "Body wiring harness": 7,
@@ -71,7 +72,13 @@
         "Clutch(1.6L)(CVT)": 1,
         "Clutch": 3,
         "Clutch cover": 2,
-        "Clutch automatic control system": 3
+        "Clutch automatic control system": 3,
+        "Shock absorber": 13,
+        "Shock absorber piston": 8,
+        "Shock absorber base": 8,
+        "Front shock absorber": 2,
+        "Rear shock absorber": 2,
+        "Shock absorber piston rod": 5
     },
     "suppliers": {
         "Guangzhou Zhongke Electric Co., Ltd.": 22,
@@ -98,6 +105,11 @@
         "Valeo Group": 1,
         "Ichikoh Industries, Ltd.": 2,
         "Exedy Chongqing Co., Ltd.": 6,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 3
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 3,
+        "KYB Industrial Machinery (Zhenjiang) Ltd.": 13,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 16,
+        "FAWER Automotive Parts Limited Company": 1,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 3,
+        "Shanghai Beite Technology Co., Ltd.": 5
     }
 }

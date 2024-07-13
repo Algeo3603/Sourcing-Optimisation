@@ -1,0 +1,27 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 10
+    },
+    "specific_parts_sold": {
+        "Shock absorber(2.4L)(6AMT)": 1,
+        "Shock absorber(1.8T)(6AMT)": 2,
+        "Shock absorber(1.5L)(5MT)": 2,
+        "Shock absorber(1.5L)(CVT)": 1,
+        "Shock absorber(1.3T)(6MT)": 1,
+        "Shock absorber(1.3T)(CVT)": 1,
+        "Shock absorber(1.3T)(6DCT)": 1,
+        "Shock absorber(1.4L)(4AT)": 1
+    },
+    "buyers": {
+        "Geely": 10
+    },
+    "Country": "China",
+    "Address": "No.718, Binhai 2 Road, Hangzhou Bay New Zone, Cixi City, Zhejiang, China",
+    "TEL": "+86-574-6386-8686",
+    "Year established": "Mar. 2011",
+    "URL": "https://www.hlcompany.com/en/index.jsp",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: HL Mando Corporation 65%, Zhejiang Jirun Automobile Co., Ltd. 35%-Factories: Cixi Factory, Taizhou Factory"
+}

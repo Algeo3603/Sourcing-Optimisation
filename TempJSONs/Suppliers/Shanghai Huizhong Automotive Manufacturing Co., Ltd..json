@@ -1,17 +1,19 @@
 {
     "top500": false,
     "parts_sold": {
-        "Axle": 16
+        "Axle": 16,
+        "Shock Absorber": 2
     },
     "specific_parts_sold": {
         "Torsion beam rear axle": 2,
         "Rear axle module": 10,
         "Rear axle assemby": 1,
         "Rear axle assembly": 2,
-        "Rear axle": 1
+        "Rear axle": 1,
+        "Front shock absorber": 2
     },
     "buyers": {
-        "SAIC Volkswagen": 2,
+        "SAIC Volkswagen": 4,
         "SAIC GM Wuling": 1,
         "SAIC Passenger Vehicle": 2,
         "Shanghai GM": 4,

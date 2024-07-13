@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 43,
         "Rear Lamp": 8,
-        "Clutch": 2
+        "Clutch": 2,
+        "Shock Absorber": 25
     },
     "specific-parts-bought": {
         "Wire harness(1.5L)(6MT)": 2,
@@ -26,7 +27,17 @@
         "Rear lamp": 3,
         "Rear Lamp": 1,
         "Clutch": 1,
-        "Clutch cover": 1
+        "Clutch cover": 1,
+        "Front shock absorber": 1,
+        "Rear shock absorber": 2,
+        "Shock absorber piston(1.5L)(6MT)": 3,
+        "Shock absorber piston(1.5L)(6AMT)": 3,
+        "Shock absorber base(1.5L)(6MT)": 3,
+        "Shock absorber base(1.5L)(6AMT)": 3,
+        "Shock absorber piston": 1,
+        "Shock absorber base": 1,
+        "Shock absorber": 4,
+        "Shock absorber piston rod": 4
     },
     "suppliers": {
         "Chongqing Jinzhu Automobile Harness Co., Ltd.": 19,
@@ -36,6 +47,10 @@
         "Tianjin Stanley Electric Co., Ltd.": 4,
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 3,
         "Laster Tech Automotive (Shanghai) Co., Ltd.": 1,
-        "Exedy Chongqing Co., Ltd.": 2
+        "Exedy Chongqing Co., Ltd.": 2,
+        "Tenneco (Beijing) Ride Control System Co., Ltd.": 3,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 14,
+        "Chengdu Ningjiang Showa Autoparts Co., Ltd.": 4,
+        "Chongqing Beite Technology Co., Ltd.": 4
     }
 }

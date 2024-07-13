@@ -3,18 +3,43 @@
     "parts-bought": {
         "Wiring Harness": 5,
         "Rear Lamp": 1,
-        "Clutch": 2
+        "Clutch": 2,
+        "Shock Absorber": 19
     },
     "specific-parts-bought": {
         "Wiring harness": 3,
         "Wire harness": 2,
         "Rear lamp": 1,
-        "Clutch": 2
+        "Clutch": 2,
+        "Shock absorber piston(1.5L)(5MT)": 1,
+        "Shock absorber base(1.5L)(5MT)": 1,
+        "Shock absorber piston(1.5L)(6MT)": 1,
+        "Shock absorber piston(1.6L)(6MT)": 1,
+        "Shock absorber piston(1.6L)(CVT)": 1,
+        "Shock absorber base(1.5L)(6MT)": 1,
+        "Shock absorber base(1.6L)(6MT)": 1,
+        "Shock absorber base(1.6L)(CVT)": 1,
+        "Shock absorber(1.5L)(5MT)": 1,
+        "Buffer block(1.5L)(5MT)": 1,
+        "Shock absorber(1.5L)(6MT)": 1,
+        "Shock absorber(1.6L)(6MT)": 1,
+        "Shock absorber(1.6L)(CVT)": 1,
+        "Buffer block(1.5L)(6MT)": 1,
+        "Buffer block(1.6L)(6MT)": 1,
+        "Buffer block(1.6L)(CVT)": 1,
+        "Front strut": 1,
+        "Rear shock absorber": 1,
+        "Shock absorber piston rod": 1
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 3,
         "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 2,
         "Zhejiang Tianchong Vehicle Lamp Group Co., Ltd.": 1,
-        "Changchun Yidong Clutch Co., Ltd.": 2
+        "Changchun Yidong Clutch Co., Ltd.": 2,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 8,
+        "FAW-Tokico Shock Absorber Co., Ltd.": 4,
+        "Shanghai Carthane Co., Ltd.": 4,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 2,
+        "Changchun Beite Automotive Parts Co., Ltd.": 1
     }
 }

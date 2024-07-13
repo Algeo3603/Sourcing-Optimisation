@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 26
+    },
+    "specific_parts_sold": {
+        "Front shock absorber": 7,
+        "Rear shock absorber": 14,
+        "Front strut": 5
+    },
+    "buyers": {
+        "Nissan": 10,
+        "Subaru": 2,
+        "Toyota": 14
+    },
+    "Country": "USA",
+    "Address": "2625 North Morton St., Franklin, Indiana 46131 USA",
+    "TEL": "+1-317-736-7774",
+    "Year established": "May, 2001",
+    "URL": "https://www.kyb.co.jp/english/",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): KYB Corporation"
+}

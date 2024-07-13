@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 8
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 8
+    },
+    "buyers": {
+        "Porsche": 6,
+        "Volkswagen": 2
+    },
+    "Country": "Germany",
+    "Address": "Max-Planck-Str. 21, 32107 Bad Salzuflen, Germany",
+    "TEL": "+49-5222-96330-0",
+    "Year established": "1972",
+    "URL": "https://www.rollax.com/en/",
+    "Quality certification": "QS9000IATF16949 (Formerly ISO/TS16949)"
+}

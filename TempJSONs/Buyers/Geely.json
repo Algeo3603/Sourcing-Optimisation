@@ -4,7 +4,8 @@
         "Wiring Harness": 53,
         "Rear Lamp": 51,
         "Clutch": 2,
-        "Axle": 1
+        "Axle": 1,
+        "Shock Absorber": 38
     },
     "specific-parts-bought": {
         "Wiring harness(2.0T)(8AT)": 7,
@@ -35,7 +36,27 @@
         "Rear lamp(2.0T)(7DCT)": 1,
         "Rear lamp(1.8T)(6AMT)": 1,
         "Clutch": 2,
-        "Rear axle": 1
+        "Rear axle": 1,
+        "Shock absorber": 8,
+        "Rear strut": 1,
+        "Shock absorber(2.4L)(6AMT)": 1,
+        "Shock absorber(1.8T)(6AMT)": 2,
+        "Shock absorber piston rod": 7,
+        "Buffer block(2.4L)(6AMT)": 1,
+        "Buffer block(1.8T)(6AMT)": 2,
+        "Shock absorber(1.5L)(5MT)": 2,
+        "Shock absorber(1.5L)(CVT)": 1,
+        "Shock absorber(1.3T)(6MT)": 1,
+        "Shock absorber(1.3T)(CVT)": 1,
+        "Buffer block(1.5L)(5MT)": 2,
+        "Buffer block(1.5L)(CVT)": 1,
+        "Buffer block(1.3T)(6MT)": 1,
+        "Buffer block(1.3T)(CVT)": 1,
+        "Shock absorber(1.3T)(6DCT)": 1,
+        "Buffer block(1.3T)(6DCT)": 1,
+        "Shock absorber(1.4L)(4AT)": 1,
+        "Buffer block(1.5L)(4AT)": 1,
+        "Damper": 2
     },
     "suppliers": {
         "Jining Lear Automotive Parts Co., Ltd. (Formerly Shanghai Lear Automotive Parts Co., Ltd.)": 4,
@@ -58,6 +79,13 @@
         "Chongqing Qinchuan Industry and Trade Co., Ltd.": 2,
         "Jiangsu Tianhe Auto Parts Co., Ltd.": 7,
         "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 2,
-        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 1
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 1,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 8,
+        "FAWER Automotive Parts Limited Company": 1,
+        "HL Mando (Ningbo) Automotive System Co., Ltd. (Formerly Mando (Ningbo) Automotive Parts Co., Ltd.)": 10,
+        "Shanghai Beite Technology Co., Ltd.": 5,
+        "Shanghai Carthane Co., Ltd.": 10,
+        "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.)": 2,
+        "Changchun Beite Automotive Parts Co., Ltd.": 2
     }
 }

@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 7
+    },
+    "specific_parts_sold": {
+        "Front chassis module": 7
+    },
+    "buyers": {
+        "Hyundai": 3,
+        "Kia": 4
+    },
+    "Country": "Slovakia",
+    "Address": "Gbelany 405, 013 02 01001 Zilina, Slovakia",
+    "TEL": "+421-41-5076-900",
+    "Year established": "Jul., 2005",
+    "Beginning of operation": "Dec., 2006",
+    "URL": "https://www.mobis.co.kr/en/index.do",
+    "Remarks": "-Shareholder(s): Hyundai Mobis Co., Ltd. 70%"
+}

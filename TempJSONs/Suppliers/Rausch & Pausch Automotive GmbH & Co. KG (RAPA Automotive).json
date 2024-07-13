@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 18
+    },
+    "specific_parts_sold": {
+        "Damper valve": 7,
+        "Oil pump for shock absorber": 9,
+        "Air supply module for air suspension system": 2
+    },
+    "buyers": {
+        "Audi": 3,
+        "Mercedes-Benz": 8,
+        "Daimler": 7
+    },
+    "Country": "Germany",
+    "Address": "Albert-Pausch-Ring 1, 95100 Selb, Germany",
+    "TEL": "+49-92-87-8-84-0",
+    "Year established": "1920",
+    "URL": "https://www.rapa.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Group: Rausch & Pausch (RAPA) Group"
+}

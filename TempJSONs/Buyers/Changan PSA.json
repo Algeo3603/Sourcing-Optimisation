@@ -1,14 +1,17 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 7
+        "Rear Lamp": 7,
+        "Shock Absorber": 3
     },
     "specific-parts-bought": {
-        "Rear lamp": 7
+        "Rear lamp": 7,
+        "Shock absorber": 3
     },
     "suppliers": {
         "Bluestar Technology (Shenzhen) Co., Ltd.": 3,
         "Marelli Automotive Lighting (Foshan) Co. Ltd.(Formerly Magneti Marelli Automotive Lighting (Foshan) Co., Ltd.)": 3,
-        "Valeo Group": 1
+        "Valeo Group": 1,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 3
     }
 }

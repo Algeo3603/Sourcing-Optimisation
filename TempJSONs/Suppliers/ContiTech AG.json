@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 1
+    },
+    "specific_parts_sold": {
+        "Top strut mount": 1
+    },
+    "buyers": {
+        "GM": 1
+    },
+    "Country": "Germany",
+    "Address": "Vahrenwalder Str. 9, 30165 Hannover, Germany",
+    "TEL": "+49-511-938-02",
+    "URL": "https://www.continental-industry.com",
+    "Remarks": "-A division of Continental AG"
+}

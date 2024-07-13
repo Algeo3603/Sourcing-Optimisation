@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 2
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 2
+    },
+    "buyers": {
+        "Toyota": 1,
+        "Ram Trucks": 1
+    },
+    "Country": "Mexico",
+    "Address": "37884 San Miguel de Allende, Guanajuato, Mexico",
+    "TEL": "+52-415-690-1120",
+    "URL": "https://www.thyssenkrupp-automotive-technology.com/en",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Group: thyssenkrupp Group"
+}

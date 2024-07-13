@@ -4,7 +4,8 @@
         "Wiring Harness": 48,
         "Rear Lamp": 40,
         "Clutch": 10,
-        "Axle": 5
+        "Axle": 5,
+        "Shock Absorber": 16
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -41,7 +42,13 @@
         "Clutch mechanism": 2,
         "Rear axle beam": 3,
         "Axle beam": 1,
-        "Axle": 1
+        "Axle": 1,
+        "Shock absorber": 7,
+        "Rear shock absorber": 4,
+        "Subframe Damper": 1,
+        "Adjustable shock absorber": 2,
+        "Shock absorber piston": 1,
+        "Suspension strut": 1
     },
     "suppliers": {
         "Delfingen Industry S.A.": 4,
@@ -65,7 +72,7 @@
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 11,
         "odelo GmbH": 1,
         "Koito Czech s.r.o.": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 9,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 10,
         "Koito Manufacturing Co., Ltd.": 1,
         "Lumax Industries Ltd.": 1,
         "Schaeffler India Limited": 1,
@@ -74,6 +81,13 @@
         "Yorozu Automotiva do Blasil Ltda.": 2,
         "Yorozu JBM Automotive Tamil Nadu Pvt., Ltd.": 1,
         "Sogefi S.p.A.": 1,
-        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1,
+        "HL Mando Corporation (Formerly Mando Corporation)": 1,
+        "KYB Corporation": 4,
+        "Vibracoustic India Pvt. Ltd. (Formerly Trelleborg Vibracoustic India Pvt. Ltd.)": 1,
+        "Tenneco Inc.": 4,
+        "Oehlins Racing AB": 3,
+        "PMG Holding GmbH": 1,
+        "Vibracoustic SE": 1
     }
 }

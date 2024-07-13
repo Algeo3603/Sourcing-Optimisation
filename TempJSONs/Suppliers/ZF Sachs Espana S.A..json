@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 10
+    },
+    "specific_parts_sold": {
+        "Rear shock absorber": 10
+    },
+    "buyers": {
+        "Alfa Romeo": 5,
+        "Mercedes-Benz": 3,
+        "Porsche": 2
+    },
+    "Country": "Spain",
+    "Address": "Barrio Aretxalde, 130, 48196 Lezama/Vizcaya",
+    "TEL": "+34-94-455-5050",
+    "URL": "https://www.zf.com/",
+    "Remarks": "-Shareholders : ZF Sachs"
+}

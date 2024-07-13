@@ -1,7 +1,8 @@
 {
     "top500": true,
     "parts_sold": {
-        "Axle": 99
+        "Axle": 99,
+        "Shock Absorber": 1
     },
     "specific_parts_sold": {
         "Front axle": 20,
@@ -16,13 +17,14 @@
         "Steering axle": 1,
         "Front & rear axles": 1,
         "Independent rear axle": 2,
-        "Rear axle (4WD)": 2
+        "Rear axle (4WD)": 2,
+        "Axle damper": 1
     },
     "buyers": {
         "Jeep": 22,
         "Ford": 41,
         "Nissan": 1,
-        "Ram Trucks": 3,
+        "Ram Trucks": 4,
         "Changan Ford": 3,
         "Hino": 8,
         "Jaguar Land Rover": 5,

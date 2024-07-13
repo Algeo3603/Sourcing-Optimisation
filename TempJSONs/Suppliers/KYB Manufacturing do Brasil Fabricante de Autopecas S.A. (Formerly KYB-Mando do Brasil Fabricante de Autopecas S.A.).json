@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 9
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 9
+    },
+    "buyers": {
+        "Audi": 1,
+        "Ford": 1,
+        "GM": 2,
+        "Hyundai": 1,
+        "Peugeot": 1,
+        "Toyota": 1,
+        "Volkswagen": 2
+    },
+    "Country": "Brazil",
+    "Address": "Rua Francisco Ferreira da Cruz, 3000, Fazenda Rio Grande - Parana, CEP 83820-293, Brazil",
+    "TEL": "+55-41-2102-8200",
+    "URL": "https://www.kyb.com.br/",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: KYB Corporation 100%"
+}

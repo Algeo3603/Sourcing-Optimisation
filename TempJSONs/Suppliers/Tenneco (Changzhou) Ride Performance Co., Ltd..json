@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 6
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 4,
+        "Spring damper": 2
+    },
+    "buyers": {
+        "IM Motors": 1,
+        "Rising Auto": 4,
+        "Li Auto": 1
+    },
+    "Country": "China",
+    "Address": "No. 36, Liuyanghe Road, Xinbei District, Changzhou City, Jiangsu Province, China",
+    "TEL": "+86-519-88228300",
+    "Year established": "May 2017",
+    "URL": "https://www.tenneco.com/",
+    "Remarks": "-Shareholder(s): Tenneco (Shanghai) Ride Performance Co., Ltd."
+}

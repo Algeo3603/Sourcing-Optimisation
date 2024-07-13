@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 346,
         "Rear Lamp": 1,
-        "Clutch": 17
+        "Clutch": 17,
+        "Shock Absorber": 17
     },
     "specific-parts-bought": {
         "Floor wiring harness": 47,
@@ -28,10 +29,13 @@
         "DCT clutch housing assembly(2.0T)(6AT)": 2,
         "DCT clutch housing assembly(1.5T)": 4,
         "Clutch": 7,
-        "Clutch cover": 3
+        "Clutch cover": 3,
+        "Continuous damping control (CDC)": 5,
+        "Shock absorber": 11,
+        "Damping component": 1
     },
     "suppliers": {
-        "FinDreams Technology Co., Ltd.": 338,
+        "FinDreams Technology Co., Ltd.": 347,
         "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.)": 4,
         "Wenzhou Shenji Electronic Technology Co., Ltd.": 4,
         "Laster Tech Automotive (Shanghai) Co., Ltd.": 1,
@@ -39,6 +43,11 @@
         "Chongqing Landai Transmission Co., Ltd.": 3,
         "FinDreams Powertrain Co., Ltd.": 3,
         "Exedy Chongqing Co., Ltd.": 6,
-        "Changchun Yidong Clutch Co., Ltd.": 4
+        "Changchun Yidong Clutch Co., Ltd.": 4,
+        "Shanghai Baolong Automotive Corporation": 2,
+        "Schaeffler (China) Co., Ltd.": 3,
+        "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.)": 1,
+        "Shanghai Carthane Co., Ltd.": 1,
+        "Hunan KDL Precision Industry Co., Ltd.": 1
     }
 }

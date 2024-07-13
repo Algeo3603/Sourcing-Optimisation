@@ -4,7 +4,8 @@
         "Wiring Harness": 17,
         "Rear Lamp": 14,
         "Clutch": 6,
-        "Axle": 1
+        "Axle": 1,
+        "Shock Absorber": 56
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 2,
@@ -21,7 +22,18 @@
         "Rear lamp(1.5T)(7DCT)": 1,
         "Rear Lamp": 1,
         "Clutch": 6,
-        "Rear axle(2.0T)(6AMT)": 1
+        "Rear axle(2.0T)(6AMT)": 1,
+        "Shock absorber(1.5T)(7DCT)": 1,
+        "Shock absorber(2.0T)(7DCT)": 1,
+        "Shock absorber piston": 3,
+        "Shock absorber base": 3,
+        "Shock absorber piston(2.0T)(8AMT)": 4,
+        "Shock absorber base(2.0T)(8AMT)": 4,
+        "Shock absorber(2.0T)(8AMT)": 4,
+        "Buffer block(2.0T)(8AMT)": 4,
+        "Front shock absorber": 13,
+        "Rear shock absorber": 16,
+        "Front strut": 3
     },
     "suppliers": {
         "MIND Electronics Appliance Co., Ltd.": 2,
@@ -35,6 +47,12 @@
         "Beijing Hella BHAP Automotive Lighting Co., Ltd.": 1,
         "Laster Tech Automotive (Shanghai) Co., Ltd.": 1,
         "Changchun Yidong Clutch Co., Ltd.": 6,
-        "ZF Friedrichshafen AG": 1
+        "ZF Friedrichshafen AG": 1,
+        "Zhejiang Wanxiang Marelli Absorber Co., Ltd.": 2,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 14,
+        "FAW-Tokico Shock Absorber Co., Ltd.": 4,
+        "Shanghai Carthane Co., Ltd.": 4,
+        "Jinzhou Leader Shock Absorber Co., Ltd.": 26,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 6
     }
 }

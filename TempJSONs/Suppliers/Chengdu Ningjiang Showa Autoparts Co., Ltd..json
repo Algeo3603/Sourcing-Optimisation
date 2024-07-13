@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 13
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 13
+    },
+    "buyers": {
+        "Changan Ford": 1,
+        "Changan Mazda": 4,
+        "Changan Suzuki": 6,
+        "Changhe Suzuki": 1,
+        "Daihatsu": 1
+    },
+    "Country": "China",
+    "Address": "No.18, Hezhi West Road, Baihe Town, Longquanyi District, Economic and Technological Development Zone, Chengdu City, Sichuan Province, China",
+    "TEL": "+86-28-82858981",
+    "Year established": "Mar. 1996",
+    "URL": "https://www.hitachiastemo.com/en",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): China Changan Automobile Group Co., Ltd., Hitachi Astemo"
+}

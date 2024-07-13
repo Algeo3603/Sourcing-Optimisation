@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 3
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 1,
+        "Rear shock absorber": 1,
+        "Front strut": 1
+    },
+    "buyers": {
+        "Jeep": 1,
+        "Volkswagen": 1,
+        "Nissan": 1
+    },
+    "Country": "Mexico",
+    "Address": "Km 3.5 Carretera El Salto - La Capilla, El Salto, Jalisco 45680 Mexico",
+    "TEL": "+52-33-3208-0000",
+    "Year established": "1965",
+    "URL": "https://www.zf.com/",
+    "Quality certification": "ISO9001QS9000",
+    "Remarks": "-Shareholders:ZF Friedrichshafen AG"
+}

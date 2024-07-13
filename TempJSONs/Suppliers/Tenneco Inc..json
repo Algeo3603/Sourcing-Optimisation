@@ -1,13 +1,42 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Shock Absorber": 82
     },
     "specific_parts_sold": {
-        "Wiring harness": 1
+        "Wiring harness": 1,
+        "Front shock absorber": 8,
+        "Front strut": 7,
+        "Rear shock absorber": 20,
+        "Semi active suspension": 3,
+        "Continuously variable semi-active suspension": 11,
+        "Shock absorber": 28,
+        "Shock absorber/strut": 3,
+        "Front electronic damper": 1,
+        "Shock absorber (option)": 1
     },
     "buyers": {
-        "GM": 1
+        "GM": 3,
+        "Mercedes-Benz": 1,
+        "Suzuki": 12,
+        "Audi": 6,
+        "Maruti Suzuki": 3,
+        "Mazda": 5,
+        "Nissan": 8,
+        "Rivian": 2,
+        "Toyota": 3,
+        "Volkswagen": 11,
+        "BMW Brilliance": 1,
+        "Polestar": 3,
+        "BMW": 9,
+        "Daimler": 1,
+        "Jaguar Land Rover": 3,
+        "Volvo Cars": 3,
+        "Porsche": 1,
+        "Renault": 4,
+        "AvtoVAZ": 1,
+        "Ford": 3
     },
     "Year Established": "999",
     "Number of Employees": "1,000 employees (As of Dec. 31, 2022)",

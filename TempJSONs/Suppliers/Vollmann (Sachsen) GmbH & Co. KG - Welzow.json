@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 1
+    },
+    "specific_parts_sold": {
+        "Strut module": 1
+    },
+    "buyers": {
+        "Volkswagen": 1
+    },
+    "Country": "Germany",
+    "Address": "Jahnstr. 8, 03119 Welzow, Germany",
+    "Year established": "1998",
+    "URL": "https://www.vollmann-group.com/",
+    "Quality certification": "ISO9001"
+}

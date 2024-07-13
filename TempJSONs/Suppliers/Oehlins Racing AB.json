@@ -1,0 +1,26 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 17
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 13,
+        "Pushrod type suspension": 1,
+        "Adjustable shock absorber": 3
+    },
+    "buyers": {
+        "Polestar": 2,
+        "Volvo Cars": 9,
+        "Arrinera": 1,
+        "Renault": 3,
+        "Lotus": 1,
+        "Nissan": 1
+    },
+    "Country": "Sweden",
+    "Address": "Box 722, S-194 27 Upplands Vasby, Sweden",
+    "TEL": "+46-8-590-025-00",
+    "Year established": "1976",
+    "URL": "https://www.ohlins.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

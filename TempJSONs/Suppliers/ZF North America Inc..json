@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 9
+    },
+    "specific_parts_sold": {
+        "Rear shock absorber": 7,
+        "Front shock absorber": 2
+    },
+    "buyers": {
+        "GM": 1,
+        "Audi": 1,
+        "Jeep": 1,
+        "Nissan": 6
+    },
+    "Country": "USA",
+    "Address": "15811 Centennial Drive, Northville, MI 48168, USA",
+    "TEL": "+1-734-416-6200",
+    "URL": "https://www.zf.com/",
+    "Quality certification": "QS9000",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s):ZF Friedrichshafen AG-Central sales and engineering center in North America"
+}

@@ -2,16 +2,26 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 5,
-        "Rear Lamp": 3
+        "Rear Lamp": 3,
+        "Shock Absorber": 13
     },
     "specific-parts-bought": {
         "Wiring harness": 5,
         "Rear Lamp": 1,
-        "Rear combination lamp": 2
+        "Rear combination lamp": 2,
+        "Shock absorber piston(1.6L)(6MT)": 1,
+        "Shock absorber piston(1.6L)(6AMT)": 1,
+        "Shock absorber base(1.6L)(6MT)": 1,
+        "Shock absorber base(1.6L)(6AMT)": 1,
+        "Shock absorber piston rod": 4,
+        "Shock absorber": 5
     },
     "suppliers": {
         "Kaifeng Rijin Wiring Systems Co., Ltd.": 5,
         "Laster Tech Automotive (Shanghai) Co., Ltd.": 1,
-        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 2
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 2,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 4,
+        "Changchun Beite Automotive Parts Co., Ltd.": 4,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 5
     }
 }

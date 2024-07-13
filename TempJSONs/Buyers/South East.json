@@ -2,17 +2,23 @@
     "region": "China",
     "parts-bought": {
         "Rear Lamp": 10,
-        "Clutch": 4
+        "Clutch": 4,
+        "Shock Absorber": 8
     },
     "specific-parts-bought": {
         "Rear combination lamp": 9,
         "Stop lamp": 1,
-        "Clutch": 4
+        "Clutch": 4,
+        "Shock absorber piston": 3,
+        "Shock absorber base": 3,
+        "Shock absorber": 2
     },
     "suppliers": {
         "Fuzhou Koito Tayih Automotive Lamp Co., Ltd.": 7,
         "Tianjin Stanley Electric Co., Ltd.": 2,
         "Shanghai Sunlight Enterprise Co., Ltd.": 1,
-        "Changchun Yidong Clutch Co., Ltd.": 4
+        "Changchun Yidong Clutch Co., Ltd.": 4,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 6,
+        "KYB Industrial Machinery (Zhenjiang) Ltd.": 2
     }
 }

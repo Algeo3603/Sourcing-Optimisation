@@ -4,7 +4,8 @@
         "Wiring Harness": 24,
         "Rear Lamp": 45,
         "Clutch": 3,
-        "Axle": 15
+        "Axle": 15,
+        "Shock Absorber": 14
     },
     "specific-parts-bought": {
         "Wiring harness": 15,
@@ -30,7 +31,17 @@
         "Axle": 5,
         "Axle system": 1,
         "Front drive unit(3.0L)": 1,
-        "Front & rear axle system": 2
+        "Front & rear axle system": 2,
+        "Front air suspension strut": 2,
+        "Rear shock absorber": 2,
+        "Subframe damper": 1,
+        "Front strut": 1,
+        "Continuously variable semi-active suspension": 1,
+        "Air spring": 1,
+        "Shock absorber": 3,
+        "Shock absorber piston": 1,
+        "Air damping module": 1,
+        "Adjustable shock absorber": 1
     },
     "suppliers": {
         "Leoni AG": 7,
@@ -61,6 +72,13 @@
         "Dana Incorporated (Formerly Dana Holding Corporation)": 5,
         "American Axle & Manufacturing Holdings, Inc.": 5,
         "ZF Friedrichshafen AG": 3,
-        "NTN Corporation": 2
+        "NTN Corporation": 2,
+        "Tenneco Automotive India Pvt. Ltd.": 1,
+        "Tenneco Automotive Europe": 1,
+        "thyssenkrupp Bilstein GmbH": 5,
+        "Vibracoustic SE": 2,
+        "Tenneco Inc.": 3,
+        "PMG Holding GmbH": 1,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 1
     }
 }

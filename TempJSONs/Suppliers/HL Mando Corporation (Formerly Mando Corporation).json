@@ -1,0 +1,29 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Shock Absorber": 85
+    },
+    "specific_parts_sold": {
+        "Rear shock absorber": 55,
+        "Front shock absorber": 5,
+        "Front strut": 21,
+        "Rear shock absorber (Sourced by MUNRO & ASSOCIATES, USA)": 1,
+        "Shock absorber": 3
+    },
+    "buyers": {
+        "Hyundai": 62,
+        "Kia": 18,
+        "Renault": 1,
+        "Tesla": 1,
+        "GM": 2,
+        "Nissan": 1
+    },
+    "Year Established": "Oct. 1, 1962",
+    "Number of Employees": "Non-consolidated: 3,982 employees (as of Dec. 31, 2023)",
+    "Sales Turnover": "Consolidated: KRW 8,393,087 million (FY ended Dec. 31, 2023)",
+    "Representative": "Seong-Hyeon Cho( CEO)",
+    "Capital": "KRW 46,957 million (as of DEC. 31, 2023)",
+    "URL": "https://www.hlmando.com/en/main.do",
+    "Address": "32, Hamanho-gil, Poseung-eup, Pyeongtaek-si, Gyeonggi-do, korea",
+    "Country": "South Korea"
+}

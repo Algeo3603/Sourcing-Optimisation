@@ -1,14 +1,16 @@
 {
     "top500": true,
     "parts_sold": {
-        "Axle": 3
+        "Axle": 3,
+        "Shock Absorber": 2
     },
     "specific_parts_sold": {
         "Integrated Driving Axle (ADA)": 1,
-        "Axle": 2
+        "Axle": 2,
+        "Front shock absorber": 2
     },
     "buyers": {
-        "Kia": 3
+        "Kia": 5
     },
     "Year Established": "Mar. 29, 1976",
     "Number of Employees": "Non-consolidated: 2,917 employees (as of Dec. 31, 2022)",

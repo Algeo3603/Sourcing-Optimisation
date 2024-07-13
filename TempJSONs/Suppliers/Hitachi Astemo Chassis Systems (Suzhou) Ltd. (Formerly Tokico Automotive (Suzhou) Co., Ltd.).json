@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 6
+    },
+    "specific_parts_sold": {
+        "Shock absorber(1.5T)(6AMT)": 1,
+        "Shock absorber(2.0T)(6AMT)": 1,
+        "Shock absorber": 4
+    },
+    "buyers": {
+        "Changan Ford": 2,
+        "Ford": 4
+    },
+    "Country": "China",
+    "Address": "177 Xing Long Street, Suzhou Industrial Park, Jiangsu Province 215126, China",
+    "TEL": "+86-512-6283-3400",
+    "Year established": "Dec. 2002",
+    "URL": "https://www.hitachiastemo.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Hitachi Astemo, Minyu International Limited"
+}

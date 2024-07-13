@@ -1,15 +1,22 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Rear Lamp": 9
+        "Rear Lamp": 9,
+        "Shock Absorber": 4
     },
     "specific-parts-bought": {
-        "Rear lamp": 9
+        "Rear lamp": 9,
+        "Air spring": 1,
+        "3-stage adaptive dumping system": 1,
+        "DSSV (Dynamic Suspension Spool Valve) adjustable damper": 2
     },
     "suppliers": {
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 3,
         "Wuhu Anrui Optoelectronics Co., Ltd.": 1,
         "Wipac Technology Limited": 4,
-        "Magna International Inc.": 1
+        "Magna International Inc.": 1,
+        "Vibracoustic SE": 1,
+        "thyssenkrupp Bilstein GmbH": 1,
+        "Multimatic, Inc.": 2
     }
 }

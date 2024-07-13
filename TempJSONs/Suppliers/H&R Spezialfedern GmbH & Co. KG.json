@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 9
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 9
+    },
+    "buyers": {
+        "Audi": 3,
+        "BMW": 3,
+        "Toyota": 1,
+        "Volkswagen": 2
+    },
+    "Country": "Germany",
+    "Address": "Elsper Strasse 36 Lennestadt, 57368 Germany",
+    "TEL": "+49-2721-92600",
+    "Year established": "1980",
+    "URL": "https://www.h-r.com/",
+    "Quality certification": "ISO9001"
+}

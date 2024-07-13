@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 48,
-        "Rear Lamp": 6
+        "Rear Lamp": 6,
+        "Shock Absorber": 19
     },
     "specific-parts-bought": {
         "Front wiring harness": 1,
@@ -47,7 +48,17 @@
         "Rear lamp (Sourced by MUNRO & ASSOCIATES, USA)": 1,
         "Rear combination lamp": 1,
         "Stop lamp": 1,
-        "Shared LED Stop/Tail system on electric vehicle": 1
+        "Shared LED Stop/Tail system on electric vehicle": 1,
+        "Front shock absorber": 1,
+        "Rear shock absorber": 1,
+        "Buffer block": 2,
+        "Front strut": 3,
+        "Rear strut": 3,
+        "Coil spring suspension system damper": 1,
+        "Front adaptive air spring module": 2,
+        "Rear adaptive air spring module": 2,
+        "Rear shock absorber (Sourced by MUNRO & ASSOCIATES, USA)": 2,
+        "Shock absorber": 2
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 5,
@@ -77,6 +88,13 @@
         "Blove Light Precision HK Co.,Ltd.": 1,
         "Ventra Evart, LLC": 1,
         "Flex-N-Gate Corporation": 1,
-        "Varroc Lighting System (India) Pvt. Ltd.": 3
+        "Varroc Lighting System (India) Pvt. Ltd.": 3,
+        "thyssenkrupp Bilstein of America Inc.": 9,
+        "Shanghai Carthane Co., Ltd.": 2,
+        "HL Mando Corporation Mexico SA de CV (Formerly Mando Corporation Mexico SA de CV)": 1,
+        "Firestone Industrial Products Company, LLC": 4,
+        "HL Mando America Corporation - Alabama (Formerly Mando America Corporation - Alabama)": 1,
+        "HL Mando Corporation (Formerly Mando Corporation)": 1,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 1
     }
 }

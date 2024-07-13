@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 15,
-        "Rear Lamp": 5
+        "Rear Lamp": 5,
+        "Shock Absorber": 9
     },
     "specific-parts-bought": {
         "Busbar": 4,
@@ -12,7 +13,10 @@
         "Wire harness": 1,
         "High-voltage cable": 1,
         "Interior mirror wiring harness": 1,
-        "Rear lamp": 5
+        "Rear lamp": 5,
+        "Buffer block": 4,
+        "Shock absorber": 4,
+        "Shock absorber components": 1
     },
     "suppliers": {
         "Kunshan Dragonstate Electronic Technology Co., Ltd.": 4,
@@ -23,6 +27,9 @@
         "Xiamen Hongfa Electroacoustic Co., Ltd.": 1,
         "Marelli Automotive Components (WUHU) Co. Ltd.(Formerly Magneti Marelli Automotive Components (WUHU) Co. Ltd.)": 2,
         "HELLA Jiaxing Lighting Co., Ltd.": 2,
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
+        "Shanghai Carthane Co., Ltd.": 5,
+        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.)": 1,
+        "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.)": 3
     }
 }

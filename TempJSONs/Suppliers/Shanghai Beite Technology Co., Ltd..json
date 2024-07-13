@@ -1,0 +1,33 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 57
+    },
+    "specific_parts_sold": {
+        "Shock absorber piston rod": 57
+    },
+    "buyers": {
+        "Changan Ford": 4,
+        "Dongfeng Honda": 3,
+        "FAW Toyota": 4,
+        "GAC Honda": 8,
+        "GAC Toyota": 3,
+        "Geely": 5,
+        "Dongfeng Nissan": 5,
+        "Dongfeng Peugeot Citroen": 2,
+        "Dongfeng Yueda Kia": 4,
+        "FAW-Volkswagen": 6,
+        "Fujian Benz": 1,
+        "Jiangling Motors": 1,
+        "SAIC GM": 2,
+        "SAIC Passenger Vehicle": 2,
+        "SAIC Volkswagen": 7
+    },
+    "Country": "China",
+    "Address": "No.2488, Gaoshi Road, Jiading, Shanghai 201816, China",
+    "TEL": "+86-21-39900006",
+    "Year established": "2002",
+    "URL": "http://www.sh-beite.com",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

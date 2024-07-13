@@ -1,0 +1,31 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 17
+    },
+    "specific_parts_sold": {
+        "Damper": 3,
+        "Damper(2.0L)(2DHT)": 1,
+        "Damper top mount": 1,
+        "Damper top mount(1.5T)(7DCT)": 2,
+        "Damper top mount(2.0T)(8AT)": 1,
+        "Damper top mount(2.0L)(DHT)": 1,
+        "Damper(1.5T)(7DCT)": 1,
+        "Damper top mount(1.5T)(6MT)": 2,
+        "Damper top mount(1.5T)(6AMT)": 2,
+        "Damper top mount(1.5T)": 1,
+        "Damper top mount(1.5T)(6AT)": 1,
+        "Damper top mount(2.0T)(6AT)": 1
+    },
+    "buyers": {
+        "GAC Motor": 16,
+        "GAC Aion": 1
+    },
+    "Country": "China",
+    "Address": "No.585, Yungu Road, Zhouzhuang Town, Jiangyin, Jiangsu 214424, China",
+    "TEL": "+86-510-68978887",
+    "Year established": "Apr. 1998",
+    "URL": "http://www.haida.cn/",
+    "Quality certification": "ISO9001",
+    "Environmental certification": "ISO14001"
+}

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 4,
         "Rear Lamp": 9,
-        "Axle": 2
+        "Axle": 2,
+        "Shock Absorber": 2
     },
     "specific-parts-bought": {
         "Engine wiring harness": 1,
@@ -12,7 +13,9 @@
         "Wiring system": 1,
         "Rear lamp": 9,
         "Front axle": 1,
-        "Rear axle drive": 1
+        "Rear axle drive": 1,
+        "Air spring": 1,
+        "Adaptive damping system": 1
     },
     "suppliers": {
         "Nexans autoelectric GmbH": 1,
@@ -22,6 +25,7 @@
         "Wipac Technology Limited": 8,
         "Koito Europe Ltd.": 1,
         "Magna International Inc.": 1,
-        "ZF Friedrichshafen AG": 1
+        "ZF Friedrichshafen AG": 2,
+        "Vibracoustic SE": 1
     }
 }

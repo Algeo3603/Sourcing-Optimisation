@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 268,
         "Rear Lamp": 19,
-        "Clutch": 4
+        "Clutch": 4,
+        "Shock Absorber": 38
     },
     "specific-parts-bought": {
         "Door wiring harness(2.0L)(CVT)": 3,
@@ -87,7 +88,23 @@
         "Signal lamp": 1,
         "Clutch": 2,
         "Clutch cover": 1,
-        "Clutch automatic control system": 1
+        "Clutch automatic control system": 1,
+        "Shock absorber": 7,
+        "Shock absorber piston(4.0L)(5MT)": 1,
+        "Shock absorber base": 3,
+        "Shock absorber piston(1.2T)(8CVT)": 1,
+        "Shock absorber base(1.2T)(8CVT)": 1,
+        "Shock absorber piston(2.0T)(8AMT)": 1,
+        "Shock absorber base(2.0T)(8AMT)": 1,
+        "Shock absorber piston(3.5L)(6AMT)": 1,
+        "Shock absorber piston(2.0L)(CVT)": 1,
+        "Shock absorber piston(2.5L)(6AMT)": 1,
+        "Shock absorber piston(1.3L)(5MT)": 1,
+        "Shock absorber piston(1.3L)(CVT)": 1,
+        "Shock absorber base(1.3L)(5MT)": 1,
+        "Shock absorber base(1.3L)(CVT)": 1,
+        "Oil pump for shock absorber": 4,
+        "Shock absorber piston rod": 12
     },
     "suppliers": {
         "Tianjin Yazaki Automotive Parts Co., Ltd. Chengdu Branch": 28,
@@ -106,6 +123,11 @@
         "Ichikoh Industries, Ltd.": 1,
         "Exedy Chongqing Co., Ltd.": 2,
         "EXEDY Corporation": 1,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 1
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 1,
+        "FAW-Tokico Shock Absorber Co., Ltd.": 2,
+        "KYB Industrial Machinery (Zhenjiang) Ltd.": 9,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 15,
+        "Shanghai Beite Technology Co., Ltd.": 4,
+        "Changchun Beite Automotive Parts Co., Ltd.": 8
     }
 }

@@ -4,7 +4,8 @@
         "Wiring Harness": 24,
         "Rear Lamp": 29,
         "Clutch": 12,
-        "Axle": 26
+        "Axle": 26,
+        "Shock Absorber": 8
     },
     "specific-parts-bought": {
         "Wiring harness": 12,
@@ -32,7 +33,10 @@
         "Front & rear axle": 4,
         "Front & rear axle(EcoDiesel)": 1,
         "Axle": 2,
-        "Front & rear axles": 1
+        "Front & rear axles": 1,
+        "Front shock absorber": 3,
+        "Shock absorber": 2,
+        "Rear shock absorber": 3
     },
     "suppliers": {
         "Coficab -Tunisie": 1,
@@ -63,6 +67,11 @@
         "F.C.C. Co., Ltd.": 1,
         "ZF Friedrichshafen AG": 3,
         "Dana Incorporated (Formerly Dana Holding Corporation)": 22,
-        "Aludyne, Inc. (Fromerly Chassix Holdings Inc.)": 2
+        "Aludyne, Inc. (Fromerly Chassix Holdings Inc.)": 2,
+        "Marelli Mexicana, S.A. de C.V. - San Francisco Plant (Formerly Calsonic Kansei Mexicana, S.A. de C.V. - San Francisco Plant)": 3,
+        "ZF Suspension Technology Guadalajara, S.A. de C.V.": 1,
+        "Hitachi Astemo Mexico, S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico, S.A. de C.V.)": 2,
+        "ZF North America Inc.": 1,
+        "thyssenkrupp Bilstein GmbH": 1
     }
 }

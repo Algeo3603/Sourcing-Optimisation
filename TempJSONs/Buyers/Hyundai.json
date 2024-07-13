@@ -4,7 +4,8 @@
         "Wiring Harness": 157,
         "Rear Lamp": 78,
         "Clutch": 53,
-        "Axle": 53
+        "Axle": 53,
+        "Shock Absorber": 82
     },
     "specific-parts-bought": {
         "ABS wiring harness": 4,
@@ -47,10 +48,18 @@
         "Front left drive axle seal": 1,
         "IRS rear axle": 5,
         "Rear coupled torsion beam axle": 2,
-        "Banjo rear axle": 1
+        "Banjo rear axle": 1,
+        "Front strut assembly": 3,
+        "Rear shock absorber": 46,
+        "Bound stopper": 1,
+        "Front strut": 26,
+        "Shock absorber/strut": 1,
+        "Front chassis module": 3,
+        "Lightweight damper": 1,
+        "Shock absorber": 1
     },
     "suppliers": {
-        "Hyundai Mobis Co., Ltd.": 18,
+        "Hyundai Mobis Co., Ltd.": 21,
         "Kyungshin Corporation": 16,
         "YURA Corporation": 3,
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 4,
@@ -80,13 +89,19 @@
         "Schaeffler AG": 1,
         "Nemak, S.A.B. de C.V.": 1,
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)": 1,
-        "ZF Friedrichshafen AG": 4,
+        "ZF Friedrichshafen AG": 5,
         "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)": 25,
         "Korea Movenex Co., Ltd. (Formerly Korea Flange Co., Ltd.)": 7,
         "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 1,
         "Hyundai Transys Inc. - Seongyeon Plant (Formerly Hyundai Dymos, Inc.)": 11,
         "Seohan Innobility Co., Ltd. (Formerly Seohan Industries Co., Ltd.)": 6,
         "SKF USA Inc.": 1,
-        "Hwashin Co., Ltd.": 2
+        "Hwashin Co., Ltd.": 2,
+        "HL Mando Corporation (Formerly Mando Corporation)": 62,
+        "BASF S.A.": 1,
+        "ZF Sachs Korea Co., Ltd.": 10,
+        "HL Mando Automotive India Private Limited (Formerly Mando Automotive India Private Limited)": 1,
+        "MOBIS Slovakia s.r.o.": 3,
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.)": 1
     }
 }

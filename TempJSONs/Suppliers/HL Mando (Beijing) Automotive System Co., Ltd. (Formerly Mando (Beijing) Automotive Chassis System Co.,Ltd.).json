@@ -1,0 +1,41 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 16
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 2,
+        "Shock absorber(3.5L)(10AMT)": 1,
+        "Shock absorber(1.5L)(5MT)": 2,
+        "Shock absorber(1.6T)(5MT)": 1,
+        "Shock absorber(1.6T)(5AMT)": 1,
+        "Shock absorber(2.5L)(6AMT)": 1,
+        "Shock absorber(2.0T)(6AMT)": 2,
+        "Shock absorber(1.5T)(7DCT)": 1,
+        "Shock absorber(1.5L)(6MT)": 1,
+        "Shock absorber(1.5L)(6AMT)": 1,
+        "Shock absorber(1.3L)(5MT)": 1,
+        "Shock absorber(1.5L)(4AMT)": 1,
+        "Shock absorber(1.8T)(6AMT)": 1
+    },
+    "buyers": {
+        "Tesla China": 1,
+        "Ford": 1,
+        "Dongfeng Passenger Vehicle": 1,
+        "GAC Motor": 2,
+        "Lifan": 1,
+        "SAIC GM": 4,
+        "SAIC GM Wuling": 3,
+        "SAIC Passenger Vehicle": 2,
+        "Changan": 1
+    },
+    "Country": "China",
+    "Address": "Building No. 1 and 2 of Yuan Building No. 15 Yunxi 7th Street, Miyun District, Beijing, China",
+    "TEL": "+86-10-6102-9188",
+    "Year established": "Jan. 2003",
+    "Beginning of operation": "2006",
+    "URL": "https://hlmando.com/ko/main.do",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Group: HL Mando Group"
+}

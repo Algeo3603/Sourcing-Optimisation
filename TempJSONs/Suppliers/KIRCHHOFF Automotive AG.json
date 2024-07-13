@@ -1,15 +1,18 @@
 {
     "top500": false,
     "parts_sold": {
-        "Axle": 2
+        "Axle": 2,
+        "Shock Absorber": 1
     },
     "specific_parts_sold": {
         "Front axle beam": 1,
-        "Rear axle": 1
+        "Rear axle": 1,
+        "Strut": 1
     },
     "buyers": {
         "BMW": 1,
-        "Volkswagen": 1
+        "Volkswagen": 1,
+        "Porsche": 1
     },
     "Country": "Germany",
     "Address": "Stefanstrasse 2, 58638 Iserlohn, Germany",

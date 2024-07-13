@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 11
+    },
+    "specific_parts_sold": {
+        "Adjustable shock absorber": 1,
+        "Shock absorber": 10
+    },
+    "buyers": {
+        "Opel": 1,
+        "Abarth": 10
+    },
+    "Country": "Netherlands",
+    "Address": "Korteweg 2, 3261 NH Oud- Beijerland, Netherlands",
+    "TEL": "+31-186-635500",
+    "URL": "http://www.koni.com",
+    "Remarks": "-ITT Industry Group"
+}

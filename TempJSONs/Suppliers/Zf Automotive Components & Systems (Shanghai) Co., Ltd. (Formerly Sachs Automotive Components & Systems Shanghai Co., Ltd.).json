@@ -1,13 +1,20 @@
 {
     "top500": false,
     "parts_sold": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Shock Absorber": 6
     },
     "specific_parts_sold": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Rear shock absorber": 3,
+        "Continuous damping control(1.5T)": 1,
+        "Shock absorber": 2
     },
     "buyers": {
-        "Zotye": 1
+        "Zotye": 1,
+        "GM": 3,
+        "Li Auto": 1,
+        "Xpeng": 2
     },
     "Country": "China",
     "Address": "No. 4440, Yuanjiang Road, Minhang District, Shanghai, 201111 China",

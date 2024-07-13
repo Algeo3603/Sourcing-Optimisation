@@ -1,0 +1,28 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 35
+    },
+    "specific_parts_sold": {
+        "Shock absorber piston rod": 35
+    },
+    "buyers": {
+        "FAW Car": 4,
+        "FAW Haima": 4,
+        "FAW Toyota": 8,
+        "FAW-Volkswagen": 2,
+        "Ford": 1,
+        "Geely": 2,
+        "JAC": 1,
+        "SAIC Passenger Vehicle": 3,
+        "Tianjin FAW Xiali": 10
+    },
+    "Country": "China",
+    "Address": "Bingyi Street, Yiliu Road, Automobile Industry Development District, Changchun, Jilin, China",
+    "TEL": "+86-431-85982273",
+    "Year established": "Jul. 2009",
+    "URL": "http://www.beite.net.cn/en",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder：Shanghai Beite Technology Co., Ltd."
+}

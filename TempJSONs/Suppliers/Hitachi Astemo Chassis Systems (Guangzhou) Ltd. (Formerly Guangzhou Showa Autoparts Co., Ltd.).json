@@ -1,0 +1,26 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 12
+    },
+    "specific_parts_sold": {
+        "Shock absorber(1.5T)(CVT)": 1,
+        "Shock absorber(2.0L)(CVT)": 2,
+        "Shock absorber(1.5L)(CVT)": 4,
+        "Shock absorber(1.0T)(6MT)": 1,
+        "Shock absorber(1.0T)(CVT)": 1,
+        "Shock absorber(1.5L)(5MT)": 3
+    },
+    "buyers": {
+        "GAC Honda": 8,
+        "Dongfeng Honda": 4
+    },
+    "Country": "China",
+    "Address": "No.6, Hong Ming Road, Eastern Section of Guangzhou Economic & Technological Development District, Guangzhou, Guangdong 510760, China",
+    "TEL": "+86-20-82268289",
+    "Year established": "Nov. 1994",
+    "URL": "https://www.hitachiastemo.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)ISO9001",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Hitachi Astemo, Ltd., GAC Component Co., Ltd."
+}

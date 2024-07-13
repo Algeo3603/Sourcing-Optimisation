@@ -1,16 +1,18 @@
 {
     "top500": false,
     "parts_sold": {
-        "Clutch": 18
+        "Clutch": 18,
+        "Shock Absorber": 3
     },
     "specific_parts_sold": {
         "Clutch": 17,
-        "Clutch cover": 1
+        "Clutch cover": 1,
+        "Shock absorber": 3
     },
     "buyers": {
         "VOYAH Motor": 1,
         "BAIC Yinxiang": 3,
-        "Dongfeng Liuzhou Motor": 4,
+        "Dongfeng Liuzhou Motor": 7,
         "FAW-Volkswagen": 5,
         "Geely": 2,
         "SAIC GM Wuling": 2,

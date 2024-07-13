@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 2
+    },
+    "specific_parts_sold": {
+        "Rear shock absorber": 2
+    },
+    "buyers": {
+        "Ford": 2
+    },
+    "Country": "USA",
+    "Address": "2513 W Park Dr, Gainesville, GA 30504, USA",
+    "Year established": "2021",
+    "URL": "https://www.ridefox.com/",
+    "Environmental certification": "ISO14001"
+}

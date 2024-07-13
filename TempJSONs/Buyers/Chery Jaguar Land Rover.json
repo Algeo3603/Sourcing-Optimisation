@@ -1,12 +1,19 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 1
+        "Rear Lamp": 1,
+        "Shock Absorber": 4
     },
     "specific-parts-bought": {
-        "Rear lamp": 1
+        "Rear lamp": 1,
+        "Buffer block(2.0T)(8AT)": 1,
+        "Buffer block(3.0T)(8AT)": 1,
+        "Shock absorber(2.0T)(8AT)": 1,
+        "Shock absorber(3.0T)(8AT)": 1
     },
     "suppliers": {
-        "Guangzhou Antolin Lighting Co., Ltd. (Formerly Socop Guangzhou Lamps  Co., Ltd.)": 1
+        "Guangzhou Antolin Lighting Co., Ltd. (Formerly Socop Guangzhou Lamps  Co., Ltd.)": 1,
+        "Shanghai Carthane Co., Ltd.": 2,
+        "Tenneco (Beijing) Ride Control System Co., Ltd.": 2
     }
 }

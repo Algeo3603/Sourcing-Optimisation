@@ -1,0 +1,28 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 10
+    },
+    "specific_parts_sold": {
+        "Shock absorber(1.5T)(CVT)": 2,
+        "Shock absorber(1.5T)(6MT)": 1,
+        "Shock absorber(1.5L)(CVT)": 1,
+        "Shock absorber(2.0L)(CVT6)": 1,
+        "Shock absorber(2.4L)(CVT6)": 1,
+        "Shock absorber(1.5L)(6MT)": 1,
+        "Shock absorber": 3
+    },
+    "buyers": {
+        "Dongfeng Honda": 6,
+        "GAC Mitsubishi": 3,
+        "Dongfeng Renault": 1
+    },
+    "Country": "China",
+    "Address": "No. 788 Zhushan Lake Avenue, Wuhan Economic & Technological Development Zone, Wuhan, Hubei, 430056, China",
+    "TEL": "+86-27-84478020",
+    "Year established": "Nov. 2005",
+    "URL": "https://www.hitachiastemo.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)ISO9001",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Hitachi Astemo, GAC Component Co., Ltd."
+}

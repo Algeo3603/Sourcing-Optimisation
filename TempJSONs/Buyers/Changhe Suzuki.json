@@ -1,12 +1,23 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 5
+        "Wiring Harness": 5,
+        "Shock Absorber": 8
     },
     "specific-parts-bought": {
-        "Wire harness": 5
+        "Wire harness": 5,
+        "Shock absorber piston(1.4L)(5MT)": 2,
+        "Shock absorber base(1.4L)(5MT)": 2,
+        "Shock absorber": 1,
+        "Shock absorber piston rod": 1,
+        "Front strut": 1,
+        "Rear strut": 1
     },
     "suppliers": {
-        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 5
+        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 5,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 4,
+        "Chengdu Ningjiang Showa Autoparts Co., Ltd.": 1,
+        "Chongqing Beite Technology Co., Ltd.": 1,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 2
     }
 }

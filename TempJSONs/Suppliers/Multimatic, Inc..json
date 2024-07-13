@@ -1,0 +1,26 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 22
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 6,
+        "Front shock absorber": 1,
+        "Rear shock absorber": 1,
+        "DSSV (Dynamic Suspension Spool Valve) adjustable damper": 14
+    },
+    "buyers": {
+        "GM": 11,
+        "Ford": 3,
+        "Daimler": 3,
+        "Mazda": 3,
+        "Aston Martin": 2
+    },
+    "Country": "Canada",
+    "Address": "8688 Woodbine Avenue Suite 200 Markham, Ontario L3R 8B9, Canada",
+    "TEL": "+1-905-470-9149",
+    "Year established": "1984",
+    "URL": "https://www.multimatic.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Multimatic Group Headquarters"
+}

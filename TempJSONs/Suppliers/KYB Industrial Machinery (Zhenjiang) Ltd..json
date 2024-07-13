@@ -1,0 +1,27 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 36
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 30,
+        "Shock absorber(2.4L)(CVT8)": 1,
+        "Shock absorber(2.0L)(CVT8)": 1,
+        "Oil pump for shock absorber": 4
+    },
+    "buyers": {
+        "BMW Brilliance": 1,
+        "Dongfeng Nissan": 13,
+        "GAC Mitsubishi": 4,
+        "GAC Toyota": 6,
+        "FAW Toyota": 9,
+        "Zhengzhou Nissan": 1,
+        "South East": 2
+    },
+    "Country": "China",
+    "Address": "No.98, Xiyun Road, Dingmao, Zhenjiang New Zone, Zhenjiang, Jiangsu, 212009, China",
+    "TEL": "+86-511-8889-1008",
+    "Year established": "Dec., 2002",
+    "URL": "https://www.kyb.co.jp/english/",
+    "Remarks": "-Shareholders：KYB (CHINA) Investment Co., Ltd.100% (KYB Corporation 100%)"
+}

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 357,
         "Rear Lamp": 13,
-        "Clutch": 3
+        "Clutch": 3,
+        "Shock Absorber": 16
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -100,7 +101,14 @@
         "Rear lamp": 3,
         "Clutch(2.0L)(10CVT)": 1,
         "Clutch": 1,
-        "Clutch cover": 1
+        "Clutch cover": 1,
+        "Shock absorber": 6,
+        "Shock absorber piston(2.0L)(8AMT)": 1,
+        "Shock absorber base(2.0L)(8AMT)": 1,
+        "Front shock absorber": 1,
+        "Shock absorber piston(1.5L)(8CVT)": 2,
+        "Shock absorber base(1.5L)(8CVT)": 2,
+        "Shock absorber piston rod": 3
     },
     "suppliers": {
         "Dongguan Nifco Co., Ltd.": 2,
@@ -117,6 +125,10 @@
         "Guangzhou Koito Automotive Lamp Co., Ltd.": 10,
         "Foshan Ichikoh Valeo Auto Lighting Systems Co., Ltd.": 1,
         "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 1,
-        "Exedy Chongqing Co., Ltd.": 2
+        "Exedy Chongqing Co., Ltd.": 2,
+        "KYB Industrial Machinery (Zhenjiang) Ltd.": 6,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 6,
+        "FAWER Automotive Parts Limited Company": 1,
+        "Shanghai Beite Technology Co., Ltd.": 3
     }
 }

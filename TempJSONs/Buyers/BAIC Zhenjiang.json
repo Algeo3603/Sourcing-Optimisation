@@ -1,0 +1,21 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Shock Absorber": 8
+    },
+    "specific-parts-bought": {
+        "Shock absorber piston(1.5L)(6MT)": 1,
+        "Shock absorber piston(1.5L)(CVT)": 1,
+        "Shock absorber base(1.5L)(6MT)": 1,
+        "Shock absorber base(1.5L)(CVT)": 1,
+        "Shock absorber(1.5L)(6MT)": 1,
+        "Shock absorber(1.5L)(CVT)": 1,
+        "Buffer block(1.5L)(6MT)": 1,
+        "Buffer block(1.5L)(CVT)": 1
+    },
+    "suppliers": {
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 4,
+        "FAW-Tokico Shock Absorber Co., Ltd.": 2,
+        "Shanghai Carthane Co., Ltd.": 2
+    }
+}

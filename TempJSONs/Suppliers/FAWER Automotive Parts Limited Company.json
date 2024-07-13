@@ -1,0 +1,24 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Shock Absorber": 4
+    },
+    "specific_parts_sold": {
+        "Front shock absorber": 2,
+        "Rear strut": 1,
+        "Shock absorber": 1
+    },
+    "buyers": {
+        "Dongfeng Nissan": 1,
+        "GAC Toyota": 1,
+        "Geely": 1,
+        "FAW-Volkswagen": 1
+    },
+    "Year Established": "Oct. 1988",
+    "Number of Employees": ",978 employees (as of Dec. 31, 2023)",
+    "Sales Turnover": "CNY 15,842.63 million (FY ended Dec. 31, 2023)",
+    "Representative": "Chairman: Hanjie HU",
+    "URL": "https://www.fawer.com.cn/index.php?l=en",
+    "Address": "No.701 Xuehai Street, Gaoxin District, Changchun, Jilin 130011, China",
+    "Country": "China"
+}

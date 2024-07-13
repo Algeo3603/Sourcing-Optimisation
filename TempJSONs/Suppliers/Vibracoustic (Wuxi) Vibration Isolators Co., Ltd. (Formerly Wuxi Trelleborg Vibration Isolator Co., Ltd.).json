@@ -1,0 +1,25 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 14
+    },
+    "specific_parts_sold": {
+        "Damper": 2,
+        "Air spring system": 2,
+        "Shock absorber": 10
+    },
+    "buyers": {
+        "Xpeng": 4,
+        "Changan Ford": 3,
+        "FAW-Volkswagen": 4,
+        "SAIC Volkswagen": 3
+    },
+    "Country": "China",
+    "Address": "No.36 Ximei Rd Wuxi Xinqu Wuxi City Jiangsu 214112 China",
+    "TEL": "+86-510-88666222",
+    "Year established": "Sep. 1993",
+    "URL": "https://www.vibracoustic.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Vibracoustic SE"
+}

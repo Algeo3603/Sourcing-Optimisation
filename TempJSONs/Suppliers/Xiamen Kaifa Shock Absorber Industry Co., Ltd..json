@@ -1,0 +1,41 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 34
+    },
+    "specific_parts_sold": {
+        "Shock absorber(1.5L)(5MT)": 2,
+        "Shock absorber(1.6L)(CVT)": 1,
+        "Shock absorber(2.0L)(5MT)": 1,
+        "Shock absorber(1.4T)(5MT)": 1,
+        "Shock absorber(1.6L)(4AT)": 1,
+        "Shock absorber(1.6L)(6DCT)": 1,
+        "Shock absorber(2.0L)(6AMT)": 2,
+        "Shock absorber(1.6L)(5MT)": 4,
+        "Shock absorber(1.8L)(5MT)": 1,
+        "Shock absorber(1.8L)(6AMT)": 1,
+        "Shock absorber(1.2T)(6AMT)": 4,
+        "Shock absorber(1.6T)(6AMT)": 2,
+        "Shock absorber(1.2T)(5MT)": 3,
+        "Shock absorber(1.6L)(6AMT)": 3,
+        "Shock absorber(1.6L)(4AMT)": 1,
+        "Shock absorber(1.2T)(4AMT)": 1,
+        "Shock absorber(1.8T)(5MT)": 1,
+        "Shock absorber(1.8T)(6AMT)": 1,
+        "Shock absorber(2.0T)(6AMT)": 1,
+        "Shock absorber(2.2T)(6AMT)": 2
+    },
+    "buyers": {
+        "Dongfeng Liuzhou Motor": 3,
+        "Dongfeng Passenger Vehicle": 8,
+        "Dongfeng Peugeot Citroen": 18,
+        "Dongfeng Yulon": 5
+    },
+    "Country": "China",
+    "Address": "No.333-337 Liansheng Road, Jimei District, Xiamen City, Fujian Province, China",
+    "TEL": "+86-592-6157282",
+    "Year established": "Jul. 1995",
+    "URL": "http://www.kaifa.com.tw",
+    "Quality certification": "ISO9001QS9000",
+    "Remarks": "-Shareholder：Gemmalik Investment  Co., Ltd."
+}

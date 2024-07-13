@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 13,
         "Rear Lamp": 6,
-        "Clutch": 8
+        "Clutch": 8,
+        "Shock Absorber": 28
     },
     "specific-parts-bought": {
         "Combination switch wiring harness": 1,
@@ -23,13 +24,32 @@
         "Rear lamp": 1,
         "Stop lamp": 1,
         "Clutch": 4,
-        "Clutch cover": 4
+        "Clutch cover": 4,
+        "Shock absorber piston(2.0L)(6AMT)": 3,
+        "Shock absorber base": 1,
+        "Shock absorber piston(1.6L)(5MT)": 1,
+        "Shock absorber piston(1.4T)(6AMT)": 1,
+        "Shock absorber base(1.6L)(5MT)": 1,
+        "Shock absorber base(1.4T)(6AMT)": 1,
+        "Shock absorber piston(2.0L)(6MT)": 2,
+        "Shock absorber base(2.0L)(6MT)": 2,
+        "Shock absorber base(2.0L)(6AMT)": 2,
+        "Shock absorber piston(1.8T)(6AMT)": 2,
+        "Shock absorber base(1.8T)(6AMT)": 2,
+        "Shock absorber piston(2.0T)(6AMT)": 1,
+        "Shock absorber base(2.0T)(6AMT)": 1,
+        "Shock absorber piston rod": 4,
+        "Front shock absorber": 2,
+        "Rear shock absorber": 2
     },
     "suppliers": {
         "Baicheng Xinyu Auto Wire Harness Co., Ltd.": 12,
         "Beijing Force Automotive Wire Co., Ltd.": 1,
         "Tianjin Stanley Electric Co., Ltd.": 3,
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 3,
-        "Exedy Chongqing Co., Ltd.": 8
+        "Exedy Chongqing Co., Ltd.": 8,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 20,
+        "Changchun Beite Automotive Parts Co., Ltd.": 4,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 4
     }
 }

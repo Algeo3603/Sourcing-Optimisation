@@ -4,7 +4,8 @@
         "Wiring Harness": 175,
         "Rear Lamp": 120,
         "Clutch": 10,
-        "Axle": 6
+        "Axle": 6,
+        "Shock Absorber": 126
     },
     "specific-parts-bought": {
         "Back-up lamp wiring harness": 1,
@@ -43,7 +44,12 @@
         "Clutch cover": 8,
         "CVT clutch": 1,
         "Clutch cover(KF)(5MT)": 1,
-        "Rear axle housing": 6
+        "Rear axle housing": 6,
+        "Rear shock absorber": 51,
+        "Front shock absorber": 36,
+        "Electronically controlled damper": 1,
+        "Shock absorber": 36,
+        "Front strut": 2
     },
     "suppliers": {
         "Furukawa Electric Co., Ltd.": 26,
@@ -71,6 +77,13 @@
         "EXEDY Corporation": 8,
         "F.C.C. Co., Ltd.": 1,
         "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 1,
-        "D-ACT.Co., Ltd. (Formerly Aoi Machine Industry Co., Ltd.)": 6
+        "D-ACT.Co., Ltd. (Formerly Aoi Machine Industry Co., Ltd.)": 6,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 66,
+        "KYB Americas Corporation - Indiana": 2,
+        "KYB Corporation": 30,
+        "ZF Friedrichshafen AG": 11,
+        "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.)": 2,
+        "thyssenkrupp Bilstein GmbH": 14,
+        "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.)": 1
     }
 }

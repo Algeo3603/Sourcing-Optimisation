@@ -1,16 +1,21 @@
 {
     "top500": false,
     "parts_sold": {
-        "Clutch": 3
+        "Clutch": 3,
+        "Shock Absorber": 9
     },
     "specific_parts_sold": {
         "Clutch(1.5T)(7DCT)": 1,
         "Clutch(1.5T)(6MT)": 1,
-        "Clutch(1.6L)(4AMT)": 1
+        "Clutch(1.6L)(4AMT)": 1,
+        "Continuous damping control (CDC)": 3,
+        "Shock absorber": 6
     },
     "buyers": {
         "SAIC Passenger Vehicle": 2,
-        "Changan": 1
+        "Changan": 1,
+        "BYD": 3,
+        "Deepal": 6
     },
     "Country": "China",
     "Address": "No. 1-3, Schaeffler Road, Taicang Economic Development Zone, Jiangsu Province, China",

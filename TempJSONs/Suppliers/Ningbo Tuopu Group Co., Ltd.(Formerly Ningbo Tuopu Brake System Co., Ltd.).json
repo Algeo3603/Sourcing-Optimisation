@@ -1,0 +1,24 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Shock Absorber": 7
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 4,
+        "Suspension cushion": 1,
+        "Damper": 2
+    },
+    "buyers": {
+        "BYD": 1,
+        "Tesla China": 3,
+        "Changan Ford": 1,
+        "Geely": 2
+    },
+    "Year Established": "Apr. 2004",
+    "Number of Employees": "7,612 employees (as of Dec. 31, 2022)",
+    "Sales Turnover": "CNY 159,92.82 million (FY ended Dec. 31, 2022)",
+    "Representative": "Chairman: Jianshu WU",
+    "URL": "http://www.tuopu.com",
+    "Address": "No.268, Yuwangshan Road, Beilun District, Ningbo City, Zhejiang Province, China",
+    "Country": "China"
+}

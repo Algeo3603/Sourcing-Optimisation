@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 34,
         "Rear Lamp": 3,
-        "Axle": 17
+        "Axle": 17,
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 3,
@@ -31,7 +32,10 @@
         "Front axle": 5,
         "Rear axle": 6,
         "Front axle beam": 1,
-        "Axle": 5
+        "Axle": 5,
+        "Shock absorber(2.0T)(8AMT)": 6,
+        "Shock absorber": 4,
+        "Continuously variable semi-active suspension": 1
     },
     "suppliers": {
         "Leoni Wiring Systems (Tieling) Co., Ltd.": 3,
@@ -47,6 +51,10 @@
         "ZF Lemforder Automotive Systems (Shenyang) Co., Ltd.": 8,
         "ZF Friedrichshafen AG": 1,
         "Gestamp Auto Components (Shenyang) Co., Ltd.": 3,
-        "ZF Group (China)": 2
+        "ZF Group (China)": 2,
+        "Beijing West Industries Co., Ltd.": 6,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 3,
+        "KYB Industrial Machinery (Zhenjiang) Ltd.": 1,
+        "Tenneco Inc.": 1
     }
 }

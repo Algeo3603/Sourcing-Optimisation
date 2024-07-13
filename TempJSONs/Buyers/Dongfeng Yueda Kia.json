@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 154,
         "Clutch": 2,
-        "Axle": 4
+        "Axle": 4,
+        "Shock Absorber": 4
     },
     "specific-parts-bought": {
         "High voltage wiring harness": 1,
@@ -25,7 +26,8 @@
         "Clutch automatic control system(1.6L)": 1,
         "Rear axle": 1,
         "Rear axle(2.0L)(AMT)": 2,
-        "Axle": 1
+        "Axle": 1,
+        "Shock absorber piston rod": 4
     },
     "suppliers": {
         "YURA Corporation": 1,
@@ -33,6 +35,7 @@
         "Qingdao Kyungshin Cable Co., Ltd.": 10,
         "Sanhe INFAC Automotive Components Co., Ltd.": 11,
         "Guangzhou Daonuo Electronic Technology Co., Ltd.": 2,
-        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 4
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 4,
+        "Shanghai Beite Technology Co., Ltd.": 4
     }
 }

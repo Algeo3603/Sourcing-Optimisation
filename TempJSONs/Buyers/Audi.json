@@ -4,7 +4,8 @@
         "Wiring Harness": 53,
         "Rear Lamp": 121,
         "Clutch": 17,
-        "Axle": 15
+        "Axle": 15,
+        "Shock Absorber": 58
     },
     "specific-parts-bought": {
         "Front wiring harness": 3,
@@ -52,7 +53,24 @@
         "Front axle system": 1,
         "Rear axle system": 1,
         "Front & rear axle system": 1,
-        "Axle drive": 1
+        "Axle drive": 1,
+        "Rear shock absorber": 19,
+        "Front shock absorber": 11,
+        "Damper valve": 3,
+        "Axle damper": 3,
+        "Adaptive damper system": 3,
+        "Shock absorber": 6,
+        "Rear air suspension": 1,
+        "Suspension strut": 1,
+        "Predictive active suspension": 1,
+        "Shock absorber/strut": 1,
+        "Air spring": 2,
+        "Damper fork": 1,
+        "Continuous damping control": 2,
+        "Strut PS bearing": 1,
+        "PS Bearing": 1,
+        "Shock absorber piston": 1,
+        "Adaptive damping system": 1
     },
     "suppliers": {
         "Leoni AG": 12,
@@ -65,7 +83,7 @@
         "Kromberg & Schubert Automotive GmbH & Co. KG - Renningen": 1,
         "Sumitomo Electric Industries, Ltd.": 1,
         "Hirschmann Automotive GmbH": 2,
-        "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 2,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 3,
         "MAHLE Behr GmbH & Co. KG": 1,
         "Howmet Aerospace Inc.": 1,
         "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 3,
@@ -80,13 +98,25 @@
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 27,
         "Ichikoh Industries, Ltd.": 1,
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2,
-        "ZF Friedrichshafen AG": 15,
+        "ZF Friedrichshafen AG": 40,
         "FTE automotive GmbH": 4,
         "Schaeffler AG": 1,
         "BorgWarner Inc.": 3,
         "Schaeffler Automotive Buehl GmbH & Co. KG": 2,
         "Benteler Group (Benteler Automobiltechnik GmbH)": 3,
         "Gestamp Automocion S.A.": 1,
-        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 2
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 2,
+        "ZF Slovakia as - Šahy": 3,
+        "Rausch & Pausch Automotive GmbH & Co. KG (RAPA Automotive)": 3,
+        "Vibracoustic SE": 7,
+        "H&R Spezialfedern GmbH & Co. KG": 3,
+        "Tenneco Inc.": 6,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 3,
+        "ZF North America Inc.": 1,
+        "Ovalo GmbH": 1,
+        "KSM Castings Group GmbH": 1,
+        "Oiles Corporation": 2,
+        "PMG Holding GmbH": 1,
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.)": 1
     }
 }

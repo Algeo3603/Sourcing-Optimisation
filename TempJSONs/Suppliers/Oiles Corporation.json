@@ -1,0 +1,23 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Shock Absorber": 5
+    },
+    "specific_parts_sold": {
+        "Strut PS bearing": 4,
+        "PS Bearing": 1
+    },
+    "buyers": {
+        "Audi": 2,
+        "Nissan": 2,
+        "Toyota": 1
+    },
+    "Year Established": "Mar. 1952",
+    "Number of Employees": ",030 employees (As of Mar. 31, 2023)",
+    "Sales Turnover": "JPY 62,882 million (FY ended Mar. 31, 2023)",
+    "Representative": "Yoshikazu Sakairi (President)",
+    "Capital": "Non Consolidated JPY 8,585 million (As of Mar. 31, 2023)",
+    "URL": "https://www.oiles.co.jp/en/",
+    "Address": "8 Kirihara-cho, Fujisawa-shi, Kanagawa 252-0811, Japan",
+    "Country": "Japan"
+}

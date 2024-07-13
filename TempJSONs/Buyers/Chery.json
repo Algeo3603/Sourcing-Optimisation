@@ -4,7 +4,8 @@
         "Wiring Harness": 26,
         "Rear Lamp": 37,
         "Clutch": 12,
-        "Axle": 7
+        "Axle": 7,
+        "Shock Absorber": 21
     },
     "specific-parts-bought": {
         "Wiring harness": 8,
@@ -37,7 +38,15 @@
         "Rear axle(1.5L)(5MT)": 1,
         "Rear axle(1.5L)(CVT)": 1,
         "Rear axle(1.5T)(CVT)": 1,
-        "Rear axle": 4
+        "Rear axle": 4,
+        "Continuous damping control (CDC)": 3,
+        "Shock absorber": 10,
+        "Shock absorber(1.5L)(5MT)": 2,
+        "Shock absorber(1.5L)(7CVT)": 1,
+        "Buffer block(1.5L)(5MT)": 2,
+        "Buffer block(1.5L)(7CVT)": 1,
+        "Shock absorber(1.5T)(7CVT)": 1,
+        "Buffer block(1.5T)(7CVT)": 1
     },
     "suppliers": {
         "Wuhu Ruichang Electric Systems Co., Ltd.": 3,
@@ -58,6 +67,10 @@
         "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 1,
         "Daao (Wuhu) Automobile Products Co., Ltd.(Formerly Tower (Wuhu) Automotive Parts Co., Ltd.)": 3,
         "Shanxi Dongfeng Axle Transmission System Co., Ltd.": 2,
-        "Sichuan Jianan Industrial Co., Ltd.": 2
+        "Sichuan Jianan Industrial Co., Ltd.": 2,
+        "Chengdu Mingran Intelligent Technology Co., Ltd.": 3,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 1,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 13,
+        "Shanghai Carthane Co., Ltd.": 4
     }
 }

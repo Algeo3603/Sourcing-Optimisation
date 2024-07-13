@@ -4,7 +4,8 @@
         "Wiring Harness": 33,
         "Rear Lamp": 34,
         "Clutch": 19,
-        "Axle": 2
+        "Axle": 2,
+        "Shock Absorber": 13
     },
     "specific-parts-bought": {
         "Engine wiring harness": 4,
@@ -34,7 +35,11 @@
         "Self adjusting clutch": 1,
         "Clutch mechanism": 2,
         "Rear axle": 1,
-        "Rear drive axle": 1
+        "Rear drive axle": 1,
+        "Front strut": 5,
+        "Rear strut": 5,
+        "Shock absorber": 2,
+        "Suspension strut": 1
     },
     "suppliers": {
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
@@ -59,6 +64,9 @@
         "ZF Friedrichshafen AG": 9,
         "Schaeffler Automotive Buehl GmbH & Co. KG": 3,
         "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1,
-        "Dowlais Group plc": 1
+        "Dowlais Group plc": 1,
+        "Gabriel India Ltd.": 11,
+        "KYB Europe GmbH": 1,
+        "Vibracoustic SE": 1
     }
 }

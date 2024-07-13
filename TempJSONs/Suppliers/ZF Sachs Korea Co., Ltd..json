@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 17
+    },
+    "specific_parts_sold": {
+        "Rear shock absorber": 10,
+        "Front shock absorber": 2,
+        "Front strut": 5
+    },
+    "buyers": {
+        "Mazda": 1,
+        "Toyota": 2,
+        "Honda": 4,
+        "Hyundai": 10
+    },
+    "Country": "Korea",
+    "Address": "173, Seongsanpaechong-ro, Seongsan-gu, Changwon-si, Gyeongsangman-do, Korea",
+    "TEL": "+82-55-239-1600",
+    "Capital": "KRW 53,157 million (CY2023)",
+    "URL": "https://www.zf.com/",
+    "Remarks": "- Sales Turnover: KRW 340,993 million, EBIT: KRW 13,903 million (CY2023 Unconsolidated Results)- Sales Turnover: KRW 335,577 million, EBIT: KRW 16,713 million (CY2022 Unconsolidated Results)- Sales Turnover: KRW 313,915 million, EBIT: KRW 21,982 million (CY2021 Unconsolidated Results)- Shareholder(s): ZF Friedrichshafen AG"
+}

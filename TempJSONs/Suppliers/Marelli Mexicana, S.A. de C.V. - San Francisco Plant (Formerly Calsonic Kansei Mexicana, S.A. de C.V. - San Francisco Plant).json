@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 8
+    },
+    "specific_parts_sold": {
+        "Front shock absorber": 3,
+        "Rear shock absorber": 5
+    },
+    "buyers": {
+        "Jeep": 3,
+        "Ram Trucks": 5
+    },
+    "Country": "Mexico",
+    "Address": "Av. San Francisco de los Romo #401 Parque Industrial San Francisco 2da. seccion San Francisco de los Romo, Ags. C.P.20300 Mexico",
+    "TEL": "+52-449-910-1600",
+    "URL": "https://www.marelli.com",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder : Marelli North America, Inc. 100%-Regional headquarters in Mexico"
+}

@@ -1,0 +1,17 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Shock Absorber": 25
+    },
+    "specific-parts-bought": {
+        "Front shock absorber": 6,
+        "Rear shock absorber": 6,
+        "Shock absorber": 12,
+        "Adjustable shock absorber": 1
+    },
+    "suppliers": {
+        "thyssenkrupp Bilstein GmbH": 22,
+        "Nitron Racing Systems Ltd.": 2,
+        "Oehlins Racing AB": 1
+    }
+}

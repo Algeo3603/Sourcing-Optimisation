@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 9,
         "Rear Lamp": 7,
-        "Clutch": 5
+        "Clutch": 5,
+        "Shock Absorber": 60
     },
     "specific-parts-bought": {
         "Wiring harness": 2,
@@ -12,7 +13,43 @@
         "Clutch": 2,
         "Clutch cover": 1,
         "Clutch automatic control system(1.3L)": 1,
-        "Clutch automatic control system(1.6L)": 1
+        "Clutch automatic control system(1.6L)": 1,
+        "Shock absorber piston(1.6L)(5MT)": 4,
+        "Shock absorber piston(1.6L)(6AMT)": 1,
+        "Shock absorber base(1.6L)(5MT)": 4,
+        "Shock absorber base(1.6L)(6AMT)": 1,
+        "Shock absorber piston(1.0L)(5MT)": 1,
+        "Shock absorber piston(1.0L)(4AT)": 1,
+        "Shock absorber base(1.0L)(5MT)": 1,
+        "Shock absorber base(1.0L)(4AT)": 1,
+        "Shock absorber piston(1.5L)(5MT)": 1,
+        "Shock absorber piston(1.5L)(4AT)": 1,
+        "Shock absorber base(1.5L)(5MT)": 1,
+        "Shock absorber base(1.5L)(4AT)": 1,
+        "Shock absorber piston(1.6L)(4AT)": 1,
+        "Shock absorber base(1.6L)(4AT)": 1,
+        "Shock absorber piston(1.6L)(7CVT)": 1,
+        "Shock absorber base(1.6L)(7CVT)": 1,
+        "Shock absorber piston(1.4T)(6AMT)": 2,
+        "Shock absorber base(1.4T)(6AMT)": 2,
+        "Shock absorber piston(1.4T)(6MT)": 1,
+        "Shock absorber base(1.4T)(6MT)": 1,
+        "Shock absorber": 6,
+        "Shock absorber piston rod": 6,
+        "Buffer block(1.5L)(5MT)": 1,
+        "Buffer block(1.5L)(4AT)": 1,
+        "Shock absorber(1.5L)(5MT)": 1,
+        "Shock absorber(1.5L)(4AT)": 1,
+        "Buffer block(1.6L)(5MT)": 2,
+        "Buffer block(1.6L)(4AT)": 1,
+        "Shock absorber(1.6L)(5MT)": 2,
+        "Shock absorber(1.6L)(4AT)": 1,
+        "Buffer block(1.4T)(6AMT)": 2,
+        "Shock absorber(1.4T)(6AMT)": 2,
+        "Buffer block(1.4T)(6MT)": 1,
+        "Shock absorber(1.4T)(6MT)": 1,
+        "Front shock absorber": 2,
+        "Rear shock absorber": 2
     },
     "suppliers": {
         "Chongqing Changhua Automobile Harness Co., Ltd.": 2,
@@ -21,6 +58,11 @@
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 6,
         "Exedy Chongqing Co., Ltd.": 2,
         "Guangzhou Daonuo Electronic Technology Co., Ltd.": 2,
-        "Changchun Yidong Clutch Co., Ltd.": 1
+        "Changchun Yidong Clutch Co., Ltd.": 1,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 28,
+        "Chengdu Ningjiang Showa Autoparts Co., Ltd.": 6,
+        "Chongqing Beite Technology Co., Ltd.": 6,
+        "Shanghai Carthane Co., Ltd.": 8,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 12
     }
 }

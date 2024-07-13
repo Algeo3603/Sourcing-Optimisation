@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 15
+    },
+    "specific_parts_sold": {
+        "Shock absorber outer tube assembly": 15
+    },
+    "buyers": {
+        "FAW-Volkswagen": 6,
+        "SAIC Volkswagen": 9
+    },
+    "Country": "China",
+    "Address": "Xiaquan Village, Dipu Town, Anji County, Huzhou, Zhejiang, China",
+    "TEL": "+86-572-5015000",
+    "Year established": "Dec., 2007",
+    "URL": "http://www.roadtamer.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

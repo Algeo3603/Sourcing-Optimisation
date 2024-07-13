@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 9
+    },
+    "specific_parts_sold": {
+        "Continuous damping control (CDC)": 2,
+        "Shock absorber": 3,
+        "Shock absorber airbag": 3,
+        "Air spring system(1.5T)": 1
+    },
+    "buyers": {
+        "BYD": 2,
+        "NIO": 6,
+        "Li Auto": 1
+    },
+    "Country": "China",
+    "Address": "No.5500, Shenzhuan Road, Songjiang 201619, China",
+    "TEL": "+86-21-57690000, +86-21-31273333",
+    "Year established": "May, 1997",
+    "URL": "http://www.baolong.biz",
+    "Quality certification": "QS9000VDA6.1IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

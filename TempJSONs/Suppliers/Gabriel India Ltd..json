@@ -1,0 +1,35 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 121
+    },
+    "specific_parts_sold": {
+        "Front strut": 21,
+        "Rear strut": 21,
+        "Shock absorber": 42,
+        "Adjustable shock absorber": 1,
+        "Suspension strut": 9,
+        "Front shock absorber": 3,
+        "Rear shock absorber": 3,
+        "Shock absorber/strut": 1,
+        "MacPherson strut": 20
+    },
+    "buyers": {
+        "Citroen": 11,
+        "Mahindra & Mahindra": 30,
+        "Maruti Suzuki": 41,
+        "Skoda": 8,
+        "Toyota": 9,
+        "Volkswagen": 14,
+        "Honda": 2,
+        "Tata": 6
+    },
+    "Country": "India",
+    "Address": "29, Milestone Village Kuruli, Pune Nasik Highway, Taluk Khed, Pune, Maharashtra 410501, India",
+    "TEL": "+91-2135-610757",
+    "Year established": "1961",
+    "URL": "https://www.anandgroupindia.com/gabrielindia",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Anand Automotive Limited"
+}

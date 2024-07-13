@@ -1,15 +1,23 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 5
+        "Rear Lamp": 5,
+        "Shock Absorber": 8
     },
     "specific-parts-bought": {
         "Rear lamp": 4,
-        "Rear combination lamp": 1
+        "Rear combination lamp": 1,
+        "Shock absorber(1.5L)(5MT)": 2,
+        "Shock absorber": 1,
+        "Shock absorber(1.5L)(5AMT)": 1,
+        "Shock absorber(1.5T)(5MT)": 2,
+        "Shock absorber(1.5T)(5AMT)": 2
     },
     "suppliers": {
         "Jiangsu Yedi Auto Lamp Co., Ltd.": 3,
         "Shanghai Sunlight Enterprise Co., Ltd.": 1,
-        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
+        "Zhejiang Wanxiang Marelli Absorber Co., Ltd.": 7,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 1
     }
 }

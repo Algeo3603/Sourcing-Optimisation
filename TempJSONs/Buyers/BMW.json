@@ -4,7 +4,8 @@
         "Wiring Harness": 75,
         "Rear Lamp": 143,
         "Clutch": 13,
-        "Axle": 32
+        "Axle": 32,
+        "Shock Absorber": 44
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -72,7 +73,28 @@
         "Axle drive": 2,
         "Axle": 1,
         "Front & rear axle system": 5,
-        "Rear axle drive": 2
+        "Rear axle drive": 2,
+        "Damper": 4,
+        "Rear shock absorber": 3,
+        "Shock absorber": 13,
+        "Air spring": 3,
+        "Rear air suspension": 1,
+        "Continuous damping control": 3,
+        "Continuously variable semi-active suspension": 1,
+        "Front and rear passive damper": 1,
+        "Shock absorber/strut": 1,
+        "Shock absorber piston rod": 1,
+        "Front electronic damper": 1,
+        "Shock tower": 2,
+        "Strut": 1,
+        "Dampers": 1,
+        "Shock absorber (option)": 1,
+        "Air spring module": 1,
+        "Air supply module for air suspension system": 1,
+        "Air damping module": 2,
+        "Shock absorber piston": 1,
+        "Suspension strut": 1,
+        "Semi active suspension": 1
     },
     "suppliers": {
         "Delfingen Industry S.A.": 3,
@@ -119,10 +141,21 @@
         "Vorwerk Autotec GmbH & Co. KG": 1,
         "Gestamp Automocion S.A.": 4,
         "LTH Castings d.o.o.": 1,
-        "ZF Friedrichshafen AG": 17,
+        "ZF Friedrichshafen AG": 21,
         "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1,
         "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 5,
         "JTEKT Sales Deutschland GmbH (Formerly Koyo Deutschland GmbH)": 1,
-        "Georg Fischer AG": 1
+        "Georg Fischer AG": 1,
+        "Vibracoustic SE": 15,
+        "H&R Spezialfedern GmbH & Co. KG": 3,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 2,
+        "Tenneco Inc.": 9,
+        "Beijing West Industries Co., Ltd.": 1,
+        "PMG Holding GmbH": 2,
+        "GF Linamar LLC": 2,
+        "Linde + Wiemann SE & Co. KG": 1,
+        "Vibracoustic CV Air Springs Magyarorszag Kft.": 1,
+        "ZF CV Systems Global GmbH (Formerly WABCO Global GmbH)": 1,
+        "thyssenkrupp Bilstein GmbH": 3
     }
 }

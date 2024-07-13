@@ -4,7 +4,8 @@
         "Wiring Harness": 7,
         "Rear Lamp": 24,
         "Clutch": 3,
-        "Axle": 1
+        "Axle": 1,
+        "Shock Absorber": 19
     },
     "specific-parts-bought": {
         "Mirror wiring harness": 2,
@@ -20,7 +21,12 @@
         "Reversing lamp": 1,
         "Clutch": 2,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 1,
-        "Rear axle": 1
+        "Rear axle": 1,
+        "Rear shock absorber": 7,
+        "Front shock absorber": 9,
+        "Controlled electronic shock absorber": 1,
+        "Shock absorber": 1,
+        "Adaptive damping system": 1
     },
     "suppliers": {
         "MD ELEKTRONIK GmbH": 2,
@@ -29,10 +35,13 @@
         "Leoni AG": 1,
         "Magneti Marelli Mako Elektrik Sanayi ve Ticaret A.Ş. - Bursa": 2,
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 6,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 16,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 18,
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
         "Valeo Group": 1,
         "Schaeffler AG": 1,
-        "ZF Friedrichshafen AG": 1
+        "ZF Friedrichshafen AG": 7,
+        "ZF Sachs Espana S.A.": 5,
+        "ZF Slovakia as - Šahy": 3,
+        "Stabilus GmbH": 3
     }
 }

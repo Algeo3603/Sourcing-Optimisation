@@ -4,7 +4,8 @@
         "Wiring Harness": 217,
         "Rear Lamp": 23,
         "Clutch": 8,
-        "Axle": 2
+        "Axle": 2,
+        "Shock Absorber": 41
     },
     "specific-parts-bought": {
         "Body wiring harness(1.5T)(CVT)": 35,
@@ -46,7 +47,35 @@
         "Signal lamp": 2,
         "Clutch": 7,
         "Clutch cover": 1,
-        "Rear axle beam": 2
+        "Rear axle beam": 2,
+        "Front shock absorber": 1,
+        "Rear shock absorber": 1,
+        "Shock absorber(1.5T)(CVT)": 2,
+        "Shock absorber(1.5T)(6MT)": 1,
+        "Shock absorber(1.5L)(CVT)": 2,
+        "Shock absorber(1.5L)(6MT)": 1,
+        "Front damper": 1,
+        "Shock absorber piston(1.0T)(6MT)": 1,
+        "Shock absorber piston(1.0T)(CVT)": 1,
+        "Shock absorber base(1.0T)(6MT)": 1,
+        "Shock absorber base(1.0T)(CVT)": 1,
+        "Shock absorber piston": 4,
+        "Shock absorber base": 4,
+        "Shock absorber piston(1.5L)(5MT)": 1,
+        "Shock absorber piston(1.5L)(CVT)": 1,
+        "Shock absorber base(1.5L)(5MT)": 1,
+        "Shock absorber base(1.5L)(CVT)": 1,
+        "Intelligent Electronic Control Adaptive Suspension": 2,
+        "Shock absorber": 1,
+        "Shock absorber(1.0T)(6MT)": 1,
+        "Shock absorber(1.0T)(CVT)": 1,
+        "Shock absorber piston rod": 3,
+        "Buffer block(1.0T)(6MT)": 1,
+        "Buffer block(1.0T)(CVT)": 1,
+        "Sensitive Frequency Response Damper": 3,
+        "Shock absorber(1.5L)(5MT)": 1,
+        "Buffer block(1.5L)(5MT)": 1,
+        "Buffer block(1.5L)(CVT)": 1
     },
     "suppliers": {
         "Fujikura Zhuhai Ltd.": 24,
@@ -66,6 +95,13 @@
         "Koito Manufacturing Co., Ltd.": 1,
         "China FCC Foshan Co., Ltd.": 6,
         "Exedy Chongqing Co., Ltd.": 2,
-        "F-Tech Wuhan Inc.": 2
+        "F-Tech Wuhan Inc.": 2,
+        "Beijing West Industries Co., Ltd.": 3,
+        "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co., Ltd. Wuhan Branch)": 6,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 16,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 5,
+        "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. (Formerly Guangzhou Showa Autoparts Co., Ltd.)": 4,
+        "Shanghai Beite Technology Co., Ltd.": 3,
+        "Shanghai Carthane Co., Ltd.": 4
     }
 }

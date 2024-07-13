@@ -2,7 +2,8 @@
     "top500": true,
     "parts_sold": {
         "Wiring Harness": 1,
-        "Clutch": 17
+        "Clutch": 17,
+        "Shock Absorber": 2
     },
     "specific_parts_sold": {
         "Kick sensor": 1,
@@ -14,10 +15,12 @@
         "Clutch cover(2ZR-FAE)(6MT)": 1,
         "Clutch cover(1NZ-FE)(5MT)": 2,
         "Clutch": 2,
-        "High capacity high damping clutch system": 3
+        "High capacity high damping clutch system": 3,
+        "Shock absorber": 1,
+        "Damping force adjustment type absorber": 1
     },
     "buyers": {
-        "Toyota": 11,
+        "Toyota": 13,
         "Daihatsu": 2,
         "GAC Toyota": 1,
         "Subaru": 1,

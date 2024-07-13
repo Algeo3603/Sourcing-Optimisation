@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 3
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 3
+    },
+    "buyers": {
+        "Honda": 1,
+        "Toyota": 2
+    },
+    "Country": "Japan",
+    "Address": "209 Yamashita-cho, Naka-ku, Yokohama, Kanagawa 231-0023, Japan",
+    "TEL": "+81-45-670-6900",
+    "URL": "https://www.zf.com/japan/ja/home/home.html",
+    "Remarks": "-Shareholder(s): ZF Friedrichshafen AG-Merged with ZF Automotive Japan and ZF Aftermarket Japan in Jan. 2022"
+}

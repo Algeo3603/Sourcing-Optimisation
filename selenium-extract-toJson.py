@@ -42,8 +42,8 @@ part_dict = {'buyer':{}, 'supplier':{}}
 
 # Open the link of the part to be scraped
 # Future scope -> iterate through links dynamically or read them from a file
-part_link = 'https://www.marklines.com/en/wsw/axle/'
-part_name = 'Axle'
+part_link = 'https://www.marklines.com/en/wsw/shock-absorber/'
+part_name = 'Shock Absorber'
 driver.get(part_link)
 print('Navigated to part link')
 

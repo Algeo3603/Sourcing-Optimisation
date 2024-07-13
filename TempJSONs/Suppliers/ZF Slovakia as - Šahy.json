@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 8
+    },
+    "specific_parts_sold": {
+        "Front shock absorber": 4,
+        "Rear shock absorber": 4
+    },
+    "buyers": {
+        "Alfa Romeo": 3,
+        "Audi": 3,
+        "Volkswagen": 2
+    },
+    "Country": "Slovakia",
+    "Address": "Priemyselna ulica 1, 936 01 Sahy, Slovakia",
+    "TEL": "+421-36-390-6201",
+    "URL": "https://www.zf.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: ZF Friedrichshafen AG"
+}

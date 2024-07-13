@@ -4,7 +4,8 @@
         "Wiring Harness": 3,
         "Rear Lamp": 2,
         "Clutch": 2,
-        "Axle": 23
+        "Axle": 23,
+        "Shock Absorber": 26
     },
     "specific-parts-bought": {
         "Wiring harness": 2,
@@ -14,7 +15,12 @@
         "Rear axle": 9,
         "Front axle": 7,
         "Axle": 1,
-        "Front & rear axle": 6
+        "Front & rear axle": 6,
+        "Front shock absorber": 8,
+        "Rear shock absorber": 12,
+        "Shock absorber": 4,
+        "Axle damper": 1,
+        "Air supply module for air suspension system": 1
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
@@ -22,7 +28,16 @@
         "Empire Electronics, Inc.": 1,
         "Magna International Inc.": 2,
         "BorgWarner Inc.": 2,
-        "Dana Incorporated (Formerly Dana Holding Corporation)": 3,
-        "American Axle & Manufacturing Holdings, Inc.": 20
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 4,
+        "American Axle & Manufacturing Holdings, Inc.": 20,
+        "Hitachi Astemo Mexico, S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico, S.A. de C.V.)": 7,
+        "thyssenkrupp Bilstein of America Inc.": 3,
+        "Marelli Mexicana, S.A. de C.V. - San Francisco Plant (Formerly Calsonic Kansei Mexicana, S.A. de C.V. - San Francisco Plant)": 5,
+        "Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.)": 4,
+        "thyssenkrupp Components Technology de México, S.A. de C.V.": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 1,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 2,
+        "Continental AG": 1,
+        "thyssenkrupp Bilstein GmbH": 1
     }
 }

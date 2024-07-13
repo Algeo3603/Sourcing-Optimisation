@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 8,
-        "Rear Lamp": 3
+        "Rear Lamp": 3,
+        "Shock Absorber": 12
     },
     "specific-parts-bought": {
         "Main wiring harness": 3,
@@ -11,7 +12,13 @@
         "High voltage wiring harness": 2,
         "Center console wiring harness assembly": 1,
         "Rear combination lamp": 1,
-        "Rear lamp": 2
+        "Rear lamp": 2,
+        "Predictive active suspension": 1,
+        "Damping component": 1,
+        "Shock absorber": 4,
+        "Shock absorber airbag": 3,
+        "Rear shock absorber assembly": 1,
+        "Rear shock absorber": 2
     },
     "suppliers": {
         "Hebi Thb International Electric Co., Ltd.": 3,
@@ -20,6 +27,10 @@
         "Changshu Antolin Automotive Interiors Co., Ltd. (Formerly Changshu Intier Automotive Interiors Co., Ltd.)": 1,
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
         "Marelli Automotive Components (WUHU) Co. Ltd.(Formerly Magneti Marelli Automotive Components (WUHU) Co. Ltd.)": 1,
-        "Hubei Huazhong Magneti Marelli Automotive Lighting Co., Ltd.": 1
+        "Hubei Huazhong Magneti Marelli Automotive Lighting Co., Ltd.": 1,
+        "Clear Motion Inc.": 1,
+        "Shanghai Carthane Co., Ltd.": 1,
+        "Shanghai Baolong Automotive Corporation": 6,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 4
     }
 }

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 63,
         "Rear Lamp": 4,
-        "Axle": 8
+        "Axle": 8,
+        "Shock Absorber": 3
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 3,
@@ -30,7 +31,8 @@
         "Rear lamp": 4,
         "Front axle": 3,
         "Rear axle": 3,
-        "Front & rear axle system": 2
+        "Front & rear axle system": 2,
+        "Shock absorber": 3
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 3,
@@ -42,6 +44,8 @@
         "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.": 1,
         "Beifang Hella Automotive Lighting Ltd.": 3,
         "Zf Chassis Systems (Beijing) Co., Ltd.": 6,
-        "ZF Group (China)": 2
+        "ZF Group (China)": 2,
+        "Tenneco (Beijing) Ride Control System Co., Ltd.": 1,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 2
     }
 }

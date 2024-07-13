@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 5
+    },
+    "specific_parts_sold": {
+        "Adaptive damper system": 1,
+        "Shock absorber": 1,
+        "Semi active suspension": 2,
+        "Active suspension": 1
+    },
+    "buyers": {
+        "Mercedes-Benz": 5
+    },
+    "Country": "Poland",
+    "Address": "ul. Bojkowska 59B, 44-100 Gliwice, Poland",
+    "TEL": "+48-32-338-52-91",
+    "Year established": "1999",
+    "URL": "https://www.tenneco.com/",
+    "Remarks": "-Shareholder(s): Tenneco Inc."
+}

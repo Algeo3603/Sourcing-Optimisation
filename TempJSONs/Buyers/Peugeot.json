@@ -4,7 +4,8 @@
         "Wiring Harness": 36,
         "Rear Lamp": 32,
         "Clutch": 13,
-        "Axle": 8
+        "Axle": 8,
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "Interior wiring harness": 4,
@@ -39,7 +40,14 @@
         "Twist beam rear axle": 1,
         "Torsion beam rear axle": 1,
         "Rear drive axle": 1,
-        "Axle": 1
+        "Axle": 1,
+        "Rear shock absorber": 4,
+        "Front strut assembly": 1,
+        "Shock absorber": 2,
+        "Strut": 1,
+        "Front shock absorber": 1,
+        "Front damper": 1,
+        "Rear damper": 1
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 7,
@@ -54,7 +62,7 @@
         "Valeo Group": 12,
         "Yazaki Corporation": 1,
         "Valeo Lighting Systems - Chrzanow": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 13,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 16,
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 4,
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
         "Koito Manufacturing Co., Ltd.": 3,
@@ -71,6 +79,9 @@
         "Benteler Group (Benteler Automobiltechnik GmbH)": 1,
         "Gestamp Automocion S.A.": 2,
         "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 2,
-        "Dowlais Group plc": 1
+        "Dowlais Group plc": 1,
+        "Marelli Morocco LLC SARL": 3,
+        "KYB Corporation": 4,
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.)": 1
     }
 }

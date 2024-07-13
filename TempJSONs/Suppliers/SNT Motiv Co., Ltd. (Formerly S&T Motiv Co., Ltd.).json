@@ -1,0 +1,25 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Shock Absorber": 19
+    },
+    "specific_parts_sold": {
+        "Rear shock absorber": 13,
+        "Front shock absorber": 3,
+        "Shock absorber": 3
+    },
+    "buyers": {
+        "GM": 16,
+        "Daihatsu": 1,
+        "Subaru": 1,
+        "Toyota": 1
+    },
+    "Year Established": "981",
+    "Number of Employees": "Non-consolidated : 716employees (as of Dec. 31, 2022)",
+    "Sales Turnover": "Consolidated: KRW 1,044,861 million (FY ended Dec. 31, 2022)",
+    "Representative": "Kwon Hyung Soon (CEO)",
+    "Capital": "KRW 73,116 million  (as of Dec. 31, 2022)",
+    "URL": "http://www.sntmotiv.com/eng/main/main.html",
+    "Address": "363, Yeoraksongjeong-ro, Cheolma-myeon, Gijang-gun, Busan, South Korea",
+    "Country": "South Korea"
+}

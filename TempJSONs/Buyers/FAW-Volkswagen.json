@@ -4,7 +4,8 @@
         "Wiring Harness": 123,
         "Rear Lamp": 38,
         "Clutch": 13,
-        "Axle": 17
+        "Axle": 17,
+        "Shock Absorber": 41
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 8,
@@ -53,7 +54,14 @@
         "Rear axle module": 1,
         "Front axle": 1,
         "Front axle module": 1,
-        "Front & rear axle module": 1
+        "Front & rear axle module": 1,
+        "Adjustable shock solenoid": 2,
+        "Shock absorber(2.0T)(7DCT)": 1,
+        "Shock absorber ring": 2,
+        "Shock absorber cushion block": 2,
+        "Shock absorber": 16,
+        "Shock absorber outer tube assembly": 6,
+        "Shock absorber piston rod": 12
     },
     "suppliers": {
         "Guangdong KSD Automotive Components Co., Ltd.": 18,
@@ -94,6 +102,17 @@
         "Chengdu Engley Automobile Parts Co., Ltd.": 1,
         "Volkswagen FAW Platform Co., Ltd. Chengdu Branch": 6,
         "ZF FAWER Chassis Technology (Changchun) Co., Ltd.": 1,
-        "TRW FAWER Automobile Safety Systems (Changchun) Co., Ltd.(TFASS)": 3
+        "TRW FAWER Automobile Safety Systems (Changchun) Co., Ltd.(TFASS)": 3,
+        "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.)": 2,
+        "Tenneco (Beijing) Ride Control System Co., Ltd.": 1,
+        "Jiangsu Luoshi Vibration Control Co., Ltd.": 4,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 11,
+        "Vibracoustic (Wuxi) Vibration Isolators Co., Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co., Ltd.)": 4,
+        "Zhejiang Roadtamer Auto Suspension System Co., Ltd.": 6,
+        "Chongqing Beite Technology Co., Ltd.": 2,
+        "FAWER Automotive Parts Limited Company": 1,
+        "Shanghai Beite Technology Co., Ltd.": 6,
+        "Tianjin Beite Automotive Parts Co., Ltd.": 2,
+        "Changchun Beite Automotive Parts Co., Ltd.": 2
     }
 }

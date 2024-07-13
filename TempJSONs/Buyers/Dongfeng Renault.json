@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 11
+        "Wiring Harness": 11,
+        "Shock Absorber": 3
     },
     "specific-parts-bought": {
         "Seat Wiring Harness": 1,
@@ -12,10 +13,15 @@
         "Body wiring harness(2.5L)(CVT7)": 1,
         "Door wiring harness(2.5L)(CVT7)": 1,
         "Engine room wiring harness(2.5L)(CVT7)": 1,
-        "Door wiring harness(2.0L)(CVT7)": 1
+        "Door wiring harness(2.0L)(CVT7)": 1,
+        "Shock absorber": 1,
+        "Shock absorber piston": 1,
+        "Shock absorber base": 1
     },
     "suppliers": {
         "Aptiv Electric Systems Co., Ltd. Wuhan Branch": 9,
-        "Xiaogan Yazaki Auto Parts Co., Ltd.": 2
+        "Xiaogan Yazaki Auto Parts Co., Ltd.": 2,
+        "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co., Ltd. Wuhan Branch)": 1,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 2
     }
 }

@@ -1,13 +1,16 @@
 {
     "top500": false,
     "parts_sold": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Shock Absorber": 1
     },
     "specific_parts_sold": {
-        "Clutch housing": 1
+        "Clutch housing": 1,
+        "Damper fork": 1
     },
     "buyers": {
-        "Daimler": 1
+        "Daimler": 1,
+        "Audi": 1
     },
     "Country": "Germany",
     "Address": "Cheruskerring 38, DE-31137 Hildesheim, Germany",

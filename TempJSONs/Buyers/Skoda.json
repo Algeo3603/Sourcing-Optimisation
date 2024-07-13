@@ -4,7 +4,8 @@
         "Wiring Harness": 15,
         "Rear Lamp": 27,
         "Clutch": 12,
-        "Axle": 3
+        "Axle": 3,
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -26,7 +27,12 @@
         "Clutch mechanism": 1,
         "Rear axle": 1,
         "Front axle": 1,
-        "Rear axle drive": 1
+        "Rear axle drive": 1,
+        "Controlled electronic shock absorber": 2,
+        "Shock absorber": 4,
+        "Suspension strut": 1,
+        "Front strut": 2,
+        "Rear strut": 2
     },
     "suppliers": {
         "Delfingen Industry S.A.": 3,
@@ -44,13 +50,15 @@
         "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)": 2,
         "Visteon Corporation": 3,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 5,
-        "ZF Friedrichshafen AG": 8,
+        "ZF Friedrichshafen AG": 9,
         "Schaeffler AG": 1,
         "BorgWarner Ludwigsburg GmbH (Formerly BERU AG)": 1,
         "FTE automotive GmbH": 1,
         "Schaeffler Automotive Buehl GmbH & Co. KG": 1,
         "Benteler Group (Benteler Automobiltechnik GmbH)": 1,
         "NTN Corporation": 1,
-        "Magna International Inc.": 1
+        "Magna International Inc.": 1,
+        "KYB Corporation": 2,
+        "Gabriel India Ltd.": 8
     }
 }

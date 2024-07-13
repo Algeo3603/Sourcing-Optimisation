@@ -2,7 +2,8 @@
     "top500": true,
     "parts_sold": {
         "Wiring Harness": 1,
-        "Axle": 15
+        "Axle": 15,
+        "Shock Absorber": 9
     },
     "specific_parts_sold": {
         "Wiring harness": 1,
@@ -10,14 +11,23 @@
         "Axle": 4,
         "Rear axle": 4,
         "Axle assembly": 3,
-        "Front axle": 3
+        "Front axle": 3,
+        "Front shock absorber": 1,
+        "Adaptive shock absorber": 1,
+        "Adaptive damper system": 2,
+        "Shock absorber": 4,
+        "Shock absorbers": 1
     },
     "buyers": {
-        "Audi": 2,
+        "Audi": 3,
         "Volkswagen": 3,
         "BMW": 5,
         "Porsche": 4,
-        "smart": 2
+        "smart": 2,
+        "Mercedes-Benz": 1,
+        "Daimler": 5,
+        "Tesla": 1,
+        "Jaguar Land Rover": 1
     },
     "Year Established": "999",
     "Number of Employees": "9,981  employees (As of Sep. 30, 2023)",

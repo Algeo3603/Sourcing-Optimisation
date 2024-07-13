@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 3
+    },
+    "specific_parts_sold": {
+        "Damper & strut": 1,
+        "Dampers": 2
+    },
+    "buyers": {
+        "Honda": 1,
+        "BMW": 1,
+        "Ford": 1
+    },
+    "Country": "Hungary",
+    "Address": "Derkovits str. 106. 4400 Nyíregyháza, Hungary",
+    "TEL": "+36-42-551-200",
+    "URL": "https://www.vibracoustic-cvas.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Vibracoustic SE 50.1％, HSS Otomotiv 49.9％"
+}

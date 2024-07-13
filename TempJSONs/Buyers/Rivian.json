@@ -3,14 +3,17 @@
     "parts-bought": {
         "Wiring Harness": 5,
         "Rear Lamp": 4,
-        "Axle": 1
+        "Axle": 1,
+        "Shock Absorber": 3
     },
     "specific-parts-bought": {
         "Battery cable": 1,
         "Busbar": 1,
         "High-voltage wiring harness": 3,
         "LED rear lamp": 4,
-        "Axle disconnect module": 1
+        "Axle disconnect module": 1,
+        "Damper": 1,
+        "Semi active suspension": 2
     },
     "suppliers": {
         "Coficab -Tunisie": 1,
@@ -18,6 +21,8 @@
         "Gentherm Inc.  (Formerly Amerigon Inc.)": 3,
         "Varroc Lighting Systems - Morocco": 2,
         "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)": 2,
-        "Means Industries, Inc.": 1
+        "Means Industries, Inc.": 1,
+        "EFC International": 1,
+        "Tenneco Inc.": 2
     }
 }

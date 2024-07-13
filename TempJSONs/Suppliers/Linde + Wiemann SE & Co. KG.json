@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 1
+    },
+    "specific_parts_sold": {
+        "Strut": 1
+    },
+    "buyers": {
+        "BMW": 1
+    },
+    "Country": "Germany",
+    "Address": "Industriestraße 4-12, 35683 Dillenburg, Germany",
+    "TEL": "+49-2771-392-0",
+    "URL": "https://www.linde-wiemann.com",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)"
+}

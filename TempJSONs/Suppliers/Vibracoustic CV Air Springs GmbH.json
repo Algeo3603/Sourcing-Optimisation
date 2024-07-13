@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 5
+    },
+    "specific_parts_sold": {
+        "Front air suspension strut": 5
+    },
+    "buyers": {
+        "Porsche": 5
+    },
+    "Country": "Germany",
+    "Address": "Hörstener Str. 45-47, 21079 Hamburg, Germany",
+    "TEL": "+49-40-4134-0",
+    "URL": "https://blacktech-airsprings.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Vibracoustic SE 50.1%, HSS Otomotiv 49.9%"
+}

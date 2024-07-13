@@ -1,0 +1,41 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Shock Absorber": 609
+    },
+    "specific_parts_sold": {
+        "Front shock absorber": 194,
+        "Rear shock absorber": 332,
+        "Controlled electronic shock absorber": 4,
+        "Shock absorber": 55,
+        "Strut": 1,
+        "Front strut": 19,
+        "Front damper": 2,
+        "Rear damper": 1,
+        "Shock absorber (front & rear)": 1
+    },
+    "buyers": {
+        "Toyota": 273,
+        "Daihatsu": 48,
+        "Honda": 33,
+        "Mazda": 29,
+        "Mitsubishi": 48,
+        "Nissan": 69,
+        "Skoda": 2,
+        "Subaru": 30,
+        "Suzuki": 63,
+        "Volkswagen": 2,
+        "Isuzu": 2,
+        "Magyar Suzuki": 2,
+        "Peugeot": 4,
+        "Renault": 4
+    },
+    "Year Established": "Mar. 1935",
+    "Number of Employees": "3,920 employees (As of Mar. 31, 2023)",
+    "Sales Turnover": "JPY 442,781 million (FY ended Mar. 31, 2024)",
+    "Representative": "Masao Ono (Representative Director, Chief Executive Officer (CEO))",
+    "Capital": "JPY 27,647 million (As of Mar. 31, 2023)",
+    "URL": "https://www.kyb.co.jp/english/",
+    "Address": "World Trade Center Building South Tower 28F, 2-4-1 Hamamatsu-cho, Minato-ku, Tokyo 105-5128, Japan",
+    "Country": "Japan"
+}

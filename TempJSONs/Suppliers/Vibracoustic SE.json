@@ -1,0 +1,47 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 48
+    },
+    "specific_parts_sold": {
+        "Damper": 4,
+        "Rear shock absorber": 3,
+        "Axle damper": 3,
+        "Suspension strut": 8,
+        "Air spring": 15,
+        "Rear air suspension": 2,
+        "Shock absorber": 2,
+        "Front axle airspring": 2,
+        "Rear axle airspring": 2,
+        "Subframe damper": 2,
+        "Three-chamber air springs": 1,
+        "Air spring module": 1,
+        "Air damping module": 1,
+        "Top strut mount": 2
+    },
+    "buyers": {
+        "BMW": 15,
+        "Audi": 7,
+        "Toyota": 1,
+        "Volkswagen": 2,
+        "Aston Martin": 1,
+        "Daimler": 5,
+        "FAW": 2,
+        "Jaguar Land Rover": 2,
+        "Lamborghini": 2,
+        "DS Automobiles": 1,
+        "Porsche": 2,
+        "Citroen": 1,
+        "Ford": 1,
+        "Rolls-Royce": 1,
+        "Bentley": 1,
+        "GM": 2,
+        "Opel": 1,
+        "Renault": 1
+    },
+    "Country": "Germany",
+    "Address": "Höhnerweg 2-4, 69469 Weinheim, Germany",
+    "Year established": "Jul., 2012",
+    "URL": "https://www.vibracoustic.com",
+    "Remarks": "-Shareholder(s): Freudenberg & Co. KG 100%"
+}

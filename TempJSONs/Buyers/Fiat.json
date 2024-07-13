@@ -4,7 +4,8 @@
         "Wiring Harness": 32,
         "Rear Lamp": 38,
         "Clutch": 10,
-        "Axle": 4
+        "Axle": 4,
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "Wiring harness": 11,
@@ -36,7 +37,10 @@
         "Axle shaft": 1,
         "Axle": 1,
         "Rear axle": 1,
-        "Twist axle": 1
+        "Twist axle": 1,
+        "Front shock absorber": 4,
+        "Rear shock absorber": 4,
+        "Shock absorber": 3
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 11,
@@ -51,7 +55,7 @@
         "Denso Corporation": 4,
         "Bosch (Robert Bosch GmbH)": 2,
         "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 22,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 32,
         "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 6,
         "Magna Lighting (Formerly OLSA S.p.A.)": 2,
         "Arteb": 1,
@@ -64,7 +68,7 @@
         "AB SKF": 1,
         "ZF do Brasil Ltda. - Piraporinha": 1,
         "Schaeffler AG": 1,
-        "ZF Friedrichshafen AG": 1,
+        "ZF Friedrichshafen AG": 2,
         "BorgWarner Inc.": 1,
         "Valeo Group": 1,
         "Autoforjas Ltda. (CIE Autoforjas)": 1,

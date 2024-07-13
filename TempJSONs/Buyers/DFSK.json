@@ -1,0 +1,24 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Shock Absorber": 16
+    },
+    "specific-parts-bought": {
+        "Shock absorber(1.2L)(5MT)": 1,
+        "Shock absorber(1.5L)(5MT)": 3,
+        "Buffer block(1.2L)(5MT)": 1,
+        "Buffer block(1.5L)(5MT)": 3,
+        "Shock absorber(1.5L)(CVT)": 1,
+        "Buffer block(1.5L)(CVT)": 1,
+        "Shock absorber(1.5T)(CVT)": 1,
+        "Shock absorber(1.8L)(5MT)": 1,
+        "Shock absorber(1.5T)(6MT)": 1,
+        "Buffer block(1.5T)(CVT)": 1,
+        "Buffer block(1.8L)(5MT)": 1,
+        "Buffer block(1.5T)(6MT)": 1
+    },
+    "suppliers": {
+        "Chongqing Yu'an Shock Absorber Co., Ltd.": 8,
+        "Shanghai Carthane Co., Ltd.": 8
+    }
+}

@@ -2,17 +2,19 @@
     "top500": true,
     "parts_sold": {
         "Wiring Harness": 17,
-        "Rear Lamp": 53
+        "Rear Lamp": 53,
+        "Shock Absorber": 3
     },
     "specific_parts_sold": {
         "ABS wiring harness": 4,
         "Trailer hitch wiring harness": 13,
         "Rear lamp": 35,
         "Rear lamp housing": 13,
-        "Rear combination lamp": 5
+        "Rear combination lamp": 5,
+        "Front strut assembly": 3
     },
     "buyers": {
-        "Hyundai": 18,
+        "Hyundai": 21,
         "Kia": 22,
         "Mazda": 7,
         "Mitsubishi": 2,

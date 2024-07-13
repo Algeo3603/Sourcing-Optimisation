@@ -1,0 +1,25 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 10
+    },
+    "specific_parts_sold": {
+        "Left front strut(1.6L I4)": 1,
+        "Right front strut(1.6L I4)": 1,
+        "Left front strut(2.0L I4)": 2,
+        "Right front strut(2.0L I4)": 2,
+        "Left front strut(2.5L I4)": 1,
+        "Right front strut(2.5L I4)": 1,
+        "Left front strut(2.3L I4)": 1,
+        "Right front strut(2.3L I4)": 1
+    },
+    "buyers": {
+        "Ford": 10
+    },
+    "Country": "Mexico",
+    "Address": "Av. Poniente 4 #118, Cd. Industrial C.P. 38010, Celaya, Gto, Mexico",
+    "TEL": "+52-800-111-7348",
+    "Year established": "1992",
+    "URL": "http://www.monroe.com.mx/",
+    "Remarks": "-Shareholders:Tenneco Inc."
+}

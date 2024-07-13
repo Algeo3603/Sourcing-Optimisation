@@ -4,7 +4,8 @@
         "Wiring Harness": 274,
         "Rear Lamp": 156,
         "Clutch": 52,
-        "Axle": 8
+        "Axle": 8,
+        "Shock Absorber": 107
     },
     "specific-parts-bought": {
         "Engine wiring harness": 20,
@@ -52,7 +53,12 @@
         "Clutch for manual transmission": 6,
         "Manual transmission clutch": 1,
         "Rear axle": 4,
-        "Rear axle housing": 4
+        "Rear axle housing": 4,
+        "Front shock absorber": 33,
+        "Rear shock absorber": 56,
+        "Front strut": 4,
+        "Shock absorber": 13,
+        "Shock absorber (front & rear)": 1
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 73,
@@ -89,6 +95,10 @@
         "Suzuki Auto Parts Mfg. Co., Ltd.": 3,
         "PT. Yorozu Automotive Indonesia": 1,
         "Suzuki Akita Auto Parts Mfg. Co., Ltd.": 4,
-        "Okamoto Press Industry Co., Ltd.": 3
+        "Okamoto Press Industry Co., Ltd.": 3,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 30,
+        "KYB Corporation": 63,
+        "Tenneco Inc.": 12,
+        "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.)": 2
     }
 }

@@ -1,0 +1,19 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Shock Absorber": 7
+    },
+    "specific-parts-bought": {
+        "Damping component": 2,
+        "Front axle airspring": 1,
+        "Rear axle airspring": 1,
+        "Shock absorber piston(2.0L)(6MT)": 1,
+        "Shock absorber piston(2.0L)(6AMT)": 1,
+        "Shock absorber base": 1
+    },
+    "suppliers": {
+        "Shanghai Carthane Co., Ltd.": 2,
+        "Vibracoustic SE": 2,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 3
+    }
+}

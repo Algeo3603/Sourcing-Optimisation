@@ -4,7 +4,8 @@
         "Wiring Harness": 133,
         "Rear Lamp": 61,
         "Clutch": 48,
-        "Axle": 52
+        "Axle": 52,
+        "Shock Absorber": 83
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 4,
@@ -62,7 +63,20 @@
         "Drive axle": 3,
         "Steer Axle": 3,
         "Axle shaft (via American Axle & Manufacturing (Thailand) Co., Ltd.)": 2,
-        "Rear axle system": 1
+        "Rear axle system": 1,
+        "Rear shock absorber": 33,
+        "Shock absorber": 19,
+        "Front shock absorber": 15,
+        "Continuous damping control": 2,
+        "DSSV (Dynamic Suspension Spool Valve) adjustable damper": 3,
+        "Shock tower": 1,
+        "Adaptive damping system": 2,
+        "Buffer block": 1,
+        "Adaptive suspension": 1,
+        "Top strut mount": 3,
+        "Passive suspension damper": 1,
+        "Passive damper modules": 1,
+        "Damping force continuously variable control damper": 1
     },
     "suppliers": {
         "Lear Corporation": 12,
@@ -75,7 +89,7 @@
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 8,
         "Lear do Brasil Industria e Comercio de Interiores Automotivos Ltda": 1,
         "Molex Conectores Eletricos e Eletronicos Comercio e Servicos Ltda.": 1,
-        "Tenneco Inc.": 1,
+        "Tenneco Inc.": 3,
         "Tyco Electronics Brasil Ltda.": 1,
         "TE Connectivity Ltd.": 4,
         "LEONI Wiring Systems Inc.": 1,
@@ -100,7 +114,7 @@
         "Magna Lighting (Formerly OLSA S.p.A.)": 1,
         "Hyundai Mobis Co., Ltd.": 2,
         "Hella GmbH & Co. KGaA (FORVIA HELLA)": 2,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 7,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 8,
         "Koito Manufacturing Co., Ltd.": 3,
         "AMPAS Industries Co., Ltd.": 2,
         "Varroc Lighting System (India) Pvt. Ltd.": 2,
@@ -113,7 +127,7 @@
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
         "Means Industries, Inc.": 13,
         "FTE automotive GmbH": 5,
-        "ZF Friedrichshafen AG": 5,
+        "ZF Friedrichshafen AG": 13,
         "ZF do Brasil Ltda. - Piraporinha": 8,
         "Zen S.A.": 4,
         "FTE automotive USA Inc.": 2,
@@ -125,6 +139,20 @@
         "American Axle & Manufacturing Holdings, Inc.": 42,
         "Benteler Componentes Automotivos Ltda.": 1,
         "Dana Incorporated (Formerly Dana Holding Corporation)": 6,
-        "Somboon Advance Technology Public Co., Ltd.": 2
+        "Somboon Advance Technology Public Co., Ltd.": 2,
+        "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.)": 16,
+        "Multimatic, Inc.": 11,
+        "ZF North America Inc.": 1,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 27,
+        "Zf Automotive Components & Systems (Shanghai) Co., Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co., Ltd.)": 3,
+        "Tenneco Canada Inc.": 1,
+        "Ryobi Die Casting (USA), Inc.": 1,
+        "HL Mando Corporation (Formerly Mando Corporation)": 2,
+        "Shanghai Carthane Co., Ltd.": 1,
+        "BWI North America, Inc.": 2,
+        "Beijing West Industries Co., Ltd.": 2,
+        "Vibracoustic SE": 2,
+        "ContiTech AG": 1,
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.)": 2
     }
 }

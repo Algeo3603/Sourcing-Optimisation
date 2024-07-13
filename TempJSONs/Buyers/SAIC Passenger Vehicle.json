@@ -4,7 +4,8 @@
         "Wiring Harness": 43,
         "Rear Lamp": 6,
         "Clutch": 10,
-        "Axle": 2
+        "Axle": 2,
+        "Shock Absorber": 26
     },
     "specific-parts-bought": {
         "Battery cable": 1,
@@ -55,7 +56,17 @@
         "Clutch module": 1,
         "Clutch module with integral torsional vibration damper": 1,
         "Rear axle assemby": 1,
-        "Rear axle assembly": 1
+        "Rear axle assembly": 1,
+        "Shock absorber": 13,
+        "Shock absorber(1.4T)(6MT)": 1,
+        "Shock absorber(1.4T)(7DCT)": 1,
+        "Buffer block(1.4T)(6MT)": 1,
+        "Buffer block(1.4T)(7DCT)": 1,
+        "Shock absorber(1.3L)(5MT)": 1,
+        "Shock absorber(1.5L)(4AMT)": 1,
+        "Buffer block(1.3L)(5MT)": 1,
+        "Buffer block(1.5L)(4AMT)": 1,
+        "Shock absorber piston rod": 5
     },
     "suppliers": {
         "Shanghai Sanzhi Automobile Accessories Industrial Co., Ltd.": 1,
@@ -72,6 +83,12 @@
         "Schaeffler (China) Co., Ltd.": 2,
         "BorgWarner Inc.": 1,
         "BorgWarner United Transmission Systems Co., Ltd.": 1,
-        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 2
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 2,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 12,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 3,
+        "Shanghai Carthane Co., Ltd.": 4,
+        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.)": 2,
+        "Changchun Beite Automotive Parts Co., Ltd.": 3,
+        "Shanghai Beite Technology Co., Ltd.": 2
     }
 }

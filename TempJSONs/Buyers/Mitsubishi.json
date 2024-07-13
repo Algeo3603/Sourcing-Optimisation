@@ -4,7 +4,8 @@
         "Wiring Harness": 213,
         "Rear Lamp": 161,
         "Clutch": 43,
-        "Axle": 17
+        "Axle": 17,
+        "Shock Absorber": 67
     },
     "specific-parts-bought": {
         "Wiring harness protector": 5,
@@ -55,7 +56,11 @@
         "Rear axle shaft": 2,
         "Axle shaft": 2,
         "Axle assembly": 6,
-        "Rear axle housing": 1
+        "Rear axle housing": 1,
+        "Rear shock absorber": 37,
+        "Front shock absorber": 17,
+        "Shock absorber": 12,
+        "Monotube shock absorber (front/rear)": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 5,
@@ -91,12 +96,16 @@
         "FCC (Thailand) Co., Ltd.": 4,
         "EXEDY Corporation": 5,
         "Dynax Corporation": 14,
-        "ZF Friedrichshafen AG": 1,
+        "ZF Friedrichshafen AG": 3,
         "NSK Ltd.": 8,
         "Thai Summit PK Corporation Ltd.": 2,
         "Somboon Advance Technology Public Co., Ltd.": 4,
         "Thai Summit PKK Co., Ltd.": 5,
         "Press Kogyo Co., Ltd.": 5,
-        "Arakawa Industry Co., Ltd.": 1
+        "Arakawa Industry Co., Ltd.": 1,
+        "KYB Corporation": 48,
+        "Hitachi Astemo Korat Ltd. (Formerly Tokico Thailand Ltd.)": 2,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 12,
+        "thyssenkrupp Bilstein GmbH": 3
     }
 }

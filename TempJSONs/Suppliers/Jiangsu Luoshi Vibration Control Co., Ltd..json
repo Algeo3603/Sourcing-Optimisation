@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 14
+    },
+    "specific_parts_sold": {
+        "Shock absorber ring": 7,
+        "Shock absorber cushion block": 7
+    },
+    "buyers": {
+        "Changan Ford": 2,
+        "FAW-Volkswagen": 4,
+        "SAIC Volkswagen": 8
+    },
+    "Country": "China",
+    "Address": "Hexie Road, Haian Economic Development Zone, Nantong, Jiangsu, China",
+    "TEL": "+86-513-80812210",
+    "Year established": "May 2011",
+    "URL": "http://www.luoshi.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Zhejiang Luoshi Vibration Control Co., Ltd."
+}

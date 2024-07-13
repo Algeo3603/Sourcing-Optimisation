@@ -4,7 +4,8 @@
         "Wiring Harness": 258,
         "Rear Lamp": 132,
         "Clutch": 26,
-        "Axle": 21
+        "Axle": 21,
+        "Shock Absorber": 96
     },
     "specific-parts-bought": {
         "Back door wiring harness": 12,
@@ -50,7 +51,11 @@
         "Axle assembly": 2,
         "Rear axle housing (through Asano Gear)": 2,
         "Rear axle shaft": 5,
-        "Rear axle assembly": 3
+        "Rear axle assembly": 3,
+        "Rear shock absorber": 47,
+        "Front shock absorber": 26,
+        "Shock absorber": 22,
+        "Shock absorber piston rod": 1
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 81,
@@ -77,6 +82,13 @@
         "NSK Ltd.": 7,
         "D-ACT.Co., Ltd. (Formerly Aoi Machine Industry Co., Ltd.)": 11,
         "Asano Gear Co., Ltd.": 5,
-        "PT. Aichi Forging Indonesia": 5
+        "PT. Aichi Forging Indonesia": 5,
+        "KYB Corporation": 48,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 37,
+        "P.T. Kayaba Indonesia": 2,
+        "thyssenkrupp Bilstein GmbH": 6,
+        "Chengdu Ningjiang Showa Autoparts Co., Ltd.": 1,
+        "Chongqing Beite Technology Co., Ltd.": 1,
+        "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.)": 1
     }
 }

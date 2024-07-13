@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 3
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 3
+    },
+    "buyers": {
+        "Honda": 1,
+        "Maruti Suzuki": 2
+    },
+    "Country": "India",
+    "Address": "9-11 Maruti Industrial Area Gurgaon 122015 Haryana, India",
+    "TEL": "+91-124-478-3000",
+    "Year established": "1985",
+    "URL": "https://www.munjalshowa.net/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Hitachi Astemo, Hero Group"
+}

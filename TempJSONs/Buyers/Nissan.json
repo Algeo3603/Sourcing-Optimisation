@@ -4,7 +4,8 @@
         "Wiring Harness": 465,
         "Rear Lamp": 297,
         "Clutch": 38,
-        "Axle": 55
+        "Axle": 55,
+        "Shock Absorber": 191
     },
     "specific-parts-bought": {
         "Wiring harness protector": 3,
@@ -86,7 +87,14 @@
         "Rear axle shaft": 1,
         "Front axle assembly": 1,
         "Rear axle (4WD)": 1,
-        "Twist beam rear axle": 1
+        "Twist beam rear axle": 1,
+        "Front shock absorber": 59,
+        "Rear shock absorber": 83,
+        "Shock absorber": 37,
+        "Front strut": 8,
+        "Continuously variable semi-active suspension": 1,
+        "Shock absorber/strut": 1,
+        "Strut PS bearing": 2
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 3,
@@ -158,7 +166,7 @@
         "P.T. EXEDY Manufacturing Indonesia": 1,
         "Schaeffler Transmission Systems, LLC – Wooster (Formerly LuK USA LLC)": 2,
         "NTN Corporation": 2,
-        "ZF Friedrichshafen AG": 1,
+        "ZF Friedrichshafen AG": 6,
         "Univance Corporation": 1,
         "Thai Summit PK Corporation Ltd.": 2,
         "Keeper Co., Ltd.": 6,
@@ -172,6 +180,22 @@
         "CPR Gomu Industrial Public Co., Ltd.": 2,
         "Siam Metal Technology Co., Ltd.": 1,
         "Yorozu Corp.": 2,
-        "Press Kogyo Co., Ltd.": 4
+        "Press Kogyo Co., Ltd.": 4,
+        "KYB Americas Corporation - Indiana": 10,
+        "KYB Corporation": 69,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 54,
+        "thyssenkrupp Bilstein of America Inc.": 8,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 9,
+        "Hitachi Astemo Mexico, S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico, S.A. de C.V.)": 2,
+        "KYB Latinoamerica, S.A. de C.V. (KYB Mexico S.A. de C.V. Mexico City Branch)": 1,
+        "ZF Suspension Technology Guadalajara, S.A. de C.V.": 1,
+        "ZF North America Inc.": 6,
+        "thyssenkrupp Bilstein GmbH": 12,
+        "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.)": 1,
+        "Tenneco Inc.": 8,
+        "Tenneco Automotive India Pvt. Ltd. - Chennai Plant": 1,
+        "Oiles Corporation": 2,
+        "HL Mando Corporation (Formerly Mando Corporation)": 1,
+        "Oehlins Racing AB": 1
     }
 }

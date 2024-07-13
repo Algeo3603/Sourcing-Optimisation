@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 3
+    },
+    "specific_parts_sold": {
+        "Adaptive damper system": 1,
+        "Shock absorber": 1,
+        "Passive damper modules": 1
+    },
+    "buyers": {
+        "Ford": 1,
+        "GM": 2
+    },
+    "Country": "USA",
+    "Address": "3100 Research Blvd Suite #240, Kettering, OH 45420, USA",
+    "TEL": "+1-937-455-5100",
+    "URL": "https://www.bwigroup.com/",
+    "Remarks": "-Shareholder(s): Beijing West Industries Co., Ltd."
+}

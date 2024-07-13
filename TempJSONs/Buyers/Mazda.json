@@ -4,7 +4,8 @@
         "Wiring Harness": 181,
         "Rear Lamp": 157,
         "Clutch": 54,
-        "Axle": 6
+        "Axle": 6,
+        "Shock Absorber": 133
     },
     "specific-parts-bought": {
         "Engine wiring harness": 7,
@@ -46,7 +47,14 @@
         "Clutch system (clutch cover, clutch disk, release mechanism)": 2,
         "Axle housing": 2,
         "Axle shaft": 2,
-        "Axle assembly": 2
+        "Axle assembly": 2,
+        "Front shock absorber": 46,
+        "Rear shock absorber": 59,
+        "Dynamic damper": 3,
+        "Shock absorber": 18,
+        "DSSV (Dynamic Suspension Spool Valve) adjustable damper": 3,
+        "Rear damper": 2,
+        "Front damper": 2
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 72,
@@ -81,9 +89,20 @@
         "Dynax Corporation": 20,
         "Means Industries, Inc.": 1,
         "GKN Driveline Tochigi Holdings KK": 1,
-        "ZF Friedrichshafen AG": 2,
+        "ZF Friedrichshafen AG": 6,
         "Thai Summit PKK Co., Ltd.": 2,
         "Kawada Corporation": 2,
-        "Press Kogyo Co., Ltd.": 2
+        "Press Kogyo Co., Ltd.": 2,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 72,
+        "KYB Corporation": 29,
+        "ZF Sachs Korea Co., Ltd.": 1,
+        "Hitachi Astemo Mexico, S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico, S.A. de C.V.)": 8,
+        "P.T. Kayaba Indonesia": 2,
+        "Kurashiki Siam Rubber Co., Ltd.": 3,
+        "KYB Latinoamerica, S.A. de C.V. (KYB Mexico S.A. de C.V. Mexico City Branch)": 1,
+        "Tenneco Inc.": 5,
+        "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.)": 4,
+        "Multimatic, Inc.": 3,
+        "thyssenkrupp Bilstein GmbH": 1
     }
 }

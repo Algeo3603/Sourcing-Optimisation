@@ -1,0 +1,27 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 12
+    },
+    "specific_parts_sold": {
+        "Shock absorber piston rod": 12
+    },
+    "buyers": {
+        "Beijing Hyundai": 1,
+        "Changan": 1,
+        "Changan Ford": 4,
+        "Dongfeng Passenger Vehicle": 1,
+        "Lifan": 1,
+        "Brilliance Jinbei": 1,
+        "FAW-Volkswagen": 2,
+        "Jiangling Motors": 1
+    },
+    "Country": "China",
+    "Address": "No.16, Zhongyang Avenue, Jinghai Economic Development Zone, Tianjin 301600, China",
+    "TEL": "+86-22-59591620",
+    "Year established": "Jun. 2010",
+    "URL": "http://www.beite.net.cn/en",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder：Shanghai Beite Technology Co., Ltd."
+}

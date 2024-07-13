@@ -4,7 +4,8 @@
         "Wiring Harness": 82,
         "Rear Lamp": 63,
         "Clutch": 17,
-        "Axle": 35
+        "Axle": 35,
+        "Shock Absorber": 45
     },
     "specific-parts-bought": {
         "Door module wiring harness (via Brose (Thailand))": 9,
@@ -59,7 +60,27 @@
         "Rear axle housing": 3,
         "Rear drive axle": 2,
         "Front & rear axle system": 8,
-        "Rear drive unit, rear axle system": 1
+        "Rear drive unit, rear axle system": 1,
+        "Front shock absorber": 4,
+        "Strut": 1,
+        "Damper valve": 2,
+        "Adaptive damper system": 2,
+        "Air spring": 2,
+        "Rear shock absorber": 5,
+        "Rear air suspension": 1,
+        "Oil pump for shock absorber": 5,
+        "Continuously variable semi-active suspension": 1,
+        "Air spring module": 4,
+        "Subframe damper": 1,
+        "Air suspension control unit/rear axle level control": 3,
+        "Shock absorber piston": 1,
+        "DSSV (Dynamic Suspension Spool Valve) adjustable damper": 3,
+        "Continuous damping control (CDC) system": 1,
+        "Shock absorber": 5,
+        "Shock absorbers": 1,
+        "Front axle airspring": 1,
+        "Rear axle airspring": 1,
+        "Front strut": 1
     },
     "suppliers": {
         "DTS Dräxlmaier Automotive Systems (Thailand) Co., Ltd. - Samutprakarn Plant": 36,
@@ -89,7 +110,7 @@
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2,
         "Leopold Kostal GmbH & Co. KG": 1,
         "Endurance Technologies Ltd.": 1,
-        "ZF Friedrichshafen AG": 19,
+        "ZF Friedrichshafen AG": 26,
         "FTE automotive GmbH": 3,
         "Schaeffler AG": 2,
         "KSM Castings Group GmbH": 1,
@@ -102,6 +123,17 @@
         "American Axle & Manufacturing Holdings, Inc.": 2,
         "Federal-Mogul Holdings LLC": 1,
         "Shiloh Industries, Inc. - Pleasant Prairie Plant": 1,
-        "NTN Corporation": 1
+        "NTN Corporation": 1,
+        "Gestamp Automocion S.A.": 1,
+        "Rausch & Pausch Automotive GmbH & Co. KG (RAPA Automotive)": 7,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 5,
+        "Vibracoustic SE": 5,
+        "thyssenkrupp Bilstein GmbH": 6,
+        "thyssenkrupp Bilstein S.A.": 1,
+        "thyssenkrupp Bilstein of America Inc.": 1,
+        "Tenneco Inc.": 1,
+        "Continental AG": 7,
+        "PMG Holding GmbH": 1,
+        "Multimatic, Inc.": 3
     }
 }

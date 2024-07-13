@@ -4,7 +4,8 @@
         "Wiring Harness": 29,
         "Rear Lamp": 45,
         "Clutch": 9,
-        "Axle": 8
+        "Axle": 8,
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "Battery wiring harness": 4,
@@ -24,7 +25,12 @@
         "Clutch": 1,
         "Rear axle": 5,
         "Axle beam": 2,
-        "Front axle": 1
+        "Front axle": 1,
+        "Front strut": 2,
+        "Dampers": 1,
+        "Shock absorber": 4,
+        "MacPherson strut": 3,
+        "Shock absorber/strut": 1
     },
     "suppliers": {
         "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 19,
@@ -45,6 +51,11 @@
         "Valeo Group": 1,
         "Dana Anand India Private Limited (Formerly Spicer India Private Limited)": 1,
         "Takshi Auto Components Pvt. Ltd.": 5,
-        "Sandeep Axles Pvt. Ltd.": 2
+        "Sandeep Axles Pvt. Ltd.": 2,
+        "Marelli Motherson Auto Suspension Parts Pvt. Ltd.": 2,
+        "Tenneco Automotive India Pvt. Ltd.": 1,
+        "Autoneum India Pvt. Ltd.": 1,
+        "Gabriel India Ltd.": 6,
+        "Tenneco Automotive India Pvt. Ltd. - Pune Plant": 1
     }
 }

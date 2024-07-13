@@ -1,0 +1,34 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 17
+    },
+    "specific_parts_sold": {
+        "Shock absorber": 3,
+        "Shock absorber(2.0T)(5MT)": 1,
+        "Shock absorber(2.0T)(6AMT)": 1,
+        "Shock absorber(1.5L)(6MT)": 3,
+        "Shock absorber(1.5L)(CVT)": 2,
+        "Shock absorber(2.0T)(8AMT)": 4,
+        "Shock absorber(1.5L)(5MT)": 1,
+        "Shock absorber(1.6L)(6MT)": 1,
+        "Shock absorber(1.6L)(CVT)": 1
+    },
+    "buyers": {
+        "FAW Toyota": 2,
+        "WM Motor": 1,
+        "BAIC (Guangzhou)": 2,
+        "BAIC Zhenjiang": 2,
+        "Great Wall": 4,
+        "Haima": 2,
+        "JAC": 4
+    },
+    "Country": "China",
+    "Address": "No. 1966, Tengfei Road, Changchun Automobile Economic and Technological Development Zone, Jilin, China",
+    "TEL": "+86-431-85751235",
+    "Year established": "May 1998",
+    "URL": "http://www.faw-tokico.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s):  FAWER Automotive Parts Limited Company 51%, Hitachi Astemo 49%"
+}

@@ -4,7 +4,8 @@
         "Wiring Harness": 27,
         "Rear Lamp": 29,
         "Clutch": 13,
-        "Axle": 15
+        "Axle": 15,
+        "Shock Absorber": 33
     },
     "specific-parts-bought": {
         "Head lamp wiring harness": 1,
@@ -23,7 +24,14 @@
         "Axle beam": 1,
         "Axle": 1,
         "Front axle assembly": 1,
-        "Front axle": 1
+        "Front axle": 1,
+        "Front strut": 9,
+        "Rear strut": 10,
+        "Shock absorber": 8,
+        "Adjustable shock absorber": 1,
+        "Suspension strut": 1,
+        "Strut": 1,
+        "MacPherson strut": 3
     },
     "suppliers": {
         "Essem Technodesign Pvt. Ltd. (Formerly ESSEM SRINISONS SYS. (P) LTD)": 1,
@@ -47,6 +55,9 @@
         "Takshi Auto Components Pvt. Ltd.": 3,
         "Dana Anand India Private Limited (Formerly Spicer India Private Limited)": 3,
         "Dana Incorporated (Formerly Dana Holding Corporation)": 4,
-        "Sharda Motor Industries Ltd.": 1
+        "Sharda Motor Industries Ltd.": 1,
+        "Gabriel India Ltd.": 30,
+        "Tenneco Automotive India Pvt. Ltd.": 1,
+        "Sharda Industries": 2
     }
 }

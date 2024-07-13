@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Shock Absorber": 2
+    },
+    "specific_parts_sold": {
+        "Rear shock absorber": 1,
+        "Shock absorber": 1
+    },
+    "buyers": {
+        "Mazda": 1,
+        "Nissan": 1
+    },
+    "Country": "Mexico",
+    "Address": "Blvd. Manuel Avila Camacho No. 32, Int. 403, Col. Lomas de Chapultepec, Del. Miguel Hidalgo, DF, 11000, Mexico",
+    "TEL": "+52-55-5282-5770",
+    "URL": "https://kyb.com.mx/en",
+    "Remarks": "-Shareholder: KYB Corporation-Sales office"
+}

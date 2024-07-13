@@ -4,7 +4,8 @@
         "Wiring Harness": 80,
         "Rear Lamp": 20,
         "Clutch": 1,
-        "Axle": 2
+        "Axle": 2,
+        "Shock Absorber": 49
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 4,
@@ -38,7 +39,19 @@
         "Rear lamp": 16,
         "Rear combination lamp": 1,
         "Clutch": 1,
-        "Torsion beam rear axle": 2
+        "Torsion beam rear axle": 2,
+        "Adjustable shock solenoid": 2,
+        "Shock absorber(1.4T)(7DCT)": 1,
+        "Front damper": 1,
+        "Shock absorber piston(1.5L)(5MT)": 1,
+        "Shock absorber piston(1.5L)(6AT)": 1,
+        "Shock absorber base": 1,
+        "Shock absorber": 16,
+        "Shock absorber outer tube assembly": 9,
+        "Shock absorber ring": 4,
+        "Shock absorber cushion block": 4,
+        "Shock absorber piston rod": 7,
+        "Front shock absorber": 2
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 32,
@@ -54,6 +67,15 @@
         "Shanghai Pudong Automotive Lamps Co., Ltd.": 2,
         "Koito Manufacturing Co., Ltd.": 1,
         "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 1,
-        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 2
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 4,
+        "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.)": 2,
+        "Tenneco (Beijing) Ride Control System Co., Ltd.": 1,
+        "Beijing West Industries Co., Ltd.": 1,
+        "Precision Sintered Products (Wuxi) Co., Ltd.": 3,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 13,
+        "Zhejiang Roadtamer Auto Suspension System Co., Ltd.": 9,
+        "Jiangsu Luoshi Vibration Control Co., Ltd.": 8,
+        "Vibracoustic (Wuxi) Vibration Isolators Co., Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co., Ltd.)": 3,
+        "Shanghai Beite Technology Co., Ltd.": 7
     }
 }
