@@ -1,0 +1,20 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 7
+    },
+    "specific-parts-bought": {
+        "Mirror wiring harness": 2,
+        "Harness": 1,
+        "Wiring protection system": 1,
+        "Wiring harness": 1,
+        "Engine wiring harness(1.4T)": 1,
+        "Wiring system": 1
+    },
+    "suppliers": {
+        "MD ELEKTRONIK GmbH": 2,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 3,
+        "Delfingen Industry S.A.": 1,
+        "Leoni AG": 1
+    }
+}

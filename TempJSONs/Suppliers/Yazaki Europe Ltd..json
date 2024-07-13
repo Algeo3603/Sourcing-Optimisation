@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "High-voltage wiring harness": 1,
+        "Charging port wiring harness": 1
+    },
+    "buyers": {
+        "Peugeot": 1,
+        "Nissan": 1
+    },
+    "Country": "UK",
+    "Address": "1-3 Zodiac, Boundary Way, Hemel Hempstead, Hertfordshire, HP2 7SJ, UK",
+    "TEL": "+44-1268-988188",
+    "Year established": "Apr., 1980",
+    "URL": "https://www.yazaki-europe.com/",
+    "Quality certification": "QS9000",
+    "Remarks": "-Shareholders : Yazaki Corp. 100%"
+}

@@ -1,0 +1,21 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 13
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 1,
+        "Wiring harness": 2,
+        "Chassis wiring harness": 2,
+        "Floor center wiring harness": 2,
+        "Door wiring harness": 2,
+        "Roof wiring harness": 2,
+        "Shock absorber wiring harness": 2
+    },
+    "suppliers": {
+        "Jining Lear Automotive Parts Co., Ltd. (Formerly Shanghai Lear Automotive Parts Co., Ltd.)": 1,
+        "Lear Automotive Systems (Yangzhou) Co., Ltd.": 1,
+        "Aptiv Electric Systems Co., Ltd. Chongqing Branch": 1,
+        "Leoni Electrical Systems (Jining) Co., Ltd.": 10
+    }
+}

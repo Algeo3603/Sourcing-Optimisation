@@ -1,0 +1,18 @@
+{
+    "region": "Japan",
+    "parts-bought": {
+        "Wiring Harness": 22
+    },
+    "specific-parts-bought": {
+        "Body wiring harness": 10,
+        "Door wiring harness": 11,
+        "Engine wiring harness(N04C-WD)": 1
+    },
+    "suppliers": {
+        "Sumitomo Electric Industries, Ltd.": 2,
+        "Yazaki Corporation": 9,
+        "Sumitomo Wiring Systems, Ltd.": 8,
+        "Elcom Inc.": 1,
+        "Taiwan Yazaki Corporation": 2
+    }
+}

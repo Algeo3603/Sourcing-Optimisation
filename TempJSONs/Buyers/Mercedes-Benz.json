@@ -1,0 +1,36 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 22
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 6,
+        "Low-voltage wiring harness": 3,
+        "Interior wiring harness": 1,
+        "Body wiring harness": 1,
+        "Wiring harness for anti-theft alarm": 1,
+        "ABS wiring harness": 1,
+        "Shock absorber wiring harness": 1,
+        "Starter/generator wiring harness": 1,
+        "Wiring harness protector": 1,
+        "Lithium-ion battery wiring harness": 1,
+        "Traction motor wiring harness": 1,
+        "Cockpit wiring harnesses": 1,
+        "Wiring harness": 1,
+        "Front door wiring harness": 1,
+        "Back door wiring harness": 1
+    },
+    "suppliers": {
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 3,
+        "Gebauer & Griller Kabelwerke GmbH": 2,
+        "Hirschmann Automotive GmbH": 6,
+        "Kromberg & Schubert Automotive GmbH & Co. KG": 1,
+        "Delfingen Industry S.A.": 1,
+        "Lear Corporation GmbH & Co. KG European Headquarter": 1,
+        "Kromberg & Schubert Automotive GmbH & Co. KG - Renningen": 1,
+        "Leoni AG": 4,
+        "COFICAB Deutschland GmbH": 1,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
+        "Yazaki Corporation": 1
+    }
+}

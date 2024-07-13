@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 3
+    },
+    "specific_parts_sold": {
+        "Body wiring harness": 1,
+        "Door wiring harness": 1,
+        "Engine room wiring harness": 1
+    },
+    "buyers": {
+        "Toyota": 3
+    },
+    "Country": "Turkey",
+    "Address": "Kuzuluk Mahallesi Yazakisa Caddesi No:36 Akyazi, Sakarya, Turkey",
+    "TEL": "+90-264-415-50-00",
+    "Year established": "May, 1995",
+    "Beginning of operation": "Sep., 1996",
+    "URL": "https://www.yazaki.com.tr/kuzuluk/",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders : Yazaki Corp. 100%"
+}

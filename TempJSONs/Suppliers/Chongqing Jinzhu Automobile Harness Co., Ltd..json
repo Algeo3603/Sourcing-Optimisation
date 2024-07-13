@@ -1,0 +1,45 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 47
+    },
+    "specific_parts_sold": {
+        "Wire harness(1.5L)(6MT)": 1,
+        "Wire harness(1.5L)(6AT)": 1,
+        "Wire harness(2.0L)(6AT)": 5,
+        "Wire harness(2.0L)(6MT)": 1,
+        "Body wiring harness": 1,
+        "Door wiring harness": 1,
+        "Battery wiring harness": 1,
+        "Wire harness(2.5L)(6AT)": 2,
+        "Body wiring harness(2.5L)(6AT)": 2,
+        "Door wiring harness(2.5L)(6AT)": 2,
+        "Body wiring harness(2.0L)(6AT)": 1,
+        "Door wiring harness(2.0L)(6AT)": 1,
+        "Body wiring harness(1.9T)(6MT)": 2,
+        "Body wiring harness(1.9T)(6AT)": 2,
+        "Door wiring harness(1.9T)(6MT)": 2,
+        "Door wiring harness(1.9T)(6AT)": 2,
+        "Body wiring harness(3.5L)(6AT)": 1,
+        "Door wiring harness(3.5L)(6AT)": 1,
+        "Engine room wiring harness(3.5L)(6AT)": 1,
+        "Battery wiring harness(3.5L)(6AT)": 1,
+        "Wire harness": 16
+    },
+    "buyers": {
+        "Changan Mazda": 19,
+        "Jiangxi Isuzu": 8,
+        "FAW Toyota": 4,
+        "Changan Suzuki": 7,
+        "Changhe": 3,
+        "Changhe Suzuki": 5,
+        "Jiangling Holding": 1
+    },
+    "Country": "China",
+    "Address": "No.1995 Jinkai Road, New North Zone, Chongqing, 401121, China",
+    "TEL": "+86-23-8600-2266",
+    "Year established": "Nov. 2004",
+    "URL": "https://sumitomoelectric.com",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Shareholder：Tianjin Jinzhu Wiring Systems Co.,Ltd., Chongqing Yaphoon Electric Appliance Co., Ltd."
+}

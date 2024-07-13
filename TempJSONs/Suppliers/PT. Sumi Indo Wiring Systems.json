@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 12
+    },
+    "specific_parts_sold": {
+        "Wiring harness system": 6,
+        "Main wiring harness": 4,
+        "Wiring harness": 2
+    },
+    "buyers": {
+        "Daihatsu": 4,
+        "Mazda": 2,
+        "Toyota": 4,
+        "Nissan": 1,
+        "Suzuki": 1
+    },
+    "Country": "Indonesia",
+    "Address": "Kawasan Industri, Kota Bukit Indah Blok D II, No.27-29 Ds. Dangdeur, Kec. Bungursari Purwakarta, Jawa Barat, 41181 Indonesia",
+    "TEL": "+62-264-351-657",
+    "Year established": "Oct., 1992",
+    "URL": "https://www.sws.co.jp/",
+    "Remarks": "-Shareholders : Sumitomo Electric Industries, Ltd.  37.5%, Sumitomo Wiring Systems Ltd. 25%"
+}

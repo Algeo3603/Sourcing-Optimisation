@@ -1,0 +1,15 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 3
+    },
+    "specific-parts-bought": {
+        "Electrical distribution system": 2,
+        "Wiring harness": 1
+    },
+    "suppliers": {
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
+        "Delfingen de Marktrodach GmbH & Co. KG": 1,
+        "Valeo Group": 1
+    }
+}

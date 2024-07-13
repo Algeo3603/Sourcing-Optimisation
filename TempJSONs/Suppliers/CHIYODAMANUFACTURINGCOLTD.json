@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 28
+    },
+    "specific_parts_sold": {
+        "Engine room wiring harness": 7,
+        "Engine wiring harness": 19,
+        "Transmission wiring harness": 2
+    },
+    "buyers": {
+        "Subaru": 26,
+        "Toyota": 2
+    },
+    "Country": "Japan",
+    "Address": "126-2 Nishi Shinmachi, Ohta-shi, Gunma-ken 373-0847",
+    "TEL": "+81-276-31-8201",
+    "Year established": "Dec. 1961",
+    "URL": "https://www.chiyoda-mc.co.jp/",
+    "Quality certification": "ISO9001",
+    "Environmental certification": "ISO14001"
+}

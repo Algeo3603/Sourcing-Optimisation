@@ -1,0 +1,30 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 97
+    },
+    "specific-parts-bought": {
+        "Body wiring harness(2.5L)(6MT)": 9,
+        "Door wiring harness(2.5L)(6MT)": 5,
+        "Engine room wiring harness(2.5L)(6MT)": 9,
+        "Wire harness": 6,
+        "Wire harness(2.5L)(6MT)": 6,
+        "Body wiring harness(2.5L)(7AT)": 4,
+        "Door wiring harness(2.5L)(7AT)": 3,
+        "Engine room wiring harness(2.5L)(7AT)": 4,
+        "Wire harness(2.5L)(7AT)": 9,
+        "Wire harness(1.8L)(6MT)": 6,
+        "Wire harness(2.4L)(5MT)": 12,
+        "Wire harness(2.3L)(6MT)": 6,
+        "Wire harness(2.3L)(8AT)": 6,
+        "Wire harness(6MT)": 3,
+        "Wiring harness": 9
+    },
+    "suppliers": {
+        "Kaifeng Zhucheng Wiring Systems Co., Ltd.": 42,
+        "Tianjin Yazaki Automotive Parts Co., Ltd.": 28,
+        "Jilin Shiji Qingshan Car Parts Manufacturing Co., Ltd. (Formerly Fujikura Changchun Ltd.)": 18,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
+        "Xiaogan Yazaki Auto Parts Co., Ltd.": 8
+    }
+}

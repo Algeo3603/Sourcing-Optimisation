@@ -1,0 +1,46 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 53
+    },
+    "specific-parts-bought": {
+        "Front wiring harness": 3,
+        "Antenna wiring harness": 3,
+        "Data cable": 3,
+        "Fiber optic cable": 3,
+        "Engine fuel injection wiring harness": 2,
+        "Electrical distribution system": 5,
+        "Wire harness": 3,
+        "Wiring harness system": 1,
+        "Wiring harness": 14,
+        "Low-voltage wiring harness": 1,
+        "Wiring protection system": 1,
+        "Starter wiring harness": 1,
+        "High voltage wire": 1,
+        "Airbag wiring harness": 1,
+        "Main harness": 4,
+        "Driver seat harness": 1,
+        "Passenger seat harness": 1,
+        "HVAC block harness": 1,
+        "Right front door harness": 1,
+        "Rear door harness (right & left)": 1,
+        "Engine wiring harness": 1,
+        "Roof harness": 1
+    },
+    "suppliers": {
+        "Leoni AG": 12,
+        "MD ELEKTRONIK GmbH": 10,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 3,
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 9,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 6,
+        "Delfingen de Marktrodach GmbH & Co. KG": 1,
+        "Gebauer & Griller Kabelwerke GmbH": 2,
+        "Kromberg & Schubert Automotive GmbH & Co. KG - Renningen": 1,
+        "Sumitomo Electric Industries, Ltd.": 1,
+        "Hirschmann Automotive GmbH": 2,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 1,
+        "MAHLE Behr GmbH & Co. KG": 1,
+        "Howmet Aerospace Inc.": 1,
+        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 3
+    }
+}

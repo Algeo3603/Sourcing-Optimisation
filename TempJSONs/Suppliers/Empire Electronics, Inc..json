@@ -1,0 +1,26 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 10
+    },
+    "specific_parts_sold": {
+        "Wiring harness": 4,
+        "Taillight harness": 1,
+        "Tail lamp harness": 2,
+        "Front fascia harness": 1,
+        "Sunroof harness": 2
+    },
+    "buyers": {
+        "Dodge": 2,
+        "Ford": 4,
+        "GM": 2,
+        "Ram Trucks": 1,
+        "Nissan": 1
+    },
+    "Country": "USA",
+    "Address": "214 East Maple, Troy, MI 48083 USA",
+    "TEL": "+1-248-585-8130",
+    "Year established": "1981",
+    "URL": "http://www.empireelectronics.com",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)"
+}

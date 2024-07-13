@@ -1,0 +1,51 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 217
+    },
+    "specific-parts-bought": {
+        "Body wiring harness(1.5T)(CVT)": 35,
+        "Door wiring harness(1.5T)(CVT)": 27,
+        "Engine room wiring harness(1.5T)(CVT)": 16,
+        "Battery wiring harness(1.5T)(CVT)": 16,
+        "Body wiring harness(2.0L)(E-CVT)": 15,
+        "Engine room wiring harness(2.0L)(E-CVT)": 6,
+        "Door wiring harness(2.0L)(E-CVT)": 11,
+        "Body wiring harness(1.0T)(CVT)": 8,
+        "Door wiring harness(1.0T)(CVT)": 6,
+        "Engine room wiring harness(1.0T)(CVT)": 3,
+        "Body wiring harness(1.5L)(CVT)": 10,
+        "Door wiring harness(1.5L)(CVT)": 7,
+        "Engine room wiring harness(1.5L)(CVT)": 5,
+        "Battery wiring harness(2.0L)(E-CVT)": 6,
+        "Body wiring harness": 2,
+        "Door wiring harness": 1,
+        "Engine room wiring harness": 2,
+        "Battery wiring harness": 2,
+        "Battery wiring harness(1.5L)(CVT)": 2,
+        "Body wiring harness(1.8L)(5AT)": 1,
+        "Door wiring harness(1.8L)(5AT)": 1,
+        "Engine room wiring harness(1.8L)(5AT)": 1,
+        "Body wiring harness(2.0T)(9AT)": 5,
+        "Door wiring harness(2.0T)(9AT)": 4,
+        "Engine room wiring harness(2.0T)(9AT)": 3,
+        "Battery wiring harness(2.0T)(9AT)": 3,
+        "Battery wiring harness(1.0T)(CVT)": 2,
+        "High voltage wiring harness(2.0L)(ECVT)": 1,
+        "Wiring harness": 8,
+        "Sensor harness": 1,
+        "Antenna wiring harness": 1,
+        "Engine wiring harness": 6
+    },
+    "suppliers": {
+        "Fujikura Zhuhai Ltd.": 24,
+        "Wuhan Furukawa Automotive Systems Co., Ltd.（FASW）": 36,
+        "Wuhan Sumiden Wiring Systems Co., Ltd.": 79,
+        "Wuhan Youde Auto Electric Appliance Co., Ltd.": 12,
+        "Xiaogan Yazaki Auto Parts Co., Ltd.": 57,
+        "Yazaki Corporation": 1,
+        "Shanghai Han Shin Electric Wire Cable Co., Ltd.": 1,
+        "Dongguan Yokowo Communication Components Co., Ltd.": 1,
+        "Huizhou Zhurun Wiring Systems Co., Ltd.": 6
+    }
+}

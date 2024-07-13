@@ -1,0 +1,42 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 28
+    },
+    "specific_parts_sold": {
+        "Door wiring harness(2.0L)(CVT)": 1,
+        "Body wiring harness(2.0L)(CVT)": 1,
+        "Engine room wiring harness(2.0L)(CVT)": 1,
+        "Instrument panel wiring harness(2.0L)(CVT)": 1,
+        "Battery wiring harness(2.0L)(CVT)": 1,
+        "Door wiring harness(2.5L)(8AT)": 1,
+        "Body wiring harness(2.5L)(8AT)": 1,
+        "Engine room wiring harness(2.5L)(8AT)": 1,
+        "Instrument panel wiring harness(2.5L)(8AT)": 1,
+        "Battery wiring harness(2.5L)(8AT)": 1,
+        "Door wiring harness(2.5L)(E-CVT)": 1,
+        "Body wiring harness(2.5L)(E-CVT)": 1,
+        "Engine room wiring harness(2.5L)(E-CVT)": 1,
+        "Instrument panel wiring harness(2.5L)(E-CVT)": 1,
+        "Battery wiring harness(2.5L)(E-CVT)": 1,
+        "Door wiring harness(4.0L)(5MT)": 2,
+        "Body wiring harness(4.0L)(5MT)": 2,
+        "Engine room wiring harness(4.0L)(5MT)": 2,
+        "Instrument panel wiring harness(4.0L)(5MT)": 2,
+        "Battery wiring harness(4.0L)(5MT)": 2,
+        "Body wiring harness(3.5L)(6AT)": 1,
+        "Engine room wiring harness(3.5L)(6AT)": 1,
+        "Battery wiring harness(3.5L)(6AT)": 1
+    },
+    "buyers": {
+        "FAW Toyota": 28
+    },
+    "Country": "China",
+    "Address": "No.99, Xingguang Middle Road, Economic and Technological Development Zone, Longquanyi District, Chengdu, Sichuan, China",
+    "TEL": "+86-28-84869672",
+    "Year established": "Jun. 2000",
+    "URL": "https://www.yazaki-group.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Yazaki (China) Investment Corporation"
+}

@@ -1,0 +1,29 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 35
+    },
+    "specific_parts_sold": {
+        "Wiring harness(1.8T)(5AMT)": 1,
+        "High voltage wiring harness": 1,
+        "Lithium-ion battery wiring harness": 8,
+        "Traction motor wiring harness": 9,
+        "Battery wiring harness": 12,
+        "Lamp wiring harness": 4
+    },
+    "buyers": {
+        "BAIC Motor": 4,
+        "BMW Brilliance": 2,
+        "Brilliance Shineray": 1,
+        "GAC Motor": 6,
+        "Geely": 16,
+        "Great Wall": 6
+    },
+    "Year Established": "Sep. 2006",
+    "Number of Employees": "About 22,300 employees (as of Dec. 31, 2023)",
+    "Sales Turnover": "About CNY 11,912 million (FY ended Dec. 31, 2023)",
+    "Representative": "Chairman: Ligang Dong",
+    "URL": "http://www.thb.com.cn",
+    "Address": "Tianhai Building, No.3, Songjiang Road, Hebi Economic and Technological Development Zone, Henan, China",
+    "Country": "China"
+}

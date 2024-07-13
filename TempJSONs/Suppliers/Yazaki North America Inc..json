@@ -1,0 +1,36 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 29
+    },
+    "specific_parts_sold": {
+        "High-voltage wiring harness": 1,
+        "Wiring harness": 18,
+        "Instrument panel wiring harness": 2,
+        "Wire harness": 1,
+        "Rear view camera wiring harness": 2,
+        "Roof wiring harness": 1,
+        "High voltage wire": 1,
+        "Door wiring harness (Sourced by MUNRO & ASSOCIATES, USA)": 1,
+        "Battery cable (Sourced by MUNRO & ASSOCIATES, USA)": 1,
+        "Engine wiring harness": 1
+    },
+    "buyers": {
+        "Tesla": 4,
+        "GM": 6,
+        "Ford": 2,
+        "Jeep": 7,
+        "Nissan": 1,
+        "Chrysler": 3,
+        "Dodge": 3,
+        "Toyota": 3
+    },
+    "Country": "USA",
+    "Address": "6801 Haggerty Road, Canton, MI 48187 USA",
+    "TEL": "+1-734-983-1000",
+    "Beginning of operation": "Dec., 1966",
+    "URL": "https://www.yazaki-na.com/",
+    "Quality certification": "QS9000IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Yazaki International Corp. (a subsidiary of Yazaki Corp.) 100%-Regional Headquarters"
+}

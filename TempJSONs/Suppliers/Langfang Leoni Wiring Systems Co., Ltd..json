@@ -1,0 +1,35 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 33
+    },
+    "specific_parts_sold": {
+        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(9AMT)": 1,
+        "ABS wiring harness(1.6T)(9AMT)": 1,
+        "ESP wiring harness(1.6T)(9AMT)": 1,
+        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(9AMT)": 3,
+        "ABS wiring harness(2.0T)(9AMT)": 3,
+        "ESP wiring harness(2.0T)(9AMT)": 3,
+        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7AMT)": 3,
+        "ABS wiring harness(2.0T)(7AMT)": 3,
+        "ESP wiring harness(2.0T)(7AMT)": 3,
+        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(7DCT)": 1,
+        "ABS wiring harness(1.6T)(7DCT)": 1,
+        "ESP wiring harness(1.6T)(7DCT)": 1,
+        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7DCT)": 2,
+        "ABS wiring harness(2.0T)(7DCT)": 2,
+        "ESP wiring harness(2.0T)(7DCT)": 2,
+        "Wiring system": 3
+    },
+    "buyers": {
+        "Beijing Benz": 33
+    },
+    "Country": "China",
+    "Address": "No.1, Yanfeng Avenue, South Side of Northeast Outer Ring, Meisan Road, North Side 102 Nat. Highway, Sanhe Downtown, Hebei, China",
+    "TEL": "+86-316-3725053",
+    "Year established": "May 2013",
+    "URL": "https://www.leoni.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s)：Leoni Electrical Systems (Shanghai) Co., Ltd. 50%, Beijing Hainachuan Automotive Parts Co., Ltd. (BHAP) 50%"
+}

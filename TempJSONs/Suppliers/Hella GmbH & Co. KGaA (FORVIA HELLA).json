@@ -1,0 +1,22 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "Antenna wiring harness": 1,
+        "Negative battery cable": 1
+    },
+    "buyers": {
+        "Volkswagen": 1,
+        "BMW": 1
+    },
+    "Year Established": "899",
+    "Number of Employees": "6,280 employees (As of Dec. 31, 2022)",
+    "Sales Turnover": "EUR 4,410 million (FY ended Dec. 31, 2022)",
+    "Representative": "Michel Favre (CEO)",
+    "Capital": "EUR 222.2 million (FY ended Dec. 31, 2022)",
+    "URL": "https://www.hella.com",
+    "Address": "Rixbecker Straße 75, 59552 Lippstadt, Germany",
+    "Country": "Germany"
+}

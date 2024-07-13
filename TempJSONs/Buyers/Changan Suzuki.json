@@ -1,0 +1,14 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 9
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 2,
+        "Wire harness": 7
+    },
+    "suppliers": {
+        "Chongqing Changhua Automobile Harness Co., Ltd.": 2,
+        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 7
+    }
+}

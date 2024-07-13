@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "Body wiring harness": 1,
+        "Door wiring harness": 1
+    },
+    "buyers": {
+        "Nissan": 2
+    },
+    "Country": "Mexico",
+    "Address": "Calle Iturbide # 6970, Parque Industrial Longoria, 88170 Nuevo Laredo, Tamps., Mexico",
+    "TEL": "+52-867-711-6000",
+    "URL": "https://www.aptiv.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Aptiv PLC"
+}

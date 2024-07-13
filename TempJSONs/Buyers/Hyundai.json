@@ -1,0 +1,39 @@
+{
+    "region": "ASEAN・India・Korea",
+    "parts-bought": {
+        "Wiring Harness": 157
+    },
+    "specific-parts-bought": {
+        "ABS wiring harness": 4,
+        "High-voltage wiring harness": 4,
+        "Back door wiring harness": 3,
+        "Front door wiring harness": 3,
+        "Rear door wiring harness": 3,
+        "Exterior mirror wiring harness": 3,
+        "Ground strap": 1,
+        "Wiring harness": 33,
+        "Floor wiring harness": 16,
+        "Wire harness assembly": 10,
+        "Airbag wiring harness": 1,
+        "Wire harness": 4,
+        "Engine wiring harness": 14,
+        "Control wiring harness": 14,
+        "Door wiring harness": 14,
+        "Trunk wiring harness": 14,
+        "Main wiring harness": 15,
+        "Wiring protection system": 1
+    },
+    "suppliers": {
+        "Hyundai Mobis Co., Ltd.": 4,
+        "Kyungshin Corporation": 16,
+        "YURA Corporation": 3,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 4,
+        "Samvardhana Motherson Group": 3,
+        "SJG Asentec Co., Ltd. (Formerly Asentec Co., Ltd.)": 10,
+        "Prettl Indústria de Componentes Automotivos do Brasil": 1,
+        "THN Corporation": 96,
+        "Kyungshin Industrial Motherson Private Ltd.": 12,
+        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 7,
+        "DELFINGEN US - Rochester Hills": 1
+    }
+}

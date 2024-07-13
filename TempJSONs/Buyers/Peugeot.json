@@ -1,0 +1,38 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 36
+    },
+    "specific-parts-bought": {
+        "Interior wiring harness": 4,
+        "Wiring harness protector": 1,
+        "Rear bumper wiring harness": 3,
+        "Front wiring harness": 1,
+        "High-voltage wiring harness": 1,
+        "Wiring harness": 7,
+        "Wiring system": 6,
+        "Electrical distribution system": 2,
+        "Harness": 1,
+        "Engine wiring harness": 3,
+        "Driver seat harness": 1,
+        "Passenger seat harness": 1,
+        "Rear door harness (right & left)": 1,
+        "Roof harness": 1,
+        "Front door harness (right & left)": 1,
+        "Instrument panel wiring harness": 1,
+        "Main harness": 1
+    },
+    "suppliers": {
+        "Sumitomo Electric Industries, Ltd.": 7,
+        "Delfingen Industry S.A.": 1,
+        "Sumitomo Electric Wiring Systems (Europe) Ltd.": 1,
+        "Yazaki Europe Ltd.": 1,
+        "Yazaki Wiring Technologies Slovakia s.r.o.": 1,
+        "Leoni AG": 10,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 5,
+        "Lear Corporation": 1,
+        "Valeo Group": 6,
+        "Yazaki Corporation": 1
+    }
+}

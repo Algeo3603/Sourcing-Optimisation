@@ -1,0 +1,19 @@
+{
+    "region": "Americas",
+    "parts-bought": {
+        "Wiring Harness": 11
+    },
+    "specific-parts-bought": {
+        "Transmission wiring harness": 4,
+        "Wiring harness": 5,
+        "PHEV high voltage cable assembly": 1,
+        "Wiring protection system": 1
+    },
+    "suppliers": {
+        "General Cable - Rhode Island": 4,
+        "Yazaki North America Inc.": 3,
+        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 1,
+        "Delfingen Industry S.A.": 1,
+        "Yazaki Corporation": 2
+    }
+}

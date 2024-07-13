@@ -1,0 +1,33 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 17
+    },
+    "specific_parts_sold": {
+        "Body wiring harness(2.0L)(CVT)": 1,
+        "Door wiring harness(2.0L)(CVT)": 1,
+        "Body wiring harness(1.5T)(7DCT)": 1,
+        "Door wiring harness(1.5T)(7DCT)": 1,
+        "Seat Wiring Harness": 5,
+        "Engine room wiring harness(1.2T)(6MT)": 1,
+        "Engine room wiring harness(2.0L)(CVT7)": 2,
+        "Body wiring harness(2.5L)(CVT7)": 1,
+        "Door wiring harness(2.5L)(CVT7)": 1,
+        "Engine room wiring harness(2.5L)(CVT7)": 1,
+        "Body wiring harness(2.0L)(CVT7)": 1,
+        "Door wiring harness(2.0L)(CVT7)": 1
+    },
+    "buyers": {
+        "Dongfeng Nissan": 4,
+        "Dongfeng Peugeot Citroen": 4,
+        "Dongfeng Renault": 9
+    },
+    "Country": "China",
+    "Address": "No.169, Quanli North Road, Wuhan Economic and Technological Development Zone, Hubei, China",
+    "TEL": "+86-27-84898155",
+    "Year established": "Dec. 2007",
+    "URL": "https://www.aptiv.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Aptiv Safety & Mobility Services Singapore Pte. Ltd., Shanghai Sanlian Automobile Wiring Harness Co., Ltd."
+}

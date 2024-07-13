@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 6
+    },
+    "specific_parts_sold": {
+        "Engine wiring harness": 5,
+        "Transmission wiring harness": 1
+    },
+    "buyers": {
+        "Bentley": 1,
+        "Rolls-Royce": 1,
+        "BMW": 2,
+        "Daimler": 2
+    },
+    "Country": "Germany",
+    "Address": "Vohenstraußer Str. 20, 92685 Floß, Germany",
+    "TEL": "+49-9603-20-0",
+    "Year established": "1966",
+    "URL": "https://www.autoelectric.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

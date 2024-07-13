@@ -1,0 +1,27 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 10
+    },
+    "specific_parts_sold": {
+        "Penthouse wiring harness": 1,
+        "Trailer hitch wiring harness": 1,
+        "Battery cable": 1,
+        "Front door jumper wiring harness": 1,
+        "Traction motor wiring harness": 2,
+        "Main wiring harness": 1,
+        "Tranction motor bay wiring harness": 1,
+        "Front main wiring harness": 1,
+        "Body wiring harness": 1
+    },
+    "buyers": {
+        "Tesla": 10
+    },
+    "Country": "USA",
+    "Address": "47211 Bayside Parkway, Fremont, CA 94538, USA",
+    "TEL": "+1-510-252-0786",
+    "Year established": "1996",
+    "URL": "https://www.bizlinktech.com/",
+    "Quality certification": "ISO9001QS9000",
+    "Environmental certification": "ISO14001"
+}

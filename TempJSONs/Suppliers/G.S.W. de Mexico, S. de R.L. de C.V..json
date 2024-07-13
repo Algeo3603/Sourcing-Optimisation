@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 3
+    },
+    "specific_parts_sold": {
+        "Harnesses / Lead wire": 1,
+        "Harness": 1,
+        "Lead wire": 1
+    },
+    "buyers": {
+        "Honda": 1,
+        "Toyota": 2
+    },
+    "Country": "Mexico",
+    "Address": "Ave. Del Parque No. 2021, Parque Industrial Villa Florida Raynosa, Tams. Mexico. 88715",
+    "TEL": "+52-899-188-0050",
+    "Year established": "Mar 2009",
+    "URL": "http://www.gs-electech.co.jp",
+    "Remarks": "-Shareholders : G.S.Electech,Inc."
+}

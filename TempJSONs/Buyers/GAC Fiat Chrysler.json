@@ -1,0 +1,25 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 14
+    },
+    "specific-parts-bought": {
+        "Body wiring harness": 2,
+        "Engine wiring harness assembly": 1,
+        "Battery wiring harness assembly": 1,
+        "Center console wiring harness assembly": 1,
+        "Door wiring harness assembly": 1,
+        "Engine wiring harness": 1,
+        "Instrument panel wiring harness": 1,
+        "Door harness": 1,
+        "Front wiring harness": 1,
+        "Rear wiring harness": 1,
+        "ABS wiring harness": 1,
+        "Airbag wiring harness": 1,
+        "Battery harness": 1
+    },
+    "suppliers": {
+        "Aptiv Electric Systems Co., Ltd. Jiangmen Branch": 5,
+        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch": 9
+    }
+}

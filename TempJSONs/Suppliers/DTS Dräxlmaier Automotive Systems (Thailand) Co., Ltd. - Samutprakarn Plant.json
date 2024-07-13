@@ -1,0 +1,29 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 54
+    },
+    "specific_parts_sold": {
+        "Seat wiring harness (via Lear Automotive (Thailand))": 18,
+        "Main wiring harness": 9,
+        "Door module wiring harness (via Brose (Thailand))": 9,
+        "Seat wiring harness (via Adient & Summit)": 2,
+        "Door panel wiring harness (via IAC APM Automotive Systems)": 2,
+        "Door panel wiring harness (via Adient & Summit)": 5,
+        "High voltage wiring harness": 2,
+        "Cockpit wiring harness (via Adient & Summit)": 5,
+        "Door panel wiring harness": 2
+    },
+    "buyers": {
+        "BMW": 18,
+        "Daimler": 36
+    },
+    "Country": "Thailand",
+    "Address": "2 Soi 5 B, Preaksa, Muang Samutprakarn, Samutprakarn 10280 Thailand",
+    "TEL": "+66-38-627-600",
+    "Capital": "THB 25.00 million (CY2022)",
+    "URL": "https://coth.draexlmaier.com",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Sales Turnover: THB 4,083.04 million, EBIT: THB 309.56 million (CY2022 Unconsolidated Results)-Sales Turnover: THB 4,740.88 million, EBIT: THB 207.41 million (CY2021 Unconsolidated Results)-Sales Turnover: THB 3,620.14 million, EBIT: THB 130.36 million (CY2020 Unconsolidated Results)- Investment ratio: Germany 100.0%-Shareholder(s): Dräxlmaier Group-Board member(s): Mr. Stefan Eichner, Mr. Robert Christian Schmel, Mr. Gerhard Ernesberger"
+}

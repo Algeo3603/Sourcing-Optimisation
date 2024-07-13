@@ -1,0 +1,21 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 11
+    },
+    "specific-parts-bought": {
+        "Seat Wiring Harness": 1,
+        "Engine room wiring harness(1.2T)(6MT)": 1,
+        "Engine room wiring harness(2.0L)(CVT7)": 2,
+        "Body wiring harness(1.2T)(6MT)": 1,
+        "Body wiring harness(2.0L)(CVT7)": 2,
+        "Body wiring harness(2.5L)(CVT7)": 1,
+        "Door wiring harness(2.5L)(CVT7)": 1,
+        "Engine room wiring harness(2.5L)(CVT7)": 1,
+        "Door wiring harness(2.0L)(CVT7)": 1
+    },
+    "suppliers": {
+        "Aptiv Electric Systems Co., Ltd. Wuhan Branch": 9,
+        "Xiaogan Yazaki Auto Parts Co., Ltd.": 2
+    }
+}

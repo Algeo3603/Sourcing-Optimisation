@@ -1,0 +1,34 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 46
+    },
+    "specific_parts_sold": {
+        "Body wiring harness(1.5T)(CVT)": 8,
+        "Door wiring harness(1.5T)(CVT)": 8,
+        "Body wiring harness(2.0L)(E-CVT)": 5,
+        "Door wiring harness(2.0L)(E-CVT)": 5,
+        "Body wiring harness(1.5L)(CVT)": 2,
+        "Door wiring harness(1.5L)(CVT)": 2,
+        "Engine room wiring harness(1.5T)(CVT)": 1,
+        "Engine room wiring harness(1.5L)(CVT)": 1,
+        "Body wiring harness(2.0T)(9AT)": 2,
+        "Door wiring harness(2.0T)(9AT)": 2,
+        "Body wiring harness(1.0T)(CVT)": 1,
+        "Door wiring harness(1.0T)(CVT)": 1,
+        "Engine wiring harness": 8
+    },
+    "buyers": {
+        "Dongfeng Honda": 24,
+        "GAC Honda": 14,
+        "FAW-Volkswagen": 8
+    },
+    "Country": "China",
+    "Address": "No.161, West Shihua Road, Jida, Zhuhai City, Guangdong, China",
+    "TEL": "+86-756-3331111",
+    "Year established": "Jul. 1991",
+    "URL": "http://www.fujikura.com.cn/",
+    "Quality certification": "ISO9001VDA6.1IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders : Fujikura Denso Ltd., Fujikura Ltd."
+}

@@ -1,0 +1,27 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 19
+    },
+    "specific-parts-bought": {
+        "Wiring harness protector": 2,
+        "Electrical distribution system": 3,
+        "Harness": 1,
+        "Battery cable assembly": 1,
+        "Cockpit wiring harnesses": 1,
+        "Interior wiring harness": 1,
+        "Wiring harness": 7,
+        "Engine wiring harness": 2,
+        "Wiring system": 1
+    },
+    "suppliers": {
+        "Sumitomo Electric Industries, Ltd.": 2,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 3,
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 7,
+        "Gebauer & Griller Kabelwerke GmbH": 1,
+        "DMS Dräxlmaier Modulsysteme GmbH": 2,
+        "Leoni AG": 2,
+        "Hirschmann Automotive GmbH": 1,
+        "Brose Fahrzeugteile SE & Co. KG, Coburg": 1
+    }
+}

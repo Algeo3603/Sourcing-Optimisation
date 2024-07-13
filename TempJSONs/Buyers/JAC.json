@@ -1,0 +1,14 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 5
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 3,
+        "Wire harness": 2
+    },
+    "suppliers": {
+        "Kunshan Huguang Auto Harness Co., Ltd.": 3,
+        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 2
+    }
+}

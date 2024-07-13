@@ -1,0 +1,26 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 23
+    },
+    "specific_parts_sold": {
+        "Battery wiring harness": 1,
+        "Door wiring harness": 10,
+        "Body wiring harness": 9,
+        "Engine room wiring harness": 2,
+        "Wiring harness": 1
+    },
+    "buyers": {
+        "Toyota": 8,
+        "Hino": 1,
+        "Honda": 8,
+        "Mazda": 2,
+        "Mitsubishi": 4
+    },
+    "Country": "USA",
+    "Address": "18 Leigh Fisher, El Paso, Texas 79906 USA",
+    "TEL": "+1-915-779-0077",
+    "Year established": "April 1988",
+    "URL": "https://www.yazaki-na.com/",
+    "Remarks": "-Shareholders : Yazaki International Corp. (a subsidiary of Yazaki Corp.) 100%"
+}

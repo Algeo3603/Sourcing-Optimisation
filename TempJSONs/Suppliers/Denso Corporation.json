@@ -1,0 +1,24 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 5
+    },
+    "specific_parts_sold": {
+        "Wiring harness": 1,
+        "Instrument panel wiring harness": 2,
+        "Technical front end harness": 1,
+        "HVAC block harness": 1
+    },
+    "buyers": {
+        "Fiat": 4,
+        "Toyota": 1
+    },
+    "Year Established": "6 December 1949",
+    "Number of Employees": "62,029 employees (As of Mar. 31, 2024)",
+    "Sales Turnover": "JPY 7,144,733 million (FY ended Mar. 31, 2024)",
+    "Representative": "Shinnosuke Hayashi (President and CEO)",
+    "Capital": "JPY 187,457 million (As of Mar. 31, 2024)",
+    "URL": "https://www.denso.com/global/en/",
+    "Address": "1-1, Showa-cho, Kariya, Aichi 448-8661, Japan",
+    "Country": "Japan"
+}

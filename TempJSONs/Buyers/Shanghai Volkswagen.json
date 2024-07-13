@@ -1,0 +1,21 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 13
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 1,
+        "Wire harness": 7,
+        "Main wiring harness": 1,
+        "Engine fuel injection wiring harness": 1,
+        "Engine compartment wiring harness": 1,
+        "Alternator wiring harness": 1,
+        "Interior wiring harness": 1
+    },
+    "suppliers": {
+        "Aptiv Electric Systems Co., Ltd.": 5,
+        "Shanghai Dai-Ichi Electronic Co., Ltd.": 2,
+        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 3,
+        "Shanghai Jinting Automobile Harness Ltd.(JAH)": 3
+    }
+}

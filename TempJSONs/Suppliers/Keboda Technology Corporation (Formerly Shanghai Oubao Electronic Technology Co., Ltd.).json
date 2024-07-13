@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 4
+    },
+    "specific_parts_sold": {
+        "Body wiring harness": 1,
+        "Door wiring harness": 1,
+        "Instrument panel wiring harness": 1,
+        "Engine wiring harness": 1
+    },
+    "buyers": {
+        "BYD": 4
+    },
+    "Country": "China",
+    "Address": "No.2388, Zuchongzhi Road, Free Trade Zone, Shanghai, China",
+    "TEL": "+86-21-60978999",
+    "Year established": "1983",
+    "URL": "http://www.keboda.com",
+    "Quality certification": "ISO9001VDA6.1IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Koboda Investment Holding Co., Ltd., Jiaxing Fujie Investment Partnership (Limited Partnership), Jiaxing Dingtao Investment Partnership (Limited Partnership), Jiaxing Yingyi Investment Partnership (Limited Partnership)"
+}

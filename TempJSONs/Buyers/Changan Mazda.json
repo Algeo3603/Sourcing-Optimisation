@@ -1,0 +1,29 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 43
+    },
+    "specific-parts-bought": {
+        "Wire harness(1.5L)(6MT)": 2,
+        "Wire harness(1.5L)(6AT)": 2,
+        "Wire harness(2.0L)(6AT)": 10,
+        "Body wiring harness(1.5L)(6MT)": 1,
+        "Body wiring harness(1.5L)(6AT)": 1,
+        "Body wiring harness(2.0L)(6AT)": 4,
+        "Body wiring harness(2.5L)(6AT)": 5,
+        "Wire harness(2.0L)(6MT)": 2,
+        "Body wiring harness": 3,
+        "Door wiring harness": 2,
+        "Battery wiring harness": 2,
+        "Wire harness(2.5L)(6AT)": 4,
+        "Door wiring harness(2.5L)(6AT)": 2,
+        "Door wiring harness(2.0L)(6AT)": 1,
+        "Wiring harness": 2
+    },
+    "suppliers": {
+        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 19,
+        "Furukawa Auto Parts (Huizhou) Ltd. (FAPH)": 12,
+        "Fushan Shunde Yazaki Auto Parts Co., Ltd.": 10,
+        "Lear Automotive Systems (Chongqing) Co., Ltd.": 2
+    }
+}

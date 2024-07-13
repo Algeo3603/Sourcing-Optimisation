@@ -1,0 +1,25 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 17
+    },
+    "specific-parts-bought": {
+        "Lithium iron phosphate battery high-voltage wiring harness": 1,
+        "Three-dimensional lithium-ion battery high-voltage wiring harness": 1,
+        "High voltage wiring harness": 2,
+        "Lithium-ion battery wiring harness": 1,
+        "ESP wiring harness": 2,
+        "Radar wiring harness": 1,
+        "Speed sensor wiring harness": 6,
+        "Wire harness": 3
+    },
+    "suppliers": {
+        "Tiecheng Information Technology Co., Ltd. (Formerly Hangzhou Tiecheng Information Technology Co., Ltd.)": 3,
+        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 2,
+        "Leoni Electrical Systems (Jining) Co., Ltd.": 2,
+        "Liuzhou Chengfei Automotive Parts Co., Ltd.": 1,
+        "United Automotive Electronic Systems Co., Ltd. Liuzhou Branch": 6,
+        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 2,
+        "Zhuhai Luckystar Electronics Co., Ltd.": 1
+    }
+}

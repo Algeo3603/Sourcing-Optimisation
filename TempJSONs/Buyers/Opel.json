@@ -1,0 +1,36 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 37
+    },
+    "specific-parts-bought": {
+        "Door wiring harness": 7,
+        "Rear bumper parking assist wiring harness": 4,
+        "Electrical distribution system": 2,
+        "Wiring protection system": 1,
+        "Engine wiring harness": 2,
+        "Wiring harness": 6,
+        "Harness": 1,
+        "Fuel tank harness": 1,
+        "Driver seat harness": 2,
+        "Passenger seat harness": 2,
+        "Harness of rear opening": 1,
+        "Instrument panel wiring harness": 1,
+        "Front door harness (right & left)": 1,
+        "Rear door harness (right & left)": 1,
+        "Technical front end harness": 1,
+        "Main harness": 2,
+        "HVAC block harness": 1,
+        "Electrical/Electronics distribution system": 1
+    },
+    "suppliers": {
+        "Sumitomo Electric Industries, Ltd.": 11,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
+        "Delfingen de Marktrodach GmbH & Co. KG": 1,
+        "Yazaki Corporation": 1,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 7,
+        "Lear Corporation": 1,
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 2,
+        "Leoni AG": 12
+    }
+}

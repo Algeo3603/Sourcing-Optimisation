@@ -1,0 +1,51 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 93
+    },
+    "specific_parts_sold": {
+        "Body wiring harness(1.5T)(CVT)": 9,
+        "Door wiring harness(1.5T)(CVT)": 9,
+        "Engine room wiring harness(1.5T)(CVT)": 7,
+        "Battery wiring harness(1.5T)(CVT)": 8,
+        "Body wiring harness(2.0L)(E-CVT)": 4,
+        "Door wiring harness(2.0L)(E-CVT)": 4,
+        "Engine room wiring harness(2.0L)(E-CVT)": 2,
+        "Body wiring harness(1.0T)(CVT)": 2,
+        "Door wiring harness(1.0T)(CVT)": 2,
+        "Engine room wiring harness(1.0T)(CVT)": 2,
+        "Body wiring harness(1.5L)(CVT)": 3,
+        "Door wiring harness(1.5L)(CVT)": 3,
+        "Engine room wiring harness(1.5L)(CVT)": 3,
+        "Battery wiring harness(2.0L)(E-CVT)": 3,
+        "Body wiring harness(2.0T)(7AT)": 1,
+        "Door wiring harness(2.0T)(7AT)": 1,
+        "Body wiring harness(2.0L)(CVT7)": 2,
+        "Door wiring harness(2.0L)(CVT7)": 2,
+        "Body wiring harness(2.0T)(9AT)": 4,
+        "Door wiring harness(2.0T)(9AT)": 4,
+        "Engine room wiring harness(2.0T)(9AT)": 4,
+        "Battery wiring harness(2.0T)(9AT)": 4,
+        "Body wiring harness": 1,
+        "Door wiring harness": 1,
+        "Engine room wiring harness": 1,
+        "Battery wiring harness": 1,
+        "Battery wiring harness(1.5L)(CVT)": 1,
+        "Body wiring harness(1.8L)(5AT)": 1,
+        "Door wiring harness(1.8L)(5AT)": 1,
+        "Engine room wiring harness(1.8L)(5AT)": 1,
+        "Battery wiring harness(1.0T)(CVT)": 1,
+        "Wiring harness": 1
+    },
+    "buyers": {
+        "Dongfeng Honda": 79,
+        "Dongfeng Nissan": 14
+    },
+    "Country": "China",
+    "Address": "Wuhan Automobile Electronic Industry Park, Guanshan 1st Road, East Lake New Technology Development Zone, Wuhan, Hubei, China",
+    "TEL": "+86-27-81691193, +86-27-81691196",
+    "Year established": "Feb. 2005",
+    "Beginning of operation": "Nov. 2005",
+    "URL": "https://global-sei.com",
+    "Remarks": "-Shareholders(s): Sumitomo Wiring Systems, Ltd. 60%, Sumitomo Electric Industries, Ltd. 40%"
+}

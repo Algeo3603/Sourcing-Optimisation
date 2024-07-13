@@ -1,0 +1,14 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 2
+    },
+    "specific-parts-bought": {
+        "Engine wiring harness": 1,
+        "Electrical distribution system": 1
+    },
+    "suppliers": {
+        "Nexans autoelectric GmbH": 1,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1
+    }
+}

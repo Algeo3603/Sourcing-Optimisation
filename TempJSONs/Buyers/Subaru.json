@@ -1,0 +1,50 @@
+{
+    "region": "Japan",
+    "parts-bought": {
+        "Wiring Harness": 175
+    },
+    "specific-parts-bought": {
+        "Back-up lamp wiring harness": 1,
+        "Front door wiring harness": 10,
+        "Back door wiring harness": 5,
+        "Rear door wiring harness": 4,
+        "Engine wiring harness": 21,
+        "Front wiring harness": 7,
+        "Instrument panel wiring harness": 8,
+        "Clearance sonar wiring harness": 7,
+        "Engine room wiring harness": 19,
+        "Fog lamp wiring harness": 1,
+        "Battery wiring harness": 1,
+        "Airbag wiring harness": 2,
+        "Body wiring harness": 20,
+        "Door wiring harness": 19,
+        "Seat wiring harness": 1,
+        "Electric power steering wiring harness": 1,
+        "Exterior mirror wiring harness": 1,
+        "Wiring harness protector": 1,
+        "Roof wiring harness": 1,
+        "Floor wiring harness": 1,
+        "High-voltage wiring harness": 1,
+        "Wiring protection system": 1,
+        "Wiring harness": 24,
+        "Automatic transmission wiring harness": 8,
+        "CVT wiring harness": 8,
+        "Transmission wiring harness": 2
+    },
+    "suppliers": {
+        "Furukawa Electric Co., Ltd.": 26,
+        "Sumitomo Electric Industries, Ltd.": 29,
+        "Yazaki Corporation": 32,
+        "Fujikura Ltd.": 23,
+        "Sumitomo Electric Wiring Systems (Thailand) Ltd.": 4,
+        "Nifco Inc.": 1,
+        "Chiyoda USA Corp.": 1,
+        "CHIYODAMANUFACTURINGCOLTD": 26,
+        "Thai Arrow Products Co., Ltd.": 2,
+        "Sumitomo Wiring Systems, Ltd.": 5,
+        "Thai Summit Harness Public Company Limited": 4,
+        "Delfingen Industry S.A.": 1,
+        "Diamond&Zebra Electric Mfg.Co., Ltd.": 16,
+        "Furukawa Automotive Systems Inc.": 5
+    }
+}

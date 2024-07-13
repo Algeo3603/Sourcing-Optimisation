@@ -1,0 +1,19 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 8
+    },
+    "specific-parts-bought": {
+        "Main wiring harness": 3,
+        "Lamp wiring harness": 1,
+        "Thermal system harness": 1,
+        "High voltage wiring harness": 2,
+        "Center console wiring harness assembly": 1
+    },
+    "suppliers": {
+        "Hebi Thb International Electric Co., Ltd.": 3,
+        "Wuhu Bokang Electrical Co., Ltd.": 2,
+        "Shenzhen Likexin Electronic Co., Ltd.": 2,
+        "Changshu Antolin Automotive Interiors Co., Ltd. (Formerly Changshu Intier Automotive Interiors Co., Ltd.)": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 17
+    },
+    "specific-parts-bought": {
+        "Left body wiring harness assembly": 1,
+        "Instrument panel wiring harness assembly": 1,
+        "Front wiring harness": 1,
+        "Engine wiring harness assembly": 1,
+        "Roof wiring harness assembly": 1,
+        "Left front door wiring harness assembly": 1,
+        "Right front door wiring harness assembly": 1,
+        "Left rear door wiring harness assembly": 1,
+        "Right rear door wiring harness assembly": 1,
+        "Reversing radar wiring harness assembly": 1,
+        "Airbag wiring harness assembly": 1,
+        "Rear defroster wiring harness assembly": 1,
+        "Positive battery cable assembly": 1,
+        "Ashtray lamp wiring harness assembly": 1,
+        "Battery ground cable assembly": 1,
+        "Wiring harness": 2
+    },
+    "suppliers": {
+        "Chongqing Qinchuan Industry (Group) Co., Ltd.": 15,
+        "Tianhai Snowcity (Chongqing) Auto Electric Co., Ltd.": 2
+    }
+}

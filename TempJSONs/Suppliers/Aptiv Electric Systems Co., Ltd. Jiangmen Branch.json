@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 5
+    },
+    "specific_parts_sold": {
+        "Body wiring harness": 1,
+        "Engine wiring harness assembly": 1,
+        "Battery wiring harness assembly": 1,
+        "Center console wiring harness assembly": 1,
+        "Door wiring harness assembly": 1
+    },
+    "buyers": {
+        "GAC Fiat Chrysler": 5
+    },
+    "Country": "China",
+    "Address": "Building 2, No.86, Yunqin Road, High-tech Zone, Jiangmen, Guangdong, China",
+    "TEL": "+86-21-28967788",
+    "Year established": "Nov. 2015",
+    "URL": "https://www.aptiv.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders:  Aptiv Safety & Mobility Services Singapore Pte. Ltd., Shanghai Sanlian Automobile Wiring Harness Co., Ltd."
+}

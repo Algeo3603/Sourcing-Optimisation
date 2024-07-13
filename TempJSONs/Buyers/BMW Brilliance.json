@@ -1,0 +1,35 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 34
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 3,
+        "High-voltage wiring harness system": 1,
+        "Shock absorber wiring harness": 2,
+        "Door handle wiring harness": 2,
+        "Rear view mirror wiring harness": 2,
+        "Traction motor wiring harness": 1,
+        "High voltage wiring harness": 1,
+        "Lithium-ion battery wiring harness": 2,
+        "Main wire harness": 2,
+        "Audio navigation wire harness": 1,
+        "Door wire harness": 2,
+        "Transmission wire harness": 2,
+        "Cluster wire harness": 2,
+        "Reverse radar wire harness": 1,
+        "Main wiring harness": 2,
+        "Navigation wiring harness": 1,
+        "Door wiring harness": 2,
+        "Transmission wiring harness": 2,
+        "Meter wiring harness": 2,
+        "Reverse radar wiring harness": 1
+    },
+    "suppliers": {
+        "Leoni Wiring Systems (Tieling) Co., Ltd.": 3,
+        "Guangdong KSD Automotive Components Co., Ltd.": 2,
+        "Hirschmann (Nantong) Automotive Co., Ltd.": 7,
+        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 2,
+        "Dräxlmaier (Shenyang) Automotive Components Co., Ltd.": 20
+    }
+}

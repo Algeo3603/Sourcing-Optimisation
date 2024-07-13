@@ -1,0 +1,37 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 45
+    },
+    "specific-parts-bought": {
+        "Engine room wiring harness(2.4L)(CVT8)": 1,
+        "Body wiring harness(2.4L)(CVT8)": 1,
+        "Door wiring harness(2.4L)(CVT8)": 1,
+        "Floor wiring harness(2.4L)(CVT8)": 1,
+        "Engine room wiring harness(2.0L)(CVT8)": 1,
+        "Body wiring harness(2.0L)(CVT8)": 1,
+        "Door wiring harness(2.0L)(CVT8)": 1,
+        "Floor wiring harness(2.0L)(CVT8)": 1,
+        "Body wiring harness(1.5T)(CVT8)": 6,
+        "Door wiring harness(1.5T)(CVT8)": 4,
+        "Body wiring harness(1.5T)(6MT)": 3,
+        "Door wiring harness(1.5T)(6MT)": 2,
+        "Body wiring harness(2.4L)(CVT6)": 3,
+        "Door wiring harness(2.4L)(CVT6)": 2,
+        "Engine room wiring harness(2.4L)(CVT6)": 1,
+        "Body wiring harness(2.0L)(CVT6)": 3,
+        "Door wiring harness(2.0L)(CVT6)": 2,
+        "Engine room wiring harness(2.0L)(CVT6)": 1,
+        "Body wiring harness(1.6L)(5MT)": 2,
+        "Body wiring harness(1.6L)(CVT)": 2,
+        "Door wiring harness(1.6L)(5MT)": 2,
+        "Door wiring harness(1.6L)(CVT)": 2,
+        "Engine room wiring harness(1.6L)(5MT)": 1,
+        "Engine room wiring harness(1.6L)(CVT)": 1
+    },
+    "suppliers": {
+        "Fushan Shunde Yazaki Auto Parts Co., Ltd.": 13,
+        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch": 14,
+        "HuiZhou Sumiden Wiring Systems Co., Ltd.": 18
+    }
+}

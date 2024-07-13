@@ -1,0 +1,34 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 47
+    },
+    "specific_parts_sold": {
+        "Body wiring harness(2.5L)(6MT)": 5,
+        "Door wiring harness(2.5L)(6MT)": 5,
+        "Engine room wiring harness(2.5L)(6MT)": 5,
+        "Wire harness": 2,
+        "Wire harness(2.5L)(6MT)": 2,
+        "Body wiring harness(2.5L)(7AT)": 3,
+        "Door wiring harness(2.5L)(7AT)": 3,
+        "Engine room wiring harness(2.5L)(7AT)": 3,
+        "Wire harness(2.5L)(7AT)": 3,
+        "Wire harness(1.8L)(6MT)": 2,
+        "Wire harness(2.4L)(5MT)": 4,
+        "Wire harness(2.3L)(6MT)": 2,
+        "Wire harness(2.3L)(8AT)": 2,
+        "Wire harness(6MT)": 1,
+        "Wiring harness": 4,
+        "Main wiring harness": 1
+    },
+    "buyers": {
+        "Zhengzhou Nissan": 42,
+        "Dongfeng Nissan": 5
+    },
+    "Country": "China",
+    "Address": "West Section Weidu Road, Kaifeng New Area, Kaifeng, Henan 475000, China",
+    "TEL": "+86-371-2338-1063",
+    "Year established": "Aug., 2011",
+    "URL": "http://www.sws.co.jp",
+    "Remarks": "-Shareholder(s): Sumitomo Electric Industries, Ltd., Shenzhen Dfs Industrial Group Co., Ltd., Shenzhen Kangyou Electronics Co., Ltd., Sumitomo Wiring Systems, Ltd."
+}

@@ -1,0 +1,41 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 45
+    },
+    "specific_parts_sold": {
+        "Wiring harness protector": 14,
+        "Wire harness protector": 2,
+        "Wiring protection system": 28,
+        "Wiring harness": 1
+    },
+    "buyers": {
+        "Skoda": 3,
+        "Peugeot": 1,
+        "Ford": 11,
+        "Mercedes-Benz": 1,
+        "Renault": 4,
+        "Volkswagen": 1,
+        "BMW": 3,
+        "GM": 4,
+        "Maserati": 1,
+        "Daimler": 1,
+        "DS Automobiles": 1,
+        "Tesla": 1,
+        "Toyota": 3,
+        "Volvo Cars": 1,
+        "Nissan": 2,
+        "Subaru": 1,
+        "Jaguar Land Rover": 1,
+        "Chrysler": 1,
+        "Alfa Romeo": 1,
+        "Dodge": 1,
+        "Honda": 1,
+        "Kia": 1
+    },
+    "Country": "France",
+    "Address": "Rue Emile Streit, FR-25340 Anteuil, France",
+    "TEL": "+33-3-81-90-73-00",
+    "URL": "https://delfingen.com/en/",
+    "Quality certification": "ISO9001QS9000"
+}

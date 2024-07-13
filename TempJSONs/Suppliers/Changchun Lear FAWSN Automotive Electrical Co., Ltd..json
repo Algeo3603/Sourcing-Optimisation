@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 10
+    },
+    "specific_parts_sold": {
+        "Engine wiring harness": 7,
+        "Door wiring harness": 1,
+        "Main wiring harness": 2
+    },
+    "buyers": {
+        "FAW-Volkswagen": 7,
+        "SAIC Volkswagen": 3
+    },
+    "Country": "China",
+    "Address": "No.2677, Chaoqiang West Street, Changchun High-tech Development Zone, Jilin, China",
+    "TEL": "+86-431-80525984",
+    "Year established": "Apr. 2010",
+    "URL": "https://fawsn.com.cn/en",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Changchun FAWSN Group Co., Ltd., Lear Corporation (Mauritius) Ltd."
+}

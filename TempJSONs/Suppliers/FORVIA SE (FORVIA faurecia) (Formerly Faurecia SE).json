@@ -1,0 +1,23 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 3
+    },
+    "specific_parts_sold": {
+        "Rear bumper wiring harness": 1,
+        "Driver seat harness": 1,
+        "Passenger seat harness": 1
+    },
+    "buyers": {
+        "Citroen": 1,
+        "Renault": 2
+    },
+    "Year Established": "929",
+    "Number of Employees": "53,462 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "EUR 27,247.9 million (FY ended Dec. 31, 2023)",
+    "Representative": "Michel de Rosen (Chairman), Patrick Koller (CEO)",
+    "Capital": "EUR 1,379.6 million (As of Dec. 31, 2023)",
+    "URL": "https://www.faurecia.com",
+    "Address": "23-27 rue des Champs Pierreux, 92000 Nanterre, France",
+    "Country": "France"
+}

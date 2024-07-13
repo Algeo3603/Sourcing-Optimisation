@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 8
+    },
+    "specific_parts_sold": {
+        "Rear view mirror wire harness": 8
+    },
+    "buyers": {
+        "FAW-Volkswagen": 1,
+        "SAIC GM": 1,
+        "SAIC Passenger Vehicle": 1,
+        "SAIC Volkswagen": 2,
+        "Shanghai GM": 3
+    },
+    "Country": "China",
+    "Address": "No.288, Rongtian Road, Zhangjin Industry Zone, Ganxiang, Lvxiang Town, Jinshan, Shanghai 201518, China",
+    "TEL": "+86-21-57208530",
+    "Year established": "Mar. 2004",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

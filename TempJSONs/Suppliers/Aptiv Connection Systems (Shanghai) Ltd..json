@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 3
+    },
+    "specific_parts_sold": {
+        "High-voltage wiring harness": 1,
+        "Low-voltage wiring harness": 1,
+        "Airbag wiring harness": 1
+    },
+    "buyers": {
+        "Polestar": 3
+    },
+    "Country": "China",
+    "Address": "No.200, Yuanguo Road, Anting Town, Jiading District, Shanghai, China",
+    "TEL": "+86-21-39893230",
+    "Year established": "Jan. 2012",
+    "URL": "https://www.aptiv.com/",
+    "Remarks": "-Shareholder(s): Aptiv Connection Systems Holding Hong Kong Limited"
+}

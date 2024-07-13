@@ -1,0 +1,30 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 61
+    },
+    "specific_parts_sold": {
+        "Combination switch wiring harness": 5,
+        "Engine wiring harness": 5,
+        "Cluster wiring harness": 5,
+        "Door wiring harness": 5,
+        "Starter wiring harness": 5,
+        "ABS wiring harness": 5,
+        "Door lock wiring harness": 5,
+        "Body wiring harness": 5,
+        "Air conditioner wiring harness": 5,
+        "Reverse radar wiring harness": 5,
+        "Evaporator box wiring harness": 5,
+        "Airbag wiring harness": 5,
+        "Fuel injection nozzle wiring harness": 1
+    },
+    "buyers": {
+        "FAW Car": 12,
+        "FAW-Volkswagen": 49
+    },
+    "Country": "China",
+    "Address": "No.168, Bohai Street, Industrial Park, Baicheng, Jilin, China",
+    "TEL": "+86-436-3248368",
+    "Year established": "Jun. 2007",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)"
+}

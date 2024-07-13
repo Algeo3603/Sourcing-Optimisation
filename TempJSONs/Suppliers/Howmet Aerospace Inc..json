@@ -1,0 +1,21 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 4
+    },
+    "specific_parts_sold": {
+        "Wiring harness": 4
+    },
+    "buyers": {
+        "Audi": 1,
+        "GM": 1,
+        "Jaguar Land Rover": 2
+    },
+    "Year Established": "016",
+    "Number of Employees": "1,400 employees (As of Dec. 31, 2022)",
+    "Sales Turnover": "USD 5,663 million (FY ended Dec. 31, 2022)",
+    "Representative": "John C. Plant (Executive Chairman and Chief Executive Officer)",
+    "URL": "https://www.howmet.com/",
+    "Address": "201 Isabella Street, Suite 200, Pittsburgh, PA  15212-5872, USA",
+    "Country": "United States of America"
+}

@@ -1,0 +1,17 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 8
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 2,
+        "High-voltage wiring harness system": 1,
+        "Seat Wiring Harness": 4,
+        "USB wire": 1
+    },
+    "suppliers": {
+        "Wuhan Zhengao Automotive Electrical System Co., Ltd. (Formerly Wuhan Zhengao Leoni Automotive Wiring Harness Co., Ltd.)": 3,
+        "Aptiv Electric Systems Co., Ltd. Wuhan Branch": 4,
+        "Aptiv (China) Investment Co., Ltd.": 1
+    }
+}

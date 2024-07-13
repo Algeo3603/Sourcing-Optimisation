@@ -1,0 +1,32 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 338
+    },
+    "specific_parts_sold": {
+        "Floor wiring harness": 47,
+        "Front door wiring harness": 47,
+        "Instrument panel wiring harness": 47,
+        "Meter wiring harness": 47,
+        "Rear door wiring harness": 47,
+        "Roof wiring harness": 47,
+        "Trunk wiring harness": 47,
+        "High-voltage wiring harness": 3,
+        "Low-voltage wiring harness": 1,
+        "Wire harness connector": 1,
+        "Body wiring harness": 1,
+        "High-voltage wiring harness(2.0T)(6AT)": 1,
+        "High-voltage wiring harness(1.5T)": 2
+    },
+    "buyers": {
+        "BYD": 338
+    },
+    "Country": "China",
+    "Address": "BYD Auto Base, Shatang Community, Maluan Street, Pingshan District, Shenzhen City, Guangdong Province, China",
+    "TEL": "+86-755-89888888",
+    "Year established": "Dec. 2019",
+    "URL": "https://www.bydglobal.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): BYD Co., Ltd.-Wire harness factories: Shenzhen, Xi'an, Changsha, Shangluo, Guilin, Guang'an, Anyang, Fuzhou, Fuyang, Huizhou-Wire harness R&D Center: Shenzhen, Xi'an, Hefei"
+}

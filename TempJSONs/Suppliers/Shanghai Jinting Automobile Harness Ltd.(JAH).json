@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 16
+    },
+    "specific_parts_sold": {
+        "Wire harness": 15,
+        "Main wiring harness": 1
+    },
+    "buyers": {
+        "SAIC GM": 1,
+        "Shanghai GM": 12,
+        "Shanghai Volkswagen": 3
+    },
+    "Country": "China",
+    "Address": "No.168, Shan Lian Rd., City Industrial Park, Baoshan, Shanghai 200436, China",
+    "TEL": "+86-21-36160606",
+    "Year established": "Mar., 1997",
+    "URL": "http://www.sjahl.com.cn/",
+    "Quality certification": "VDA6.1IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Shanghai Dong Chang Investment Development Ltd. 50%, GP Industries 50%"
+}

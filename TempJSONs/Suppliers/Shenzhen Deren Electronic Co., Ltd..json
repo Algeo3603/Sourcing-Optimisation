@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 9
+    },
+    "specific_parts_sold": {
+        "Low voltage wiring harness for battery pack": 4,
+        "High-voltage wiring harness": 4,
+        "Wire harness": 1
+    },
+    "buyers": {
+        "FAW-Volkswagen": 8,
+        "Tesla China": 1
+    },
+    "Country": "China",
+    "Address": "DEREN Electronics Industrial Park, No. 269, Huitong Road, Fenghuang Street, Guangming District, Shenzhen City, Guangdong Province, China",
+    "TEL": "+86-755-33260000",
+    "Year established": "Apr. 1992",
+    "URL": "http://www.deren.com.cn/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

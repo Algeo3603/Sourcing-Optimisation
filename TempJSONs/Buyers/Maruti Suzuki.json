@@ -1,0 +1,24 @@
+{
+    "region": "ASEAN・India・Korea",
+    "parts-bought": {
+        "Wiring Harness": 44
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 19,
+        "Body wiring harness": 6,
+        "Door wiring harness": 6,
+        "Engine room wiring harness": 4,
+        "Battery wiring harness": 4,
+        "Wire harness": 2,
+        "Main wiring harness": 3
+    },
+    "suppliers": {
+        "Furukawa Minda Electric Private Limited (FME)": 5,
+        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 18,
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 9,
+        "Sumitomo Wiring Systems, Ltd.": 8,
+        "UNO Minda Ltd. (Formerly Minda Industries Ltd.)": 1,
+        "ASTI Electronics India Pvt. Ltd.": 2,
+        "Motherson Sumi Electric Wires": 1
+    }
+}

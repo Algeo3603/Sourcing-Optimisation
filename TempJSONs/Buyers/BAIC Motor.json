@@ -1,0 +1,14 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 4
+    },
+    "specific-parts-bought": {
+        "Wiring harness(1.8T)(5AMT)": 1,
+        "High voltage wiring harness": 1,
+        "Lithium-ion battery wiring harness": 2
+    },
+    "suppliers": {
+        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 4
+    }
+}

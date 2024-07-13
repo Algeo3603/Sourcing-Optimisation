@@ -1,0 +1,14 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 2
+    },
+    "specific-parts-bought": {
+        "Wiring protection system": 1,
+        "Electrical distribution system": 1
+    },
+    "suppliers": {
+        "Delfingen Industry S.A.": 1,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1
+    }
+}

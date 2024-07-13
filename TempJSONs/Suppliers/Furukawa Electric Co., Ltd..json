@@ -1,0 +1,53 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 367
+    },
+    "specific_parts_sold": {
+        "Front door wiring harness": 62,
+        "Engine wiring harness": 23,
+        "Front wiring harness": 33,
+        "Instrument panel wiring harness": 19,
+        "Engine wiring harness(KF - Turbo)": 1,
+        "Rear bumper wiring harness": 8,
+        "Floor wiring harness": 33,
+        "Rear door wiring harness": 23,
+        "Engine room wiring harness": 15,
+        "Clearance sonar wiring harness": 24,
+        "Back door wiring harness": 20,
+        "Back-up lamp wiring harness": 2,
+        "Roof wiring harness": 5,
+        "Sensor wiring harness": 5,
+        "High-voltage wiring harness": 1,
+        "Wiring harness": 21,
+        "Battery wiring harness": 4,
+        "Airbag wiring harness": 6,
+        "Rear bumper parking assist wiring harness": 2,
+        "Fog lamp wiring harness": 2,
+        "Power sliding door wiring harness": 1,
+        "Body wiring harness": 24,
+        "Door wiring harness": 29,
+        "Rear wiring harness": 2,
+        "Lithium-ion baattery cable": 1,
+        "Fuel tank sensor harness": 1
+    },
+    "buyers": {
+        "Daihatsu": 60,
+        "Honda": 67,
+        "Mazda": 34,
+        "Mitsubishi": 11,
+        "Subaru": 26,
+        "Suzuki": 77,
+        "Toyota": 60,
+        "Isuzu": 2,
+        "Nissan": 30
+    },
+    "Year Established": "Jun. 25, 1896",
+    "Number of Employees": "1,314 employees (As of Mar. 31, 2023)",
+    "Sales Turnover": "JPY 1,056,528 million (FY ended Mar. 31, 2024)",
+    "Representative": "Hideya Moridaira (President)",
+    "Capital": "JPY 69,395 million (As of Mar. 31, 2023)",
+    "URL": "https://www.furukawa.co.jp/en/",
+    "Address": "Tokiwabashi Tower, 2-6-4 Otemachi, Chiyoda-ku, Tokyo-to 100-8322, Japan",
+    "Country": "Japan"
+}

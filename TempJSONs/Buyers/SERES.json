@@ -1,0 +1,13 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 12
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 6,
+        "Low-voltage wiring harness": 6
+    },
+    "suppliers": {
+        "Kunshan Huguang Auto Harness Co., Ltd.": 12
+    }
+}

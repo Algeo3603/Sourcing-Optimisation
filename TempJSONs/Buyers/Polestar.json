@@ -1,0 +1,18 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 6
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 2,
+        "Low-voltage wiring harness": 1,
+        "Airbag wiring harness": 1,
+        "High-voltage wiring harness system": 1,
+        "Low-voltage wiring harness system": 1
+    },
+    "suppliers": {
+        "Lear Automotive Systems (Yangzhou) Co., Ltd.": 1,
+        "Aptiv Connection Systems (Shanghai) Ltd.": 3,
+        "Aptiv Electric Systems Co., Ltd.": 2
+    }
+}

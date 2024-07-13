@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 6
+    },
+    "specific_parts_sold": {
+        "Wire harness": 5,
+        "Main wiring harness": 1
+    },
+    "buyers": {
+        "SAIC GM": 1,
+        "Shanghai GM": 5
+    },
+    "Country": "China",
+    "Address": "No.980, Yongda Rd., Fushan Zone, Yantai city, Shandong 265500, China",
+    "TEL": "+86-535-6363300",
+    "Year established": "Aug. 2005",
+    "Beginning of operation": "Apr. 2006",
+    "URL": "https://www.aptiv.com/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Aptiv Safety & Mobility Services Singapore Pte. Ltd., Shanghai Sanlian Automobile Wiring Harness Co., Ltd."
+}

@@ -1,0 +1,22 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 17
+    },
+    "specific_parts_sold": {
+        "ABS wiring harness": 4,
+        "Trailer hitch wiring harness": 13
+    },
+    "buyers": {
+        "Hyundai": 4,
+        "Kia": 13
+    },
+    "Year Established": "Jul. 1, 1977",
+    "Number of Employees": "Non-consolidated: 12,101 employees (as of Dec. 31, 2023)",
+    "Sales Turnover": "Consolidated: KRW 59,254 billion (FY ended Dec. 31, 2023)",
+    "Representative": "Gyusuk Lee (CEO)",
+    "Capital": "KRW 491,096 million (FY ended Dec. 31, 2023)",
+    "URL": "https://www.mobis.co.kr/en/index.do",
+    "Address": "203 Teheran Road (Yeoksam-dong), Gangnam-gu, Seoul, Korea",
+    "Country": "South Korea"
+}

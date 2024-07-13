@@ -1,0 +1,31 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 44
+    },
+    "specific_parts_sold": {
+        "Front wiring harness": 3,
+        "Floor wiring harness": 2,
+        "Rear door wiring harness": 2,
+        "Engine room wiring harness": 2,
+        "Front door wiring harness": 2,
+        "Seat wiring harness": 1,
+        "Corrosion-proof terminal for aluminum wire": 1,
+        "Wiring harness": 31
+    },
+    "buyers": {
+        "Honda": 11,
+        "Toyota": 17,
+        "Daihatsu": 4,
+        "Mazda": 2,
+        "Subaru": 5,
+        "Suzuki": 5
+    },
+    "Country": "Japan",
+    "Address": "1000, Amago, Kora-cho, Inukami-gun, Shiga-ken, 522-0242, Japan",
+    "TEL": "+81-749-38-4150",
+    "URL": "https://www.furukawaas.co.jp/english/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Furukawa Electric Co., Ltd. 100%"
+}

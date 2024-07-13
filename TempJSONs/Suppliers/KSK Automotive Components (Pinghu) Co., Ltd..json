@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 4
+    },
+    "specific_parts_sold": {
+        "ABS wiring harness(1.4T)(5MT)": 1,
+        "ABS wiring harness(1.4T)(7DCT)": 1,
+        "ABS wiring harness(1.8T)(6AMT)": 1,
+        "ABS wiring harness(1.8T)(6MT)": 1
+    },
+    "buyers": {
+        "SAIC Volkswagen": 4
+    },
+    "Country": "China",
+    "Address": "No.559, Changsheng Road, Pinghu Economic and Technological Development Zone, Pinghu, Zhejiang, China",
+    "TEL": "+86-573-85624623",
+    "Year established": "Jul. 2012",
+    "URL": "http://www.keboda.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Shareholder: Kromberg&Schubert Eastern Asia AG(Germany), Keboda Technology Corp."
+}

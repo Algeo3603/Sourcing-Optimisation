@@ -1,0 +1,44 @@
+{
+    "region": "Japan",
+    "parts-bought": {
+        "Wiring Harness": 274
+    },
+    "specific-parts-bought": {
+        "Engine wiring harness": 20,
+        "Front wiring harness": 18,
+        "Clearance sonar wiring harness": 4,
+        "Floor wiring harness": 16,
+        "Engine room wiring harness": 31,
+        "Rear door wiring harness": 23,
+        "Back door wiring harness": 9,
+        "Front door wiring harness": 24,
+        "Instrument panel wiring harness": 6,
+        "Body wiring harness": 32,
+        "Rear bumper wiring harness": 2,
+        "Battery wiring harness": 5,
+        "Fog lamp wiring harness": 2,
+        "Roof wiring harness": 3,
+        "Sensor wiring harness": 4,
+        "Airbag wiring harness": 3,
+        "Power sliding door wiring harness": 3,
+        "Door wiring harness": 29,
+        "Wire harness": 1,
+        "Wiring harness": 35,
+        "Main wiring harness": 1,
+        "Wiring harness (through Sumitomo Electric Industries)": 3
+    },
+    "suppliers": {
+        "Sumitomo Electric Industries, Ltd.": 73,
+        "Furukawa Electric Co., Ltd.": 77,
+        "ASTI Corporation": 13,
+        "Yazaki Corporation": 72,
+        "Sumitomo Electric Wiring Systems (Thailand) Ltd.": 2,
+        "PT. Furukawa Automotive Systems Indonesia": 4,
+        "Sumitomo Wiring Systems, Ltd.": 11,
+        "Thai Summit Harness Public Company Limited": 6,
+        "Furukawa Automotive Systems (Thailand) Co., Ltd. (FAST)": 1,
+        "PT. Sumi Indo Wiring Systems": 1,
+        "Furukawa Automotive Systems Inc.": 5,
+        "SWS Nishinihon, Ltd.": 9
+    }
+}

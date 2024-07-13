@@ -1,0 +1,18 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 1
+    },
+    "specific_parts_sold": {
+        "Wiring harness": 1
+    },
+    "buyers": {
+        "GM": 1
+    },
+    "Year Established": "999",
+    "Number of Employees": "1,000 employees (As of Dec. 31, 2022)",
+    "Representative": "Jim Voss (CEO)",
+    "URL": "https://www.tenneco.com/",
+    "Address": "15701 Technology Drive, Northville, MI, 48168, USA",
+    "Country": "United States of America"
+}

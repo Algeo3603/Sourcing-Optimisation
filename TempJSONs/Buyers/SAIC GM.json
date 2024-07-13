@@ -1,0 +1,38 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 43
+    },
+    "specific-parts-bought": {
+        "Trunk wiring harness(2.0T)(9AMT)": 2,
+        "Cluster wiring harness(2.0T)(9AMT)": 2,
+        "Engine room wiring harness(2.0T)(9AMT)": 2,
+        "Body wiring harness(2.0T)(9AMT)": 2,
+        "Door wiring harness(2.0T)(9AMT)": 2,
+        "Trunk wiring harness(1.5T)(9AT)": 2,
+        "Trunk wiring harness(2.0T)(9AT)": 3,
+        "Engine room wiring harness(1.5T)(9AT)": 2,
+        "Engine room wiring harness(2.0T)(9AT)": 3,
+        "Body wiring harness(1.5T)(9AT)": 2,
+        "Body wiring harness(2.0T)(9AT)": 3,
+        "Door wiring harness(1.5T)(9AT)": 2,
+        "Door wiring harness(2.0T)(9AT)": 3,
+        "Cluster wiring harness(1.5T)(9AT)": 2,
+        "Cluster wiring harness(2.0T)(9AT)": 3,
+        "High voltage wiring harness(1.5L)(ECVT)": 1,
+        "Rear view mirror wire harness": 1,
+        "Wiring harness": 2,
+        "Oil pump harness": 1,
+        "Wire harness": 3
+    },
+    "suppliers": {
+        "Kunshan Huguang Auto Harness Co., Ltd.": 35,
+        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 1,
+        "Shanghai Bolson Automotive Parts Co., Ltd.": 1,
+        "Leoni Electrical Systems (Jining) Co., Ltd.": 2,
+        "Shanghai Yihang Auto Parts Co., Ltd.": 1,
+        "Shanghai Dai-Ichi Electronic Co., Ltd.": 1,
+        "Shanghai Jinting Automobile Harness Ltd.(JAH)": 1,
+        "Aptiv Electric Systems Co., Ltd. Yantai Branch": 1
+    }
+}

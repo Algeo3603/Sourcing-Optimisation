@@ -1,0 +1,31 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 20
+    },
+    "specific_parts_sold": {
+        "Main wire harness": 2,
+        "Audio navigation wire harness": 1,
+        "Door wire harness": 2,
+        "Transmission wire harness": 2,
+        "Cluster wire harness": 2,
+        "Reverse radar wire harness": 1,
+        "Main wiring harness": 2,
+        "Navigation wiring harness": 1,
+        "Door wiring harness": 2,
+        "Transmission wiring harness": 2,
+        "Meter wiring harness": 2,
+        "Reverse radar wiring harness": 1
+    },
+    "buyers": {
+        "BMW Brilliance": 20
+    },
+    "Country": "China",
+    "Address": "No.6, Wenguan Road, Dadong, Shenyang, Liaoning 110045, China",
+    "TEL": "+86-24-84553908，+86-24-84553888",
+    "Year established": "Aug. 2003",
+    "URL": "https://cn.draexlmaier.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Dräxlmaier Group"
+}

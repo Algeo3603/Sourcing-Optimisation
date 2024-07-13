@@ -1,0 +1,32 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 26
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 8,
+        "Chassis wiring harness assembly": 1,
+        "Instrument panel wiring harness assembly": 1,
+        "Sliding door wiring harness assembly": 1,
+        "Left front door wiring harness assembly": 1,
+        "Right front door wiring harness assembly": 1,
+        "Roof wiring harness assembly": 1,
+        "Back door wiring harness assembly": 1,
+        "Rear air conditioner wiring harness assembly": 1,
+        "Engine wiring harness assembly": 1,
+        "Engine wiring harness": 1,
+        "Instrument panel wiring harness": 1,
+        "Body wiring harness": 1,
+        "Door harness": 1,
+        "Front wiring harness": 1,
+        "Rear wiring harness": 1,
+        "ABS wiring harness": 1,
+        "Airbag wiring harness": 1,
+        "Battery harness": 1
+    },
+    "suppliers": {
+        "Wuhu Ruichang Electric Systems Co., Ltd.": 3,
+        "Kunshan Huguang Auto Harness Co., Ltd.": 14,
+        "Chongqing Qinchuan Industry (Group) Co., Ltd.": 9
+    }
+}

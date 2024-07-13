@@ -1,0 +1,30 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 26
+    },
+    "specific_parts_sold": {
+        "High-voltage wiring harness": 5,
+        "High voltage wiring harness": 1,
+        "ABS wiring harness(1.4T)(7DCT)": 2,
+        "ABS wiring harness(1.6L)(5MT)": 1,
+        "ABS wiring harness(1.6L)(6AMT)": 1,
+        "ABS wiring harness(1.4T)(5MT)": 1,
+        "ABS wiring harness(1.2T)(7DCT)": 1,
+        "Motor wiring harness": 3,
+        "Starter wiring harness": 3,
+        "ABS wiring harness": 7,
+        "Wiring harness": 1
+    },
+    "buyers": {
+        "BMW Brilliance": 2,
+        "FAW-Volkswagen": 18,
+        "Beijing Benz": 6
+    },
+    "Country": "China",
+    "Address": "Area 34-10, Jiangmen High-tech Zone, Guangdong, China",
+    "TEL": "+86-750-3990014",
+    "Year established": "Nov. 2012",
+    "URL": "http://www.deren.com.cn/",
+    "Remarks": "-Shareholder：Shenzhen Deren Electronic Co., Ltd., Kromberg & Schubert Eastern Asia AG"
+}

@@ -1,0 +1,30 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 346
+    },
+    "specific-parts-bought": {
+        "Floor wiring harness": 47,
+        "Front door wiring harness": 47,
+        "Instrument panel wiring harness": 48,
+        "Meter wiring harness": 47,
+        "Rear door wiring harness": 47,
+        "Roof wiring harness": 47,
+        "Trunk wiring harness": 47,
+        "High-voltage wiring harness": 3,
+        "Low-voltage wiring harness": 1,
+        "Wire harness connector": 1,
+        "Body wiring harness": 2,
+        "Door wiring harness": 1,
+        "Engine wiring harness": 1,
+        "High-voltage wiring harness(2.0T)(6AT)": 1,
+        "High-voltage wiring harness(1.5T)": 2,
+        "Wiring harness protector(1.5T)(E-CVT)": 2,
+        "Wiring harness protector": 2
+    },
+    "suppliers": {
+        "FinDreams Technology Co., Ltd.": 338,
+        "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.)": 4,
+        "Wenzhou Shenji Electronic Technology Co., Ltd.": 4
+    }
+}

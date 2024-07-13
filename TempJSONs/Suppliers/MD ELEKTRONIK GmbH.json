@@ -1,0 +1,27 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 22
+    },
+    "specific_parts_sold": {
+        "Mirror wiring harness": 2,
+        "Antenna wiring harness": 5,
+        "Data cable": 7,
+        "Fiber optic cable": 3,
+        "Sensor wiring harness": 4,
+        "Wiring harness": 1
+    },
+    "buyers": {
+        "Alfa Romeo": 2,
+        "Audi": 10,
+        "Tesla": 2,
+        "Volkswagen": 8
+    },
+    "Country": "Germany",
+    "Address": "Neutraublinger Strasse 4, 84478 Waldkraiburg, Germany",
+    "TEL": "+49-8638-604-0",
+    "Year established": "1974",
+    "URL": "https://www.md-elektronik.com/en/",
+    "Quality certification": "ISO9001",
+    "Environmental certification": "ISO14001"
+}

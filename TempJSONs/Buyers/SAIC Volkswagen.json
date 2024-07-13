@@ -1,0 +1,44 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 80
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 4,
+        "Trunk wiring harness(1.4T)(7DCT)": 1,
+        "Engine room wiring harness(1.4T)(7DCT)": 1,
+        "Body wiring harness(1.4T)(7DCT)": 1,
+        "Door wiring harness(1.4T)(7DCT)": 1,
+        "Cluster wiring harness(1.4T)(7DCT)": 1,
+        "Wiring harness": 8,
+        "Trunk wiring harness(2.0T)(7DCT)": 2,
+        "Engine room wiring harness(2.0T)(7DCT)": 2,
+        "Body wiring harness(2.0T)(7DCT)": 2,
+        "Door wiring harness(2.0T)(7DCT)": 2,
+        "Cluster wiring harness(2.0T)(7DCT)": 2,
+        "Trunk wiring harness(2.5T)(7DCT)": 1,
+        "Engine room wiring harness(2.5T)(7DCT)": 1,
+        "Body wiring harness(2.5T)(7DCT)": 1,
+        "Door wiring harness(2.5T)(7DCT)": 1,
+        "Cluster wiring harness(2.5T)(7DCT)": 1,
+        "ABS wiring harness(1.4T)(5MT)": 1,
+        "ABS wiring harness(1.4T)(7DCT)": 1,
+        "ABS wiring harness(1.8T)(6AMT)": 1,
+        "ABS wiring harness(1.8T)(6MT)": 1,
+        "Door wiring harness": 16,
+        "Front wiring harness": 10,
+        "Engine wiring harness": 8,
+        "Instrument panel wiring harness": 4,
+        "Body wiring harness": 4,
+        "Rear view mirror wire harness": 2
+    },
+    "suppliers": {
+        "Kunshan Huguang Auto Harness Co., Ltd.": 32,
+        "KSK Automotive Components (Pinghu) Co., Ltd.": 4,
+        "Jining Lear Automotive Parts Co., Ltd. (Formerly Shanghai Lear Automotive Parts Co., Ltd.)": 19,
+        "Changsha Bordnetze Electrical Systems Ltd.": 10,
+        "Suzhou Bordnetze Electrical Systems Ltd.": 10,
+        "Shanghai Bolson Automotive Parts Co., Ltd.": 2,
+        "Changchun Lear FAWSN Automotive Electrical Co., Ltd.": 3
+    }
+}

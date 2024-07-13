@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "Wiring harness": 1,
+        "Trunk wiring harness": 1
+    },
+    "buyers": {
+        "Nissan": 2
+    },
+    "Country": "Mexico",
+    "Address": "Carretera Salamanca - Celaya Km.86 + 100 Rancho Valtierrilla, Guanajuato, C.P. 36881 Mexico",
+    "TEL": "+52-464-647-8900",
+    "URL": "https://www.fujikura.co.jp/",
+    "Remarks": "-Shareholder: America Fujikura Ltd."
+}

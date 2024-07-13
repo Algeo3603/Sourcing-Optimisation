@@ -1,0 +1,16 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 5
+    },
+    "specific-parts-bought": {
+        "High voltage wiring harness": 1,
+        "Electrical distribution system": 2,
+        "Wiring sytem": 2
+    },
+    "suppliers": {
+        "Sumitomo Wiring Systems, Ltd.": 1,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
+        "Leoni AG": 2
+    }
+}

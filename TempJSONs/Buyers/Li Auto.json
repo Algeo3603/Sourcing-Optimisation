@@ -1,0 +1,16 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 4
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 2,
+        "Wiring harness": 1,
+        "Low voltage wiring harness for battery pack(1.5T)": 1
+    },
+    "suppliers": {
+        "Kunshan Huguang Auto Harness Co., Ltd.": 2,
+        "GG Cables and Wires (Shenyang) Co., Ltd.": 1,
+        "Wuhu Bokang Electrical Co., Ltd.": 1
+    }
+}

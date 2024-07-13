@@ -1,0 +1,29 @@
+{
+    "region": "ASEAN・India・Korea",
+    "parts-bought": {
+        "Wiring Harness": 39
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 7,
+        "Trailer hitch wiring harness": 13,
+        "Airbag wiring harness(1.6T)(8AT)": 1,
+        "Wiring harness": 9,
+        "Side airbag wiring harness": 2,
+        "Wire harness assembly": 5,
+        "Wire harness": 1,
+        "Wiring protection system": 1
+    },
+    "suppliers": {
+        "Kyungshin Corporation": 3,
+        "YURA Corporation": 4,
+        "Hyundai Mobis Co., Ltd.": 13,
+        "MOBIS Alabama, LLC.": 1,
+        "Kyungshin Industrial Motherson Private Ltd.": 4,
+        "Adient plc (Formerly Automotive seating business division of Johnson Controls Inc.)": 2,
+        "JSN Corporation": 4,
+        "SJG Asentec Co., Ltd. (Formerly Asentec Co., Ltd.)": 5,
+        "Dae Young Industry Electric Co., Ltd.": 1,
+        "Samvardhana Motherson Group": 1,
+        "Delfingen Industry S.A.": 1
+    }
+}

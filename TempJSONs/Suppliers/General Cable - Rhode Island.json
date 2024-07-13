@@ -1,0 +1,16 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 4
+    },
+    "specific_parts_sold": {
+        "Transmission wiring harness": 4
+    },
+    "buyers": {
+        "Chrysler": 4
+    },
+    "Country": "USA",
+    "Address": "Three Carol Drive, Lincoln, RI 02865 USA",
+    "TEL": "+1-401-333-4848",
+    "URL": "https://www.generalcable.com/"
+}

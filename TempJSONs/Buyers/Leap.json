@@ -1,0 +1,19 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 60
+    },
+    "specific-parts-bought": {
+        "Low-voltage wiring harness": 1,
+        "Floor wiring harness": 11,
+        "Instrument panel wiring harness": 11,
+        "Front door wiring harness": 11,
+        "Rear door wiring harness": 11,
+        "Back door wiring harness": 4,
+        "Main wiring harness": 11
+    },
+    "suppliers": {
+        "Luxshare Precision Industry Co., Ltd.": 1,
+        "Zhejiang ASTI Electric Co., Ltd.": 59
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 16
+    },
+    "specific_parts_sold": {
+        "Wiring harness": 15,
+        "Main wiring harness": 1
+    },
+    "buyers": {
+        "Kia": 4,
+        "Hyundai": 12
+    },
+    "Country": "India",
+    "Address": "Survey No.39-42, 143 Athanancherry Village, Padappai Main Road, Sriperumbudur Taluk, Kanchipuram District 601301, India",
+    "URL": "https://www.motherson.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Kyungshin Corporation (Korea) 50%, Motherson Group: 50%"
+}

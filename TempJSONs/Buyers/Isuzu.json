@@ -1,0 +1,35 @@
+{
+    "region": "ASEAN・India・Korea",
+    "parts-bought": {
+        "Wiring Harness": 36
+    },
+    "specific-parts-bought": {
+        "Wiring harness protector": 4,
+        "Data cable": 4,
+        "High-voltage wiring harness": 1,
+        "Wiring harness": 2,
+        "Door wiring harness": 8,
+        "Engine wiring harness(4N16)": 1,
+        "Body wiring harness": 7,
+        "Electric parking brake wiring harness": 1,
+        "Engine room wiring harness": 1,
+        "Wire harness": 4,
+        "Harness for electric parking brake": 1,
+        "Wiring harness (via Asian Stanley International)": 1,
+        "Main wiring harness": 1
+    },
+    "suppliers": {
+        "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 4,
+        "TE Connectivity Manufacturing (Thailand) Co., Ltd.": 4,
+        "Furukawa Electric Co., Ltd.": 2,
+        "Sumitomo Electric Wiring Systems (Thailand) Ltd.": 1,
+        "Yazaki Corporation": 10,
+        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))": 2,
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 2,
+        "Proterial (Thailand) Ltd. (Formerly Hitachi Metals (Thailand) Ltd.)": 2,
+        "Sumitomo Wiring Systems, Ltd.": 2,
+        "Furukawa Automotive Systems (Thailand) Co., Ltd. (FAST)": 5,
+        "Nissei Mizuki Co., Ltd.": 1,
+        "Thai Arrow Products Co., Ltd.": 1
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 53
+    },
+    "specific-parts-bought": {
+        "Wiring harness(2.0T)(8AT)": 7,
+        "Wiring harness(1.5T)(3AT)": 1,
+        "Wiring harness(1.5T)(7DCT)": 4,
+        "Wiring harness(2.0T)(7DCT)": 3,
+        "Wiring harness(1.8T)(7DCT)": 1,
+        "Wiring harness(1.8T)(6MT)": 1,
+        "Battery wiring harness": 12,
+        "Traction motor wiring harness": 3,
+        "Lithium-ion battery wiring harness": 1,
+        "Instrument panel wiring harness": 2,
+        "Seat adjuster wire": 2,
+        "Wire harness": 3,
+        "Side airbag wire harness": 2,
+        "Seat wire harness": 2,
+        "High voltage wire": 1,
+        "Engine wiring harness": 3,
+        "Connecting wire harness": 1,
+        "Engine compartment wiring harness": 2,
+        "A/C wire harness": 2
+    },
+    "suppliers": {
+        "Jining Lear Automotive Parts Co., Ltd. (Formerly Shanghai Lear Automotive Parts Co., Ltd.)": 4,
+        "Lear Automotive Systems (Yangzhou) Co., Ltd.": 13,
+        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 16,
+        "Aptiv (China) Investment Co., Ltd.": 8,
+        "Lear Corporation": 2,
+        "Shanghai Dai-Ichi Electronic Co., Ltd.": 3,
+        "TACHI-S Co., Ltd.": 4,
+        "Tianjin Sanden Automotive Air Conditioning Co., Ltd.": 1,
+        "Shanghai Velle Auto Air-conditioning Co., Ltd.": 2
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 15
+    },
+    "specific-parts-bought": {
+        "Wiring harness protector": 2,
+        "Wiring harness": 8,
+        "Electrical distribution system": 2,
+        "Power steering harness": 1,
+        "HVAC block harness": 1,
+        "Injector harness": 1
+    },
+    "suppliers": {
+        "Delfingen Industry S.A.": 3,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 4,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
+        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 2,
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 1,
+        "Leoni AG": 1,
+        "Gebauer & Griller Kabelwerke GmbH": 1,
+        "MAHLE Behr GmbH & Co. KG": 1
+    }
+}

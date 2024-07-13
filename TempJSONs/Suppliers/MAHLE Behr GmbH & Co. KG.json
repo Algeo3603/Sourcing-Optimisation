@@ -1,0 +1,17 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "HVAC block harness": 2
+    },
+    "buyers": {
+        "Audi": 1,
+        "Skoda": 1
+    },
+    "Year Established": "905",
+    "URL": "https://www.mahle.com/",
+    "Address": "Mauserstr. 3, 70469 Stuttgart, Germany",
+    "Country": "Germany"
+}

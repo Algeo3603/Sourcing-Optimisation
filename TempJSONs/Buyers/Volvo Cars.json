@@ -1,0 +1,28 @@
+{
+    "region": "Americas",
+    "parts-bought": {
+        "Wiring Harness": 22
+    },
+    "specific-parts-bought": {
+        "Low-voltage wiring harness": 3,
+        "Wiring harness": 4,
+        "Wiring harness protector": 1,
+        "Audio wiring harness": 1,
+        "Electrical distribution system": 1,
+        "Air suspension harness": 2,
+        "Chassis wiring harness": 2,
+        "Floor wiring harness": 2,
+        "Door wiring harness": 2,
+        "Roof wiring harness": 2,
+        "Shock absorber wiring harness": 2
+    },
+    "suppliers": {
+        "Lear Corporation": 6,
+        "Aptiv PLC - Leskovac": 1,
+        "Delfingen Industry S.A.": 1,
+        "Analog Devices, Inc.": 1,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)": 2,
+        "Leoni AG": 10
+    }
+}

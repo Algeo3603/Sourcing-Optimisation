@@ -1,0 +1,23 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 17
+    },
+    "specific-parts-bought": {
+        "Low-voltage wiring harness": 2,
+        "High-voltage wiring harness": 6,
+        "Low-voltage wiring harness system": 1,
+        "Lithium-ion battery wiring harness": 1,
+        "Traction motor wiring harness": 1,
+        "Lamp wiring harness": 4,
+        "Wire harness": 2
+    },
+    "suppliers": {
+        "MIND Electronics Appliance Co., Ltd.": 2,
+        "TE Connectivity (Qingdao) Co., Ltd.": 6,
+        "MIND Electronics Appliance Co., Ltd. Baoding Xushui Electrical System Branch Co.": 1,
+        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 2,
+        "Great Wall - Xushui Branch": 4,
+        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 2
+    }
+}

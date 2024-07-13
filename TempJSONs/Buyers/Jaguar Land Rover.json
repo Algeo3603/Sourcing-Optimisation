@@ -1,0 +1,25 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 24
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 15,
+        "Low-voltage wiring harness": 1,
+        "Electrical distribution system": 3,
+        "Wire harness": 1,
+        "High voltage wire": 1,
+        "Wiring protection system": 1,
+        "Engine wiring harness": 2
+    },
+    "suppliers": {
+        "Leoni AG": 7,
+        "Lear Corporation": 4,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2,
+        "Delfingen de Marktrodach GmbH & Co. KG": 1,
+        "Delfingen Industry S.A.": 1,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 2,
+        "Yazaki Corporation": 5,
+        "Howmet Aerospace Inc.": 2
+    }
+}

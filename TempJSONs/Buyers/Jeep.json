@@ -1,0 +1,31 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 24
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 12,
+        "Wiring protection system": 1,
+        "Low-voltage wiring harness": 1,
+        "Battery cable": 1,
+        "Wiring harness protector": 1,
+        "Rear view camera wiring harness": 2,
+        "Engine wiring harness": 2,
+        "Body wiring harness": 2,
+        "Wire harness": 2
+    },
+    "suppliers": {
+        "Coficab -Tunisie": 1,
+        "Coficab - Mexico": 1,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
+        "AEC USA Inc.": 1,
+        "Delfingen MX-Coahuila, S. de R.L. de C.V. - Saltillo": 1,
+        "Yazaki North America Inc.": 7,
+        "A. Raymond Brasil Ltda.": 1,
+        "Delphi Automotive Systems do Brasil Ltda.": 3,
+        "Molex Conectores Eletricos e Eletronicos Comercio e Servicos Ltda.": 1,
+        "Tyco Electronics Brasil Ltda.": 1,
+        "Yazaki do Brasil Ltda.": 2,
+        "Yazaki Corporation": 4
+    }
+}

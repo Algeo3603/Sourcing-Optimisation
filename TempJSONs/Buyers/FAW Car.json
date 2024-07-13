@@ -1,0 +1,25 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 13
+    },
+    "specific-parts-bought": {
+        "Combination switch wiring harness": 1,
+        "Engine wiring harness": 1,
+        "Cluster wiring harness": 1,
+        "Door wiring harness": 1,
+        "Starter wiring harness": 1,
+        "ABS wiring harness": 1,
+        "Door lock wiring harness": 1,
+        "Body wiring harness": 1,
+        "Air conditioner wiring harness": 1,
+        "Reverse radar wiring harness": 1,
+        "Evaporator box wiring harness": 1,
+        "Airbag wiring harness": 1,
+        "Wire": 1
+    },
+    "suppliers": {
+        "Baicheng Xinyu Auto Wire Harness Co., Ltd.": 12,
+        "Beijing Force Automotive Wire Co., Ltd.": 1
+    }
+}

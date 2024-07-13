@@ -1,0 +1,33 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 15
+    },
+    "specific_parts_sold": {
+        "Wiring harness(1.5T)(7DCT)": 1,
+        "Wiring harness": 6,
+        "High-voltage wiring harness system": 1,
+        "Low-voltage wiring harness system": 1,
+        "Terminal": 1,
+        "Main wiring harness": 1,
+        "Engine fuel injection wiring harness": 1,
+        "Engine compartment wiring harness": 1,
+        "Alternator wiring harness": 1,
+        "Interior wiring harness": 1
+    },
+    "buyers": {
+        "GAC Motor": 1,
+        "Xpeng": 4,
+        "Polestar": 2,
+        "Shanghai GM": 3,
+        "Shanghai Volkswagen": 5
+    },
+    "Country": "China",
+    "Address": "No.60 Yuanguo Road, Anting, Jiading District, Shanghai 201814, China",
+    "TEL": "+86-21-28967788",
+    "Year established": "Aug. 1995",
+    "URL": "https://www.aptiv.com/en/",
+    "Quality certification": "ISO9001VDA6.1IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders:  Aptiv Safety & Mobility Services Singapore Pte. Ltd., Shanghai Sanlian Automobile Wiring Harness Co., Ltd.-Facilities :Shanghai(Moyu Plant, Connector Plant, A5 Plant, Electrical Center Plant), Shenyang Branch, Tianjin Branch, Baicheng Branch, Changchun Branch, Chengdu Branch, Chongqing Branch, Guangzhou Branch, Jiangmen Branch, Jiaxing Branch, Jingzhou Branch, Wuhan Branch, Wuhu Branch, Yantai Branch"
+}

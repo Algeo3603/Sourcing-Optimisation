@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 13
+    },
+    "specific_parts_sold": {
+        "Front door wiring harness": 5,
+        "Fog lamp wiring harness": 2,
+        "Roof wiring harness": 1,
+        "Wiring harness": 5
+    },
+    "buyers": {
+        "Suzuki": 13
+    },
+    "Country": "Japan",
+    "Address": "2804 Yonezucho, Chuo-ku, Hamamatsu-shi, Shizuoka-ken, 432-8056, Japan",
+    "TEL": "+81-53-444-5111",
+    "Year established": "Mar. 1963",
+    "URL": "https://www.asti.co.jp/e/",
+    "Quality certification": "ISO9001",
+    "Environmental certification": "ISO14001"
+}

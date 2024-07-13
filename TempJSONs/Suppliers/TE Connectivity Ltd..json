@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 12
+    },
+    "specific_parts_sold": {
+        "Wiring harness": 12
+    },
+    "buyers": {
+        "Honda": 8,
+        "GM": 4
+    },
+    "Country": "USA",
+    "Address": "1050 Westlakes Drive Berwyn, PA 19312, USA",
+    "TEL": "+1-610-893-9800",
+    "URL": "http://www.te.com",
+    "Remarks": "-Shareholder: TE Connectivity Ltd.-Regional Headquarters"
+}

@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "ABS wiring harness": 1,
+        "ESP wiring harness": 1
+    },
+    "buyers": {
+        "Daimler": 2
+    },
+    "Country": "Mexico",
+    "Address": "Av. Rio Conchos No. 9700, Parque Industrial Cuauhtemoc, Chihuahua 31530, Mexico",
+    "TEL": "+52-625-590-2000",
+    "URL": "https://www.leoni.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "Shareholders: Leoni AG (Germany)"
+}

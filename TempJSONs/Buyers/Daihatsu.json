@@ -1,0 +1,41 @@
+{
+    "region": "Japan",
+    "parts-bought": {
+        "Wiring Harness": 258
+    },
+    "specific-parts-bought": {
+        "Back door wiring harness": 12,
+        "Front door wiring harness": 17,
+        "Front wiring harness": 12,
+        "Clearance sonar wiring harness": 13,
+        "Engine room wiring harness": 24,
+        "Engine wiring harness": 13,
+        "Rear door wiring harness": 18,
+        "Instrument panel wiring harness": 8,
+        "Engine wiring harness(KF - Turbo)": 1,
+        "Floor wiring harness": 5,
+        "Wiring harness system": 2,
+        "Exterior mirror wiring harness": 1,
+        "Sensor wiring harness": 1,
+        "Airbag wiring harness": 2,
+        "High-voltage wiring harness": 1,
+        "Antenna wiring harness": 1,
+        "Body wiring harness": 43,
+        "Door wiring harness": 45,
+        "Battery wiring harness": 2,
+        "Fog lamp wiring harness": 1,
+        "Wiring harness": 33,
+        "Main wiring harness": 2,
+        "Fuel tank sensor harness": 1
+    },
+    "suppliers": {
+        "Sumitomo Electric Industries, Ltd.": 81,
+        "Furukawa Electric Co., Ltd.": 60,
+        "Yazaki Corporation": 72,
+        "PT. Sumi Indo Wiring Systems": 4,
+        "Fujikura Ltd.": 2,
+        "PT. Furukawa Automotive Systems Indonesia": 2,
+        "Sumitomo Wiring Systems, Ltd.": 33,
+        "Furukawa Automotive Systems Inc.": 4
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "region": "ASEAN・India・Korea",
+    "parts-bought": {
+        "Wiring Harness": 82
+    },
+    "specific-parts-bought": {
+        "Door module wiring harness (via Brose (Thailand))": 9,
+        "Seat wiring harness (via Adient & Summit)": 2,
+        "Door panel wiring harness (via IAC APM Automotive Systems)": 2,
+        "Wiring harness system": 2,
+        "Seat wiring harness (via Lear Automotive (Thailand))": 9,
+        "Door panel wiring harness (via Adient & Summit)": 5,
+        "High voltage wiring harness": 3,
+        "Cockpit wiring harness (via Adient & Summit)": 5,
+        "Wire harness protector": 1,
+        "Low-voltage wiring harness system": 1,
+        "Wire harness": 5,
+        "Door panel wiring harness": 2,
+        "ABS wiring harness": 2,
+        "High-voltage wiring harness": 2,
+        "Battery wiring harness": 1,
+        "Harness for brake pad sensor": 2,
+        "Low-voltage power cable system": 1,
+        "Wiring harness": 11,
+        "Engine wiring harness": 6,
+        "Starter/generator wiring harness": 1,
+        "Wiring harness for adaptive cruise control": 1,
+        "Wiring harness for anti-theft alarm": 1,
+        "Hybrid battery wiring harness": 1,
+        "ESP wiring harness": 1,
+        "Electrical distribution system": 4,
+        "Aluminum battery cable": 1,
+        "Wiring system": 1
+    },
+    "suppliers": {
+        "DTS Dräxlmaier Automotive Systems (Thailand) Co., Ltd. - Samutprakarn Plant": 36,
+        "Leoni AG": 3,
+        "Delfingen Industry S.A.": 1,
+        "Gebauer & Griller Kabelwerke GmbH": 4,
+        "Kromberg & Schubert Automotive GmbH & Co. KG - Renningen": 3,
+        "Yazaki Corporation": 1,
+        "Hirschmann Automotive GmbH": 9,
+        "Kromberg & Schubert Mexico LE S. de R.L. de C.V.": 1,
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 9,
+        "Nexans autoelectric GmbH": 2,
+        "LEONI Cable S.A. de C.V.": 2,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 7,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 4
+    }
+}

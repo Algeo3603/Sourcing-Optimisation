@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "Electrical distribution system": 2
+    },
+    "buyers": {
+        "BMW": 2
+    },
+    "Country": "Italy",
+    "Address": "Viale dell' Industria 12-26845 Codogno (Lodi), Italy",
+    "TEL": "+39-0377-4181",
+    "Year established": "1954",
+    "URL": "https://www.mta.it/"
+}

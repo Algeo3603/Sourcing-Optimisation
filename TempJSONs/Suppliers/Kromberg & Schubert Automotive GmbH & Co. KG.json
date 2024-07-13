@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 1
+    },
+    "specific_parts_sold": {
+        "Starter/generator wiring harness": 1
+    },
+    "buyers": {
+        "Mercedes-Benz": 1
+    },
+    "Country": "Germany",
+    "Address": "Werkstraße 1, 93326 Abensberg, Germany",
+    "TEL": "+49-9443-77-0",
+    "Year established": "1932",
+    "URL": "https://www.kromberg-schubert.com",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Group: Kromberg & Schubert Group"
+}

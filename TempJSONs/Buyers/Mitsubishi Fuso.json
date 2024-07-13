@@ -1,0 +1,14 @@
+{
+    "region": "Japan",
+    "parts-bought": {
+        "Wiring Harness": 10
+    },
+    "specific-parts-bought": {
+        "Body wiring harness": 5,
+        "Door wiring harness": 5
+    },
+    "suppliers": {
+        "Yazaki Corporation": 4,
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 6
+    }
+}

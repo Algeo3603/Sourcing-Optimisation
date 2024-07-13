@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "Seat belt sensor wiring harness": 1,
+        "Airbag wiring harness": 1
+    },
+    "buyers": {
+        "Fiat": 1,
+        "Hyundai": 1
+    },
+    "Country": "Brazil",
+    "Address": "Av. Brasil, 1001 - Distrito Industrial, Mairinque - SP, 18120-000, Brazil",
+    "TEL": "+55-11-4718-9000",
+    "Year established": "1916",
+    "URL": "https://www.prettl.com/"
+}

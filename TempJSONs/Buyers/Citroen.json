@@ -1,0 +1,30 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 33
+    },
+    "specific-parts-bought": {
+        "Engine wiring harness": 4,
+        "Wiring harness": 8,
+        "Wiring system": 7,
+        "Rear bumper wiring harness": 2,
+        "Harness of rear opening": 2,
+        "Front door harness (right & left)": 1,
+        "Rear door harness (right & left)": 1,
+        "Roof harness": 1,
+        "Driver seat harness": 2,
+        "Passenger seat harness": 2,
+        "HVAC block harness": 1,
+        "Instrument panel wiring harness": 1,
+        "Main harness": 1
+    },
+    "suppliers": {
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 6,
+        "Leoni AG": 17,
+        "FORVIA SE (FORVIA faurecia) (Formerly Faurecia SE)": 1,
+        "Lear Corporation": 4,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 2,
+        "Valeo Group": 2
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 26
+    },
+    "specific-parts-bought": {
+        "Low-voltage wiring harness": 1,
+        "Wiring harness": 5,
+        "Left rear door wiring harness assembly": 1,
+        "Right rear door wiring harness assembly": 1,
+        "Battery cable": 1,
+        "Engine wiring harness assembly": 1,
+        "Sunroof wiring harness": 1,
+        "Parking brake switch wiring harness": 1,
+        "Air conditioner sensor wiring harness": 1,
+        "Front wheel sensor wiring harness": 1,
+        "Right rear wheel sensor wiring harness": 1,
+        "Left rear wheel sensor wiring harness": 1,
+        "Roof wiring harness": 1,
+        "Courtesy lamp wiring harness": 1,
+        "Engine control wiring harness": 1,
+        "Left front door wiring harness assembly": 1,
+        "Right front door wiring harness assembly": 1,
+        "Rear bumper parking assist wiring harness": 1,
+        "Back door wiring harness": 1,
+        "Wire": 1,
+        "Wire harness": 2
+    },
+    "suppliers": {
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
+        "Aptiv Electric Systems Co., Ltd. Chongqing Branch": 2,
+        "Wuhan Youde Auto Electric Appliance Co., Ltd.": 3,
+        "Chongqing Qinchuan Industry (Group) Co., Ltd.": 17,
+        "Beijing Force Automotive Wire Co., Ltd.": 1,
+        "Shanghai FL Dai-ichi Automotive Controllers Co., Ltd.": 2
+    }
+}

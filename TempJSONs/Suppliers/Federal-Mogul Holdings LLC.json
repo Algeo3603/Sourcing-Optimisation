@@ -1,0 +1,27 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 6
+    },
+    "specific_parts_sold": {
+        "Wiring protection system": 1,
+        "System protection for instrument panel wire harness": 1,
+        "System protection for engine wire harness": 1,
+        "Taillamp harness": 1,
+        "Wiring harness": 2
+    },
+    "buyers": {
+        "Ford": 1,
+        "Mitsubishi": 2,
+        "GM": 1,
+        "Nissan": 2
+    },
+    "Country": "USA",
+    "Address": "27300 West 11 Mile Rd, Southfield, MI 48034, USA",
+    "TEL": "+1-248-354-7700",
+    "Year established": "1899",
+    "URL": "https://www.tenneco.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)ISO9001",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Tenneco Inc."
+}

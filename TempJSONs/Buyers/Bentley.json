@@ -1,0 +1,18 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 4
+    },
+    "specific-parts-bought": {
+        "Engine wiring harness": 1,
+        "Battery cable assembly": 1,
+        "Kick sensor": 1,
+        "Wiring system": 1
+    },
+    "suppliers": {
+        "Nexans autoelectric GmbH": 1,
+        "Gebauer & Griller Kabelwerke GmbH": 1,
+        "Huf Huelsbeck & Fuerst GmbH & Co. KG": 1,
+        "Leoni AG": 1
+    }
+}

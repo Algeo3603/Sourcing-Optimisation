@@ -1,0 +1,23 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Wiring Harness": 10
+    },
+    "specific_parts_sold": {
+        "USB wire": 1,
+        "Instrument panel wiring harness": 2,
+        "High voltage wire": 1,
+        "Engine wiring harness": 3,
+        "Engine compartment wiring harness": 2,
+        "Signal transmission wire": 1
+    },
+    "buyers": {
+        "Dongfeng Peugeot Citroen": 1,
+        "Geely": 8,
+        "Shanghai GM": 1
+    },
+    "Year Established": "Nov. 1999",
+    "URL": "https://www.aptiv.com/en/",
+    "Address": "Floor 1, Building 3, No.118, Delin Road , Free Trade Pilot Zone, Shanghai, China",
+    "Country": "China"
+}

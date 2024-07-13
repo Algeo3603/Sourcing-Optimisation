@@ -1,0 +1,23 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 8
+    },
+    "specific_parts_sold": {
+        "Engine wiring harness": 1,
+        "Body wiring harness": 1,
+        "Wire harness": 1,
+        "Wiring harness": 5
+    },
+    "buyers": {
+        "Jeep": 2,
+        "Toyota": 3,
+        "Honda": 3
+    },
+    "Country": "Brazil",
+    "Address": "R. Marisa Carriel da Fonseca, 05 - Loteamento Empresarial, Tatuí - SP, 18280-602, Brazil",
+    "TEL": "+55-15-3322-8000",
+    "Year established": "1997",
+    "URL": "https://www.yazaki-group.com/",
+    "Remarks": "Shareholders: Yazaki Corporation"
+}

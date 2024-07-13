@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 4
+    },
+    "specific_parts_sold": {
+        "Wiring protection system": 2,
+        "Electrical distribution system": 2
+    },
+    "buyers": {
+        "Opel": 1,
+        "Audi": 1,
+        "Dacia": 1,
+        "Jaguar Land Rover": 1
+    },
+    "Country": "Germany",
+    "Address": "Grossvichtach 2+4 96364 Marktrodach, Germany",
+    "TEL": "+49-9261-9670",
+    "URL": "https://www.delfingen.com/en/",
+    "Remarks": "-Shareholder: Delfingen Industry S.A."
+}

@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 2
+    },
+    "specific_parts_sold": {
+        "High voltage wiring harness": 1,
+        "Wiring harness": 1
+    },
+    "buyers": {
+        "Beijing Hyundai": 2
+    },
+    "Country": "China",
+    "Address": "No.20, Yuzheng Street, Caiyu Town, Daxing District, Beijing, China",
+    "TEL": "+86-10-80278282",
+    "Year established": "Jun. 2008",
+    "URL": "http://www.bhap.com.cn",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Beijing Hainachuan Automotive Parts Co., Ltd., Lear Corporation Ltd."
+}

@@ -1,0 +1,43 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 48
+    },
+    "specific-parts-bought": {
+        "Wiring harness protector": 2,
+        "High-voltage wiring harness": 3,
+        "Traction motor wiring harness": 1,
+        "Wiring harness": 11,
+        "Battery wiring harness": 3,
+        "Body wiring harness": 3,
+        "Door wiring harness": 3,
+        "Engine room wiring harness": 2,
+        "Wiring protection system": 2,
+        "Electrical distribution system": 3,
+        "HVAC block harness": 2,
+        "Back sensor harness": 1,
+        "Engine wiring harness": 1,
+        "Harness of rear opening": 1,
+        "Instrument panel wiring harness": 2,
+        "Main harness": 1,
+        "Technical front end harness": 1,
+        "Front door harness (right & left)": 1,
+        "Rear door harness (right & left)": 1,
+        "Driver seat harness": 2,
+        "Passenger seat harness": 2
+    },
+    "suppliers": {
+        "Delfingen Industry S.A.": 4,
+        "Lear Corporation": 14,
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 6,
+        "Furukawa Minda Electric Private Limited (FME)": 2,
+        "Sumitomo Wiring Systems, Ltd.": 4,
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 4,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 3,
+        "Valeo Group": 4,
+        "Yazaki Corporation": 2,
+        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 2,
+        "FORVIA SE (FORVIA faurecia) (Formerly Faurecia SE)": 2,
+        "G Cartier Technologies S.A.S. (\"GCT\")": 1
+    }
+}

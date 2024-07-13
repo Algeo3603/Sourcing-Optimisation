@@ -1,0 +1,24 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 5
+    },
+    "specific_parts_sold": {
+        "Wire harness": 1,
+        "Wiring harness cable channel shield": 1,
+        "Seat Wiring Harness": 1,
+        "Engine wiring harness": 1,
+        "Seat wiring harness": 1
+    },
+    "buyers": {
+        "Ford": 2,
+        "GM": 3
+    },
+    "Country": "USA",
+    "Address": "7930 N. Faulkner Rd., Milwaukee, WI 245017, USA",
+    "TEL": "+1-414-355-1130,+1-800-537-1512",
+    "URL": "https://www.hellermanntyton.us/",
+    "Quality certification": "ISO9001",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Aptiv PLC"
+}

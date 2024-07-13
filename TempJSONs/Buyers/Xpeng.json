@@ -1,0 +1,17 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 8
+    },
+    "specific-parts-bought": {
+        "Wiring harness": 4,
+        "Low voltage wiring harness for battery pack": 1,
+        "High-voltage wiring harness": 1,
+        "High-voltage charging harness": 2
+    },
+    "suppliers": {
+        "Aptiv Electric Systems Co., Ltd.": 4,
+        "Shenzhen Uniconn Technology Co., Ltd. (Formerly Shenzhen Qiaoyun Technology Co., Ltd.)": 2,
+        "Leoni Electrical Systems (Jining) Co., Ltd.": 2
+    }
+}

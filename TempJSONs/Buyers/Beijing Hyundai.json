@@ -1,0 +1,16 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 16
+    },
+    "specific-parts-bought": {
+        "High voltage wiring harness": 2,
+        "Wiring harness": 13,
+        "Main wiring harness": 1
+    },
+    "suppliers": {
+        "Beijing BHAP Lear Automotive Systems Co., Ltd.": 2,
+        "YURA Corporation": 1,
+        "Sanhe INFAC Automotive Components Co., Ltd.": 13
+    }
+}

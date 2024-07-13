@@ -1,0 +1,31 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 132
+    },
+    "specific_parts_sold": {
+        "Main harness": 11,
+        "ABS wiring harness": 11,
+        "Rear wiring harness": 11,
+        "Instrument panel wiring harness": 11,
+        "Floor wiring harness": 11,
+        "Front door harness": 11,
+        "Rear door harness": 11,
+        "Roof harness": 11,
+        "Airbag wiring harness": 11,
+        "Battery harness": 11,
+        "Trunk lid harness": 11,
+        "harness connector": 11
+    },
+    "buyers": {
+        "Dongfeng Yueda Kia": 132
+    },
+    "Country": "China",
+    "Address": "No.103, Yandu East Road, Yancheng Economic And Technological Development Zone, Jiangsu, China",
+    "TEL": "+86-515-88276271",
+    "Year established": "Dec. 2005",
+    "URL": "http://www.kyungshin.co.kr",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): Kyungshin Corporation (Korea)"
+}

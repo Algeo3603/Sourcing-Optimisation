@@ -1,0 +1,19 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Wiring Harness": 12
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 1,
+        "Low-voltage wiring harness": 1,
+        "Busbar": 1,
+        "Main wiring harness": 1,
+        "Electrical distribution system": 2,
+        "Wiring harness": 5,
+        "High voltage wiring harness": 1
+    },
+    "suppliers": {
+        "Aptiv PLC (Formerly Delphi Automotive PLC)": 10,
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 2
+    }
+}

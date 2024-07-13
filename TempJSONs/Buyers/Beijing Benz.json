@@ -1,0 +1,37 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Wiring Harness": 63
+    },
+    "specific-parts-bought": {
+        "High-voltage wiring harness": 3,
+        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(9AMT)": 1,
+        "ABS wiring harness(1.6T)(9AMT)": 1,
+        "ESP wiring harness(1.6T)(9AMT)": 1,
+        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(9AMT)": 3,
+        "ABS wiring harness(2.0T)(9AMT)": 3,
+        "ESP wiring harness(2.0T)(9AMT)": 3,
+        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7AMT)": 3,
+        "ABS wiring harness(2.0T)(7AMT)": 3,
+        "ESP wiring harness(2.0T)(7AMT)": 3,
+        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(7DCT)": 1,
+        "ABS wiring harness(1.6T)(7DCT)": 1,
+        "ESP wiring harness(1.6T)(7DCT)": 1,
+        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7DCT)": 2,
+        "ABS wiring harness(2.0T)(7DCT)": 2,
+        "ESP wiring harness(2.0T)(7DCT)": 2,
+        "Engine wiring harness": 15,
+        "Motor wiring harness": 3,
+        "Starter wiring harness": 3,
+        "Wire harness": 3,
+        "Wiring system": 6
+    },
+    "suppliers": {
+        "Kunshan Huguang Auto Harness Co., Ltd.": 3,
+        "Langfang Leoni Wiring Systems Co., Ltd.": 33,
+        "Leoni Electrical Systems (Shanghai) Co., Ltd.": 15,
+        "Guangdong KSD Automotive Components Co., Ltd.": 6,
+        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 3,
+        "Leoni AG": 3
+    }
+}

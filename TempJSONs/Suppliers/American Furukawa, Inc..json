@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Wiring Harness": 60
+    },
+    "specific_parts_sold": {
+        "Body wiring harness": 4,
+        "Door wiring harness": 4,
+        "Wiring harness": 52
+    },
+    "buyers": {
+        "Honda": 8,
+        "GM": 52
+    },
+    "Country": "USA",
+    "Address": "47677 Galleon, Plymouth, MI 48170 U.S.A.",
+    "TEL": "+1-734-446-2200",
+    "Beginning of operation": "April, 1988",
+    "URL": "https://americanfurukawa.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Shareholders : The Furukawa Electric Co., Ltd. 70%, Furukawa Automotive System Inc. 30%"
+}
