@@ -54,7 +54,7 @@ soup = BeautifulSoup(html_content, 'html.parser')
 table = soup.find('table', id='market_share_data').find('tbody')
 # Fetch relevant data from each row and add to part_dict
 rows = table.find_all('tr')
-for row in rows[:5]:
+for row in rows[:]:
     tds = row.find_all('td')
     try:
         supplier_link = 'https://www.marklines.com/' + tds[4].find('a')['href']
@@ -99,8 +99,6 @@ for row in rows[:5]:
     elif supplier_link and 'top500' in supplier_link:
         print(supplier)
         supplier_dict = {'top500':True, 'parts_sold':{}, 'specific_parts_sold':{}, 'buyers':{}}
-        main_window = driver.current_window_handle
-        driver.switch_to.new_window('tab')
         driver.get(supplier_link)
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -115,13 +113,9 @@ for row in rows[:5]:
         address = company_profile.find_all('div')[-1].get_text().strip()
         supplier_dict[info[len(info) - 1]] = address
         supplier_dict['Country'] = get_country(address)
-        driver.close()
-        driver.switch_to.window(main_window)
     elif supplier_link:
         print(supplier)
         supplier_dict = {'top500':False, 'parts_sold':{}, 'specific_parts_sold':{}, 'buyers':{}}
-        main_window = driver.current_window_handle
-        driver.switch_to.new_window('tab')
         driver.get(supplier_link)
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, 'html.parser')
