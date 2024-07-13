@@ -1,0 +1,29 @@
+{
+    "top500": true,
+    "parts_sold": [
+        "Wiring Harness"
+    ],
+    "specific_parts_sold": [
+        "High-voltage wiring harness",
+        "Body wiring harness",
+        "Door wiring harness",
+        "Wire harness",
+        "Injector harness",
+        "Main wiring harness",
+        "High voltage wiring harness"
+    ],
+    "buyers": [
+        "Mercedes-Benz",
+        "Mitsubishi Fuso",
+        "Audi",
+        "BMW",
+        "Daimler",
+        "Lamborghini"
+    ],
+    "Year Established": "958",
+    "Number of Employees": "3,544 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "EUR 5,600 million (FY ended Dec. 31, 2023)",
+    "Representative": "Jan Reblin (CEO), Stefan Brandl (Vice Chairman and CEO), Fritz Draexlmaier (Chairman)",
+    "URL": "https://www.draexlmaier.com/en/",
+    "Address": ""
+}

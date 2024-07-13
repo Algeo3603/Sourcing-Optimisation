@@ -1,13 +1,34 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Vacuum hose",
         "Brake line",
         "Brake hose",
         "Vaccum hose",
-        "Vacuum brake hose"
+        "Vacuum brake hose",
+        "Rear lamp",
+        "Rear combination lamp",
+        "Wiring harness protector",
+        "Back door wiring harness",
+        "Front door wiring harness",
+        "Floor wiring harness",
+        "Engine wiring harness",
+        "Front wiring harness",
+        "Rear door wiring harness",
+        "Engine room wiring harness",
+        "High-voltage wiring harness",
+        "Battery wiring harness",
+        "Sensor wiring harness",
+        "Body wiring harness",
+        "Door wiring harness",
+        "Electric parking brake wiring harness",
+        "Instrument panel wiring harness",
+        "Cockpit wiring harnesses",
+        "Wire harness"
     ],
     "suppliers": [
         "Inoac Tokai (Thailand) Co., Ltd.",
@@ -19,6 +40,26 @@
         "Federal-Mogul Holdings LLC",
         "Freudenberg SE",
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Sankyo Co., Ltd."
+        "Sankyo Co., Ltd.",
+        "Ichikoh Industries, Ltd.",
+        "Imasen Electric Industrial Co., Ltd.",
+        "Stanley Electric Co., Ltd.",
+        "Tokaidenso Corporation",
+        "Ichikoh Industries (Thailand) Co., Ltd.",
+        "Thai Stanley Electric PCL",
+        "Hyundai Mobis Co., Ltd.",
+        "Koito Manufacturing Co., Ltd.",
+        "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant",
+        "Furukawa Electric Co., Ltd.",
+        "Sumitomo Electric Industries, Ltd.",
+        "Yazaki Corporation",
+        "Lear Corporation",
+        "Sumitomo Electric Wiring Systems (Thailand) Ltd.",
+        "Thai Summit Harness Public Company Limited",
+        "PT. Furukawa Automotive Systems Indonesia",
+        "Sumitomo Wiring Systems, Ltd.",
+        "Taiwan Yazaki Corporation",
+        "Elcom Inc.",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)"
     ]
 }

@@ -1,0 +1,27 @@
+{
+    "top500": true,
+    "parts_sold": [
+        "Rear Lamp",
+        "Wiring Harness"
+    ],
+    "specific_parts_sold": [
+        "Rear lamp",
+        "LED rear lamp bulb",
+        "LED rear lamp",
+        "LED rear combination lamp",
+        "Wiring harness"
+    ],
+    "buyers": [
+        "BMW",
+        "Fiat",
+        "Maserati",
+        "Peugeot",
+        "DS Automobiles",
+        "Audi",
+        "Volkswagen",
+        "Nissan"
+    ],
+    "Year Established": "919",
+    "URL": "https://www.marelli.com/",
+    "Address": ""
+}

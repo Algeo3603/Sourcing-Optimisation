@@ -1,12 +1,31 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
-        "Vacuum brake hose"
+        "Vacuum brake hose",
+        "Rear lamp",
+        "Busbar",
+        "High-voltage wiring harness",
+        "Rear view mirror wiring harness",
+        "Bus bar",
+        "Wire harness",
+        "High-voltage cable",
+        "Interior mirror wiring harness"
     ],
     "suppliers": [
         "Hitachi Cable (Suzhou) Co., Ltd.",
-        "TI Automotive Systems (Shanghai) Co., Ltd. (Waigaoqiao Plant)"
+        "TI Automotive Systems (Shanghai) Co., Ltd. (Waigaoqiao Plant)",
+        "Marelli Automotive Components (WUHU) Co. Ltd.(Formerly Magneti Marelli Automotive Components (WUHU) Co. Ltd.)",
+        "HELLA Jiaxing Lighting Co., Ltd.",
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
+        "Kunshan Dragonstate Electronic Technology Co., Ltd.",
+        "Far East Cable Co., Ltd.",
+        "Jiangsu Riying Electronics Co., Ltd.",
+        "Shenzhen Everwin Precision Technology Co., Ltd.",
+        "Shenzhen Deren Electronic Co., Ltd.",
+        "Xiamen Hongfa Electroacoustic Co., Ltd."
     ]
 }

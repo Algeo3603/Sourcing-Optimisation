@@ -1,6 +1,8 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
@@ -8,7 +10,13 @@
         "Vacuum brake booster line",
         "Brake hose",
         "Front brake hose",
-        "Rear brake hose"
+        "Rear brake hose",
+        "Rear lamp",
+        "LED rear lamp",
+        "Door wiring harness",
+        "Rear bumper parking assist wiring harness",
+        "Electrical distribution system",
+        "Wiring protection system"
     ],
     "suppliers": [
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
@@ -16,6 +24,11 @@
         "Freudenberg SE",
         "Hutchinson S.A.",
         "Cooper-Standard Holdings Inc.",
-        "Flexitech Inc."
+        "Flexitech Inc.",
+        "Valeo Group",
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
+        "Sumitomo Electric Industries, Ltd.",
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)",
+        "Delfingen de Marktrodach GmbH & Co. KG"
     ]
 }

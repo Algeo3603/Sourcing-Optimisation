@@ -1,16 +1,35 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Vacuum brake line",
         "Brake booster line",
         "Brake line",
-        "Brake hose"
+        "Brake hose",
+        "LED rear lamp",
+        "Rear lamp",
+        "Wiring harness",
+        "Low-voltage wiring harness",
+        "Electrical distribution system",
+        "Wire harness",
+        "High voltage wire"
     ],
     "suppliers": [
         "Hutchinson S.A.",
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Goodridge UK Ltd"
+        "Goodridge UK Ltd",
+        "Varroc Lighting Systems - Morocco",
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",
+        "Neolite ZKW Lightings Pvt. Ltd.",
+        "ZKW Group GmbH",
+        "Varroc Lighting Systems Italy S.p.A.",
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "Valeo Group",
+        "Leoni AG",
+        "Lear Corporation",
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)"
     ]
 }

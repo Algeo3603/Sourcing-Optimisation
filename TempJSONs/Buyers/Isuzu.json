@@ -1,14 +1,46 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake hose",
-        "Vacuum hose"
+        "Vacuum hose",
+        "Rear lamp",
+        "Rear combination lamp",
+        "Rear combination lamp assembly",
+        "Wiring harness protector",
+        "Data cable",
+        "High-voltage wiring harness",
+        "Wiring harness",
+        "Door wiring harness",
+        "Engine wiring harness(4N16)",
+        "Body wiring harness",
+        "Electric parking brake wiring harness",
+        "Engine room wiring harness",
+        "Wire harness",
+        "Harness for electric parking brake",
+        "Wiring harness (via Asian Stanley International)"
     ],
     "suppliers": [
         "Proterial (Thailand) Ltd. (Formerly Hitachi Metals (Thailand) Ltd.)",
         "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)",
-        "Inoac Tokai (Thailand) Co., Ltd."
+        "Inoac Tokai (Thailand) Co., Ltd.",
+        "Koito Manufacturing Co., Ltd.",
+        "India Japan Lighting Pvt. Ltd.",
+        "Ichikoh Industries, Ltd.",
+        "Thai Stanley Electric PCL",
+        "AAPICO Hitech Public Co., Ltd.",
+        "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant",
+        "TE Connectivity Manufacturing (Thailand) Co., Ltd.",
+        "Furukawa Electric Co., Ltd.",
+        "Sumitomo Electric Wiring Systems (Thailand) Ltd.",
+        "Yazaki Corporation",
+        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))",
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)",
+        "Sumitomo Wiring Systems, Ltd.",
+        "Furukawa Automotive Systems (Thailand) Co., Ltd. (FAST)",
+        "Nissei Mizuki Co., Ltd."
     ]
 }

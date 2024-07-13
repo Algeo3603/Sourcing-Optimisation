@@ -1,11 +1,17 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
-        "Brake hose(1.2T)(6DCT)"
+        "Brake hose(1.2T)(6DCT)",
+        "High-voltage wiring harness",
+        "High-voltage wiring harness system",
+        "Seat Wiring Harness"
     ],
     "suppliers": [
-        "Suzhou Nichirin Automobile Parts Co., Ltd."
+        "Suzhou Nichirin Automobile Parts Co., Ltd.",
+        "Wuhan Zhengao Automotive Electrical System Co., Ltd. (Formerly Wuhan Zhengao Leoni Automotive Wiring Harness Co., Ltd.)",
+        "Aptiv Electric Systems Co., Ltd. Wuhan Branch"
     ]
 }

@@ -1,10 +1,12 @@
 {
     "top500": true,
     "parts_sold": [
-        "Brake Line"
+        "Brake Line",
+        "Wiring Harness"
     ],
     "specific_parts_sold": [
-        "Brake hose"
+        "Brake hose",
+        "High-voltage wiring harness"
     ],
     "buyers": [
         "Citroen",
@@ -12,7 +14,8 @@
         "Mitsubishi",
         "Opel",
         "Peugeot",
-        "Renault"
+        "Renault",
+        "BMW"
     ],
     "Year Established": "849",
     "Number of Employees": "2,241 employees (As of Dec. 31, 2023)",

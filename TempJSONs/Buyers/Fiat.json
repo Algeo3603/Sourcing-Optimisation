@@ -1,13 +1,21 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
         "Brake hose",
         "Rigid brake line",
         "Rear brake hose",
-        "Front brake hose"
+        "Front brake hose",
+        "Rear lamp",
+        "LED rear lamp",
+        "Wiring harness",
+        "Engine wiring harness",
+        "Seat belt sensor wiring harness",
+        "Wire harness"
     ],
     "suppliers": [
         "Flexitech do Brasil Industria e Comercio de Mangueiras de Freios Ltda.",
@@ -16,6 +24,16 @@
         "Continental AG",
         "Hutchinson S.A.",
         "Teklas Kaucuk San. Ve Tic. A.S.",
-        "DN Automotive Italy s.r.l. (Formerly C.F. Gomma S.p.A.)"
+        "DN Automotive Italy s.r.l. (Formerly C.F. Gomma S.p.A.)",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "Magna Lighting (Formerly OLSA S.p.A.)",
+        "Arteb",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)",
+        "Delphi Automotive Systems do Brasil Ltda.",
+        "Molex Conectores Eletricos e Eletronicos Comercio e Servicos Ltda.",
+        "Prettl Indústria de Componentes Automotivos do Brasil",
+        "Tyco Electronics Brasil Ltda.",
+        "Yazaki Corporation"
     ]
 }

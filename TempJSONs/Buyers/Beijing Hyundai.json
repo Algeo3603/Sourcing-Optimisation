@@ -1,13 +1,17 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Hydraulic brake hose",
-        "Vaccum brake hose"
+        "Vaccum brake hose",
+        "High voltage wiring harness"
     ],
     "suppliers": [
         "Hwaseung Automotive Parts (Taicang) Co., Ltd.",
-        "Tianjin Pyung Hwa Auto Parts Co., Ltd."
+        "Tianjin Pyung Hwa Auto Parts Co., Ltd.",
+        "Beijing BHAP Lear Automotive Systems Co., Ltd.",
+        "YURA Corporation"
     ]
 }

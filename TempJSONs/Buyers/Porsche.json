@@ -1,11 +1,17 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
         "Vacuum hose",
-        "Brake hose"
+        "Brake hose",
+        "LED rear lamp",
+        "Rear lamp",
+        "Wiring harness protector",
+        "Electrical distribution system"
     ],
     "suppliers": [
         "Cooper-Standard Holdings Inc.",
@@ -14,6 +20,10 @@
         "A. Kayser Automotive Systems GmbH",
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)",
         "Continental AG",
-        "Metzeler Schaum GmbH (Vita Metzo)"
+        "Metzeler Schaum GmbH (Vita Metzo)",
+        "Valeo Group",
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "Wipac Technology Limited",
+        "Sumitomo Electric Industries, Ltd."
     ]
 }

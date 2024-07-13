@@ -1,13 +1,28 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
-        "Brake hose"
+        "Brake hose",
+        "Rear lamp",
+        "Head lamp wiring harness",
+        "Wire harness",
+        "Wiring harness"
     ],
     "suppliers": [
         "Hanil Tube India Private Ltd.",
-        "Imperial Auto Industries Ltd."
+        "Imperial Auto Industries Ltd.",
+        "UNO Minda Ltd. (Formerly Minda Industries Ltd.)",
+        "UNO Minda Ltd. - Lighting Division (Formerly Minda Industries Ltd.)",
+        "Varroc Lighting System (India) Pvt. Ltd.",
+        "Lumax Industries Ltd.",
+        "Varroc Engineering Ltd.",
+        "Essem Technodesign Pvt. Ltd. (Formerly ESSEM SRINISONS SYS. (P) LTD)",
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)",
+        "Furukawa Minda Electric Private Limited (FME)",
+        "Samvardhana Motherson International Limited (SAMIL) (Formerly Motherson Sumi Systems Ltd. (MSSL))"
     ]
 }

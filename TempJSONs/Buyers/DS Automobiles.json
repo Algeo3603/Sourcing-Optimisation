@@ -1,11 +1,24 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
-        "Brake line bundle assembly"
+        "Brake line bundle assembly",
+        "LED rear lamp",
+        "Rear lamp",
+        "LED rear lamp bulb",
+        "Wiring protection system",
+        "Electrical distribution system"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)"
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
+        "Varroc Lighting Systems - Morocco",
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "Varroc Lighting Systems Italy S.p.A.",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Delfingen Industry S.A.",
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)"
     ]
 }

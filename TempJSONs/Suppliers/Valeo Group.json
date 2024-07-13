@@ -1,0 +1,37 @@
+{
+    "top500": true,
+    "parts_sold": [
+        "Rear Lamp"
+    ],
+    "specific_parts_sold": [
+        "Rear combination lamp",
+        "Rear lamp",
+        "LED rear lamp",
+        "Brake lamp",
+        "Rear lamp housing"
+    ],
+    "buyers": [
+        "Audi",
+        "Opel",
+        "Mercedes-Benz",
+        "Nissan",
+        "Volkswagen",
+        "Daimler",
+        "GM",
+        "Jaguar Land Rover",
+        "Peugeot",
+        "Porsche",
+        "SEAT",
+        "Skoda",
+        "BMW",
+        "Ford",
+        "Toyota"
+    ],
+    "Year Established": "923",
+    "Number of Employees": "12,740 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "EUR 22,044  million (FY ended Dec. 31, 2023)",
+    "Representative": "Christophe Périllat (Chief Executive Officer and Director)",
+    "Capital": "EUR 245 million (As of Dec. 31, 2023)",
+    "URL": "https://www.valeo.com/en/",
+    "Address": ""
+}

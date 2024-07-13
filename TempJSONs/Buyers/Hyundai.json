@@ -1,16 +1,47 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
         "Brake hose",
-        "Brake booster vacuum hose"
+        "Brake booster vacuum hose",
+        "Rear lamp",
+        "LED rear lamp",
+        "Rear lamp housing",
+        "Rear combination lamp",
+        "ABS wiring harness",
+        "High-voltage wiring harness",
+        "Back door wiring harness",
+        "Front door wiring harness",
+        "Rear door wiring harness",
+        "Exterior mirror wiring harness",
+        "Ground strap",
+        "Wiring harness",
+        "Floor wiring harness",
+        "Wire harness assembly",
+        "Airbag wiring harness",
+        "Wire harness"
     ],
     "suppliers": [
         "Hanil Tube India Private Ltd.",
         "Imperial Auto Industries Ltd.",
         "Pyung Hwa India Pvt. Ltd.",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)"
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
+        "SL Lumax Industries Limited",
+        "Hyundai Mobis Co., Ltd.",
+        "SL Corporation",
+        "MOBIS Alabama, LLC.",
+        "Hyundai IHL Corporation",
+        "Kyungshin Corporation",
+        "YURA Corporation",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)",
+        "Samvardhana Motherson Group",
+        "SJG Asentec Co., Ltd. (Formerly Asentec Co., Ltd.)",
+        "Prettl Indústria de Componentes Automotivos do Brasil",
+        "THN Corporation",
+        "Kyungshin Industrial Motherson Private Ltd."
     ]
 }

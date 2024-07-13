@@ -1,6 +1,8 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Front brake hose",
@@ -11,7 +13,27 @@
         "Vacuum brake hose",
         "Rear brake hose",
         "Brake hoses",
-        "Brake hose assembly"
+        "Brake hose assembly",
+        "Rear combination lamp",
+        "Rear lamp",
+        "Rear lamp housing",
+        "LED rear lamp",
+        "Brake lamp",
+        "Door wiring harness",
+        "Wiring harness protector",
+        "Wiring harness",
+        "High-voltage wiring harness",
+        "Low-voltage wiring harness",
+        "Sensor wiring harness",
+        "Antenna wiring harness",
+        "Data cable",
+        "Engine room wiring harness",
+        "Seat wiring harness",
+        "Battery cable",
+        "Rear bumper parking assist wiring harness",
+        "Electrical distribution system",
+        "High voltage wiring harness",
+        "Wire harness"
     ],
     "suppliers": [
         "Continental AG",
@@ -26,6 +48,34 @@
         "Flexitech Automotive Mexico S. de R.L. de C.V.",
         "Hutchinson S.A.",
         "Cooper-Standard Holdings Inc.",
-        "FTE automotive GmbH"
+        "FTE automotive GmbH",
+        "OLSA Poland Sp. z o.o.",
+        "Varroc Lighting System (India) Pvt. Ltd.",
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
+        "Magna Lighting Mexico",
+        "Varroc Engineering Ltd.",
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",
+        "Valeo Group",
+        "Magna International Inc.",
+        "Magna Lighting (Formerly OLSA S.p.A.)",
+        "Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC)",
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "Hella Automotive Mexico S.A. de C.V.",
+        "Farba Aydinlatma Sistemleri A.Ş.",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Olsa Brasil Industria e Comercio Ltda.",
+        "Arcomex, S.A. de C.V.",
+        "Delfingen Industry S.A.",
+        "Coficab - Mexico",
+        "Leoni AG",
+        "MD ELEKTRONIK GmbH",
+        "Sumitomo Electric Bordnetze SE (SEBN)",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)",
+        "Delfingen MX-Coahuila, S. de R.L. de C.V. - Celaya",
+        "Fujikura Automotive Mexico Puebla, S.A. de C.V.",
+        "Italcabos Ltda.",
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)",
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)",
+        "Furukawa Minda Electric Private Limited (FME)"
     ]
 }

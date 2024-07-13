@@ -1,14 +1,43 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
-        "Brake hose"
+        "Brake hose",
+        "Rear lamp",
+        "Stop lamp",
+        "Rear lamp housing",
+        "Rear lamp(1.6L)",
+        "Rear combination lamp",
+        "High-voltage wiring harness",
+        "Trailer hitch wiring harness",
+        "Airbag wiring harness(1.6T)(8AT)",
+        "Wiring harness",
+        "Side airbag wiring harness",
+        "Wire harness assembly",
+        "Wire harness"
     ],
     "suppliers": [
         "Hanil Tube India Private Ltd.",
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Cooper Standard Automotive India Pvt. Ltd."
+        "Cooper Standard Automotive India Pvt. Ltd.",
+        "SL AP Pvt. Ltd.",
+        "SL Corporation",
+        "Mobis Manufacturing De Mexico, S. De R.L. De C.V.",
+        "Hyundai Mobis Co., Ltd.",
+        "SL Lumax Industries Limited",
+        "Hyundai IHL Corporation",
+        "Kyungshin Corporation",
+        "YURA Corporation",
+        "MOBIS Alabama, LLC.",
+        "Kyungshin Industrial Motherson Private Ltd.",
+        "Adient plc (Formerly Automotive seating business division of Johnson Controls Inc.)",
+        "JSN Corporation",
+        "SJG Asentec Co., Ltd. (Formerly Asentec Co., Ltd.)",
+        "Dae Young Industry Electric Co., Ltd.",
+        "Samvardhana Motherson Group"
     ]
 }

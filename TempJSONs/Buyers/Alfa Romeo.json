@@ -1,16 +1,23 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
         "Brake hose",
-        "Front brake hose"
+        "Front brake hose",
+        "Rear lamp",
+        "Mirror wiring harness"
     ],
     "suppliers": [
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
         "DN Automotive Italy s.r.l. (Formerly C.F. Gomma S.p.A.)",
         "Continental AG",
-        "Continental Automotive Technologies GmbH - World HQ + Flankfurt Plant (Formerly Continental Teves AG & Co. oHG)"
+        "Continental Automotive Technologies GmbH - World HQ + Flankfurt Plant (Formerly Continental Teves AG & Co. oHG)",
+        "Magneti Marelli Mako Elektrik Sanayi ve Ticaret A.Ş. - Bursa",
+        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)",
+        "MD ELEKTRONIK GmbH"
     ]
 }

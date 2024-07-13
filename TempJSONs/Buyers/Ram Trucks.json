@@ -1,14 +1,20 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Vacuum brake line",
-        "Brake hose assembly"
+        "Brake hose assembly",
+        "Rear lamp",
+        "Wiring harness"
     ],
     "suppliers": [
         "Cooper Standard Automotive FHS S. de R.L. de C.V. - Saltillo",
         "Cooper-Standard Holdings Inc.",
-        "Proterial Cable America, Inc. (Formerly Hitachi Cable America, Inc.)"
+        "Proterial Cable America, Inc. (Formerly Hitachi Cable America, Inc.)",
+        "Magna International Inc.",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)"
     ]
 }

@@ -1,6 +1,8 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
@@ -8,7 +10,26 @@
         "Brake booster vacuum hose",
         "Front and rear brake hose assembly",
         "Vacuum brake line",
-        "Brake hose assembly"
+        "Brake hose assembly",
+        "Rear lamp",
+        "LED rear lamp",
+        "Rear combination lamp",
+        "Brake lamp",
+        "Wiring harness protector",
+        "Low-voltage wiring harness",
+        "Body wiring harness",
+        "Door wiring harness",
+        "Engine room wiring harness",
+        "Rear view camera wiring harness",
+        "Instrument panel wiring harness",
+        "High-voltage wiring harness",
+        "Battery wiring harness",
+        "Wire harness",
+        "Wire harness protector",
+        "Wiring protection system",
+        "Fuel tank harness",
+        "Electrical distribution system",
+        "Wiring harness"
     ],
     "suppliers": [
         "Martinrea International US Inc.",
@@ -28,6 +49,29 @@
         "Martinrea Slovakia Fluid Systems, s.r.o.",
         "Flexitech Inc.",
         "Teklas Kaucuk San. Ve Tic. A.S.",
-        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)"
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)",
+        "Flex-N-Gate Corporation",
+        "Ichikoh Industries (Thailand) Co., Ltd.",
+        "SL Corporation",
+        "PO Lighting México, S. de R.L. de C.V. (Formerly Varroc Lighting Systems S. de.R.L. de C.V.)",
+        "Thai Stanley Electric PCL",
+        "Varroc Engineering Ltd.",
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",
+        "Valeo Group",
+        "AMPAS Industries Co., Ltd.",
+        "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant",
+        "Lear Corporation",
+        "Sumitomo Electric Wiring Systems (Thailand) Ltd.",
+        "Sumitomo Electric Wiring Systems, Inc.",
+        "Grupo Yazaki S.A. de C.V.",
+        "Delfingen Industry S.A.",
+        "Yazaki North America Inc.",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)",
+        "HellermannTyton - North American Headquarters",
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)",
+        "Lear Automotive (Thailand) Co., Ltd.",
+        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)",
+        "Furukawa Minda Electric Private Limited (FME)",
+        "Yazaki Corporation"
     ]
 }

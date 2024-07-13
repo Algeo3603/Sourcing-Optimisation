@@ -1,11 +1,36 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
-        "Vacuum hose"
+        "Vacuum hose",
+        "Rear combination lamp",
+        "LED rear lamp",
+        "Tail lamp assembly",
+        "High-voltage wiring harness",
+        "Low voltage wiring harness for battery pack",
+        "ABS wiring harness(1.4T)(7DCT)",
+        "ABS wiring harness(1.6L)(5MT)",
+        "ABS wiring harness(1.6L)(6AMT)",
+        "ABS wiring harness(1.4T)(5MT)",
+        "ABS wiring harness(1.2T)(7DCT)",
+        "Engine wiring harness assembly",
+        "Battery wiring harness assembly",
+        "Center console wiring harness assembly",
+        "Door wiring harness assembly",
+        "Engine wiring harness",
+        "Main wiring harness"
     ],
     "suppliers": [
-        "Changchun Chinaust Automobile Parts Co., Ltd."
+        "Changchun Chinaust Automobile Parts Co., Ltd.",
+        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.",
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)",
+        "Hella FAWAY Automotive Lighting (Tianjin) Co., Ltd.",
+        "Guangdong KSD Automotive Components Co., Ltd.",
+        "Shenzhen Deren Electronic Co., Ltd.",
+        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch",
+        "Aptiv Electric Systems Co., Ltd. Chengdu Branch"
     ]
 }

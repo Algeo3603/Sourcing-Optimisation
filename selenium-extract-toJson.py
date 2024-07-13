@@ -40,8 +40,8 @@ part_dict = {'buyer':set(), 'supplier':set()}
 
 # Open the link of the part to be scraped
 # Future scope -> iterate through links dynamically or read them from a file
-part_link = 'https://www.marklines.com/en/wsw/brake-line/'
-part_name = 'Brake Line'
+part_link = 'https://www.marklines.com/en/wsw/wiring-harness/'
+part_name = 'Wiring Harness'
 driver.get(part_link)
 print('Navigated to part link')
 
@@ -81,6 +81,7 @@ for row in rows[:]:
             with open(f'TempJSONs/Suppliers/{supplier}.json', 'r') as file:
                 supplier_dict = json.load(file)
         else:
+            print(supplier)
             supplier_dict = {'top500':True, 'parts_sold':[], 'specific_parts_sold':[], 'buyers':[]}
             main_window = driver.current_window_handle
             driver.switch_to.new_window('tab')
@@ -107,10 +108,8 @@ for row in rows[:]:
             supplier_dict['specific_parts_sold'].append(specific_part)    
         with open(f'TempJSONs/Suppliers/{supplier}.json', 'w') as file:
             json.dump(supplier_dict, file, ensure_ascii=False, indent=4)
-
-
-    print('.', end='') # To see progress in terminal as the script runs
-print()
+    # print('.', end='') # To see progress in terminal as the script runs
+# print()
 
 
 # Write the part dictionary to a json

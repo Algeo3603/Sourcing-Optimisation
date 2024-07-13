@@ -1,11 +1,15 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake line"
+        "Brake line",
+        "Rear lamp",
+        "Intelligent signal display (ISD) rear lamp"
     ],
     "suppliers": [
-        "Bundy Fluid Systems (Shanghai) Co., Ltd."
+        "Bundy Fluid Systems (Shanghai) Co., Ltd.",
+        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)"
     ]
 }

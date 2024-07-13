@@ -1,13 +1,49 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake hose assembly",
-        "Hydraulic brake hose"
+        "Hydraulic brake hose",
+        "Body wiring harness(1.5T)(CVT)",
+        "Door wiring harness(1.5T)(CVT)",
+        "Engine room wiring harness(1.5T)(CVT)",
+        "Battery wiring harness(1.5T)(CVT)",
+        "Body wiring harness(2.0L)(E-CVT)",
+        "Engine room wiring harness(2.0L)(E-CVT)",
+        "Door wiring harness(2.0L)(E-CVT)",
+        "Body wiring harness(1.0T)(CVT)",
+        "Door wiring harness(1.0T)(CVT)",
+        "Engine room wiring harness(1.0T)(CVT)",
+        "Body wiring harness(1.5L)(CVT)",
+        "Door wiring harness(1.5L)(CVT)",
+        "Engine room wiring harness(1.5L)(CVT)",
+        "Battery wiring harness(2.0L)(E-CVT)",
+        "Body wiring harness",
+        "Door wiring harness",
+        "Engine room wiring harness",
+        "Battery wiring harness",
+        "Battery wiring harness(1.5L)(CVT)",
+        "Body wiring harness(1.8L)(5AT)",
+        "Door wiring harness(1.8L)(5AT)",
+        "Engine room wiring harness(1.8L)(5AT)",
+        "Body wiring harness(2.0T)(9AT)",
+        "Door wiring harness(2.0T)(9AT)",
+        "Engine room wiring harness(2.0T)(9AT)",
+        "Battery wiring harness(2.0T)(9AT)",
+        "Battery wiring harness(1.0T)(CVT)",
+        "High voltage wiring harness(2.0L)(ECVT)",
+        "Wiring harness"
     ],
     "suppliers": [
         "Suzhou Nichirin Automobile Parts Co., Ltd.",
-        "Nichirin Co., Ltd."
+        "Nichirin Co., Ltd.",
+        "Fujikura Zhuhai Ltd.",
+        "Wuhan Furukawa Automotive Systems Co., Ltd.（FASW）",
+        "Wuhan Sumiden Wiring Systems Co., Ltd.",
+        "Wuhan Youde Auto Electric Appliance Co., Ltd.",
+        "Xiaogan Yazaki Auto Parts Co., Ltd.",
+        "Yazaki Corporation"
     ]
 }

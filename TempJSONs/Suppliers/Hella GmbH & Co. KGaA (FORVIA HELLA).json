@@ -1,0 +1,44 @@
+{
+    "top500": true,
+    "parts_sold": [
+        "Rear Lamp",
+        "Wiring Harness"
+    ],
+    "specific_parts_sold": [
+        "Rear lamp",
+        "Rear combination lamp",
+        "LED rear lamp",
+        "LED rear combination lamp",
+        "OLED rear lamp",
+        "Tail lamp assembly",
+        "Antenna wiring harness",
+        "Negative battery cable"
+    ],
+    "buyers": [
+        "Aston Martin",
+        "BMW",
+        "Ferrari",
+        "Lucid",
+        "Opel",
+        "Volvo Cars",
+        "Hino",
+        "Polestar",
+        "Toyota",
+        "Volkswagen",
+        "Nissan",
+        "Skoda",
+        "Audi",
+        "Daimler",
+        "Peugeot",
+        "Renault",
+        "SEAT",
+        "Tesla China"
+    ],
+    "Year Established": "899",
+    "Number of Employees": "6,280 employees (As of Dec. 31, 2022)",
+    "Sales Turnover": "EUR 4,410 million (FY ended Dec. 31, 2022)",
+    "Representative": "Michel Favre (CEO)",
+    "Capital": "EUR 222.2 million (FY ended Dec. 31, 2022)",
+    "URL": "https://www.hella.com",
+    "Address": ""
+}

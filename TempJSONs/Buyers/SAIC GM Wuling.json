@@ -1,12 +1,20 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Vacuum brake hose",
-        "Brake vacuum hose"
+        "Brake vacuum hose",
+        "Rear lamp",
+        "Lithium iron phosphate battery high-voltage wiring harness",
+        "Three-dimensional lithium-ion battery high-voltage wiring harness",
+        "High voltage wiring harness"
     ],
     "suppliers": [
-        "Sichuan Chuanhuan Technology Co., Ltd."
+        "Sichuan Chuanhuan Technology Co., Ltd.",
+        "Nanning Liaowang Auto Lamp Co., Ltd.",
+        "Tiecheng Information Technology Co., Ltd. (Formerly Hangzhou Tiecheng Information Technology Co., Ltd.)"
     ]
 }

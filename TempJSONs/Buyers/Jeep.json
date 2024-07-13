@@ -1,12 +1,26 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
         "Brake hose",
         "Front brake hose",
-        "Rear brake hose"
+        "Rear brake hose",
+        "Rear lamp",
+        "Rear combination lamp",
+        "Rear lamp housing",
+        "Wiring harness",
+        "Wiring protection system",
+        "Low-voltage wiring harness",
+        "Battery cable",
+        "Wiring harness protector",
+        "Rear view camera wiring harness",
+        "Engine wiring harness",
+        "Body wiring harness",
+        "Wire harness"
     ],
     "suppliers": [
         "TI Poland Sp. z o.o.",
@@ -14,6 +28,24 @@
         "Flexitech Inc.",
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
         "Proterial Cable America, Inc. (Formerly Hitachi Cable America, Inc.)",
-        "Martinrea International Inc."
+        "Martinrea International Inc.",
+        "Marelli Motherson Automotive Lighting India Pvt. Ltd. (Formerly Magneti Marelli Motherson Auto System Ltd.)",
+        "Ventra Evart, LLC",
+        "Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC)",
+        "Hyundai IHL Corporation",
+        "Arteb",
+        "Olsa Brasil Industria e Comercio Ltda.",
+        "Coficab -Tunisie",
+        "Coficab - Mexico",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)",
+        "AEC USA Inc.",
+        "Delfingen MX-Coahuila, S. de R.L. de C.V. - Saltillo",
+        "Yazaki North America Inc.",
+        "A. Raymond Brasil Ltda.",
+        "Delphi Automotive Systems do Brasil Ltda.",
+        "Molex Conectores Eletricos e Eletronicos Comercio e Servicos Ltda.",
+        "Tyco Electronics Brasil Ltda.",
+        "Yazaki do Brasil Ltda.",
+        "Yazaki Corporation"
     ]
 }

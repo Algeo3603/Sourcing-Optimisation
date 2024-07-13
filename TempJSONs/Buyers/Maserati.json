@@ -1,12 +1,19 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
-        "Rigit brake line"
+        "Rigit brake line",
+        "Rear lamp",
+        "Wiring harness protector"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)"
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)",
+        "Delfingen IT - Verona",
+        "Delfingen Industry S.A."
     ]
 }

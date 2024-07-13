@@ -1,12 +1,15 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
         "Brake hose",
-        "Brake line"
+        "Brake line",
+        "Rear lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)"
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
+        "Flex-N-Gate Corporation"
     ]
 }

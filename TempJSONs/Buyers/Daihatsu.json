@@ -1,14 +1,49 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake hose",
-        "Front brake hose"
+        "Front brake hose",
+        "Rear lamp",
+        "Rear combination lamp",
+        "Back door wiring harness",
+        "Front door wiring harness",
+        "Front wiring harness",
+        "Clearance sonar wiring harness",
+        "Engine room wiring harness",
+        "Engine wiring harness",
+        "Rear door wiring harness",
+        "Instrument panel wiring harness",
+        "Engine wiring harness(KF - Turbo)",
+        "Floor wiring harness",
+        "Wiring harness system",
+        "Exterior mirror wiring harness",
+        "Sensor wiring harness",
+        "Airbag wiring harness",
+        "High-voltage wiring harness",
+        "Antenna wiring harness",
+        "Body wiring harness",
+        "Door wiring harness",
+        "Battery wiring harness",
+        "Fog lamp wiring harness"
     ],
     "suppliers": [
         "Toyoda Gosei Co., Ltd.",
         "Toyoda Gosei (Thailand) Co., Ltd.",
-        "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)"
+        "Proterial, Ltd. (Formerly Hitachi Metals, Ltd.)",
+        "Koito Manufacturing Co., Ltd.",
+        "Tokaidenso Corporation",
+        "PT. Indonesia Koito",
+        "Ichikoh Industries, Ltd.",
+        "Sumitomo Electric Industries, Ltd.",
+        "Furukawa Electric Co., Ltd.",
+        "Yazaki Corporation",
+        "PT. Sumi Indo Wiring Systems",
+        "Fujikura Ltd.",
+        "PT. Furukawa Automotive Systems Indonesia",
+        "Sumitomo Wiring Systems, Ltd."
     ]
 }

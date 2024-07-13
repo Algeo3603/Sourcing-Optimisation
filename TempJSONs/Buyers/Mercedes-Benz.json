@@ -1,14 +1,48 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Front brake hose",
         "Rear brake hose",
-        "Brake line"
+        "Brake line",
+        "Rear lamp",
+        "Rear combination lamp",
+        "High-voltage wiring harness",
+        "Low-voltage wiring harness",
+        "Interior wiring harness",
+        "Body wiring harness",
+        "Wiring harness for anti-theft alarm",
+        "ABS wiring harness",
+        "Shock absorber wiring harness",
+        "Starter/generator wiring harness",
+        "Wiring harness protector",
+        "Lithium-ion battery wiring harness",
+        "Traction motor wiring harness",
+        "Cockpit wiring harnesses",
+        "Wiring harness",
+        "Front door wiring harness",
+        "Back door wiring harness"
     ],
     "suppliers": [
         "Continental AG",
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)"
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
+        "Valeo Lighting Systems - Chrzanow",
+        "odelo GmbH",
+        "Valeo Group",
+        "OPmobility SE (Formerly Compagnie Plastic Omnium SE)",
+        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)",
+        "Gebauer & Griller Kabelwerke GmbH",
+        "Hirschmann Automotive GmbH",
+        "Kromberg & Schubert Automotive GmbH & Co. KG",
+        "Delfingen Industry S.A.",
+        "Lear Corporation GmbH & Co. KG European Headquarter",
+        "Kromberg & Schubert Automotive GmbH & Co. KG - Renningen",
+        "Leoni AG",
+        "COFICAB Deutschland GmbH",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)",
+        "Yazaki Corporation"
     ]
 }

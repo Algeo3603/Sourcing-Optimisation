@@ -1,14 +1,16 @@
 {
     "top500": true,
     "parts_sold": [
-        "Brake Line"
+        "Brake Line",
+        "Wiring Harness"
     ],
     "specific_parts_sold": [
         "Front brake hose",
         "Rear brake hose",
         "Brake hose",
         "Brake hoses",
-        "Brake hose front axle / rear axle"
+        "Brake hose front axle / rear axle",
+        "Battery cable"
     ],
     "buyers": [
         "Mercedes-Benz",

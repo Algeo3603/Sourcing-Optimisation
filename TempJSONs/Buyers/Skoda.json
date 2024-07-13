@@ -1,18 +1,32 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake hose",
         "Vacuum hose",
         "Brake line",
-        "Front brake hose"
+        "Front brake hose",
+        "Rear lamp",
+        "LED rear combination lamp",
+        "LED rear lamp",
+        "Wiring harness protector",
+        "Wiring harness"
     ],
     "suppliers": [
         "Continental AG",
         "A. Kayser Automotive Systems GmbH",
         "FTE automotive GmbH",
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
-        "Cooper-Standard Holdings Inc."
+        "Cooper-Standard Holdings Inc.",
+        "Varroc Lighting System (India) Pvt. Ltd.",
+        "Hella GmbH & Co. KGaA (FORVIA HELLA)",
+        "Varroc Lighting Systems, s.r.o. - Novy Jicin",
+        "Valeo Group",
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)",
+        "Delfingen Industry S.A.",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)"
     ]
 }

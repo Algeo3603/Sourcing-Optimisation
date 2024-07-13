@@ -1,0 +1,36 @@
+{
+    "top500": true,
+    "parts_sold": [
+        "Wiring Harness"
+    ],
+    "specific_parts_sold": [
+        "Low-voltage wiring harness",
+        "Battery wiring harness",
+        "Sensor wiring harness",
+        "Engine room wiring harness",
+        "Instrument panel wiring harness",
+        "Engine wiring harness",
+        "Body wiring harness",
+        "High-voltage wiring harness",
+        "Traction motor wiring harness",
+        "Door wiring harness",
+        "Wire harness",
+        "High voltage wire"
+    ],
+    "buyers": [
+        "Ford",
+        "GM",
+        "Honda",
+        "Mitsubishi",
+        "Nissan",
+        "Volvo Cars",
+        "Renault",
+        "Jaguar Land Rover"
+    ],
+    "Year Established": "917",
+    "Number of Employees": "86,600 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "USD 23,466.9 million (FY ended Dec. 31, 2023)",
+    "Representative": "Raymond E. Scott (President, CEO, and Director)",
+    "URL": "https://www.lear.com/",
+    "Address": ""
+}

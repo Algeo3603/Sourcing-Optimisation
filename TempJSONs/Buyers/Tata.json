@@ -1,16 +1,34 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp",
+        "Wiring Harness"
     ],
     "specific-parts-bought": [
         "Brake line",
         "Brake hose",
-        "Brake Lining [Front & Rear]"
+        "Brake Lining [Front & Rear]",
+        "Rear lamp",
+        "Battery wiring harness",
+        "Head lamp wiring harness",
+        "High-voltage wiring harness",
+        "Cockpit wiring harnesses",
+        "Air conditioner wiring harness",
+        "Rear door wiring harness",
+        "Front door wiring harness",
+        "Wire harness",
+        "Wiring harness"
     ],
     "suppliers": [
         "Hanil Tube India Private Ltd.",
         "Imperial Auto Industries Ltd.",
         "Rane Brake Lining Ltd.",
-        "Cooper-Standard Holdings Inc."
+        "Cooper-Standard Holdings Inc.",
+        "Marelli Motherson Automotive Lighting India Pvt. Ltd. (Formerly Magneti Marelli Motherson Auto System Ltd.)",
+        "Lumax Industries Ltd.",
+        "Neolite ZKW Lightings Pvt. Ltd.",
+        "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)",
+        "Aptiv PLC (Formerly Delphi Automotive PLC)",
+        "Furukawa Minda Electric Private Limited (FME)"
     ]
 }

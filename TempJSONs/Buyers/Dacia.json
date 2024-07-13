@@ -1,11 +1,14 @@
 {
     "parts-bought": [
-        "Brake Line"
+        "Brake Line",
+        "Rear Lamp"
     ],
     "specific-parts-bought": [
-        "Brake hose"
+        "Brake hose",
+        "Rear lamp"
     ],
     "suppliers": [
-        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)"
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited)",
+        "Varroc Lighting Systems - Morocco"
     ]
 }
