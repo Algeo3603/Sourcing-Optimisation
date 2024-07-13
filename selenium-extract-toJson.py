@@ -97,14 +97,14 @@ for row in rows[:]:
                 supplier_dict[info[i]] = info[i + 1]
             address = soup.find_all('div')[-1].get_text().strip()
             supplier_dict[info[len(info) - 1]] = address
-            if part_name not in supplier_dict['parts_sold']:
-                supplier_dict['parts_sold'].append(part_name)
-            if buyer not in supplier_dict['buyers']:
-                supplier_dict['buyers'].append(buyer)
-            if specific_part not in supplier_dict['specific_parts_sold']:
-                supplier_dict['specific_parts_sold'].append(specific_part)    
             driver.close()
             driver.switch_to.window(main_window)
+        if part_name not in supplier_dict['parts_sold']:
+            supplier_dict['parts_sold'].append(part_name)
+        if buyer not in supplier_dict['buyers']:
+            supplier_dict['buyers'].append(buyer)
+        if specific_part not in supplier_dict['specific_parts_sold']:
+            supplier_dict['specific_parts_sold'].append(specific_part)    
         with open(f'TempJSONs/Suppliers/{supplier}.json', 'w') as file:
             json.dump(supplier_dict, file, ensure_ascii=False, indent=4)
 

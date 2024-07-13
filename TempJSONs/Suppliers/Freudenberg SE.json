@@ -7,7 +7,12 @@
         "Brake hose"
     ],
     "buyers": [
-        "Citroen"
+        "Citroen",
+        "Daimler",
+        "Mitsubishi",
+        "Opel",
+        "Peugeot",
+        "Renault"
     ],
     "Year Established": "849",
     "Number of Employees": "2,241 employees (As of Dec. 31, 2023)",

@@ -4,10 +4,25 @@
         "Brake Line"
     ],
     "specific_parts_sold": [
-        "Front brake hose"
+        "Front brake hose",
+        "Rear brake hose",
+        "Brake hose",
+        "Brake hoses",
+        "Brake hose front axle / rear axle"
     ],
     "buyers": [
-        "Mercedes-Benz"
+        "Mercedes-Benz",
+        "Volkswagen",
+        "Ford",
+        "Daimler",
+        "Skoda",
+        "Audi",
+        "Bentley",
+        "Volvo Cars",
+        "Porsche",
+        "Alfa Romeo",
+        "BMW",
+        "Fiat"
     ],
     "Year Established": "871",
     "Number of Employees": "02,763 employees (As of Dec. 31, 2023)",

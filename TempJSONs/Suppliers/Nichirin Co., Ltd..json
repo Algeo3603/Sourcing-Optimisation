@@ -4,10 +4,22 @@
         "Brake Line"
     ],
     "specific_parts_sold": [
-        "Brake hose"
+        "Brake hose",
+        "Hydraulic brake hose",
+        "Vacuum brake hose",
+        "Front brake hose",
+        "Rear brake hose"
     ],
     "buyers": [
-        "Honda"
+        "Honda",
+        "Nissan",
+        "Subaru",
+        "Mitsubishi",
+        "Dongfeng Honda",
+        "Dongfeng Nissan",
+        "GAC Honda",
+        "Mazda",
+        "Suzuki"
     ],
     "Year Established": "May 1914",
     "Number of Employees": ",281 employees (As of Dec. 31, 2022)",

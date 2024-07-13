@@ -4,10 +4,14 @@
         "Brake Line"
     ],
     "specific_parts_sold": [
-        "Brake line"
+        "Brake line",
+        "Brake hose"
     ],
     "buyers": [
-        "Ford"
+        "Ford",
+        "GM",
+        "Dodge",
+        "Jeep"
     ],
     "Year Established": "Feb. 1987",
     "Number of Employees": "8,400 employees (As of Dec. 31, 2022)",

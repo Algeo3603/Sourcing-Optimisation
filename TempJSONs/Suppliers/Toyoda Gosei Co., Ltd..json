@@ -4,10 +4,20 @@
         "Brake Line"
     ],
     "specific_parts_sold": [
-        "Brake hose"
+        "Brake hose",
+        "Brake booster vacuum hose",
+        "Front brake hose",
+        "Vacuum brake hose",
+        "Rear brake hose"
     ],
     "buyers": [
-        "Toyota"
+        "Toyota",
+        "Honda",
+        "Daihatsu",
+        "Mazda",
+        "Mitsubishi",
+        "Subaru",
+        "Suzuki"
     ],
     "Year Established": "5 June 1949",
     "Number of Employees": "8,951 employees (As of Mar. 31, 2024)",

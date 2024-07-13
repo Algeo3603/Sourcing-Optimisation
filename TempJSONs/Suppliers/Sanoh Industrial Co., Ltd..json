@@ -4,10 +4,13 @@
         "Brake Line"
     ],
     "specific_parts_sold": [
-        "Brake line"
+        "Brake line",
+        "Brake hose"
     ],
     "buyers": [
-        "Mitsubishi"
+        "Mitsubishi",
+        "Nissan",
+        "Toyota"
     ],
     "Year Established": "Mar. 24, 1939",
     "Number of Employees": ",726 employees (As of Mar. 31, 2023)",

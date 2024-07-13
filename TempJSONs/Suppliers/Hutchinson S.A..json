@@ -4,10 +4,21 @@
         "Brake Line"
     ],
     "specific_parts_sold": [
-        "Vacuum brake hose"
+        "Vacuum brake hose",
+        "Vacuum brake line",
+        "Front brake hose",
+        "Rear brake hose",
+        "Brake hose"
     ],
     "buyers": [
-        "Renault"
+        "Renault",
+        "Jaguar Land Rover",
+        "Volvo Cars",
+        "Citroen",
+        "Fiat",
+        "Opel",
+        "Peugeot",
+        "Volkswagen"
     ],
     "Year Established": "853",
     "Number of Employees": "9,917 employees (As of Dec. 31, 2023)",
