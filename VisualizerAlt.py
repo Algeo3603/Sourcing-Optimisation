@@ -1,7 +1,7 @@
 from pyvis.network import Network
 import csv
 
-def Visualizer(search_list,minThickness):
+def Visualizer(search_list,minThickness,map):
     net = Network(notebook=True, cdn_resources="remote",directed=True)
 
     net.set_options("""
@@ -58,6 +58,10 @@ def Visualizer(search_list,minThickness):
         a=a+1
         net.add_edge(relation[1],relation[0],color='blue',width=dict[(relation[0],relation[1])],label=str(dict[(relation[0],relation[1])])+"\nBrake Line")
 
+    for element in map:
+        net.add_node(map[element],label=map[element],color='yellow')
+        net.add_edge(element,map[element])
+    
     net.show('templates/search.html')
     
 

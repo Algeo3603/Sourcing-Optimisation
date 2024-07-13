@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import folium
 from geopy.geocoders import Nominatim
 import csv
-from Visualizer import Visualizer
+from VisualizerAlt import Visualizer
 
 
 load_dotenv()
@@ -154,12 +154,24 @@ def select():
 
 @app.route("/visualize/filtered", methods=['POST'])
 def graph_vis():
+    sellers=request.form.getlist('buyers')
     selected_companies = request.form.getlist('sellers')+request.form.getlist('buyers')
     minThickness=request.form['minThickness']
     minThickness=int(minThickness)
-    # for company in selected_companies:
-    #     print(company)
-    Visualizer(selected_companies,minThickness)
+    map={}
+    p=Path('Suppliers')
+    for company in sellers:
+        with open(p/f"{company}.txt",'r') as file:
+            for line in file:
+                if("Address" in line):
+                    before_comma, separator, add = line.rpartition(',')
+                    map[company]=add
+                    break
+    
+    for element,el in map.items():
+        print(map[element])
+    
+    Visualizer(selected_companies,minThickness,map)
     return render_template('search.html')
 
 
