@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 13,
         "Rear Lamp": 5,
-        "Clutch": 8
+        "Clutch": 8,
+        "Axle": 7
     },
     "specific-parts-bought": {
         "Wiring harness": 1,
@@ -18,7 +19,9 @@
         "Clutch": 5,
         "Clutch oil pipe": 1,
         "Clutch fork": 1,
-        "Magnetic clutch": 1
+        "Magnetic clutch": 1,
+        "Rear axle module": 6,
+        "Rear axle": 1
     },
     "suppliers": {
         "Aptiv Electric Systems Co., Ltd.": 5,
@@ -30,6 +33,7 @@
         "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 5,
         "Contitech Fluid Shanghai Co.，Ltd.": 1,
         "Nanjing Valeo Clutch Co., Ltd.": 1,
-        "Sanden HASCO Automotive Air-Conditioning Co., Ltd. (Formerly Sanden Huayu Automotive Air-Conditioning Co., Ltd.)": 1
+        "Sanden HASCO Automotive Air-Conditioning Co., Ltd. (Formerly Sanden Huayu Automotive Air-Conditioning Co., Ltd.)": 1,
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 7
     }
 }

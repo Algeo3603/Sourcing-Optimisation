@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 17,
         "Rear Lamp": 3,
-        "Clutch": 4
+        "Clutch": 4,
+        "Axle": 4
     },
     "specific-parts-bought": {
         "Lithium iron phosphate battery high-voltage wiring harness": 1,
@@ -17,7 +18,11 @@
         "Rear lamp": 2,
         "Rear combination lamp": 1,
         "Clutch": 3,
-        "Clutch cover assembly": 1
+        "Clutch cover assembly": 1,
+        "Axle": 1,
+        "Rear axle module": 1,
+        "Drive axle": 1,
+        "Rear drive axle": 1
     },
     "suppliers": {
         "Tiecheng Information Technology Co., Ltd. (Formerly Hangzhou Tiecheng Information Technology Co., Ltd.)": 3,
@@ -30,6 +35,9 @@
         "Nanning Liaowang Auto Lamp Co., Ltd.": 2,
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
         "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 2,
-        "HASCO Powertrain Components Systems (Shanghai) Co., Ltd. Liuzhou Branch (Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd. Liuzhou Branch)": 2
+        "HASCO Powertrain Components Systems (Shanghai) Co., Ltd. Liuzhou Branch (Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd. Liuzhou Branch)": 2,
+        "Liaoning SG Automotive Chassis Systems Co., Ltd.": 1,
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 1,
+        "Sichuan Jianan Industrial Co., Ltd.": 2
     }
 }

@@ -3,19 +3,26 @@
     "parts-bought": {
         "Wiring Harness": 3,
         "Rear Lamp": 2,
-        "Clutch": 2
+        "Clutch": 2,
+        "Axle": 23
     },
     "specific-parts-bought": {
         "Wiring harness": 2,
         "Front fascia harness": 1,
         "Rear lamp": 2,
-        "One-way clutch": 2
+        "One-way clutch": 2,
+        "Rear axle": 9,
+        "Front axle": 7,
+        "Axle": 1,
+        "Front & rear axle": 6
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
         "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 1,
         "Empire Electronics, Inc.": 1,
         "Magna International Inc.": 2,
-        "BorgWarner Inc.": 2
+        "BorgWarner Inc.": 2,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 3,
+        "American Axle & Manufacturing Holdings, Inc.": 20
     }
 }

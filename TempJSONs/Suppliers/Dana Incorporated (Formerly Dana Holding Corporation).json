@@ -1,0 +1,42 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 99
+    },
+    "specific_parts_sold": {
+        "Front axle": 20,
+        "Rear axle": 32,
+        "Axle": 11,
+        "Front drive axle": 1,
+        "Rear drive axle": 1,
+        "Front & rear axle": 8,
+        "Drive axle": 12,
+        "Steer Axle": 7,
+        "Front & rear axle(EcoDiesel)": 1,
+        "Steering axle": 1,
+        "Front & rear axles": 1,
+        "Independent rear axle": 2,
+        "Rear axle (4WD)": 2
+    },
+    "buyers": {
+        "Jeep": 22,
+        "Ford": 41,
+        "Nissan": 1,
+        "Ram Trucks": 3,
+        "Changan Ford": 3,
+        "Hino": 8,
+        "Jaguar Land Rover": 5,
+        "GM": 6,
+        "Isuzu": 2,
+        "Volkswagen": 1,
+        "Dodge": 3,
+        "Mahindra & Mahindra": 4
+    },
+    "Year Established": "916",
+    "Number of Employees": "1,800 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "USD 10,555 million (FY ended Dec. 31, 2023)",
+    "Representative": "James K. Kamsickas (President and CEO)",
+    "URL": "https://www.dana.com/",
+    "Address": "3939 Technology Drive, Maumee, OH 43537, USA",
+    "Country": "United States of America"
+}

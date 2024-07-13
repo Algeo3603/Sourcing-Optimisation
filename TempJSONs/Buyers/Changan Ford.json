@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 26,
         "Rear Lamp": 4,
-        "Clutch": 26
+        "Clutch": 26,
+        "Axle": 12
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 1,
@@ -36,7 +37,10 @@
         "Clutch(8AT)": 3,
         "Clutch(6AMT)": 1,
         "Clutch": 8,
-        "Clutch automatic control system(1.8L)": 1
+        "Clutch automatic control system(1.8L)": 1,
+        "Axle": 3,
+        "Front axle": 4,
+        "Rear axle": 5
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
@@ -51,6 +55,9 @@
         "Laster Tech Automotive (Shanghai) Co., Ltd.": 1,
         "Ningbo Shenglong Automotive Powertrain System Co., Ltd.": 10,
         "Chengdu Yonghua F.C.C. Clutches Co., Ltd.": 15,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 1
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 3,
+        "Gestamp Automotive Chongqing Co., Ltd.": 8,
+        "Benteler Group (Benteler Automobiltechnik GmbH)": 1
     }
 }

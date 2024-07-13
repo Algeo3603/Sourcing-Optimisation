@@ -1,0 +1,21 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Rear drive axle": 1,
+        "Front axle": 1,
+        "Rear axle": 1
+    },
+    "buyers": {
+        "Volkswagen": 3
+    },
+    "Year Established": "966",
+    "Number of Employees": "3,347 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "CAD 9,733.5 million (FY ended Dec. 31, 2023)",
+    "Representative": "Linda Hasenfratz (Executive Chair & CEO), Jim Jarrell (President & COO)",
+    "URL": "https://www.linamar.com/",
+    "Address": "287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, Canada",
+    "Country": "Canada"
+}

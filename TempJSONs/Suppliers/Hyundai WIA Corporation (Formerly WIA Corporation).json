@@ -1,0 +1,21 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Integrated Driving Axle (ADA)": 1,
+        "Axle": 2
+    },
+    "buyers": {
+        "Kia": 3
+    },
+    "Year Established": "Mar. 29, 1976",
+    "Number of Employees": "Non-consolidated: 2,917 employees (as of Dec. 31, 2022)",
+    "Sales Turnover": "Consolidated: KRW 8,207,614 million (FY ended Dec. 31, 2022)",
+    "Representative": "Jeong Jae Wook (CEO)",
+    "Capital": "KRW 135,975 million (as of Dec. 31,2022)",
+    "URL": "http://en.hyundai-wia.com/main/main.asp",
+    "Address": "153 Jeongdong-ro, Seongsan-gu, Changwon, Gyeongnam, Korea",
+    "Country": "South Korea"
+}

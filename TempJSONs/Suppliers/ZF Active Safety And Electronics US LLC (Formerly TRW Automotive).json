@@ -2,19 +2,22 @@
     "top500": false,
     "parts_sold": {
         "Wiring Harness": 3,
-        "Clutch": 3
+        "Clutch": 3,
+        "Axle": 1
     },
     "specific_parts_sold": {
         "Wiring harness": 1,
         "Driver seat harness": 1,
         "Passenger seat harness": 1,
         "Clutch cover(S5-DPTS)(6MT)": 2,
-        "Clutch cover(P5-VP[RS])(6MT)": 1
+        "Clutch cover(P5-VP[RS])(6MT)": 1,
+        "Front axle drive": 1
     },
     "buyers": {
         "Ford": 1,
         "Citroen": 2,
-        "Mazda": 3
+        "Mazda": 3,
+        "Daimler": 1
     },
     "Country": "USA",
     "Address": "12001 Tech Center Drive, Livonia, Michigan 48150, United States",

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 17,
         "Rear Lamp": 14,
-        "Clutch": 6
+        "Clutch": 6,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 2,
@@ -19,7 +20,8 @@
         "Rear lamp(2.0T)(7DCT)": 2,
         "Rear lamp(1.5T)(7DCT)": 1,
         "Rear Lamp": 1,
-        "Clutch": 6
+        "Clutch": 6,
+        "Rear axle(2.0T)(6AMT)": 1
     },
     "suppliers": {
         "MIND Electronics Appliance Co., Ltd.": 2,
@@ -32,6 +34,7 @@
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
         "Beijing Hella BHAP Automotive Lighting Co., Ltd.": 1,
         "Laster Tech Automotive (Shanghai) Co., Ltd.": 1,
-        "Changchun Yidong Clutch Co., Ltd.": 6
+        "Changchun Yidong Clutch Co., Ltd.": 6,
+        "ZF Friedrichshafen AG": 1
     }
 }

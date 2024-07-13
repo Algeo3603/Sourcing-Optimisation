@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 23
+    },
+    "specific_parts_sold": {
+        "Axle": 18,
+        "Axle assembly": 2,
+        "Rear axle assembly": 2,
+        "Front axle assembly": 1
+    },
+    "buyers": {
+        "Isuzu": 2,
+        "Nissan": 21
+    },
+    "Country": "Japan",
+    "Address": "6-6-1 Okada, Samukawamachi, Koza-gun, Kanagawa-ken, 253-0105, Japan",
+    "TEL": "+81-467-75-1711",
+    "Year established": "Sep. 1964",
+    "URL": "https://www.nissan-kohki.jp/"
+}

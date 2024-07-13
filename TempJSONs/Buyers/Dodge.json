@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 14,
         "Rear Lamp": 10,
-        "Clutch": 4
+        "Clutch": 4,
+        "Axle": 8
     },
     "specific-parts-bought": {
         "Wiring harness": 7,
@@ -21,7 +22,13 @@
         "One-way clutch": 1,
         "Clutch hydraulic actuation system": 1,
         "Clutch": 1,
-        "Clutch(MT)": 1
+        "Clutch(MT)": 1,
+        "Rear axle system": 1,
+        "Independent rear axle": 2,
+        "Front axle drive": 1,
+        "Rear axle drive": 1,
+        "Axle drive": 1,
+        "Rear axle": 2
     },
     "suppliers": {
         "Yazaki North America Inc.": 3,
@@ -38,6 +45,8 @@
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 1,
         "BorgWarner Inc.": 1,
         "FTE automotive GmbH": 1,
-        "ZF Friedrichshafen AG": 2
+        "ZF Friedrichshafen AG": 6,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 3,
+        "Magna PT B.V. & Co. KG (Formerly Getrag B.V. & Co. KG)": 1
     }
 }

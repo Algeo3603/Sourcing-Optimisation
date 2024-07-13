@@ -1,0 +1,28 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 16
+    },
+    "specific_parts_sold": {
+        "Torsion beam rear axle": 2,
+        "Rear axle module": 10,
+        "Rear axle assemby": 1,
+        "Rear axle assembly": 2,
+        "Rear axle": 1
+    },
+    "buyers": {
+        "SAIC Volkswagen": 2,
+        "SAIC GM Wuling": 1,
+        "SAIC Passenger Vehicle": 2,
+        "Shanghai GM": 4,
+        "Shanghai Volkswagen": 7
+    },
+    "Country": "China",
+    "Address": "No.1493, South Pudong Road, Shanghai 200122, China",
+    "TEL": "+86-21-58201188",
+    "Year established": "Nov., 1996",
+    "URL": "https://www.shac.com.cn/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: HUAYU Automotive Systems Company Limited, -Plant: Shanghai, Yantai, Shenyang, Nanjing, Liuzhou, Baotou"
+}

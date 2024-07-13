@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 157,
         "Rear Lamp": 78,
-        "Clutch": 53
+        "Clutch": 53,
+        "Axle": 53
     },
     "specific-parts-bought": {
         "ABS wiring harness": 4,
@@ -39,7 +40,14 @@
         "Clutch line": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
         "Roller one-way clutche(4.6L)(8AT)": 2,
-        "Roller one-way clutche(3.8-Liter)(8-speed AT)": 1
+        "Roller one-way clutche(3.8-Liter)(8-speed AT)": 1,
+        "Axle": 25,
+        "Front axle": 11,
+        "Rear axle": 8,
+        "Front left drive axle seal": 1,
+        "IRS rear axle": 5,
+        "Rear coupled torsion beam axle": 2,
+        "Banjo rear axle": 1
     },
     "suppliers": {
         "Hyundai Mobis Co., Ltd.": 18,
@@ -72,6 +80,13 @@
         "Schaeffler AG": 1,
         "Nemak, S.A.B. de C.V.": 1,
         "TI Fluid Systems Plc. (Formerly TI Automotive Limited)": 1,
-        "ZF Friedrichshafen AG": 4
+        "ZF Friedrichshafen AG": 4,
+        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)": 25,
+        "Korea Movenex Co., Ltd. (Formerly Korea Flange Co., Ltd.)": 7,
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 1,
+        "Hyundai Transys Inc. - Seongyeon Plant (Formerly Hyundai Dymos, Inc.)": 11,
+        "Seohan Innobility Co., Ltd. (Formerly Seohan Industries Co., Ltd.)": 6,
+        "SKF USA Inc.": 1,
+        "Hwashin Co., Ltd.": 2
     }
 }

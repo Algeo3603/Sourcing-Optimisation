@@ -1,13 +1,23 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1
+        "Wiring Harness": 1,
+        "Axle": 15
     },
     "specific_parts_sold": {
-        "Wiring harness": 1
+        "Wiring harness": 1,
+        "Front & rear axle": 1,
+        "Axle": 4,
+        "Rear axle": 4,
+        "Axle assembly": 3,
+        "Front axle": 3
     },
     "buyers": {
-        "Audi": 1
+        "Audi": 2,
+        "Volkswagen": 3,
+        "BMW": 5,
+        "Porsche": 4,
+        "smart": 2
     },
     "Year Established": "999",
     "Number of Employees": "9,981  employees (As of Sep. 30, 2023)",

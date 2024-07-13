@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 26,
         "Rear Lamp": 37,
-        "Clutch": 12
+        "Clutch": 12,
+        "Axle": 7
     },
     "specific-parts-bought": {
         "Wiring harness": 8,
@@ -32,7 +33,11 @@
         "LED rear lamp": 1,
         "Clutch assembly": 1,
         "Clutch cover": 2,
-        "Clutch": 9
+        "Clutch": 9,
+        "Rear axle(1.5L)(5MT)": 1,
+        "Rear axle(1.5L)(CVT)": 1,
+        "Rear axle(1.5T)(CVT)": 1,
+        "Rear axle": 4
     },
     "suppliers": {
         "Wuhu Ruichang Electric Systems Co., Ltd.": 3,
@@ -50,6 +55,9 @@
         "Wuhu Hefeng Clutch Co., Ltd.": 2,
         "Nanjing Valeo Clutch Co., Ltd.": 1,
         "Changchun Yidong Clutch Co., Ltd.": 7,
-        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 1
+        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 1,
+        "Daao (Wuhu) Automobile Products Co., Ltd.(Formerly Tower (Wuhu) Automotive Parts Co., Ltd.)": 3,
+        "Shanxi Dongfeng Axle Transmission System Co., Ltd.": 2,
+        "Sichuan Jianan Industrial Co., Ltd.": 2
     }
 }

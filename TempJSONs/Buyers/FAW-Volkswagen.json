@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 123,
         "Rear Lamp": 38,
-        "Clutch": 13
+        "Clutch": 13,
+        "Axle": 17
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 8,
@@ -42,7 +43,17 @@
         "Clutch": 10,
         "Aluminum clutch housing": 1,
         "Clutch cover": 1,
-        "DL501 clutch module": 1
+        "DL501 clutch module": 1,
+        "Rear axle assembly": 3,
+        "Front axle assembly": 3,
+        "Double control arm axle": 1,
+        "Rear axle bracket": 1,
+        "Front & rear axle assembly": 1,
+        "Rear axle": 4,
+        "Rear axle module": 1,
+        "Front axle": 1,
+        "Front axle module": 1,
+        "Front & rear axle module": 1
     },
     "suppliers": {
         "Guangdong KSD Automotive Components Co., Ltd.": 18,
@@ -77,6 +88,12 @@
         "Ryobi Die Casting Dalian Co., Ltd.": 1,
         "BorgWarner United Transmission Systems Co., Ltd.": 1,
         "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 2,
-        "Changchun Yidong Clutch Co., Ltd.": 4
+        "Changchun Yidong Clutch Co., Ltd.": 4,
+        "Chengdu Jianxin Automobile Component Co., Ltd.": 5,
+        "Volkswagen FAW Platform Co., Ltd. Foshan Branch": 1,
+        "Chengdu Engley Automobile Parts Co., Ltd.": 1,
+        "Volkswagen FAW Platform Co., Ltd. Chengdu Branch": 6,
+        "ZF FAWER Chassis Technology (Changchun) Co., Ltd.": 1,
+        "TRW FAWER Automobile Safety Systems (Changchun) Co., Ltd.(TFASS)": 3
     }
 }

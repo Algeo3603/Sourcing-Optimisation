@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Rear axle beam": 3
+    },
+    "buyers": {
+        "Renault": 1,
+        "Nissan": 2
+    },
+    "Country": "India",
+    "Address": "Plot No.B5 & B6, SIPCOT Industrial Park, Pillaipakkam, Sriperumbudur Tq., Kancheepuram District, Tamil Nadu PIN - 602105, India",
+    "TEL": "+91-44-7115-8115",
+    "Year established": "Feb. 2011",
+    "URL": "http://www.yorozu-corp.co.jp/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: YOROZU Corporation 97.5%, JBM Auto system 2.5%"
+}

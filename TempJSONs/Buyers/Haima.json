@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 5
+        "Wiring Harness": 5,
+        "Axle": 2
     },
     "specific-parts-bought": {
-        "Wiring harness": 5
+        "Wiring harness": 5,
+        "Rear drive axle": 2
     },
     "suppliers": {
-        "Kaifeng Rijin Wiring Systems Co., Ltd.": 5
+        "Kaifeng Rijin Wiring Systems Co., Ltd.": 5,
+        "Sichuan Jianan Industrial Co., Ltd.": 2
     }
 }

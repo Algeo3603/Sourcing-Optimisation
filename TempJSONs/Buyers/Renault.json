@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 48,
         "Rear Lamp": 40,
-        "Clutch": 10
+        "Clutch": 10,
+        "Axle": 5
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -37,7 +38,10 @@
         "Stop lighting": 1,
         "Clutch": 6,
         "Diaphragm clutch": 2,
-        "Clutch mechanism": 2
+        "Clutch mechanism": 2,
+        "Rear axle beam": 3,
+        "Axle beam": 1,
+        "Axle": 1
     },
     "suppliers": {
         "Delfingen Industry S.A.": 4,
@@ -66,6 +70,10 @@
         "Lumax Industries Ltd.": 1,
         "Schaeffler India Limited": 1,
         "Schaeffler AG": 3,
-        "Schaeffler Automotive Buehl GmbH & Co. KG": 4
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 4,
+        "Yorozu Automotiva do Blasil Ltda.": 2,
+        "Yorozu JBM Automotive Tamil Nadu Pvt., Ltd.": 1,
+        "Sogefi S.p.A.": 1,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1
     }
 }

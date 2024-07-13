@@ -2,14 +2,16 @@
     "region": "Europe",
     "parts-bought": {
         "Rear Lamp": 2,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Rear lamp": 2,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 1
     },
     "suppliers": {
         "Ojsc Osvar": 2,
-        "ZF Friedrichshafen AG": 1
+        "ZF Friedrichshafen AG": 2
     }
 }

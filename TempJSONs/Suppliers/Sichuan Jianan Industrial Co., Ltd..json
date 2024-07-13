@@ -1,0 +1,28 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 22
+    },
+    "specific_parts_sold": {
+        "Rear twist beam axle": 3,
+        "Rear axle": 3,
+        "Drive axle": 6,
+        "Rear drive axle": 10
+    },
+    "buyers": {
+        "Changan": 12,
+        "Chery": 2,
+        "Dongfeng Liuzhou Motor": 1,
+        "Haima": 2,
+        "SAIC GM Wuling": 2,
+        "Zotye": 3
+    },
+    "Country": "China",
+    "Address": "No.6, Binhe East Road, Economic Development Zone, Yaan, Sichuan, China",
+    "TEL": "+86-835-2635399",
+    "Year established": "Dec. 1998",
+    "URL": "http://www.ja-auto.com",
+    "Quality certification": "ISO9001QS9000VDA6.1IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: China Chang'an Automobile Group Co., Ltd. -Enterprise nature: State Enterprise"
+}

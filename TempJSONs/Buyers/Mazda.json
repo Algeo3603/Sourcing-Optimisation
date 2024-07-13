@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 181,
         "Rear Lamp": 157,
-        "Clutch": 54
+        "Clutch": 54,
+        "Axle": 6
     },
     "specific-parts-bought": {
         "Engine wiring harness": 7,
@@ -42,7 +43,10 @@
         "Clutch plate": 13,
         "Lock-up clutch": 8,
         "One-way clutch": 1,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 2
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 2,
+        "Axle housing": 2,
+        "Axle shaft": 2,
+        "Axle assembly": 2
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 72,
@@ -77,6 +81,9 @@
         "Dynax Corporation": 20,
         "Means Industries, Inc.": 1,
         "GKN Driveline Tochigi Holdings KK": 1,
-        "ZF Friedrichshafen AG": 2
+        "ZF Friedrichshafen AG": 2,
+        "Thai Summit PKK Co., Ltd.": 2,
+        "Kawada Corporation": 2,
+        "Press Kogyo Co., Ltd.": 2
     }
 }

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 22,
         "Rear Lamp": 25,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 16
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 6,
@@ -23,7 +24,9 @@
         "Back door wiring harness": 1,
         "Rear lamp": 21,
         "Rear combination lamp": 4,
-        "Clutch housing": 1
+        "Clutch housing": 1,
+        "Front axle": 8,
+        "Rear axle": 8
     },
     "suppliers": {
         "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 3,
@@ -41,6 +44,7 @@
         "odelo GmbH": 18,
         "Valeo Group": 2,
         "OPmobility SE (Formerly Compagnie Plastic Omnium SE)": 2,
-        "Endurance Technologies Ltd.": 1
+        "Endurance Technologies Ltd.": 1,
+        "Force Motors - Chakan Plant": 16
     }
 }

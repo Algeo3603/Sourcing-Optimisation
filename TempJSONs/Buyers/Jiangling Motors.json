@@ -3,16 +3,21 @@
     "parts-bought": {
         "Wiring Harness": 5,
         "Rear Lamp": 3,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 5
     },
     "specific-parts-bought": {
         "Wiring harness": 5,
         "Rear lamp": 3,
-        "Clutch": 1
+        "Clutch": 1,
+        "Front axle": 3,
+        "Rear axle": 2
     },
     "suppliers": {
         "Aptiv Electric Systems Co., Ltd. Chongqing Branch": 2,
         "Chongqing Qinchuan Industry and Trade Co., Ltd.": 6,
-        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 1
+        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 1,
+        "Dana (Chongqing) Driveline Technology Co., Ltd.": 2,
+        "Jiangxi Jiangling Automobile Chassis Co., Ltd.": 3
     }
 }

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 80,
         "Rear Lamp": 20,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 4,
@@ -36,7 +37,8 @@
         "LED rear lamp": 3,
         "Rear lamp": 16,
         "Rear combination lamp": 1,
-        "Clutch": 1
+        "Clutch": 1,
+        "Torsion beam rear axle": 2
     },
     "suppliers": {
         "Kunshan Huguang Auto Harness Co., Ltd.": 32,
@@ -51,6 +53,7 @@
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
         "Shanghai Pudong Automotive Lamps Co., Ltd.": 2,
         "Koito Manufacturing Co., Ltd.": 1,
-        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 1
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 1,
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 2
     }
 }

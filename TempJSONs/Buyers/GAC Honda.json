@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 167,
         "Rear Lamp": 22,
-        "Clutch": 15
+        "Clutch": 15,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Body wiring harness(1.5T)(CVT)": 12,
@@ -62,7 +63,8 @@
         "Clutch cover": 1,
         "Clutch automatic control system(1.3L)": 1,
         "Clutch automatic control system(1.5L)": 1,
-        "Clutch automatic control system": 2
+        "Clutch automatic control system": 2,
+        "Rear axle beam": 1
     },
     "suppliers": {
         "Fujikura Zhuhai Ltd.": 14,
@@ -78,6 +80,7 @@
         "Guangzhou Stanley Electric Co., Ltd.": 9,
         "China FCC Foshan Co., Ltd.": 9,
         "Exedy Chongqing Co., Ltd.": 2,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 4
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 4,
+        "F-Tech Zhongshan Inc.": 1
     }
 }

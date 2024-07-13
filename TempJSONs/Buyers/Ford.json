@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 90,
         "Rear Lamp": 63,
-        "Clutch": 55
+        "Clutch": 55,
+        "Axle": 75
     },
     "specific-parts-bought": {
         "Wiring harness protector": 4,
@@ -51,7 +52,24 @@
         "Clutch system (clutch cover, clutch disk, release mechanism)": 3,
         "Low and reverse clutch assembly": 1,
         "Double clutch ( LuK )(2.0L)": 1,
-        "Dual clutch module": 1
+        "Dual clutch module": 1,
+        "Front axle": 10,
+        "Rear axle": 18,
+        "Rear axle shaft": 1,
+        "Rear axle cover": 10,
+        "Axle": 7,
+        "Axle component": 1,
+        "Front drive axle": 1,
+        "Rear drive axle": 1,
+        "Axle housing (via American Axle & Manufacturing (Thailand) Co., Ltd.)": 1,
+        "Axle shaft": 1,
+        "Front & rear axle": 4,
+        "Rear axle pinion": 7,
+        "Drive axle": 4,
+        "Front axle system": 1,
+        "Front & rear axle system": 5,
+        "Rear axle (4WD)": 2,
+        "Rear spring, rear axle system": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 2,
@@ -96,7 +114,7 @@
         "Visteon Corporation": 3,
         "FTE Mexicana, S.A. de C.V. (Valeo Mexico Puebla)": 1,
         "Means Industries, Inc.": 6,
-        "ZF Friedrichshafen AG": 5,
+        "ZF Friedrichshafen AG": 14,
         "F.C.C. Co., Ltd.": 6,
         "FCC (North America), Inc.": 1,
         "Means Transform Products - London, Ontario Canada (Formerly Transform Automotive Canada Ltd)": 1,
@@ -110,6 +128,15 @@
         "Zen S.A.": 1,
         "Schaeffler AG": 1,
         "KSR International Inc.": 1,
-        "BorgWarner Inc.": 1
+        "BorgWarner Inc.": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 41,
+        "Mid-West Forge Corporation": 1,
+        "Mobex Global": 10,
+        "Automatic Spring Products Corp.": 1,
+        "AAPICO Hitech Public Co., Ltd.": 3,
+        "AAPICO Amata Co., Ltd.": 1,
+        "Somboon Advance Technology Public Co., Ltd.": 1,
+        "Hirschvogel Group (Hirschvogel Holding GmbH)": 7,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1
     }
 }

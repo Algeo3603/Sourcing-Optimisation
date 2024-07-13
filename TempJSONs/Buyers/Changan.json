@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 26,
         "Rear Lamp": 20,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 18
     },
     "specific-parts-bought": {
         "Wiring harness": 3,
@@ -25,7 +26,12 @@
         "Rear combination lamp": 16,
         "Rear lamp": 3,
         "Rear lamp(1.8T)(6AMT)": 1,
-        "Clutch(1.6L)(4AMT)": 1
+        "Clutch(1.6L)(4AMT)": 1,
+        "Axle": 2,
+        "Rear axle": 5,
+        "Rear twist beam axle": 3,
+        "Drive axle": 5,
+        "Rear drive axle": 3
     },
     "suppliers": {
         "Chongqing Changhua Automobile Harness Co., Ltd.": 1,
@@ -36,6 +42,10 @@
         "Hubei Huazhong Magneti Marelli Automotive Lighting Co., Ltd.": 1,
         "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 2,
         "Danyang Yishan Lamp Equipments Manufacture Co., Ltd.": 1,
-        "Schaeffler (China) Co., Ltd.": 1
+        "Schaeffler (China) Co., Ltd.": 1,
+        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)": 1,
+        "Sichuan Hyundai-Transys Automotive System Co., Ltd.(Formerly Sichuan Hyundai-Dymos Automotive System Co., Ltd.)": 3,
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 2,
+        "Sichuan Jianan Industrial Co., Ltd.": 12
     }
 }

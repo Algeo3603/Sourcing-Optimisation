@@ -1,13 +1,15 @@
 {
     "top500": false,
     "parts_sold": {
-        "Rear Lamp": 2
+        "Rear Lamp": 2,
+        "Axle": 1
     },
     "specific_parts_sold": {
-        "Rear lamp": 2
+        "Rear lamp": 2,
+        "Rear axle": 1
     },
     "buyers": {
-        "AvtoVAZ": 2
+        "AvtoVAZ": 3
     },
     "Country": "Russia",
     "Address": "Russia, 445015, Samara region., Togliatti, ul. Makarova, House 23, Russia",

@@ -1,13 +1,25 @@
 {
     "top500": true,
     "parts_sold": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 69
     },
     "specific_parts_sold": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 13,
+        "Rear axle": 19,
+        "Front axle": 22,
+        "Indipendent rear drive axle": 6,
+        "Front & rear axle": 6,
+        "Front drive unit(3.0L)": 1,
+        "Rear drive axle": 2
     },
     "buyers": {
-        "Jeep": 1
+        "Jeep": 1,
+        "GM": 42,
+        "Ram Trucks": 20,
+        "Jaguar Land Rover": 5,
+        "Daimler": 2
     },
     "Year Established": "994",
     "Number of Employees": "9,000 employees (As of Dec. 31, 2023)",

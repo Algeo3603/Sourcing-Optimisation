@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 43,
         "Rear Lamp": 6,
-        "Clutch": 10
+        "Clutch": 10,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "Battery cable": 1,
@@ -52,7 +53,9 @@
         "Clutch(1.5T)(7DCT)": 1,
         "Clutch(1.5T)(6MT)": 1,
         "Clutch module": 1,
-        "Clutch module with integral torsional vibration damper": 1
+        "Clutch module with integral torsional vibration damper": 1,
+        "Rear axle assemby": 1,
+        "Rear axle assembly": 1
     },
     "suppliers": {
         "Shanghai Sanzhi Automobile Accessories Industrial Co., Ltd.": 1,
@@ -68,6 +71,7 @@
         "Ningbo Shenglong Automotive Powertrain System Co., Ltd.": 6,
         "Schaeffler (China) Co., Ltd.": 2,
         "BorgWarner Inc.": 1,
-        "BorgWarner United Transmission Systems Co., Ltd.": 1
+        "BorgWarner United Transmission Systems Co., Ltd.": 1,
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 2
     }
 }

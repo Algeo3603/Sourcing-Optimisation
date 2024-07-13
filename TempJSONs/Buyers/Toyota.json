@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 884,
         "Rear Lamp": 597,
-        "Clutch": 86
+        "Clutch": 86,
+        "Axle": 59
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 20,
@@ -107,7 +108,24 @@
         "Clutch friction plate and reactoin plate for automatic transmission": 8,
         "Clutch friction plate and reactoin plate for 4WD coupling": 2,
         "High capacity high damping clutch system": 3,
-        "Overrunning clutch": 1
+        "Overrunning clutch": 1,
+        "Transaxle housing cover for hybrid vehicle": 15,
+        "Forging for rear axle shaft (via JTEKT Automotive (Thailand) Co., Ltd.)": 4,
+        "Rear axle shaft": 15,
+        "Rear axle housing": 3,
+        "Rear axle shaft (via JTEKT (Thailand)": 2,
+        "Axle shaft (via Hino Motors Manufacturing (Thailand) Ltd.)": 2,
+        "Front right axle seal": 1,
+        "Front left axle seal": 1,
+        "Rear axle": 3,
+        "Transaxle housing for hybrid vehicle": 2,
+        "Axle": 2,
+        "Transaxle housing for hybrid vehicle (cold chamber die casting)": 1,
+        "Semi-axle": 2,
+        "Front axle": 1,
+        "Axle hub": 1,
+        "Front drive axle": 1,
+        "Axle assembly": 3
     },
     "suppliers": {
         "Yazaki Corporation": 370,
@@ -186,9 +204,22 @@
         "Dynax Corporation": 34,
         "PT. Aisin Indonesia": 11,
         "NSK Ltd.": 2,
-        "ZF Friedrichshafen AG": 1,
+        "ZF Friedrichshafen AG": 2,
         "BorgWarner Inc.": 9,
         "P.T. EXEDY Manufacturing Indonesia": 2,
-        "Univance Corporation": 1
+        "Univance Corporation": 1,
+        "Keihin Seimitsu Kogyo Co., Ltd.": 16,
+        "Aichi Forge (Thailand) Co., Ltd. (formerly Aichi International (Thailand) Co., Ltd.)": 10,
+        "Kyushu Yanagawa Seiki Co., Ltd.": 2,
+        "JTEKT Automotive (Thailand) Co., Ltd.": 2,
+        "Somboon Advance Technology Public Co., Ltd.": 4,
+        "D-ACT.Co., Ltd. (Formerly Aoi Machine Industry Co., Ltd.)": 3,
+        "SKF USA Inc.": 2,
+        "Toyota Kirloskar Auto Parts Pvt. Ltd.": 5,
+        "Toyota Motor East Japan Inc.": 1,
+        "GKN do Brasil Ltda.": 2,
+        "Chuo Malleable Iron Co., Ltd.": 1,
+        "PT. Aichi Forging Indonesia": 7,
+        "Toyota Motor East Japan Inc. - Miyagi Taiwa Plant (Formerly Toyota Mortor East Corporation)": 3
     }
 }

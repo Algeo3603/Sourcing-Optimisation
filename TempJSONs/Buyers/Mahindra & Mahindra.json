@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 27,
         "Rear Lamp": 29,
-        "Clutch": 13
+        "Clutch": 13,
+        "Axle": 15
     },
     "specific-parts-bought": {
         "Head lamp wiring harness": 1,
@@ -15,7 +16,14 @@
         "Rear combination lamp": 2,
         "Clutch assembly": 8,
         "Clutch": 3,
-        "Clutch cover": 2
+        "Clutch cover": 2,
+        "Torsion beam rear axle": 2,
+        "Rear axle shaft": 1,
+        "Rear axle": 8,
+        "Axle beam": 1,
+        "Axle": 1,
+        "Front axle assembly": 1,
+        "Front axle": 1
     },
     "suppliers": {
         "Essem Technodesign Pvt. Ltd. (Formerly ESSEM SRINISONS SYS. (P) LTD)": 1,
@@ -32,6 +40,13 @@
         "Valeo Engineering Center(India), Lighting Systems, Wiper Systems, Pvt. Ltd": 8,
         "Schaeffler India Limited": 2,
         "Schaeffler India Limited (Formerly Luk India Pvt. Ltd.)": 2,
-        "Valeo Group": 1
+        "Valeo Group": 1,
+        "ALF Engineering Pvt. Ltd.": 2,
+        "Talbros Engineering Ltd.": 1,
+        "Sandeep Axles Pvt. Ltd.": 1,
+        "Takshi Auto Components Pvt. Ltd.": 3,
+        "Dana Anand India Private Limited (Formerly Spicer India Private Limited)": 3,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 4,
+        "Sharda Motor Industries Ltd.": 1
     }
 }

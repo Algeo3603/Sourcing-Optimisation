@@ -2,7 +2,8 @@
     "top500": true,
     "parts_sold": {
         "Wiring Harness": 1,
-        "Rear Lamp": 259
+        "Rear Lamp": 259,
+        "Axle": 3
     },
     "specific_parts_sold": {
         "Wiring harness": 1,
@@ -23,7 +24,9 @@
         "LED rear lamp system": 1,
         "Rear lamp (LED/Halogen)": 1,
         "Reversing lamp": 5,
-        "LED rear lamp + bulb": 1
+        "LED rear lamp + bulb": 1,
+        "Rear axle": 2,
+        "Front axle": 1
     },
     "buyers": {
         "Nissan": 2,
@@ -38,9 +41,9 @@
         "Daimler": 13,
         "Honda": 4,
         "Porsche": 3,
-        "Alfa Romeo": 15,
+        "Alfa Romeo": 16,
         "Jeep": 4,
-        "Opel": 14,
+        "Opel": 15,
         "Changan Ford": 1,
         "Chrysler": 3,
         "Dongfeng Honda": 1,
@@ -62,7 +65,7 @@
         "SEAT": 5,
         "Suzuki": 2,
         "Volvo Cars": 6,
-        "Lancia": 4,
+        "Lancia": 5,
         "Skoda": 5,
         "Chery": 1,
         "Toyota": 1

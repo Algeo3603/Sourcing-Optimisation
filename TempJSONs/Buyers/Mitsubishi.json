@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 213,
         "Rear Lamp": 161,
-        "Clutch": 43
+        "Clutch": 43,
+        "Axle": 17
     },
     "specific-parts-bought": {
         "Wiring harness protector": 5,
@@ -49,7 +50,12 @@
         "Lock-up clutch": 14,
         "Clutch": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 1,
-        "One-way clutch for automatic transmission": 8
+        "One-way clutch for automatic transmission": 8,
+        "Axle housing": 6,
+        "Rear axle shaft": 2,
+        "Axle shaft": 2,
+        "Axle assembly": 6,
+        "Rear axle housing": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 5,
@@ -86,6 +92,11 @@
         "EXEDY Corporation": 5,
         "Dynax Corporation": 14,
         "ZF Friedrichshafen AG": 1,
-        "NSK Ltd.": 8
+        "NSK Ltd.": 8,
+        "Thai Summit PK Corporation Ltd.": 2,
+        "Somboon Advance Technology Public Co., Ltd.": 4,
+        "Thai Summit PKK Co., Ltd.": 5,
+        "Press Kogyo Co., Ltd.": 5,
+        "Arakawa Industry Co., Ltd.": 1
     }
 }

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 133,
         "Rear Lamp": 61,
-        "Clutch": 48
+        "Clutch": 48,
+        "Axle": 52
     },
     "specific-parts-bought": {
         "Low-voltage wiring harness": 4,
@@ -53,7 +54,15 @@
         "One-way clutch(AT)": 1,
         "Clutch set": 2,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 3,
-        "Clutch set (Luk)": 1
+        "Clutch set (Luk)": 1,
+        "Axle": 9,
+        "Indipendent rear drive axle": 6,
+        "Front axle": 15,
+        "Rear axle": 13,
+        "Drive axle": 3,
+        "Steer Axle": 3,
+        "Axle shaft (via American Axle & Manufacturing (Thailand) Co., Ltd.)": 2,
+        "Rear axle system": 1
     },
     "suppliers": {
         "Lear Corporation": 12,
@@ -104,7 +113,7 @@
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
         "Means Industries, Inc.": 13,
         "FTE automotive GmbH": 5,
-        "ZF Friedrichshafen AG": 4,
+        "ZF Friedrichshafen AG": 5,
         "ZF do Brasil Ltda. - Piraporinha": 8,
         "Zen S.A.": 4,
         "FTE automotive USA Inc.": 2,
@@ -112,6 +121,10 @@
         "Schaeffler Automotive Buehl GmbH & Co. KG": 1,
         "Schaeffler Transmission Systems, LLC – Wooster (Formerly LuK USA LLC)": 1,
         "Schaeffler Group USA Inc.": 1,
-        "Schaeffler AG": 1
+        "Schaeffler AG": 1,
+        "American Axle & Manufacturing Holdings, Inc.": 42,
+        "Benteler Componentes Automotivos Ltda.": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 6,
+        "Somboon Advance Technology Public Co., Ltd.": 2
     }
 }

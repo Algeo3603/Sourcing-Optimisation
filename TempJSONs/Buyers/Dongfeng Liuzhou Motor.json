@@ -3,16 +3,19 @@
     "parts-bought": {
         "Wiring Harness": 7,
         "Rear Lamp": 1,
-        "Clutch": 4
+        "Clutch": 4,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Speed sensor wiring harness": 7,
         "Rear combination lamp": 1,
-        "Clutch": 4
+        "Clutch": 4,
+        "Rear drive axle": 1
     },
     "suppliers": {
         "United Automotive Electronic Systems Co., Ltd. Liuzhou Branch": 7,
         "Nanning Liaowang Auto Lamp Co., Ltd.": 1,
-        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 4
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 4,
+        "Sichuan Jianan Industrial Co., Ltd.": 1
     }
 }

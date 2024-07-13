@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 33,
         "Rear Lamp": 34,
-        "Clutch": 19
+        "Clutch": 19,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "Engine wiring harness": 4,
@@ -31,7 +32,9 @@
         "Self-adjusting clutch": 1,
         "Diaphragm clutch": 1,
         "Self adjusting clutch": 1,
-        "Clutch mechanism": 2
+        "Clutch mechanism": 2,
+        "Rear axle": 1,
+        "Rear drive axle": 1
     },
     "suppliers": {
         "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
@@ -54,6 +57,8 @@
         "FTE automotive GmbH": 1,
         "ZF do Brasil Ltda. - Piraporinha": 1,
         "ZF Friedrichshafen AG": 9,
-        "Schaeffler Automotive Buehl GmbH & Co. KG": 3
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 3,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1,
+        "Dowlais Group plc": 1
     }
 }

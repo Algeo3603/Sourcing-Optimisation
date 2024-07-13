@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 1
+        "Rear Lamp": 1,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Rear combination lamp": 1
+        "Rear combination lamp": 1,
+        "Axle": 1
     },
     "suppliers": {
-        "Zhejiang Jiali (Lishui) Industry Co., Ltd.": 1
+        "Zhejiang Jiali (Lishui) Industry Co., Ltd.": 1,
+        "Sichuan Hyundai-Transys Automotive System Co., Ltd.(Formerly Sichuan Hyundai-Dymos Automotive System Co., Ltd.)": 1
     }
 }

@@ -1,0 +1,22 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Rear axle assemby": 1,
+        "Twist axle": 2
+    },
+    "buyers": {
+        "Volkswagen": 1,
+        "Chrysler": 1,
+        "Fiat": 1
+    },
+    "Year Established": "Feb. 1987",
+    "Number of Employees": "8,400 employees (As of Dec. 31, 2022)",
+    "Sales Turnover": "CAD 4,757.6 million (FY ended Dec. 31, 2022)",
+    "Representative": "Pat D'Eramo (President and CEO)",
+    "URL": "https://www.martinrea.com",
+    "Address": "3210 Langstaff Road, Vaughan, Ontario L4K 5B2, Canada",
+    "Country": "Canada"
+}

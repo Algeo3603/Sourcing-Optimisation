@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Rear axle": 1
+    },
+    "buyers": {
+        "Volkswagen": 1
+    },
+    "Country": "Mexico",
+    "Address": "Av. de la Noria No. 111, Queretaro, Qro. C.P. 76220 Mexico",
+    "TEL": "+52-442-211-3900",
+    "Year established": "1999",
+    "URL": "https://www.kirchhoff-automotive.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): KIRCHHOFF Automotive GmbH & Co. KG"
+}

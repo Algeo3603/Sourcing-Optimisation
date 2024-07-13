@@ -2,19 +2,22 @@
     "region": "Americas",
     "parts-bought": {
         "Wiring Harness": 5,
-        "Rear Lamp": 4
+        "Rear Lamp": 4,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Battery cable": 1,
         "Busbar": 1,
         "High-voltage wiring harness": 3,
-        "LED rear lamp": 4
+        "LED rear lamp": 4,
+        "Axle disconnect module": 1
     },
     "suppliers": {
         "Coficab -Tunisie": 1,
         "Ennovi Holdings Pte. Ltd. (Formerly Interplex Holdings Pte. Ltd.)": 1,
         "Gentherm Inc.  (Formerly Amerigon Inc.)": 3,
         "Varroc Lighting Systems - Morocco": 2,
-        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)": 2
+        "Plastic Omnium Lighting Systems Inc. - Plymouth (Formerly Varroc Lighting Systems, Inc.)": 2,
+        "Means Industries, Inc.": 1
     }
 }

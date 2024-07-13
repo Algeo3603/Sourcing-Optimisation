@@ -1,20 +1,31 @@
 {
     "top500": true,
     "parts_sold": {
-        "Rear Lamp": 14
+        "Rear Lamp": 14,
+        "Axle": 6
     },
     "specific_parts_sold": {
         "Rear lamp housing": 7,
-        "Rear lamp": 7
+        "Rear lamp": 7,
+        "Front axle": 1,
+        "Front & rear axle": 1,
+        "Electric rear axle drive system": 2,
+        "Front axle drive": 1,
+        "Rear axle drive": 1
     },
     "buyers": {
         "GM": 3,
-        "Volkswagen": 4,
+        "Volkswagen": 5,
         "Dodge": 1,
         "Chrysler": 2,
         "Ram Trucks": 2,
         "BMW": 1,
-        "Aston Martin": 1
+        "Aston Martin": 1,
+        "Bentley": 1,
+        "Volvo cars": 1,
+        "Volvo Cars": 1,
+        "Porsche": 1,
+        "Skoda": 1
     },
     "Year Established": "961",
     "Number of Employees": "79,000 employees (As of Dec. 31, 2023)",

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 274,
         "Rear Lamp": 156,
-        "Clutch": 52
+        "Clutch": 52,
+        "Axle": 8
     },
     "specific-parts-bought": {
         "Engine wiring harness": 20,
@@ -49,7 +50,9 @@
         "Clutch plate": 4,
         "Clutch plate (through JATCO)": 4,
         "Clutch for manual transmission": 6,
-        "Manual transmission clutch": 1
+        "Manual transmission clutch": 1,
+        "Rear axle": 4,
+        "Rear axle housing": 4
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 73,
@@ -83,6 +86,9 @@
         "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 3,
         "P.T. EXEDY Manufacturing Indonesia": 1,
         "Dynax Corporation": 8,
-        "Suzuki Auto Parts Mfg. Co., Ltd.": 3
+        "Suzuki Auto Parts Mfg. Co., Ltd.": 3,
+        "PT. Yorozu Automotive Indonesia": 1,
+        "Suzuki Akita Auto Parts Mfg. Co., Ltd.": 4,
+        "Okamoto Press Industry Co., Ltd.": 3
     }
 }

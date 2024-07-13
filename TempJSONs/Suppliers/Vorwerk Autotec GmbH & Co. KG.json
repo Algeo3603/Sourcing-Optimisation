@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Rear axle guide": 1
+    },
+    "buyers": {
+        "BMW": 1
+    },
+    "Country": "Germany",
+    "Address": "Obere Lichtenplatzer Str. 336, 42287 Wuppertal, Germany",
+    "TEL": "+49-202-560-0",
+    "URL": "https://www.vorwerk-autotec.de/",
+    "Quality certification": "QS9000VDA6.1IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Shareholders: Vorwerk & Sohn GmbH & Co. KG"
+}

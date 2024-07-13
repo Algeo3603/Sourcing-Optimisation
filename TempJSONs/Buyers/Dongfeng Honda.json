@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 217,
         "Rear Lamp": 23,
-        "Clutch": 8
+        "Clutch": 8,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "Body wiring harness(1.5T)(CVT)": 35,
@@ -44,7 +45,8 @@
         "LED rear lamp": 1,
         "Signal lamp": 2,
         "Clutch": 7,
-        "Clutch cover": 1
+        "Clutch cover": 1,
+        "Rear axle beam": 2
     },
     "suppliers": {
         "Fujikura Zhuhai Ltd.": 24,
@@ -63,6 +65,7 @@
         "Guangzhou Koito Automotive Lamp Co., Ltd.": 4,
         "Koito Manufacturing Co., Ltd.": 1,
         "China FCC Foshan Co., Ltd.": 6,
-        "Exedy Chongqing Co., Ltd.": 2
+        "Exedy Chongqing Co., Ltd.": 2,
+        "F-Tech Wuhan Inc.": 2
     }
 }

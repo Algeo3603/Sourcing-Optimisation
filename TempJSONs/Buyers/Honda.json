@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 624,
         "Rear Lamp": 343,
-        "Clutch": 119
+        "Clutch": 119,
+        "Axle": 41
     },
     "specific-parts-bought": {
         "Battery wiring harness": 6,
@@ -86,7 +87,9 @@
         "CVT starting clutch": 1,
         "CVT forward clutch": 3,
         "Overrunning clutch for automatic transmission": 1,
-        "Differential system clutch with cam function": 1
+        "Differential system clutch with cam function": 1,
+        "Axle beam": 6,
+        "Rear axle beam": 35
     },
     "suppliers": {
         "Sumitomo Electric Wiring Systems, Inc.": 11,
@@ -153,6 +156,12 @@
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 1,
         "Schaeffler AG": 2,
         "Dynax Corporation": 1,
-        "Univance Corporation": 1
+        "Univance Corporation": 1,
+        "F-Tech Mfg. (Thailand) Ltd.": 6,
+        "F-TECH Inc.": 6,
+        "Yorozu (Thailand) Co., Ltd.": 14,
+        "PT. F.Tech Indonesia": 1,
+        "Yorozu Corp.": 7,
+        "Y-Ogura Automotive (Thailand) Co., Ltd.": 7
     }
 }

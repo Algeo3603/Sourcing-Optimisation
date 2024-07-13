@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 82,
         "Rear Lamp": 63,
-        "Clutch": 17
+        "Clutch": 17,
+        "Axle": 35
     },
     "specific-parts-bought": {
         "Door module wiring harness (via Brose (Thailand))": 9,
@@ -48,7 +49,17 @@
         "Self-adjusting clutch": 1,
         "AWD differential clutch": 2,
         "Clutch set (MT diesel & gasoline)": 1,
-        "Hydrodynamically cooled clutch (HCC)": 2
+        "Hydrodynamically cooled clutch (HCC)": 2,
+        "Axle": 10,
+        "Axle drive": 1,
+        "Front axle": 2,
+        "Axle system": 4,
+        "Front axle drive": 2,
+        "Rear axle": 2,
+        "Rear axle housing": 3,
+        "Rear drive axle": 2,
+        "Front & rear axle system": 8,
+        "Rear drive unit, rear axle system": 1
     },
     "suppliers": {
         "DTS Dräxlmaier Automotive Systems (Thailand) Co., Ltd. - Samutprakarn Plant": 36,
@@ -78,11 +89,19 @@
         "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 2,
         "Leopold Kostal GmbH & Co. KG": 1,
         "Endurance Technologies Ltd.": 1,
-        "ZF Friedrichshafen AG": 3,
+        "ZF Friedrichshafen AG": 19,
         "FTE automotive GmbH": 3,
         "Schaeffler AG": 2,
         "KSM Castings Group GmbH": 1,
         "F.C.C. Co., Ltd.": 2,
-        "Schaeffler Automotive Buehl GmbH & Co. KG": 1
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 1,
+        "Force Motors - Chakan Plant": 9,
+        "Dowlais Group plc": 1,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 1,
+        "Georg Fischer AG": 3,
+        "American Axle & Manufacturing Holdings, Inc.": 2,
+        "Federal-Mogul Holdings LLC": 1,
+        "Shiloh Industries, Inc. - Pleasant Prairie Plant": 1,
+        "NTN Corporation": 1
     }
 }

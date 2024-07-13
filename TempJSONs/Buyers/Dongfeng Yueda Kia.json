@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 154,
-        "Clutch": 2
+        "Clutch": 2,
+        "Axle": 4
     },
     "specific-parts-bought": {
         "High voltage wiring harness": 1,
@@ -21,13 +22,17 @@
         "Cable": 10,
         "Wiring harness": 11,
         "Clutch automatic control system": 1,
-        "Clutch automatic control system(1.6L)": 1
+        "Clutch automatic control system(1.6L)": 1,
+        "Rear axle": 1,
+        "Rear axle(2.0L)(AMT)": 2,
+        "Axle": 1
     },
     "suppliers": {
         "YURA Corporation": 1,
         "Jiangsu Kyungshin Electronic Co., Ltd.": 132,
         "Qingdao Kyungshin Cable Co., Ltd.": 10,
         "Sanhe INFAC Automotive Components Co., Ltd.": 11,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 2
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 2,
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 4
     }
 }

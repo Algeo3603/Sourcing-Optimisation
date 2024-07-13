@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 24,
         "Rear Lamp": 45,
-        "Clutch": 3
+        "Clutch": 3,
+        "Axle": 15
     },
     "specific-parts-bought": {
         "Wiring harness": 15,
@@ -23,7 +24,13 @@
         "Full-LED rear lamp with thick light blades": 1,
         "Clutch line": 1,
         "FF9 speed automatic transmission clutch (Transmission: ZF)": 1,
-        "Clutch system": 1
+        "Clutch system": 1,
+        "Front axle": 2,
+        "Rear axle": 4,
+        "Axle": 5,
+        "Axle system": 1,
+        "Front drive unit(3.0L)": 1,
+        "Front & rear axle system": 2
     },
     "suppliers": {
         "Leoni AG": 7,
@@ -50,6 +57,10 @@
         "Grupo Antolin Besancon S.A.S.": 1,
         "FTE automotive GmbH": 1,
         "F.C.C. Co., Ltd.": 1,
-        "Dowlais Group plc": 1
+        "Dowlais Group plc": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 5,
+        "American Axle & Manufacturing Holdings, Inc.": 5,
+        "ZF Friedrichshafen AG": 3,
+        "NTN Corporation": 2
     }
 }

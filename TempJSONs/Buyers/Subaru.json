@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 175,
         "Rear Lamp": 120,
-        "Clutch": 10
+        "Clutch": 10,
+        "Axle": 6
     },
     "specific-parts-bought": {
         "Back-up lamp wiring harness": 1,
@@ -41,7 +42,8 @@
         "LED rear lamp": 5,
         "Clutch cover": 8,
         "CVT clutch": 1,
-        "Clutch cover(KF)(5MT)": 1
+        "Clutch cover(KF)(5MT)": 1,
+        "Rear axle housing": 6
     },
     "suppliers": {
         "Furukawa Electric Co., Ltd.": 26,
@@ -68,6 +70,7 @@
         "North American Lighting, Inc.": 3,
         "EXEDY Corporation": 8,
         "F.C.C. Co., Ltd.": 1,
-        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 1
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.)": 1,
+        "D-ACT.Co., Ltd. (Formerly Aoi Machine Industry Co., Ltd.)": 6
     }
 }

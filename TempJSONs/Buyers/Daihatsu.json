@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 258,
         "Rear Lamp": 132,
-        "Clutch": 26
+        "Clutch": 26,
+        "Axle": 21
     },
     "specific-parts-bought": {
         "Back door wiring harness": 12,
@@ -44,7 +45,12 @@
         "Clutch": 2,
         "Clutch cover assembly": 3,
         "Clutch cover for CVT": 1,
-        "One-way clutch for automatic transmission": 7
+        "One-way clutch for automatic transmission": 7,
+        "Rear axle housing": 9,
+        "Axle assembly": 2,
+        "Rear axle housing (through Asano Gear)": 2,
+        "Rear axle shaft": 5,
+        "Rear axle assembly": 3
     },
     "suppliers": {
         "Sumitomo Electric Industries, Ltd.": 81,
@@ -68,6 +74,9 @@
         "PT. Aisin Indonesia": 5,
         "P.T. EXEDY Manufacturing Indonesia": 3,
         "EXEDY Corporation": 1,
-        "NSK Ltd.": 7
+        "NSK Ltd.": 7,
+        "D-ACT.Co., Ltd. (Formerly Aoi Machine Industry Co., Ltd.)": 11,
+        "Asano Gear Co., Ltd.": 5,
+        "PT. Aichi Forging Indonesia": 5
     }
 }

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 29,
         "Rear Lamp": 45,
-        "Clutch": 9
+        "Clutch": 9,
+        "Axle": 8
     },
     "specific-parts-bought": {
         "Battery wiring harness": 4,
@@ -20,7 +21,10 @@
         "Rear combination lamp": 6,
         "Clutch housing": 1,
         "Clutch cover": 7,
-        "Clutch": 1
+        "Clutch": 1,
+        "Rear axle": 5,
+        "Axle beam": 2,
+        "Front axle": 1
     },
     "suppliers": {
         "Yazaki India Private Ltd. (Formerly, Tata Yazaki Autocomp Ltd.)": 19,
@@ -38,6 +42,9 @@
         "India Japan Lighting Pvt. Ltd.": 1,
         "Endurance Technologies Ltd.": 1,
         "EXEDY India Ltd. - Greater Noida Plant": 7,
-        "Valeo Group": 1
+        "Valeo Group": 1,
+        "Dana Anand India Private Limited (Formerly Spicer India Private Limited)": 1,
+        "Takshi Auto Components Pvt. Ltd.": 5,
+        "Sandeep Axles Pvt. Ltd.": 2
     }
 }

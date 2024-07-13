@@ -1,0 +1,28 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 30
+    },
+    "specific_parts_sold": {
+        "Front axle": 5,
+        "Rear axle": 8,
+        "IRS rear axle": 10,
+        "Banjo rear axle": 1,
+        "IFS front axle": 3,
+        "IOP front axle": 1,
+        "Built-up rear axle": 2
+    },
+    "buyers": {
+        "Hyundai": 11,
+        "Kia": 8,
+        "SsangYong": 11
+    },
+    "Year Established": "May 1998",
+    "Number of Employees": "Non-Consolidated 3,926 employees (As of Dec. 31, 2022)",
+    "Sales Turnover": "Consolidated : KRW 10,256,254 million (FY 2022)",
+    "Representative": "Yeo, Su-Dong (CEO)",
+    "Capital": "KRW 409,489 million (As of Dec. 31, 2022)",
+    "URL": "https://www.hyundai-transys.com/",
+    "Address": "105, Sindang 1-ro, Seongyeon-myeon, Seosan-si, Chungcheongnam-do, Korea",
+    "Country": "South Korea"
+}

@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 44,
         "Rear Lamp": 72,
-        "Clutch": 26
+        "Clutch": 26,
+        "Axle": 21
     },
     "specific-parts-bought": {
         "Wiring harness": 19,
@@ -19,7 +20,12 @@
         "Rear lamp bulb": 1,
         "Clutch assembly": 12,
         "Clutch cover": 11,
-        "Clutch": 3
+        "Clutch": 3,
+        "Axle housing": 12,
+        "Front axle assembly": 1,
+        "Rear axle assembly": 1,
+        "Rear axle": 6,
+        "Rear axle beam": 1
     },
     "suppliers": {
         "Furukawa Minda Electric Private Limited (FME)": 5,
@@ -38,6 +44,9 @@
         "Koito Manufacturing Co., Ltd.": 2,
         "Valeo Group": 12,
         "EXEDY India Ltd. - Greater Noida Plant": 12,
-        "Schaeffler Automotive Buehl GmbH & Co. KG": 2
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 2,
+        "SKH Metals Ltd.": 12,
+        "JTEKT India Limited (Formerly Sona Koyo Steering Systems Ltd.)": 2,
+        "Jay Bharat Maruti Ltd. (JBML)": 7
     }
 }

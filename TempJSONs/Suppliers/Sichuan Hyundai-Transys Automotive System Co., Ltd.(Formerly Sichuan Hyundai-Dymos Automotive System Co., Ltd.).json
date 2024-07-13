@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 4
+    },
+    "specific_parts_sold": {
+        "Axle": 2,
+        "Rear axle": 2
+    },
+    "buyers": {
+        "Changan": 3,
+        "SAIC Maxus": 1
+    },
+    "Country": "China",
+    "Address": "No.2-1, Xiandai Road, Economic Development Zone, Ziyang, Sichuan, China",
+    "TEL": "+86-28-2660-2115",
+    "Year established": "Dec. 2012",
+    "URL": "http://www.hyundai-transys.com/en",
+    "Remarks": "-Shareholder：Hyundai Transys Inc."
+}

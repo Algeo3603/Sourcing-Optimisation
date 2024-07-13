@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 465,
         "Rear Lamp": 297,
-        "Clutch": 38
+        "Clutch": 38,
+        "Axle": 55
     },
     "specific-parts-bought": {
         "Wiring harness protector": 3,
@@ -73,7 +74,19 @@
         "Dry type multi-plate clutch": 2,
         "Clutch set": 2,
         "Mechanical clutch unit for steer by wire backup": 1,
-        "Overrunning clutch": 1
+        "Overrunning clutch": 1,
+        "Axle housing": 6,
+        "Axle oil seal": 6,
+        "Axle": 16,
+        "Rear axle": 1,
+        "Axle assembly": 6,
+        "Rear axle assembly": 2,
+        "Rear axle beam": 7,
+        "Axle bumper": 7,
+        "Rear axle shaft": 1,
+        "Front axle assembly": 1,
+        "Rear axle (4WD)": 1,
+        "Twist beam rear axle": 1
     },
     "suppliers": {
         "Armstrong Rubber & Chemical Products Co., Ltd. - Chachoengsao Plant": 3,
@@ -144,8 +157,21 @@
         "Schaeffler AG": 2,
         "P.T. EXEDY Manufacturing Indonesia": 1,
         "Schaeffler Transmission Systems, LLC – Wooster (Formerly LuK USA LLC)": 2,
-        "NTN Corporation": 1,
+        "NTN Corporation": 2,
         "ZF Friedrichshafen AG": 1,
-        "Univance Corporation": 1
+        "Univance Corporation": 1,
+        "Thai Summit PK Corporation Ltd.": 2,
+        "Keeper Co., Ltd.": 6,
+        "Nissan Kohki Co., Ltd.": 21,
+        "Dana Incorporated (Formerly Dana Holding Corporation)": 1,
+        "Thai Summit PKK Co., Ltd.": 4,
+        "Yorozu (Thailand) Co., Ltd.": 2,
+        "Yorozu JBM Automotive Tamil Nadu Pvt., Ltd.": 2,
+        "PT. Yorozu Automotive Indonesia": 2,
+        "Kinugawa (Thailand) Co., Ltd.": 5,
+        "CPR Gomu Industrial Public Co., Ltd.": 2,
+        "Siam Metal Technology Co., Ltd.": 1,
+        "Yorozu Corp.": 2,
+        "Press Kogyo Co., Ltd.": 4
     }
 }

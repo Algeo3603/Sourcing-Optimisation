@@ -1,0 +1,27 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 18
+    },
+    "specific_parts_sold": {
+        "Rear axle shaft": 9,
+        "Axle shaft": 5,
+        "Axle shaft (via American Axle & Manufacturing (Thailand) Co., Ltd.)": 2,
+        "Axle shaft (via Hino Motors Manufacturing (Thailand) Ltd.)": 2
+    },
+    "buyers": {
+        "Hino": 1,
+        "Isuzu": 6,
+        "Mitsubishi": 4,
+        "Toyota": 4,
+        "Ford": 1,
+        "GM": 2
+    },
+    "Number of Employees": ",159 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "THB 9,089.4 million (FY ended Dec. 31, 2023)",
+    "Representative": "Sansern Wongcha-um (Chairman), Napatsorn Kitaphanich (President)",
+    "Capital": "THB 425.19 million (CY2023)",
+    "URL": "http://www.satpcl.co.th",
+    "Address": "215 Moo 2, Debaratna Road, Bangchalong, Bangplee, Samutprakarn 10540, Thailand",
+    "Country": "Thailand"
+}

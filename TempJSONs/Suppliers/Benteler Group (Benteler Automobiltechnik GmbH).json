@@ -1,0 +1,30 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 17
+    },
+    "specific_parts_sold": {
+        "Rear axle": 8,
+        "Rear axle module": 2,
+        "Front axle": 6,
+        "Torsion beam rear axle": 1
+    },
+    "buyers": {
+        "DS Automobiles": 1,
+        "Peugeot": 1,
+        "Skoda": 1,
+        "Volkswagen": 5,
+        "Audi": 3,
+        "Lamborghini": 1,
+        "SEAT": 2,
+        "Changan Ford": 1,
+        "Qoros": 1,
+        "Lancia": 1
+    },
+    "Number of Employees": "0,990 employees (2023 average)",
+    "Sales Turnover": "EUR 8,787 million (FY ended Dec. 31, 2023)",
+    "Representative": "Ralf Goettel (Chief Executive Officer)",
+    "URL": "https://www.benteler.com/en/",
+    "Address": "Schillerstraße 25-27 5020 Salzburg Austria",
+    "Country": "Austria"
+}

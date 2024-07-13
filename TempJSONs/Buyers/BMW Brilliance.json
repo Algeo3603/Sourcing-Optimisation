@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 34,
-        "Rear Lamp": 3
+        "Rear Lamp": 3,
+        "Axle": 17
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 3,
@@ -26,7 +27,11 @@
         "Meter wiring harness": 2,
         "Reverse radar wiring harness": 1,
         "Rear combination lamp": 1,
-        "Rear lamp": 2
+        "Rear lamp": 2,
+        "Front axle": 5,
+        "Rear axle": 6,
+        "Front axle beam": 1,
+        "Axle": 5
     },
     "suppliers": {
         "Leoni Wiring Systems (Tieling) Co., Ltd.": 3,
@@ -36,6 +41,12 @@
         "Dräxlmaier (Shenyang) Automotive Components Co., Ltd.": 20,
         "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
         "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.": 1,
-        "Magna Lighting (Jiaxing) Co., Ltd. (Formerly Jiaxing OLSA Auto Parts Corporation)": 1
+        "Magna Lighting (Jiaxing) Co., Ltd. (Formerly Jiaxing OLSA Auto Parts Corporation)": 1,
+        "Gestamp Auto Components (Beijing) Co., Ltd.": 2,
+        "Shanghai Benteler Huizhong Automotive Company Ltd.": 1,
+        "ZF Lemforder Automotive Systems (Shenyang) Co., Ltd.": 8,
+        "ZF Friedrichshafen AG": 1,
+        "Gestamp Auto Components (Shenyang) Co., Ltd.": 3,
+        "ZF Group (China)": 2
     }
 }

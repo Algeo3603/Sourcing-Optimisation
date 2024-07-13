@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 5
+    },
+    "specific_parts_sold": {
+        "Rear axle": 3,
+        "Front axle": 1,
+        "Axle": 1
+    },
+    "buyers": {
+        "Toyota": 5
+    },
+    "Country": "India",
+    "Address": "Plot No. 21, Bidadi Industrial Area, Ramanagaram Taluk, Bangalore (Rural) District - 562 109, India",
+    "TEL": "+91-80-27287141",
+    "Year established": "May.2004",
+    "URL": "https://www.tkap.com/",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Toyota Motor Corporation 64%, Aisin Corporation 26%, Kirloskar Systems Ltd. 10%"
+}

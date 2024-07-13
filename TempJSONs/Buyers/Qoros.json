@@ -2,14 +2,24 @@
     "region": "China",
     "parts-bought": {
         "Wiring Harness": 1,
-        "Rear Lamp": 1
+        "Rear Lamp": 1,
+        "Axle": 7
     },
     "specific-parts-bought": {
         "Engine wiring harness": 1,
-        "Rear lamp": 1
+        "Rear lamp": 1,
+        "Front axle assembly": 2,
+        "Rear axle assemby": 1,
+        "Rear axle assembly": 1,
+        "Rear axle module": 1,
+        "Front axle": 1,
+        "Rear axle": 1
     },
     "suppliers": {
         "Aptiv PLC (Formerly Delphi Automotive PLC)": 1,
-        "Valeo Ichikoh (China) Auto Lighting Co., Ltd.": 1
+        "Valeo Ichikoh (China) Auto Lighting Co., Ltd.": 1,
+        "Benteler Automotive (Changshu) Co., Ltd.": 4,
+        "Benteler Group (Benteler Automobiltechnik GmbH)": 1,
+        "Shanghai Benteler Huizhong Automotive Company Ltd.": 2
     }
 }

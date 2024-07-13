@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 39,
         "Rear Lamp": 41,
-        "Clutch": 21
+        "Clutch": 21,
+        "Axle": 49
     },
     "specific-parts-bought": {
         "High-voltage wiring harness": 7,
@@ -27,7 +28,17 @@
         "Clutch module for 8-speed automatic transmission": 1,
         "Clutch module(3.3L V6)(8AT)": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
-        "Roller one-way clutche(4.6L)(8AT)": 1
+        "Roller one-way clutche(4.6L)(8AT)": 1,
+        "Integrated Driving Axle (ADA)": 1,
+        "Axle": 8,
+        "Front axle": 5,
+        "Front axle assembly": 7,
+        "Front axle hub assembly": 9,
+        "Rear axle assembly": 6,
+        "Front & rear axle assembly": 5,
+        "Rear axle": 3,
+        "IRS rear axle": 4,
+        "IFS front axle": 1
     },
     "suppliers": {
         "Kyungshin Corporation": 3,
@@ -54,6 +65,12 @@
         "Endurance Technologies Ltd.": 1,
         "Samkee Corp. (Formerly Samkee Automotive Co., Ltd.)": 8,
         "BorgWarner Inc.": 3,
-        "ZF Friedrichshafen AG": 4
+        "ZF Friedrichshafen AG": 4,
+        "Hyundai WIA Corporation (Formerly WIA Corporation)": 3,
+        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)": 6,
+        "Korea Movenex Co., Ltd. (Formerly Korea Flange Co., Ltd.)": 3,
+        "Hanil Precision Ind. Co., Ltd.": 22,
+        "Seohan Innobility Co., Ltd. (Formerly Seohan Industries Co., Ltd.)": 7,
+        "Hyundai Transys Inc. - Seongyeon Plant (Formerly Hyundai Dymos, Inc.)": 8
     }
 }

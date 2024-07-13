@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 5
+    },
+    "specific_parts_sold": {
+        "Rear axle": 2,
+        "Front axle": 3
+    },
+    "buyers": {
+        "Jiangling Holding": 2,
+        "Jiangling Motors": 3
+    },
+    "Country": "China",
+    "Address": "No.168, Jinni Street, Jinchao Economic Development Zone, Fushun, Jiangxi, China",
+    "TEL": "+86-794-8623193",
+    "Year established": "Nov. 1994",
+    "URL": "http://www.jlchassis.com",
+    "Quality certification": "ISO9001",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Jiangling Motors Group Co., Ltd."
+}

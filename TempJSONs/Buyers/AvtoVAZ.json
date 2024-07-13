@@ -1,13 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Rear Lamp": 3
+        "Rear Lamp": 3,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Rear lamp": 3
+        "Rear lamp": 3,
+        "Rear axle": 1
     },
     "suppliers": {
         "Neolite ZKW Lightings Pvt. Ltd.": 1,
-        "Motor Super": 2
+        "Motor Super": 3
     }
 }

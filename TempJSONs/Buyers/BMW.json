@@ -3,7 +3,8 @@
     "parts-bought": {
         "Wiring Harness": 75,
         "Rear Lamp": 143,
-        "Clutch": 13
+        "Clutch": 13,
+        "Axle": 32
     },
     "specific-parts-bought": {
         "Wiring harness protector": 2,
@@ -58,7 +59,20 @@
         "Clutch": 5,
         "Hydraulic clutch actuation system": 1,
         "One-way clutch (for 6 speed automatic transmission)": 1,
-        "Clutch hydraulic actuation system": 2
+        "Clutch hydraulic actuation system": 2,
+        "Front axle beam": 1,
+        "Rear axle guide": 1,
+        "Rear axle": 5,
+        "Front axle": 5,
+        "Rear axle housing": 2,
+        "Axle system": 3,
+        "Front axle system": 1,
+        "Axle assembly": 2,
+        "Vector drive rear axle drive": 2,
+        "Axle drive": 2,
+        "Axle": 1,
+        "Front & rear axle system": 5,
+        "Rear axle drive": 2
     },
     "suppliers": {
         "Delfingen Industry S.A.": 3,
@@ -100,6 +114,15 @@
         "Schaeffler AG": 1,
         "BorgWarner Inc.": 1,
         "FTE automotive USA Inc.": 1,
-        "Schaeffler Automotive Buehl GmbH & Co. KG": 2
+        "Schaeffler Automotive Buehl GmbH & Co. KG": 2,
+        "KIRCHHOFF Automotive AG": 1,
+        "Vorwerk Autotec GmbH & Co. KG": 1,
+        "Gestamp Automocion S.A.": 4,
+        "LTH Castings d.o.o.": 1,
+        "ZF Friedrichshafen AG": 17,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.)": 1,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG)": 5,
+        "JTEKT Sales Deutschland GmbH (Formerly Koyo Deutschland GmbH)": 1,
+        "Georg Fischer AG": 1
     }
 }
