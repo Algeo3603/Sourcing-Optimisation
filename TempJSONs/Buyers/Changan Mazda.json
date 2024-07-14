@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 25
+        "Shock Absorber": 25,
+        "Clutch": 2
     },
     "specific-parts-bought": {
         "Front shock absorber": 1,
@@ -13,12 +14,15 @@
         "Shock absorber piston": 1,
         "Shock absorber base": 1,
         "Shock absorber": 4,
-        "Shock absorber piston rod": 4
+        "Shock absorber piston rod": 4,
+        "Clutch": 1,
+        "Clutch cover": 1
     },
     "suppliers": {
         "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 3,
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 14,
         "Chengdu Ningjiang Showa Autoparts Co., Ltd.:Shock Absorber": 4,
-        "Chongqing Beite Technology Co., Ltd.:Shock Absorber": 4
+        "Chongqing Beite Technology Co., Ltd.:Shock Absorber": 4,
+        "Exedy Chongqing Co., Ltd.:Clutch": 2
     }
 }

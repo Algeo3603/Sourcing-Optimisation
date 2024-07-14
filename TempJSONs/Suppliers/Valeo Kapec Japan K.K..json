@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 5
+    },
+    "specific_parts_sold": {
+        "Clutch": 5
+    },
+    "buyers": {
+        "Honda:Clutch": 3,
+        "Suzuki:Clutch": 2
+    },
+    "Country": "Japan",
+    "Address": "2585 Iiyama, Atsugi-shi, Kanagawa-ken, 243-0213, Japan",
+    "TEL": "+81-46-250-7711",
+    "Year established": "Apr. 2000",
+    "URL": "https://www.kapecvaleo.com/eng/",
+    "Remarks": "-Shareholders: Valeo S.A. 50%, PHC Group 50%"
+}

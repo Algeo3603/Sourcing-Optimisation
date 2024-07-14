@@ -1,19 +1,23 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 15
+        "Shock Absorber": 15,
+        "Clutch": 2
     },
     "specific-parts-bought": {
         "Shock absorber": 10,
         "Continuously variable semi-active suspension": 3,
         "Damper": 1,
-        "Air spring system": 1
+        "Air spring system": 1,
+        "Clutch line": 1,
+        "Clutch actuation system": 1
     },
     "suppliers": {
         "Oehlins Racing AB:Shock Absorber": 9,
         "Tenneco Inc.:Shock Absorber": 3,
         "Schaeffler AG:Shock Absorber": 1,
         "Continental AG:Shock Absorber": 1,
-        "Beijing West Industries Co., Ltd.:Shock Absorber": 1
+        "Beijing West Industries Co., Ltd.:Shock Absorber": 1,
+        "FTE automotive GmbH:Clutch": 2
     }
 }

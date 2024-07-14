@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 16
+    },
+    "specific_parts_sold": {
+        "DCT clutch housing assembly": 16
+    },
+    "buyers": {
+        "Hyundai:Clutch": 8,
+        "Kia:Clutch": 8
+    },
+    "Country": "Korea",
+    "Address": "169, Pyeongtaekhang-ro 268beon-gil, Poseung-eup, Pyeongtaek-si, Gyeonggi-do, Korea",
+    "TEL": "+82-31-491-0341",
+    "Year established": "1978",
+    "Capital": "KRW 3,834 million (CY2023)",
+    "URL": "http://www.samkee.com",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "- Sales Turnover: KRW 537,441 million, EBIT: KRW 4,936 million (CY2023 Consolidated Results)- Sales Turnover: KRW 524,145 million, EBIT: KRW 6,921 million (CY2022 Consolidated Results)- Sales Turnover: KRW 504,512 million, EBIT: KRW -5,079 million (CY2021 Consolidated Results)"
+}

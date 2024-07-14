@@ -1,7 +1,8 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 508
+        "Shock Absorber": 508,
+        "Clutch": 86
     },
     "specific-parts-bought": {
         "Front shock absorber": 165,
@@ -24,7 +25,33 @@
         "Active height control (AHC) pump & motor assembly": 1,
         "Active height control (AHC) valve assembly": 1,
         "Semi-active suspension system": 1,
-        "Semi active suspension system": 1
+        "Semi active suspension system": 1,
+        "Clutch cover": 22,
+        "Clutch tube": 1,
+        "CVT clutch": 1,
+        "8-speed automatic transmission clutch assembly": 1,
+        "Wet clutch for lock-up": 2,
+        "Clutch": 5,
+        "Pawl type one way clutch": 1,
+        "FF 8 speed automatic transmission clutch": 1,
+        "Clutch cover(2ZR-FAE)(6MT)": 1,
+        "Clutch cover(1NZ-FE)(5MT)": 2,
+        "Clutch set": 1,
+        "Clutch plate(AT)": 7,
+        "Clutch plate(AWD coupling)": 2,
+        "Lock-up clutch": 11,
+        "Clutch plate(CVT)": 1,
+        "One-way clutch": 5,
+        "Clutch plate for CVT": 1,
+        "Tandem one-way clutch": 1,
+        "Clutch cover assembly": 2,
+        "One-way clutch(6AT)": 2,
+        "Roller one-way clutch and race assembly": 1,
+        "One-way clutch(AT)": 1,
+        "Clutch friction plate and reactoin plate for automatic transmission": 8,
+        "Clutch friction plate and reactoin plate for 4WD coupling": 2,
+        "High capacity high damping clutch system": 3,
+        "Overrunning clutch": 1
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 273,
@@ -56,6 +83,19 @@
         "Toyota Motor East Japan Inc.:Shock Absorber": 4,
         "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.):Shock Absorber": 1,
         "ZF Japan Co., Ltd.:Shock Absorber": 2,
-        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 1
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 1,
+        "Schaeffler AG:Clutch": 4,
+        "EXEDY Corporation:Clutch": 4,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.):Clutch": 10,
+        "EXEDY India Ltd. - Greater Noida Plant:Clutch": 4,
+        "F.C.C. Co., Ltd.:Clutch": 3,
+        "Dynax Corporation:Clutch": 34,
+        "PT. Aisin Indonesia:Clutch": 11,
+        "Valeo Group:Clutch": 1,
+        "NSK Ltd.:Clutch": 2,
+        "ZF Friedrichshafen AG:Clutch": 1,
+        "BorgWarner Inc.:Clutch": 9,
+        "P.T. EXEDY Manufacturing Indonesia:Clutch": 2,
+        "Univance Corporation:Clutch": 1
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 28
+        "Shock Absorber": 28,
+        "Clutch": 8
     },
     "specific-parts-bought": {
         "Shock absorber piston(2.0L)(6AMT)": 3,
@@ -19,11 +20,14 @@
         "Shock absorber base(2.0T)(6AMT)": 1,
         "Shock absorber piston rod": 4,
         "Front shock absorber": 2,
-        "Rear shock absorber": 2
+        "Rear shock absorber": 2,
+        "Clutch": 4,
+        "Clutch cover": 4
     },
     "suppliers": {
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 20,
         "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 4,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 4
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 4,
+        "Exedy Chongqing Co., Ltd.:Clutch": 8
     }
 }

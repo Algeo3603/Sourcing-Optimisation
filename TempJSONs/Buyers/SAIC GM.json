@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 40
+        "Shock Absorber": 40,
+        "Clutch": 33
     },
     "specific-parts-bought": {
         "Shock absorber(1.5T)(9AMT)": 2,
@@ -18,7 +19,10 @@
         "Shock absorber(1.5T)(6AMT)": 1,
         "Buffer block(1.4T)(6MT)": 1,
         "Buffer block(1.4T)(6AMT)": 1,
-        "Shock absorber piston rod": 2
+        "Shock absorber piston rod": 2,
+        "Clutch assembly(9AMT)": 14,
+        "Clutch assembly(9AT)": 18,
+        "Clutch automatic control system(1.6T )": 1
     },
     "suppliers": {
         "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 8,
@@ -26,6 +30,8 @@
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 13,
         "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 4,
         "SNT Daewoo (Kunshan) Co., Ltd.:Shock Absorber": 5,
-        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 2
+        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 2,
+        "Ningbo Shenglong Automotive Powertrain System Co., Ltd.:Clutch": 32,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 1
     }
 }

@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 1
+    },
+    "specific_parts_sold": {
+        "Dual clutch module": 1
+    },
+    "buyers": {
+        "Skoda:Clutch": 1
+    },
+    "Country": "Germany",
+    "Address": "Moerikestrasse 155, 71636 Ludwigsburg, Germany",
+    "TEL": "+49-7141-132-0",
+    "Year established": "1912",
+    "URL": "https://www.borgwarner.com/technologies",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): BorgWarner Inc."
+}

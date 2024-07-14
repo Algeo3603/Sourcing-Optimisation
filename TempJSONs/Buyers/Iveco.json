@@ -1,0 +1,13 @@
+{
+    "region": "Americas",
+    "parts-bought": {
+        "Clutch": 2
+    },
+    "specific-parts-bought": {
+        "Clutch system": 1,
+        "Clutch cover": 1
+    },
+    "suppliers": {
+        "ZF Friedrichshafen AG:Clutch": 2
+    }
+}

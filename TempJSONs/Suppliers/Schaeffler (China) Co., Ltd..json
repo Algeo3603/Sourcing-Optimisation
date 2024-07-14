@@ -1,15 +1,21 @@
 {
     "top500": false,
     "parts_sold": {
-        "Shock Absorber": 9
+        "Shock Absorber": 9,
+        "Clutch": 3
     },
     "specific_parts_sold": {
         "Continuous damping control (CDC)": 3,
-        "Shock absorber": 6
+        "Shock absorber": 6,
+        "Clutch(1.5T)(7DCT)": 1,
+        "Clutch(1.5T)(6MT)": 1,
+        "Clutch(1.6L)(4AMT)": 1
     },
     "buyers": {
         "BYD:Shock Absorber": 3,
-        "Deepal:Shock Absorber": 6
+        "Deepal:Shock Absorber": 6,
+        "SAIC Passenger Vehicle:Clutch": 2,
+        "Changan:Clutch": 1
     },
     "Country": "China",
     "Address": "No. 1-3, Schaeffler Road, Taicang Economic Development Zone, Jiangsu Province, China",

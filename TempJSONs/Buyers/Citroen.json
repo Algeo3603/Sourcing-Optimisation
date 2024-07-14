@@ -1,17 +1,31 @@
 {
     "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Shock Absorber": 13
+        "Shock Absorber": 13,
+        "Clutch": 19
     },
     "specific-parts-bought": {
         "Front strut": 5,
         "Rear strut": 5,
         "Shock absorber": 2,
-        "Suspension strut": 1
+        "Suspension strut": 1,
+        "Clutch": 6,
+        "Clutch line": 2,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 6,
+        "Self-adjusting clutch": 1,
+        "Diaphragm clutch": 1,
+        "Self adjusting clutch": 1,
+        "Clutch mechanism": 2
     },
     "suppliers": {
         "Gabriel India Ltd.:Shock Absorber": 11,
         "KYB Europe GmbH:Shock Absorber": 1,
-        "Vibracoustic SE:Shock Absorber": 1
+        "Vibracoustic SE:Shock Absorber": 1,
+        "Schaeffler AG:Clutch": 1,
+        "Valeo Group:Clutch": 4,
+        "FTE automotive GmbH:Clutch": 1,
+        "ZF do Brasil Ltda. - Piraporinha:Clutch": 1,
+        "ZF Friedrichshafen AG:Clutch": 9,
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 3
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 38
+        "Shock Absorber": 38,
+        "Clutch": 9
     },
     "specific-parts-bought": {
         "Shock absorber": 13,
@@ -9,13 +10,19 @@
         "Shock absorber base": 8,
         "Front shock absorber": 2,
         "Rear shock absorber": 2,
-        "Shock absorber piston rod": 5
+        "Shock absorber piston rod": 5,
+        "Clutch(1.6L)(CVT)": 1,
+        "Clutch": 3,
+        "Clutch cover": 2,
+        "Clutch automatic control system": 3
     },
     "suppliers": {
         "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 13,
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 16,
         "FAWER Automotive Parts Limited Company:Shock Absorber": 1,
         "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 3,
-        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 5
+        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 5,
+        "Exedy Chongqing Co., Ltd.:Clutch": 6,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 3
     }
 }

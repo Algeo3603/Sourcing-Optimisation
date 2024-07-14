@@ -1,14 +1,18 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Shock Absorber": 126
+        "Shock Absorber": 126,
+        "Clutch": 10
     },
     "specific-parts-bought": {
         "Rear shock absorber": 51,
         "Front shock absorber": 36,
         "Electronically controlled damper": 1,
         "Shock absorber": 36,
-        "Front strut": 2
+        "Front strut": 2,
+        "Clutch cover": 8,
+        "CVT clutch": 1,
+        "Clutch cover(KF)(5MT)": 1
     },
     "suppliers": {
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 66,
@@ -17,6 +21,9 @@
         "ZF Friedrichshafen AG:Shock Absorber": 11,
         "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.):Shock Absorber": 2,
         "thyssenkrupp Bilstein GmbH:Shock Absorber": 14,
-        "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.):Shock Absorber": 1
+        "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.):Shock Absorber": 1,
+        "EXEDY Corporation:Clutch": 8,
+        "F.C.C. Co., Ltd.:Clutch": 1,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.):Clutch": 1
     }
 }

@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 44
+        "Shock Absorber": 44,
+        "Clutch": 13
     },
     "specific-parts-bought": {
         "Damper": 4,
@@ -24,7 +25,12 @@
         "Air damping module": 2,
         "Shock absorber piston": 1,
         "Suspension strut": 1,
-        "Semi active suspension": 1
+        "Semi active suspension": 1,
+        "Clutch line": 4,
+        "Clutch": 5,
+        "Hydraulic clutch actuation system": 1,
+        "One-way clutch (for 6 speed automatic transmission)": 1,
+        "Clutch hydraulic actuation system": 2
     },
     "suppliers": {
         "Vibracoustic SE:Shock Absorber": 15,
@@ -38,6 +44,12 @@
         "Linde + Wiemann SE & Co. KG:Shock Absorber": 1,
         "Vibracoustic CV Air Springs Magyarorszag Kft.:Shock Absorber": 1,
         "ZF CV Systems Global GmbH (Formerly WABCO Global GmbH):Shock Absorber": 1,
-        "thyssenkrupp Bilstein GmbH:Shock Absorber": 3
+        "thyssenkrupp Bilstein GmbH:Shock Absorber": 3,
+        "FTE automotive GmbH:Clutch": 6,
+        "Schaeffler AG:Clutch": 1,
+        "Valeo Group:Clutch": 2,
+        "BorgWarner Inc.:Clutch": 1,
+        "FTE automotive USA Inc.:Clutch": 1,
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 2
     }
 }

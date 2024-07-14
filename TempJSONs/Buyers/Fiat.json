@@ -1,15 +1,32 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 11
+        "Shock Absorber": 11,
+        "Clutch": 10
     },
     "specific-parts-bought": {
         "Front shock absorber": 4,
         "Rear shock absorber": 4,
-        "Shock absorber": 3
+        "Shock absorber": 3,
+        "Clutch line": 1,
+        "Clutch": 3,
+        "Clutch actuation system": 1,
+        "Hydraulic clutch actuation system": 1,
+        "Diaphragm clutch": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 1,
+        "One way clutch for automatic transmission": 1,
+        "Clutch mechanism": 1
     },
     "suppliers": {
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 10,
-        "ZF Friedrichshafen AG:Shock Absorber": 1
+        "ZF Friedrichshafen AG:Shock Absorber": 1,
+        "FTE automotive GmbH:Clutch": 2,
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 2,
+        "AB SKF:Clutch": 1,
+        "ZF do Brasil Ltda. - Piraporinha:Clutch": 1,
+        "Schaeffler AG:Clutch": 1,
+        "ZF Friedrichshafen AG:Clutch": 1,
+        "BorgWarner Inc.:Clutch": 1,
+        "Valeo Group:Clutch": 1
     }
 }

@@ -2,6 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import os
@@ -52,8 +53,8 @@ part_dict = {'buyer':{}, 'supplier':{}}
 
 # Open the link of the part to be scraped
 # Future scope -> iterate through links dynamically or read them from a file
-part_link = 'https://www.marklines.com/en/wsw/shock-absorber/'
-part_name = 'Shock Absorber'
+part_link = 'https://www.marklines.com/en/wsw/clutch/'
+part_name = 'Clutch'
 driver.get(part_link)
 print('Navigated to part link')
 
@@ -122,6 +123,12 @@ for row in rows[:]:
         print(supplier)
         supplier_dict = {'top500':True, 'parts_sold':{}, 'specific_parts_sold':{}, 'buyers':{}}
         driver.get(supplier_link)
+        
+        #-------------------------------
+        #Comment for better performance
+        WebDriverWait(driver,5)
+        #-------------------------------
+
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, 'html.parser')
         company_profile = soup.find('div', class_='over-view')
@@ -146,6 +153,12 @@ for row in rows[:]:
         print(supplier)
         supplier_dict = {'top500':False, 'parts_sold':{}, 'specific_parts_sold':{}, 'buyers':{}}
         driver.get(supplier_link)
+        
+        #-------------------------------
+        #Comment for better performance
+        WebDriverWait(driver,5)
+        #-------------------------------
+        
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, 'html.parser')
         info_table = soup.find('div', id='basic-info').find('tbody')

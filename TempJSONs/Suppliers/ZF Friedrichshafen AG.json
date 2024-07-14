@@ -1,7 +1,8 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 158
+        "Shock Absorber": 158,
+        "Clutch": 98
     },
     "specific_parts_sold": {
         "Rear shock absorber": 56,
@@ -19,7 +20,15 @@
         "Semi active suspension": 1,
         "Damping force continuously variable control damper": 2,
         "Lightweight damper": 2,
-        "Front strut": 1
+        "Front strut": 1,
+        "Clutch": 22,
+        "Clutch system": 5,
+        "Clutch set": 2,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 59,
+        "Hydrodynamically cooled clutch (HCC)": 2,
+        "Clutch cover": 3,
+        "Clutch mechanism": 4,
+        "Clutch(MT)": 1
     },
     "buyers": {
         "Audi:Shock Absorber": 25,
@@ -45,7 +54,32 @@
         "Bentley:Shock Absorber": 1,
         "Fiat:Shock Absorber": 1,
         "Hyundai:Shock Absorber": 1,
-        "Shanghai GM:Shock Absorber": 1
+        "Shanghai GM:Shock Absorber": 1,
+        "Audi:Clutch": 7,
+        "Ford:Clutch": 5,
+        "Skoda:Clutch": 8,
+        "Daimler:Clutch": 3,
+        "Volkswagen:Clutch": 15,
+        "GM:Clutch": 4,
+        "Toyota:Clutch": 1,
+        "Iveco:Clutch": 2,
+        "GAZ:Clutch": 1,
+        "Opel:Clutch": 11,
+        "Porsche:Clutch": 3,
+        "Alfa Romeo:Clutch": 1,
+        "Citroen:Clutch": 9,
+        "Fiat:Clutch": 1,
+        "Hyundai:Clutch": 4,
+        "Isuzu:Clutch": 1,
+        "Kia:Clutch": 4,
+        "Mazda:Clutch": 2,
+        "Mitsubishi:Clutch": 1,
+        "Nissan:Clutch": 1,
+        "Peugeot:Clutch": 4,
+        "SEAT:Clutch": 6,
+        "smart:Clutch": 1,
+        "Jeep:Clutch": 1,
+        "Dodge:Clutch": 2
     },
     "Year Established": "915",
     "Number of Employees": "68,738 employees (As of Dec. 31, 2023)",

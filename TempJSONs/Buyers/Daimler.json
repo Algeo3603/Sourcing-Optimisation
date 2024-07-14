@@ -1,7 +1,8 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 45
+        "Shock Absorber": 45,
+        "Clutch": 17
     },
     "specific-parts-bought": {
         "Front shock absorber": 4,
@@ -23,7 +24,16 @@
         "Shock absorbers": 1,
         "Front axle airspring": 1,
         "Rear axle airspring": 1,
-        "Front strut": 1
+        "Front strut": 1,
+        "Clutch housing": 2,
+        "Clutch system": 1,
+        "Clutch line": 2,
+        "Clutch": 5,
+        "Clutch actuating system": 1,
+        "Self-adjusting clutch": 1,
+        "AWD differential clutch": 2,
+        "Clutch set (MT diesel & gasoline)": 1,
+        "Hydrodynamically cooled clutch (HCC)": 2
     },
     "suppliers": {
         "ZF Friedrichshafen AG:Shock Absorber": 7,
@@ -37,6 +47,14 @@
         "Tenneco Inc.:Shock Absorber": 1,
         "Continental AG:Shock Absorber": 7,
         "PMG Holding GmbH:Shock Absorber": 1,
-        "Multimatic, Inc.:Shock Absorber": 3
+        "Multimatic, Inc.:Shock Absorber": 3,
+        "Endurance Technologies Ltd.:Clutch": 1,
+        "ZF Friedrichshafen AG:Clutch": 3,
+        "FTE automotive GmbH:Clutch": 3,
+        "Schaeffler AG:Clutch": 2,
+        "Valeo Group:Clutch": 4,
+        "KSM Castings Group GmbH:Clutch": 1,
+        "F.C.C. Co., Ltd.:Clutch": 2,
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1
     }
 }

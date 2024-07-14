@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 4
+    },
+    "specific_parts_sold": {
+        "Clutch cover": 3,
+        "Clutch cover assembly": 1
+    },
+    "buyers": {
+        "Mazda:Clutch": 3,
+        "Nissan:Clutch": 1
+    },
+    "Country": "Mexico",
+    "Address": "Circuito Progreso #101, Parque Industrial de Logistica Automotriz (Pila), Penuelas; Aguascalientes, Mexico, CP 20340",
+    "TEL": "+52-449-176-0000",
+    "Year established": "Dec. 2010",
+    "URL": "https://www.exedy.com/en/",
+    "Remarks": "-Shareholder(s): Exedy Corpotaion"
+}

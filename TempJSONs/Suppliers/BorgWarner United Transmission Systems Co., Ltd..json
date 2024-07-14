@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 2
+    },
+    "specific_parts_sold": {
+        "DL501 clutch module": 1,
+        "Clutch module with integral torsional vibration damper": 1
+    },
+    "buyers": {
+        "FAW-Volkswagen:Clutch": 1,
+        "SAIC Passenger Vehicle:Clutch": 1
+    },
+    "Country": "China",
+    "Address": "No.103-2, Central Industrial Zone, Dalian Economic and Technological Development Zone, Liaoning Province, China",
+    "TEL": "+86-411-39263231",
+    "Year established": "Mar. 2009",
+    "URL": "http://www.bwauto.com/",
+    "Remarks": "-Shareholders:  BorgWarner (China) Investment Co., Ltd. 66%,   China Automobile Development United Investment Co., Ltd. (CDUI)(SAIC, China FAW , Chery, Dongfeng , Guangzhou, Changan, Geely, Changfeng, Great Wall, Shenyang Jinbei, JAC and Polarsun) 34%"
+}

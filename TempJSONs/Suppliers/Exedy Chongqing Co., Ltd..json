@@ -1,0 +1,33 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 42
+    },
+    "specific_parts_sold": {
+        "Clutch(1.6L)(CVT)": 1,
+        "Clutch": 21,
+        "Clutch cover": 20
+    },
+    "buyers": {
+        "Dongfeng Nissan:Clutch": 6,
+        "Beiqi Foton:Clutch": 2,
+        "BYD:Clutch": 6,
+        "Changan Mazda:Clutch": 2,
+        "Changan Suzuki:Clutch": 2,
+        "Dongfeng Honda:Clutch": 2,
+        "FAW Car:Clutch": 8,
+        "FAW Toyota:Clutch": 2,
+        "GAC Honda:Clutch": 2,
+        "GAC Mitsubishi:Clutch": 6,
+        "GAC Toyota:Clutch": 2,
+        "Lifan:Clutch": 2
+    },
+    "Country": "China",
+    "Address": "No. 4 Longjing RoadNorth New Economic Development ZoneChongqing401122, China",
+    "TEL": "+86-23-67460801",
+    "Year established": "Dec. 1995",
+    "URL": "https://exc.exedy.com/",
+    "Quality certification": "QS9000IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: EXEDY Corp., Chongqing Machinery & Electric Co., Ltd."
+}

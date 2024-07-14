@@ -1,13 +1,23 @@
 {
     "top500": false,
     "parts_sold": {
-        "Shock Absorber": 3
+        "Shock Absorber": 3,
+        "Clutch": 18
     },
     "specific_parts_sold": {
-        "Shock absorber": 3
+        "Shock absorber": 3,
+        "Clutch": 17,
+        "Clutch cover": 1
     },
     "buyers": {
-        "Dongfeng Liuzhou Motor:Shock Absorber": 3
+        "Dongfeng Liuzhou Motor:Shock Absorber": 3,
+        "VOYAH Motor:Clutch": 1,
+        "BAIC Yinxiang:Clutch": 3,
+        "Dongfeng Liuzhou Motor:Clutch": 4,
+        "FAW-Volkswagen:Clutch": 5,
+        "Geely:Clutch": 2,
+        "SAIC GM Wuling:Clutch": 2,
+        "SAIC Volkswagen:Clutch": 1
     },
     "Country": "China",
     "Address": "405, 4th Floor, Building 4, No.46, Jinhaian Avenue West, Sanzao Town, Jinwan District,  Zhuhai, Guangdong, China",

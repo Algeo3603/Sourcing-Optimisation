@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 21
+        "Shock Absorber": 21,
+        "Clutch": 12
     },
     "specific-parts-bought": {
         "Continuous damping control (CDC)": 3,
@@ -11,12 +12,20 @@
         "Buffer block(1.5L)(5MT)": 2,
         "Buffer block(1.5L)(7CVT)": 1,
         "Shock absorber(1.5T)(7CVT)": 1,
-        "Buffer block(1.5T)(7CVT)": 1
+        "Buffer block(1.5T)(7CVT)": 1,
+        "Clutch assembly": 1,
+        "Clutch cover": 2,
+        "Clutch": 9
     },
     "suppliers": {
         "Chengdu Mingran Intelligent Technology Co., Ltd.:Shock Absorber": 3,
         "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 1,
         "Nanyang Cijan Auto Shock Absorber Co., Ltd.:Shock Absorber": 13,
-        "Shanghai Carthane Co., Ltd.:Shock Absorber": 4
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 4,
+        "Ningbo Shenglong Automotive Powertrain System Co., Ltd.:Clutch": 1,
+        "Wuhu Hefeng Clutch Co., Ltd.:Clutch": 2,
+        "Nanjing Valeo Clutch Co., Ltd.:Clutch": 1,
+        "Changchun Yidong Clutch Co., Ltd.:Clutch": 7,
+        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Clutch": 1
     }
 }

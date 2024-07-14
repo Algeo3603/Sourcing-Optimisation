@@ -1,7 +1,8 @@
 {
     "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Shock Absorber": 14
+        "Shock Absorber": 14,
+        "Clutch": 3
     },
     "specific-parts-bought": {
         "Front air suspension strut": 2,
@@ -13,7 +14,10 @@
         "Shock absorber": 3,
         "Shock absorber piston": 1,
         "Air damping module": 1,
-        "Adjustable shock absorber": 1
+        "Adjustable shock absorber": 1,
+        "Clutch line": 1,
+        "FF9 speed automatic transmission clutch (Transmission: ZF)": 1,
+        "Clutch system": 1
     },
     "suppliers": {
         "Tenneco Automotive India Pvt. Ltd.:Shock Absorber": 1,
@@ -22,6 +26,9 @@
         "Vibracoustic SE:Shock Absorber": 2,
         "Tenneco Inc.:Shock Absorber": 3,
         "PMG Holding GmbH:Shock Absorber": 1,
-        "thyssenkrupp AG (Formerly ThyssenKrupp AG):Shock Absorber": 1
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG):Shock Absorber": 1,
+        "FTE automotive GmbH:Clutch": 1,
+        "F.C.C. Co., Ltd.:Clutch": 1,
+        "Dowlais Group plc:Clutch": 1
     }
 }

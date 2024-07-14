@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 49
+        "Shock Absorber": 49,
+        "Clutch": 1
     },
     "specific-parts-bought": {
         "Adjustable shock solenoid": 2,
@@ -15,7 +16,8 @@
         "Shock absorber ring": 4,
         "Shock absorber cushion block": 4,
         "Shock absorber piston rod": 7,
-        "Front shock absorber": 2
+        "Front shock absorber": 2,
+        "Clutch": 1
     },
     "suppliers": {
         "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.):Shock Absorber": 2,
@@ -27,6 +29,7 @@
         "Jiangsu Luoshi Vibration Control Co., Ltd.:Shock Absorber": 8,
         "Vibracoustic (Wuxi) Vibration Isolators Co., Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co., Ltd.):Shock Absorber": 3,
         "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 7,
-        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.:Shock Absorber": 2
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.:Shock Absorber": 2,
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.):Clutch": 1
     }
 }

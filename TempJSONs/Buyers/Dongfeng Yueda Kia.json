@@ -1,12 +1,16 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 4
+        "Shock Absorber": 4,
+        "Clutch": 2
     },
     "specific-parts-bought": {
-        "Shock absorber piston rod": 4
+        "Shock absorber piston rod": 4,
+        "Clutch automatic control system": 1,
+        "Clutch automatic control system(1.6L)": 1
     },
     "suppliers": {
-        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 4
+        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 4,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 2
     }
 }

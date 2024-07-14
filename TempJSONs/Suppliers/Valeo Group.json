@@ -1,0 +1,37 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Clutch": 34
+    },
+    "specific_parts_sold": {
+        "Clutch assembly": 13,
+        "Clutch line": 1,
+        "Clutch": 18,
+        "Clutch set (MT diesel & gasoline)": 1,
+        "Clutch mechanism": 1
+    },
+    "buyers": {
+        "Maruti Suzuki:Clutch": 12,
+        "Suzuki:Clutch": 1,
+        "Citroen:Clutch": 4,
+        "Mahindra & Mahindra:Clutch": 1,
+        "Renault:Clutch": 2,
+        "Tata:Clutch": 1,
+        "Toyota:Clutch": 1,
+        "Nissan:Clutch": 1,
+        "Alfa Romeo:Clutch": 1,
+        "BMW:Clutch": 2,
+        "Daimler:Clutch": 4,
+        "Opel:Clutch": 2,
+        "Peugeot:Clutch": 1,
+        "Fiat:Clutch": 1
+    },
+    "Year Established": "923",
+    "Number of Employees": "12,740 employees (As of Dec. 31, 2023)",
+    "Sales Turnover": "EUR 22,044  million (FY ended Dec. 31, 2023)",
+    "Representative": "Christophe Prillat (Chief Executive Officer and Director)",
+    "Capital": "EUR 245 million (As of Dec. 31, 2023)",
+    "URL": "https://www.valeo.com/en/",
+    "Address": "100 rue de Courcelles, 75017 Paris, France",
+    "Country": "France"
+}

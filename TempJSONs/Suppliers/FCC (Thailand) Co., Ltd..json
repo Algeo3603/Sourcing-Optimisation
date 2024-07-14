@@ -1,0 +1,32 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Clutch": 37
+    },
+    "specific_parts_sold": {
+        "CVT clutch assembly (via JATCO (Thailand))": 4,
+        "CVT clutch assembly (via JATCO Ltd.)": 1,
+        "Automatic transmission clutch assembly (via JATCO (Thailand))": 4,
+        "Manual transmission clutch assembly": 5,
+        "Automatic transmission clutch assembly": 3,
+        "5-speed manual transmission clutch assembly": 9,
+        "6-speed manual transmission clutch assembly": 8,
+        "Clutch": 1,
+        "5-speed automatic transmission clutch assembly": 2
+    },
+    "buyers": {
+        "Mitsubishi:Clutch": 4,
+        "Nissan:Clutch": 2,
+        "Suzuki:Clutch": 3,
+        "Honda:Clutch": 28
+    },
+    "Country": "Thailand",
+    "Address": "Ladkrabang Industrial Estate, 286 Chalong Krung Rd., Lumplatiew, Ladkrabang,, Lat Krabang, Bangkok 10520, Thailand",
+    "TEL": "+66-2-326-0423",
+    "Year established": "Mar. 1989",
+    "Capital": "THB 60.00 million (FY2022)",
+    "URL": "http://www.fccthai.co.th",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Sales Turnover: THB 3,722.91 million, EBIT: THB 400.06 million (FY2022 Unconsolidated Results)-Sales Turnover: THB 3,713.74 million, EBIT: THB 528.49 million (FY2021 Unconsolidated Results)-Sales Turnover: THB 3,078.69 million, EBIT: THB 352.06 million (FY2020 Unconsolidated Results)- Investment ratio: Japan 99.95%-Shareholder(s): FCC Co., Ltd. 100%-Board member(s): Mr. Katsuyuki Sugimura, Mr. Satoshi Nakaya, Mr. Shuichiro Shige"
+}
