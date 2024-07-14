@@ -1,47 +1,16 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 4,
-        "Axle": 29
+        "Shock Absorber": 4
     },
     "specific_parts_sold": {
         "Damper": 3,
-        "Strut": 1,
-        "Clutch cover": 3,
-        "Clutch tube": 1,
-        "Clutch": 16,
-        "Dual-clutch module": 1,
-        "Clutch cover(VQ37VHR)(6MT)": 1,
-        "Self-adjusting clutch": 1,
-        "6MT cluch": 1,
-        "Dry dual clutch": 1,
-        "Clutch damper": 1,
-        "Diaphragm clutch": 1,
-        "Double clutch ( LuK )(2.0L)": 1,
-        "Clutch set": 1
+        "Strut": 1
     },
     "buyers": {
         "SEAT:Shock Absorber": 1,
         "Volkswagen:Shock Absorber": 2,
-        "Volvo Cars:Shock Absorber": 1,
-        "Toyota:Axle": 4,
-        "Renault:Axle": 3,
-        "Citroen:Axle": 1,
-        "Nissan:Axle": 2,
-        "Opel:Axle": 1,
-        "SEAT:Axle": 1,
-        "Skoda:Axle": 1,
-        "Audi:Axle": 1,
-        "Peugeot:Axle": 1,
-        "Volkswagen:Axle": 4,
-        "BMW:Axle": 1,
-        "Daimler:Axle": 2,
-        "Alfa Romeo:Axle": 1,
-        "Honda:Axle": 2,
-        "Hyundai:Axle": 1,
-        "Fiat:Axle": 1,
-        "Ford:Axle": 1,
-        "GM:Axle": 1
+        "Volvo Cars:Shock Absorber": 1
     },
     "Number of Employees": "3,362 employees (As of Dec. 31, 2023)",
     "Sales Turnover": "EUR 16,313 million (FY ended Dec. 31, 2023)",

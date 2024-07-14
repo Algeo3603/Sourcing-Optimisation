@@ -1,8 +1,7 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 56,
-        "Axle": 26
+        "Shock Absorber": 56
     },
     "specific-parts-bought": {
         "Shock absorber(2.0T)(8AT)": 1,
@@ -34,13 +33,7 @@
         "Shock absorber(1.6L)(6DCT)": 2,
         "Shock absorber(2.0T)(6AMT)": 1,
         "Buffer block(2.0T)(6AMT)": 1,
-        "Suspension cushion": 1,
-        "Clutch assembly(8AT)": 10,
-        "Clutch(8AMT)": 3,
-        "Clutch(8AT)": 3,
-        "Clutch(6AMT)": 1,
-        "Clutch": 8,
-        "Clutch automatic control system(1.8L)": 1
+        "Suspension cushion": 1
     },
     "suppliers": {
         "Tenneco Automotive Industry (Suzhou) Co., Ltd.:Shock Absorber": 1,
@@ -55,9 +48,6 @@
         "Vibracoustic (Wuxi) Vibration Isolators Co., Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co., Ltd.):Shock Absorber": 3,
         "Hitachi Astemo ChassisSystems (Suzhou) Ltd. (Formerly Tokico Automotive (Suzhou) Co., Ltd.):Shock Absorber": 2,
         "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 4,
-        "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.):Shock Absorber": 1,
-        "Ningbo Shenglong Automotive Powertrain System Co., Ltd.:Axle": 10,
-        "Chengdu Yonghua F.C.C. Clutches Co., Ltd.:Axle": 15,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Axle": 1
+        "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.):Shock Absorber": 1
     }
 }

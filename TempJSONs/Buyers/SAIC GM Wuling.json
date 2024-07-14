@@ -1,8 +1,7 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 33,
-        "Axle": 4
+        "Shock Absorber": 33
     },
     "specific-parts-bought": {
         "Shock absorber piston": 3,
@@ -21,9 +20,7 @@
         "Buffer block(1.5L)(6AMT)": 1,
         "Shock absorber": 3,
         "Shock absorber(1.8L)(5MT)": 1,
-        "Front shock absorber": 3,
-        "Clutch": 3,
-        "Clutch cover assembly": 1
+        "Front shock absorber": 3
     },
     "suppliers": {
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 6,
@@ -32,8 +29,6 @@
         "Nanyang Cijan Auto Shock Absorber Co., Ltd.:Shock Absorber": 7,
         "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2,
         "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 3,
-        "Zhejiang Wanxiang Marelli Absorber Co., Ltd.:Shock Absorber": 2,
-        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.):Axle": 2,
-        "HASCO Powertrain Components Systems (Shanghai) Co., Ltd. Liuzhou Branch (Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd. Liuzhou Branch):Axle": 2
+        "Zhejiang Wanxiang Marelli Absorber Co., Ltd.:Shock Absorber": 2
     }
 }

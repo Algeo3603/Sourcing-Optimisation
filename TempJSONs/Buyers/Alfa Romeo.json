@@ -1,26 +1,20 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 19,
-        "Axle": 3
+        "Shock Absorber": 19
     },
     "specific-parts-bought": {
         "Rear shock absorber": 7,
         "Front shock absorber": 9,
         "Controlled electronic shock absorber": 1,
         "Shock absorber": 1,
-        "Adaptive damping system": 1,
-        "Clutch": 2,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 1
+        "Adaptive damping system": 1
     },
     "suppliers": {
         "ZF Sachs Espana S.A.:Shock Absorber": 5,
         "ZF Slovakia as - ahy:Shock Absorber": 3,
         "Stabilus GmbH:Shock Absorber": 3,
         "ZF Friedrichshafen AG:Shock Absorber": 6,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 2,
-        "Valeo Group:Axle": 1,
-        "Schaeffler AG:Axle": 1,
-        "ZF Friedrichshafen AG:Axle": 1
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 2
     }
 }

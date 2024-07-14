@@ -1,8 +1,7 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 158,
-        "Axle": 98
+        "Shock Absorber": 158
     },
     "specific_parts_sold": {
         "Rear shock absorber": 56,
@@ -20,15 +19,7 @@
         "Semi active suspension": 1,
         "Damping force continuously variable control damper": 2,
         "Lightweight damper": 2,
-        "Front strut": 1,
-        "Clutch": 22,
-        "Clutch system": 5,
-        "Clutch set": 2,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 59,
-        "Hydrodynamically cooled clutch (HCC)": 2,
-        "Clutch cover": 3,
-        "Clutch mechanism": 4,
-        "Clutch(MT)": 1
+        "Front strut": 1
     },
     "buyers": {
         "Audi:Shock Absorber": 25,
@@ -54,32 +45,7 @@
         "Bentley:Shock Absorber": 1,
         "Fiat:Shock Absorber": 1,
         "Hyundai:Shock Absorber": 1,
-        "Shanghai GM:Shock Absorber": 1,
-        "Audi:Axle": 7,
-        "Ford:Axle": 5,
-        "Skoda:Axle": 8,
-        "Daimler:Axle": 3,
-        "Volkswagen:Axle": 15,
-        "GM:Axle": 4,
-        "Toyota:Axle": 1,
-        "Iveco:Axle": 2,
-        "GAZ:Axle": 1,
-        "Opel:Axle": 11,
-        "Porsche:Axle": 3,
-        "Alfa Romeo:Axle": 1,
-        "Citroen:Axle": 9,
-        "Fiat:Axle": 1,
-        "Hyundai:Axle": 4,
-        "Isuzu:Axle": 1,
-        "Kia:Axle": 4,
-        "Mazda:Axle": 2,
-        "Mitsubishi:Axle": 1,
-        "Nissan:Axle": 1,
-        "Peugeot:Axle": 4,
-        "SEAT:Axle": 6,
-        "smart:Axle": 1,
-        "Jeep:Axle": 1,
-        "Dodge:Axle": 2
+        "Shanghai GM:Shock Absorber": 1
     },
     "Year Established": "915",
     "Number of Employees": "68,738 employees (As of Dec. 31, 2023)",

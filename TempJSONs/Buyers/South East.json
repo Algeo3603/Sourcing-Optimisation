@@ -1,18 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 8,
-        "Axle": 4
+        "Shock Absorber": 8
     },
     "specific-parts-bought": {
         "Shock absorber piston": 3,
         "Shock absorber base": 3,
-        "Shock absorber": 2,
-        "Clutch": 4
+        "Shock absorber": 2
     },
     "suppliers": {
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 6,
-        "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 2,
-        "Changchun Yidong Clutch Co., Ltd.:Axle": 4
+        "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 2
     }
 }

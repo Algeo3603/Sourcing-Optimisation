@@ -1,16 +1,13 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 2,
-        "Axle": 1
+        "Shock Absorber": 2
     },
     "specific-parts-bought": {
         "Front strut": 1,
-        "Rear shock absorber": 1,
-        "Clutch": 1
+        "Rear shock absorber": 1
     },
     "suppliers": {
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 2,
-        "Changchun Yidong Clutch Co., Ltd.:Axle": 1
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 2
     }
 }

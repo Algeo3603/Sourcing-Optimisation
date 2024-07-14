@@ -1,47 +1,19 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Shock Absorber": 107,
-        "Axle": 52
+        "Shock Absorber": 107
     },
     "specific-parts-bought": {
         "Front shock absorber": 33,
         "Rear shock absorber": 56,
         "Front strut": 4,
         "Shock absorber": 13,
-        "Shock absorber (front & rear)": 1,
-        "Clutch cover assembly": 9,
-        "Clutch": 4,
-        "Clutch cover": 9,
-        "CVT clutch assembly (via JATCO Ltd.)": 2,
-        "CVT clutch assembly (via JATCO (Thailand))": 1,
-        "Clutch assembly": 3,
-        "Clutch oil pipe": 2,
-        "Automatic transmission clutch assembly (via JATCO (Thailand))": 1,
-        "Clutch cover(R06A)(5MT)": 3,
-        "Clutch cover(R06A - Turbo)(5MT)": 1,
-        "Clutch cover(K6A - Turbo)(5MT)": 1,
-        "Clutch cover(M13A)(5MT)": 1,
-        "Clutch plate": 4,
-        "Clutch plate (through JATCO)": 4,
-        "Clutch for manual transmission": 6,
-        "Manual transmission clutch": 1
+        "Shock absorber (front & rear)": 1
     },
     "suppliers": {
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 30,
         "KYB Corporation:Shock Absorber": 63,
         "Tenneco Inc.:Shock Absorber": 12,
-        "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.):Shock Absorber": 2,
-        "EXEDY (Thailand) Co., Ltd.:Axle": 8,
-        "Valeo Kapec Japan K.K.:Axle": 2,
-        "EXEDY Corporation:Axle": 18,
-        "F.C.C. Co., Ltd.:Axle": 3,
-        "FCC (Thailand) Co., Ltd.:Axle": 3,
-        "Valeo Group:Axle": 1,
-        "Ezaki Industrial (Thailand) Co., Ltd.:Axle": 2,
-        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.):Axle": 3,
-        "P.T. EXEDY Manufacturing Indonesia:Axle": 1,
-        "Dynax Corporation:Axle": 8,
-        "Suzuki Auto Parts Mfg. Co., Ltd.:Axle": 3
+        "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.):Shock Absorber": 2
     }
 }

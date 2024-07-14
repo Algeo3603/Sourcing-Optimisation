@@ -1,8 +1,7 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 41,
-        "Axle": 13
+        "Shock Absorber": 41
     },
     "specific-parts-bought": {
         "Adjustable shock solenoid": 2,
@@ -11,11 +10,7 @@
         "Shock absorber cushion block": 2,
         "Shock absorber": 16,
         "Shock absorber outer tube assembly": 6,
-        "Shock absorber piston rod": 12,
-        "Clutch": 10,
-        "Aluminum clutch housing": 1,
-        "Clutch cover": 1,
-        "DL501 clutch module": 1
+        "Shock absorber piston rod": 12
     },
     "suppliers": {
         "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.):Shock Absorber": 2,
@@ -28,11 +23,6 @@
         "FAWER Automotive Parts Limited Company:Shock Absorber": 1,
         "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 6,
         "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 2,
-        "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 2,
-        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.):Axle": 5,
-        "Ryobi Die Casting Dalian Co., Ltd.:Axle": 1,
-        "BorgWarner United Transmission Systems Co., Ltd.:Axle": 1,
-        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Axle": 2,
-        "Changchun Yidong Clutch Co., Ltd.:Axle": 4
+        "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 2
     }
 }

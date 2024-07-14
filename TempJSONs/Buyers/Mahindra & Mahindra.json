@@ -1,8 +1,7 @@
 {
     "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Shock Absorber": 33,
-        "Axle": 13
+        "Shock Absorber": 33
     },
     "specific-parts-bought": {
         "Front strut": 9,
@@ -11,18 +10,11 @@
         "Adjustable shock absorber": 1,
         "Suspension strut": 1,
         "Strut": 1,
-        "MacPherson strut": 3,
-        "Clutch assembly": 8,
-        "Clutch": 3,
-        "Clutch cover": 2
+        "MacPherson strut": 3
     },
     "suppliers": {
         "Gabriel India Ltd.:Shock Absorber": 30,
         "Tenneco Automotive India Pvt. Ltd.:Shock Absorber": 1,
-        "Sharda Industries:Shock Absorber": 2,
-        "Valeo Engineering Center(India), Lighting Systems, Wiper Systems, Pvt. Ltd:Axle": 8,
-        "Schaeffler India Limited:Axle": 2,
-        "Schaeffler India Limited (Formerly Luk India Pvt. Ltd.):Axle": 2,
-        "Valeo Group:Axle": 1
+        "Sharda Industries:Shock Absorber": 2
     }
 }

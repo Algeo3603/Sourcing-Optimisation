@@ -1,8 +1,7 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 541,
-        "Axle": 1
+        "Shock Absorber": 541
     },
     "specific_parts_sold": {
         "Rear shock absorber": 206,
@@ -21,8 +20,7 @@
         "Semi-active suspension system": 1,
         "Rear damper": 2,
         "Front damper": 1,
-        "Semi active suspension system": 1,
-        "Clutch": 1
+        "Semi active suspension system": 1
     },
     "buyers": {
         "Subaru:Shock Absorber": 66,
@@ -38,8 +36,7 @@
         "Ram Trucks:Shock Absorber": 2,
         "Dongfeng Honda:Shock Absorber": 5,
         "GAC Honda:Shock Absorber": 6,
-        "Ford:Shock Absorber": 2,
-        "Honda:Axle": 1
+        "Ford:Shock Absorber": 2
     },
     "Year Established": ", July 2009",
     "Representative": "Kohei Takeuchi (Representative Director, President & CEO)",

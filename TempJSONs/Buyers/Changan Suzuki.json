@@ -1,8 +1,7 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 60,
-        "Axle": 5
+        "Shock Absorber": 60
     },
     "specific-parts-bought": {
         "Shock absorber piston(1.6L)(5MT)": 4,
@@ -40,20 +39,13 @@
         "Buffer block(1.4T)(6MT)": 1,
         "Shock absorber(1.4T)(6MT)": 1,
         "Front shock absorber": 2,
-        "Rear shock absorber": 2,
-        "Clutch": 2,
-        "Clutch cover": 1,
-        "Clutch automatic control system(1.3L)": 1,
-        "Clutch automatic control system(1.6L)": 1
+        "Rear shock absorber": 2
     },
     "suppliers": {
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 28,
         "Chengdu Ningjiang Showa Autoparts Co., Ltd.:Shock Absorber": 6,
         "Chongqing Beite Technology Co., Ltd.:Shock Absorber": 6,
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 8,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 12,
-        "Exedy Chongqing Co., Ltd.:Axle": 2,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Axle": 2,
-        "Changchun Yidong Clutch Co., Ltd.:Axle": 1
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 12
     }
 }

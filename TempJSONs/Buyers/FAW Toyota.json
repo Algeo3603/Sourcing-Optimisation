@@ -1,8 +1,7 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 38,
-        "Axle": 4
+        "Shock Absorber": 38
     },
     "specific-parts-bought": {
         "Shock absorber": 7,
@@ -20,19 +19,13 @@
         "Shock absorber base(1.3L)(5MT)": 1,
         "Shock absorber base(1.3L)(CVT)": 1,
         "Oil pump for shock absorber": 4,
-        "Shock absorber piston rod": 12,
-        "Clutch": 2,
-        "Clutch cover": 1,
-        "Clutch automatic control system": 1
+        "Shock absorber piston rod": 12
     },
     "suppliers": {
         "FAW-Tokico Shock Absorber Co., Ltd.:Shock Absorber": 2,
         "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 9,
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 15,
         "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 4,
-        "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 8,
-        "Exedy Chongqing Co., Ltd.:Axle": 2,
-        "EXEDY Corporation:Axle": 1,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Axle": 1
+        "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 8
     }
 }

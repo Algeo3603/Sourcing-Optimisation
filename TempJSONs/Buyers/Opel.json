@@ -1,33 +1,18 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 8,
-        "Axle": 20
+        "Shock Absorber": 8
     },
     "specific-parts-bought": {
         "Front shock absorber": 4,
         "Adjustable shock absorber": 1,
         "Adaptive damping system": 2,
-        "Suspension strut": 1,
-        "Clutch actuation system": 2,
-        "Clutch": 7,
-        "Clutch line": 1,
-        "Clutch pulley": 1,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 6,
-        "Clutch housing": 1,
-        "Clutch mechanism": 2
+        "Suspension strut": 1
     },
     "suppliers": {
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 4,
         "Koni BV:Shock Absorber": 1,
         "ZF Friedrichshafen AG:Shock Absorber": 2,
-        "Vibracoustic SE:Shock Absorber": 1,
-        "FTE automotive GmbH:Axle": 3,
-        "Schaeffler AG:Axle": 1,
-        "Valeo Group:Axle": 2,
-        "Zen S.A.:Axle": 1,
-        "ZF do Brasil Ltda. - Piraporinha:Axle": 1,
-        "ZF Friedrichshafen AG:Axle": 11,
-        "Albert Handtmann Metallgusswerk GmbH & Co. KG:Axle": 1
+        "Vibracoustic SE:Shock Absorber": 1
     }
 }

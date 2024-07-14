@@ -1,8 +1,7 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 191,
-        "Axle": 38
+        "Shock Absorber": 191
     },
     "specific-parts-bought": {
         "Front shock absorber": 59,
@@ -11,19 +10,7 @@
         "Front strut": 8,
         "Continuously variable semi-active suspension": 1,
         "Shock absorber/strut": 1,
-        "Strut PS bearing": 2,
-        "CVT clutch assembly (via JATCO Mexico S.A. de C.V.)": 1,
-        "Clutch cover assembly": 14,
-        "Clutch cover": 10,
-        "CVT clutch assembly (via JATCO (Thailand))": 1,
-        "Automatic transmission clutch assembly (via JATCO (Thailand))": 1,
-        "Clutch pack": 1,
-        "Clutch": 3,
-        "Clutch cover(VQ37VHR)(6MT)": 1,
-        "Dry type multi-plate clutch": 2,
-        "Clutch set": 2,
-        "Mechanical clutch unit for steer by wire backup": 1,
-        "Overrunning clutch": 1
+        "Strut PS bearing": 2
     },
     "suppliers": {
         "KYB Americas Corporation - Indiana:Shock Absorber": 10,
@@ -42,19 +29,6 @@
         "Tenneco Automotive India Pvt. Ltd. - Chennai Plant:Shock Absorber": 1,
         "Oiles Corporation:Shock Absorber": 2,
         "HL Mando Corporation (Formerly Mando Corporation):Shock Absorber": 1,
-        "Oehlins Racing AB:Shock Absorber": 1,
-        "FCC Automotive Parts De Mexico, S.A. de C.V.:Axle": 1,
-        "EXEDY (Thailand) Co., Ltd.:Axle": 13,
-        "EXEDY DYNAX Mexico S.A de C.V.:Axle": 1,
-        "EXEDY Corporation:Axle": 11,
-        "FCC (Thailand) Co., Ltd.:Axle": 2,
-        "UNIPRES Corporation:Axle": 1,
-        "Schaeffler AG:Axle": 2,
-        "Valeo Group:Axle": 1,
-        "P.T. EXEDY Manufacturing Indonesia:Axle": 1,
-        "Schaeffler Transmission Systems, LLC  Wooster (Formerly LuK USA LLC):Axle": 2,
-        "NTN Corporation:Axle": 1,
-        "ZF Friedrichshafen AG:Axle": 1,
-        "Univance Corporation:Axle": 1
+        "Oehlins Racing AB:Shock Absorber": 1
     }
 }

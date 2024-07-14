@@ -1,18 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 4,
-        "Axle": 1
+        "Shock Absorber": 4
     },
     "specific-parts-bought": {
         "Front shock absorber": 1,
         "Rear shock absorber": 2,
-        "Adaptive suspension damper": 1,
-        "Clutch": 1
+        "Adaptive suspension damper": 1
     },
     "suppliers": {
         "Beijing West Industries Co., Ltd.:Shock Absorber": 3,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 1,
-        "Setrab AB:Axle": 1
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 1
     }
 }

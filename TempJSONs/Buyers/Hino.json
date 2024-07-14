@@ -1,16 +1,13 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Shock Absorber": 6,
-        "Axle": 3
+        "Shock Absorber": 6
     },
     "specific-parts-bought": {
         "Front shock absorber": 3,
-        "Rear shock absorber": 3,
-        "Clutch cover": 3
+        "Rear shock absorber": 3
     },
     "suppliers": {
-        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 6,
-        "EXEDY Corporation:Axle": 3
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 6
     }
 }

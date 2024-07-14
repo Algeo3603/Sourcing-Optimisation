@@ -1,8 +1,7 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 11,
-        "Axle": 13
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "Rear shock absorber": 4,
@@ -11,23 +10,12 @@
         "Strut": 1,
         "Front shock absorber": 1,
         "Front damper": 1,
-        "Rear damper": 1,
-        "Clutch line": 2,
-        "Clutch": 5,
-        "Diaphragm clutch": 1,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
-        "Clutch mechanism": 1
+        "Rear damper": 1
     },
     "suppliers": {
         "Marelli Morocco LLC SARL:Shock Absorber": 3,
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 3,
         "KYB Corporation:Shock Absorber": 4,
-        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 1,
-        "FTE automotive GmbH:Axle": 2,
-        "Schaeffler AG:Axle": 1,
-        "ZF do Brasil Ltda. - Piraporinha:Axle": 3,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Axle": 2,
-        "Valeo Group:Axle": 1,
-        "ZF Friedrichshafen AG:Axle": 4
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 1
     }
 }

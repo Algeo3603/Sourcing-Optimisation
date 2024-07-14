@@ -1,29 +1,18 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 11,
-        "Axle": 12
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "Controlled electronic shock absorber": 2,
         "Shock absorber": 4,
         "Suspension strut": 1,
         "Front strut": 2,
-        "Rear strut": 2,
-        "Clutch": 5,
-        "Dual clutch module": 1,
-        "Clutch line": 1,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
-        "Clutch mechanism": 1
+        "Rear strut": 2
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 2,
         "Gabriel India Ltd.:Shock Absorber": 8,
-        "ZF Friedrichshafen AG:Shock Absorber": 1,
-        "ZF Friedrichshafen AG:Axle": 8,
-        "Schaeffler AG:Axle": 1,
-        "BorgWarner Ludwigsburg GmbH (Formerly BERU AG):Axle": 1,
-        "FTE automotive GmbH:Axle": 1,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Axle": 1
+        "ZF Friedrichshafen AG:Shock Absorber": 1
     }
 }

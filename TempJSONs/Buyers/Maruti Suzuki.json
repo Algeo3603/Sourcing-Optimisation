@@ -1,8 +1,7 @@
 {
     "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Shock Absorber": 64,
-        "Axle": 26
+        "Shock Absorber": 64
     },
     "specific-parts-bought": {
         "Shock absorber": 32,
@@ -12,19 +11,13 @@
         "Rear strut": 4,
         "Front shock absorber": 4,
         "Shock absorber/strut": 3,
-        "MacPherson strut": 7,
-        "Clutch assembly": 12,
-        "Clutch cover": 11,
-        "Clutch": 3
+        "MacPherson strut": 7
     },
     "suppliers": {
         "Tenneco Automotive India Pvt. Ltd.:Shock Absorber": 17,
         "Gabriel India Ltd.:Shock Absorber": 41,
         "Tenneco Inc.:Shock Absorber": 3,
         "Tenneco Automotive India Pvt. Ltd. - Bawal Plant:Shock Absorber": 1,
-        "Munjal Showa Ltd.:Shock Absorber": 2,
-        "Valeo Group:Axle": 12,
-        "EXEDY India Ltd. - Greater Noida Plant:Axle": 12,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Axle": 2
+        "Munjal Showa Ltd.:Shock Absorber": 2
     }
 }

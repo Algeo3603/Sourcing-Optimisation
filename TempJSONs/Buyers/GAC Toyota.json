@@ -1,8 +1,7 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 16,
-        "Axle": 3
+        "Shock Absorber": 16
     },
     "specific-parts-bought": {
         "Shock absorber": 6,
@@ -11,17 +10,12 @@
         "Front shock absorber": 1,
         "Shock absorber piston(1.5L)(8CVT)": 2,
         "Shock absorber base(1.5L)(8CVT)": 2,
-        "Shock absorber piston rod": 3,
-        "Clutch(2.0L)(10CVT)": 1,
-        "Clutch": 1,
-        "Clutch cover": 1
+        "Shock absorber piston rod": 3
     },
     "suppliers": {
         "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 6,
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 6,
         "FAWER Automotive Parts Limited Company:Shock Absorber": 1,
-        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 3,
-        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.):Axle": 1,
-        "Exedy Chongqing Co., Ltd.:Axle": 2
+        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 3
     }
 }

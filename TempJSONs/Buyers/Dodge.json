@@ -1,17 +1,12 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 24,
-        "Axle": 4
+        "Shock Absorber": 24
     },
     "specific-parts-bought": {
         "Front shock absorber": 12,
         "Rear shock absorber": 9,
-        "Shock absorber": 3,
-        "One-way clutch": 1,
-        "Clutch hydraulic actuation system": 1,
-        "Clutch": 1,
-        "Clutch(MT)": 1
+        "Shock absorber": 3
     },
     "suppliers": {
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 4,
@@ -19,9 +14,6 @@
         "thyssenkrupp Bilstein of America Inc.:Shock Absorber": 8,
         "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive):Shock Absorber": 6,
         "Hitachi Astemo Americas, Inc. (Formerly  Hitachi Automotive Systems Americas, Inc.):Shock Absorber": 3,
-        "thyssenkrupp Bilstein GmbH:Shock Absorber": 1,
-        "BorgWarner Inc.:Axle": 1,
-        "FTE automotive GmbH:Axle": 1,
-        "ZF Friedrichshafen AG:Axle": 2
+        "thyssenkrupp Bilstein GmbH:Shock Absorber": 1
     }
 }

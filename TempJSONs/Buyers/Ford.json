@@ -1,8 +1,7 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 48,
-        "Axle": 55
+        "Shock Absorber": 48
     },
     "specific-parts-bought": {
         "Adaptive damper system": 1,
@@ -26,29 +25,7 @@
         "Shock absorber piston rod": 1,
         "Left front strut(2.3L I4)": 1,
         "Right front strut(2.3L I4)": 1,
-        "Front strut": 1,
-        "Clutch line": 5,
-        "Clutch hub": 4,
-        "Selectable one-way clutch": 2,
-        "Clutch": 9,
-        "10-speed automatic transmission clutch assembly": 2,
-        "Clutch housing": 1,
-        "Clutch oil cooler": 1,
-        "Clutch plate": 2,
-        "FR 10 speed automatic transmission clutch": 1,
-        "Rocker one-way clutch": 5,
-        "Transmission clutch module": 2,
-        "Clutch hydraulic actuation system": 3,
-        "One-way clutch assembly": 3,
-        "One-way clutch": 3,
-        "Clutch cover assembly": 2,
-        "Automatic transmission clutch": 2,
-        "Clutch pulley": 1,
-        "Transmission one-way clutch": 1,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 3,
-        "Low and reverse clutch assembly": 1,
-        "Double clutch ( LuK )(2.0L)": 1,
-        "Dual clutch module": 1
+        "Front strut": 1
     },
     "suppliers": {
         "BWI North America, Inc.:Shock Absorber": 1,
@@ -68,23 +45,6 @@
         "Monroe Mexico, S. de R.L. de C.V. - Celaya:Shock Absorber": 10,
         "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
         "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 1,
-        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 2,
-        "FTE Mexicana, S.A. de C.V. (Valeo Mexico Puebla):Axle": 1,
-        "Means Industries, Inc.:Axle": 6,
-        "ZF Friedrichshafen AG:Axle": 5,
-        "F.C.C. Co., Ltd.:Axle": 6,
-        "FCC (North America), Inc.:Axle": 1,
-        "Means Transform Products - London, Ontario Canada (Formerly Transform Automotive Canada Ltd):Axle": 1,
-        "Setrab AB:Axle": 1,
-        "Keystone Powdered Metal Company:Axle": 13,
-        "FTE automotive GmbH:Axle": 7,
-        "ZF do Brasil Ltda. - Piraporinha:Axle": 5,
-        "Metaldyne Performance Group Inc.:Axle": 2,
-        "Means Transform Products - Sterling Heights:Axle": 1,
-        "EXEDY (Thailand) Co., Ltd.:Axle": 2,
-        "Zen S.A.:Axle": 1,
-        "Schaeffler AG:Axle": 1,
-        "KSR International Inc.:Axle": 1,
-        "BorgWarner Inc.:Axle": 1
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 2
     }
 }

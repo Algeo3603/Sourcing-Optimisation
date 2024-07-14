@@ -1,27 +1,20 @@
 {
     "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Shock Absorber": 11,
-        "Axle": 9
+        "Shock Absorber": 11
     },
     "specific-parts-bought": {
         "Front strut": 2,
         "Dampers": 1,
         "Shock absorber": 4,
         "MacPherson strut": 3,
-        "Shock absorber/strut": 1,
-        "Clutch housing": 1,
-        "Clutch cover": 7,
-        "Clutch": 1
+        "Shock absorber/strut": 1
     },
     "suppliers": {
         "Marelli Motherson Auto Suspension Parts Pvt. Ltd.:Shock Absorber": 2,
         "Tenneco Automotive India Pvt. Ltd.:Shock Absorber": 1,
         "Autoneum India Pvt. Ltd.:Shock Absorber": 1,
         "Gabriel India Ltd.:Shock Absorber": 6,
-        "Tenneco Automotive India Pvt. Ltd. - Pune Plant:Shock Absorber": 1,
-        "Endurance Technologies Ltd.:Axle": 1,
-        "EXEDY India Ltd. - Greater Noida Plant:Axle": 7,
-        "Valeo Group:Axle": 1
+        "Tenneco Automotive India Pvt. Ltd. - Pune Plant:Shock Absorber": 1
     }
 }
