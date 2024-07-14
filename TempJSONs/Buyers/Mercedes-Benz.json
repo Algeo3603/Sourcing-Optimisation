@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 37,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 16
     },
     "specific-parts-bought": {
         "Rear shock absorber": 10,
@@ -17,7 +18,9 @@
         "Air supply module for air suspension system": 2,
         "Semi active suspension": 2,
         "Active suspension": 1,
-        "Clutch housing": 1
+        "Clutch housing": 1,
+        "Front axle": 8,
+        "Rear axle": 8
     },
     "suppliers": {
         "ZF Sachs Espana S.A.:Shock Absorber": 3,
@@ -31,6 +34,7 @@
         "thyssenkrupp AG (Formerly ThyssenKrupp AG):Shock Absorber": 1,
         "KIRCHHOFF Automotive Manchester:Shock Absorber": 1,
         "thyssenkrupp Bilstein S.A.:Shock Absorber": 1,
-        "Endurance Technologies Ltd.:Clutch": 1
+        "Endurance Technologies Ltd.:Clutch": 1,
+        "Force Motors - Chakan Plant:Axle": 16
     }
 }

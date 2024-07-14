@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 2
+    },
+    "specific_parts_sold": {
+        "Semi-axle": 2
+    },
+    "buyers": {
+        "Toyota:Axle": 2
+    },
+    "Country": "Brazil",
+    "Address": "Rua Joaquim Silveira no. 557, 91060-320 Porto Alegre, Rio Grande do Sul, Brazil",
+    "TEL": "+55-513-349-9500",
+    "URL": "https://www.gknautomotive.com/",
+    "Remarks": "-Shareholder(s): Dowlais Group PLC"
+}

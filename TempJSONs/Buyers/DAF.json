@@ -1,0 +1,14 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Axle": 2
+    },
+    "specific-parts-bought": {
+        "Rear axle": 1,
+        "Rear axle module": 1
+    },
+    "suppliers": {
+        "Georg Fischer AG:Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 1
+    }
+}

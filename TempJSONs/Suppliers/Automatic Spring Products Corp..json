@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Axle component": 1
+    },
+    "buyers": {
+        "Ford:Axle": 1
+    },
+    "Country": "USA",
+    "Address": "803 Taylor Avenue, Grand Haven, MI 49417, USA",
+    "TEL": "+1-616-842-7800",
+    "URL": "https://automaticspring.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 7
+    },
+    "specific_parts_sold": {
+        "Rear axle assembly": 7
+    },
+    "buyers": {
+        "SAIC GM:Axle": 1,
+        "Shanghai GM:Axle": 6
+    },
+    "Country": "China",
+    "Address": "No.280, Changjiang Road, Yantai Economic Development Zone, Yantai, Shandong, China",
+    "TEL": "+86-535-3725008",
+    "Year established": "Jun. 2010",
+    "URL": "http://www.hasco-group.com/en",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: Shanghai Huizhong Automotive Manufacturing Co., Ltd."
+}

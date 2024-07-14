@@ -2,7 +2,8 @@
     "region": "Japan",
     "parts-bought": {
         "Shock Absorber": 202,
-        "Clutch": 119
+        "Clutch": 119,
+        "Axle": 41
     },
     "specific-parts-bought": {
         "Rear shock absorber": 72,
@@ -48,7 +49,9 @@
         "CVT starting clutch": 1,
         "CVT forward clutch": 3,
         "Overrunning clutch for automatic transmission": 1,
-        "Differential system clutch with cam function": 1
+        "Differential system clutch with cam function": 1,
+        "Axle beam": 6,
+        "Rear axle beam": 35
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 33,
@@ -80,6 +83,12 @@
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Clutch": 1,
         "Schaeffler AG:Clutch": 2,
         "Dynax Corporation:Clutch": 1,
-        "Univance Corporation:Clutch": 1
+        "Univance Corporation:Clutch": 1,
+        "F-Tech Mfg. (Thailand) Ltd.:Axle": 6,
+        "F-TECH Inc.:Axle": 6,
+        "Yorozu (Thailand) Co., Ltd.:Axle": 14,
+        "PT. F.Tech Indonesia:Axle": 1,
+        "Yorozu Corp.:Axle": 7,
+        "Y-Ogura Automotive (Thailand) Co., Ltd.:Axle": 7
     }
 }

@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 42,
-        "Clutch": 15
+        "Clutch": 15,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Shock absorber(1.5T)(CVT)": 1,
@@ -27,7 +28,8 @@
         "Clutch cover": 1,
         "Clutch automatic control system(1.3L)": 1,
         "Clutch automatic control system(1.5L)": 1,
-        "Clutch automatic control system": 2
+        "Clutch automatic control system": 2,
+        "Rear axle beam": 1
     },
     "suppliers": {
         "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. (Formerly Guangzhou Showa Autoparts Co., Ltd.):Shock Absorber": 8,
@@ -37,6 +39,7 @@
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 4,
         "China FCC Foshan Co., Ltd.:Clutch": 9,
         "Exedy Chongqing Co., Ltd.:Clutch": 2,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 4
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 4,
+        "F-Tech Zhongshan Inc.:Axle": 1
     }
 }

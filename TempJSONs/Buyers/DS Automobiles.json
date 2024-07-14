@@ -1,14 +1,17 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 4
+        "Shock Absorber": 4,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Front shock absorber": 3,
-        "Suspension strut": 1
+        "Suspension strut": 1,
+        "Rear axle": 1
     },
     "suppliers": {
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 3,
-        "Vibracoustic SE:Shock Absorber": 1
+        "Vibracoustic SE:Shock Absorber": 1,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1
     }
 }

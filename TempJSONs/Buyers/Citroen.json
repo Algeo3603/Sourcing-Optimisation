@@ -2,7 +2,8 @@
     "region": "ASEANIndiaKorea",
     "parts-bought": {
         "Shock Absorber": 13,
-        "Clutch": 19
+        "Clutch": 19,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "Front strut": 5,
@@ -15,7 +16,9 @@
         "Self-adjusting clutch": 1,
         "Diaphragm clutch": 1,
         "Self adjusting clutch": 1,
-        "Clutch mechanism": 2
+        "Clutch mechanism": 2,
+        "Rear axle": 1,
+        "Rear drive axle": 1
     },
     "suppliers": {
         "Gabriel India Ltd.:Shock Absorber": 11,
@@ -26,6 +29,8 @@
         "FTE automotive GmbH:Clutch": 1,
         "ZF do Brasil Ltda. - Piraporinha:Clutch": 1,
         "ZF Friedrichshafen AG:Clutch": 9,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 3
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 3,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.):Axle": 1,
+        "Dowlais Group plc:Axle": 1
     }
 }

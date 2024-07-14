@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Shock Absorber": 26,
-        "Clutch": 21
+        "Clutch": 21,
+        "Axle": 49
     },
     "specific-parts-bought": {
         "Front strut": 2,
@@ -16,7 +17,17 @@
         "Clutch module for 8-speed automatic transmission": 1,
         "Clutch module(3.3L V6)(8AT)": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
-        "Roller one-way clutche(4.6L)(8AT)": 1
+        "Roller one-way clutche(4.6L)(8AT)": 1,
+        "Integrated Driving Axle (ADA)": 1,
+        "Axle": 8,
+        "Front axle": 5,
+        "Front axle assembly": 7,
+        "Front axle hub assembly": 9,
+        "Rear axle assembly": 6,
+        "Front & rear axle assembly": 5,
+        "Rear axle": 3,
+        "IRS rear axle": 4,
+        "IFS front axle": 1
     },
     "suppliers": {
         "Mobis Manufacturing De Mexico, S. De R.L. De C.V.:Shock Absorber": 2,
@@ -28,6 +39,12 @@
         "Endurance Technologies Ltd.:Clutch": 1,
         "Samkee Corp. (Formerly Samkee Automotive Co., Ltd.):Clutch": 8,
         "BorgWarner Inc.:Clutch": 3,
-        "ZF Friedrichshafen AG:Clutch": 4
+        "ZF Friedrichshafen AG:Clutch": 4,
+        "Hyundai WIA Corporation (Formerly WIA Corporation):Axle": 3,
+        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.):Axle": 6,
+        "Korea Movenex Co., Ltd. (Formerly Korea Flange Co., Ltd.):Axle": 3,
+        "Hanil Precision Ind. Co., Ltd.:Axle": 22,
+        "Seohan Innobility Co., Ltd. (Formerly Seohan Industries Co., Ltd.):Axle": 7,
+        "Hyundai Transys Inc. - Seongyeon Plant (Formerly Hyundai Dymos, Inc.):Axle": 8
     }
 }

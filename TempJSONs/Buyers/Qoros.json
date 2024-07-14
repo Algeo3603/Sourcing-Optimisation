@@ -1,0 +1,19 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Axle": 7
+    },
+    "specific-parts-bought": {
+        "Front axle assembly": 2,
+        "Rear axle assemby": 1,
+        "Rear axle assembly": 1,
+        "Rear axle module": 1,
+        "Front axle": 1,
+        "Rear axle": 1
+    },
+    "suppliers": {
+        "Benteler Automotive (Changshu) Co., Ltd.:Axle": 4,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1,
+        "Shanghai Benteler Huizhong Automotive Company Ltd.:Axle": 2
+    }
+}

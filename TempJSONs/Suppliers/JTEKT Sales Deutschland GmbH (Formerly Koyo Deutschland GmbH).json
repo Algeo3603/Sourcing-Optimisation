@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Axle drive": 1
+    },
+    "buyers": {
+        "BMW:Axle": 1
+    },
+    "Country": "Germany",
+    "Address": "Bargkoppelweg 4, D-22145 Hamburg, Germany",
+    "TEL": "+49-40-67-9090-0",
+    "Year established": "Oct., 1964",
+    "URL": "https://jtekt-bearings.eu/en/",
+    "Quality certification": "QS9000IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s) : JTEKT Corporation. 100%-Sales Office"
+}

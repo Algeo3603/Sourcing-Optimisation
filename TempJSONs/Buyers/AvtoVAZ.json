@@ -1,12 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 1
+        "Shock Absorber": 1,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Shock absorber": 1
+        "Shock absorber": 1,
+        "Rear axle": 1
     },
     "suppliers": {
-        "Tenneco Inc.:Shock Absorber": 1
+        "Tenneco Inc.:Shock Absorber": 1,
+        "Motor Super:Axle": 1
     }
 }

@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 38,
-        "Clutch": 2
+        "Clutch": 2,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Shock absorber": 8,
@@ -25,7 +26,8 @@
         "Shock absorber(1.4L)(4AT)": 1,
         "Buffer block(1.5L)(4AT)": 1,
         "Damper": 2,
-        "Clutch": 2
+        "Clutch": 2,
+        "Rear axle": 1
     },
     "suppliers": {
         "Nanyang Cijan Auto Shock Absorber Co., Ltd.:Shock Absorber": 8,
@@ -35,6 +37,7 @@
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 10,
         "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.):Shock Absorber": 2,
         "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 2,
-        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.):Clutch": 2
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.):Clutch": 2,
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.):Axle": 1
     }
 }

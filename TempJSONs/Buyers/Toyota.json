@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Shock Absorber": 508,
-        "Clutch": 86
+        "Clutch": 86,
+        "Axle": 59
     },
     "specific-parts-bought": {
         "Front shock absorber": 165,
@@ -51,7 +52,24 @@
         "Clutch friction plate and reactoin plate for automatic transmission": 8,
         "Clutch friction plate and reactoin plate for 4WD coupling": 2,
         "High capacity high damping clutch system": 3,
-        "Overrunning clutch": 1
+        "Overrunning clutch": 1,
+        "Transaxle housing cover for hybrid vehicle": 15,
+        "Forging for rear axle shaft (via JTEKT Automotive (Thailand) Co., Ltd.)": 4,
+        "Rear axle shaft": 15,
+        "Rear axle housing": 3,
+        "Rear axle shaft (via JTEKT (Thailand)": 2,
+        "Axle shaft (via Hino Motors Manufacturing (Thailand) Ltd.)": 2,
+        "Front right axle seal": 1,
+        "Front left axle seal": 1,
+        "Rear axle": 3,
+        "Transaxle housing for hybrid vehicle": 2,
+        "Axle": 2,
+        "Transaxle housing for hybrid vehicle (cold chamber die casting)": 1,
+        "Semi-axle": 2,
+        "Front axle": 1,
+        "Axle hub": 1,
+        "Front drive axle": 1,
+        "Axle assembly": 3
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 273,
@@ -96,6 +114,20 @@
         "ZF Friedrichshafen AG:Clutch": 1,
         "BorgWarner Inc.:Clutch": 9,
         "P.T. EXEDY Manufacturing Indonesia:Clutch": 2,
-        "Univance Corporation:Clutch": 1
+        "Univance Corporation:Clutch": 1,
+        "Keihin Seimitsu Kogyo Co., Ltd.:Axle": 16,
+        "Aichi Forge (Thailand) Co., Ltd. (formerly Aichi International (Thailand) Co., Ltd.):Axle": 10,
+        "Kyushu Yanagawa Seiki Co., Ltd.:Axle": 2,
+        "JTEKT Automotive (Thailand) Co., Ltd.:Axle": 2,
+        "Somboon Advance Technology Public Co., Ltd.:Axle": 4,
+        "D-ACT.Co., Ltd. (Formerly Aoi Machine Industry Co., Ltd.):Axle": 3,
+        "SKF USA Inc.:Axle": 2,
+        "Toyota Kirloskar Auto Parts Pvt. Ltd.:Axle": 5,
+        "Toyota Motor East Japan Inc.:Axle": 1,
+        "GKN do Brasil Ltda.:Axle": 2,
+        "Chuo Malleable Iron Co., Ltd.:Axle": 1,
+        "PT. Aichi Forging Indonesia:Axle": 7,
+        "ZF Friedrichshafen AG:Axle": 1,
+        "Toyota Motor East Japan Inc. - Miyagi Taiwa Plant (Formerly Toyota Mortor East Corporation):Axle": 3
     }
 }

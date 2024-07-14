@@ -1,0 +1,19 @@
+{
+    "region": "ASEANIndiaKorea",
+    "parts-bought": {
+        "Axle": 17
+    },
+    "specific-parts-bought": {
+        "Axle": 6,
+        "Rear axle": 3,
+        "Front axle": 2,
+        "IOP front axle": 1,
+        "Built-up rear axle": 2,
+        "IFS front axle": 2,
+        "IRS rear axle": 1
+    },
+    "suppliers": {
+        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.):Axle": 6,
+        "Hyundai Transys Inc. - Seongyeon Plant (Formerly Hyundai Dymos, Inc.):Axle": 11
+    }
+}

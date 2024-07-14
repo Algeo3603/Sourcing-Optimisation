@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 56,
-        "Clutch": 6
+        "Clutch": 6,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Shock absorber(1.5T)(7DCT)": 1,
@@ -16,7 +17,8 @@
         "Front shock absorber": 13,
         "Rear shock absorber": 16,
         "Front strut": 3,
-        "Clutch": 6
+        "Clutch": 6,
+        "Rear axle(2.0T)(6AMT)": 1
     },
     "suppliers": {
         "Zhejiang Wanxiang Marelli Absorber Co., Ltd.:Shock Absorber": 2,
@@ -25,6 +27,7 @@
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 4,
         "Jinzhou Leader Shock Absorber Co., Ltd.:Shock Absorber": 26,
         "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 6,
-        "Changchun Yidong Clutch Co., Ltd.:Clutch": 6
+        "Changchun Yidong Clutch Co., Ltd.:Clutch": 6,
+        "ZF Friedrichshafen AG:Axle": 1
     }
 }

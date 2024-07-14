@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Rear axle": 1
+    },
+    "buyers": {
+        "AvtoVAZ:Axle": 1
+    },
+    "Country": "Russia",
+    "Address": "Russia, 445015, Samara region., Togliatti, ul. Makarova, House 23, Russia",
+    "TEL": "+7-8482-75-8481",
+    "Year established": "1991",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)"
+}

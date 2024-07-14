@@ -1,0 +1,29 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 11
+    },
+    "specific_parts_sold": {
+        "Rear axle": 9,
+        "Axle": 2
+    },
+    "buyers": {
+        "Audi:Axle": 2,
+        "BMW:Axle": 1,
+        "Citroen:Axle": 1,
+        "Volkswagen:Axle": 1,
+        "Peugeot:Axle": 2,
+        "Porsche:Axle": 1,
+        "Fiat:Axle": 1,
+        "Ford:Axle": 1,
+        "Renault:Axle": 1
+    },
+    "Country": "France",
+    "Address": "1 Rue de Usines - BP 2017 74010 Annecy Cedex, France",
+    "TEL": "+33-4-5065-3000",
+    "Year established": "1946",
+    "URL": "https://www.ntn-snr.com",
+    "Quality certification": "ISO9001QS9000IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder: NTN Corporation 100%"
+}

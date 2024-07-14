@@ -1,13 +1,19 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 3
+        "Shock Absorber": 3,
+        "Axle": 8
     },
     "specific-parts-bought": {
-        "Shock absorber": 3
+        "Shock absorber": 3,
+        "Front axle": 3,
+        "Rear axle": 3,
+        "Front & rear axle system": 2
     },
     "suppliers": {
         "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 1,
-        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2,
+        "Zf Chassis Systems (Beijing) Co., Ltd.:Axle": 6,
+        "ZF Group (China):Axle": 2
     }
 }

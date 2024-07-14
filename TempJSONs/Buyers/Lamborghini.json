@@ -1,12 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 2
+        "Shock Absorber": 2,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Air spring": 2
+        "Air spring": 2,
+        "Front axle": 1
     },
     "suppliers": {
-        "Vibracoustic SE:Shock Absorber": 2
+        "Vibracoustic SE:Shock Absorber": 2,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1
     }
 }

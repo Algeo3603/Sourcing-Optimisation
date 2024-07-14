@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Shock Absorber": 16,
-        "Clutch": 10
+        "Clutch": 10,
+        "Axle": 5
     },
     "specific-parts-bought": {
         "Shock absorber": 7,
@@ -13,7 +14,10 @@
         "Suspension strut": 1,
         "Clutch": 6,
         "Diaphragm clutch": 2,
-        "Clutch mechanism": 2
+        "Clutch mechanism": 2,
+        "Rear axle beam": 3,
+        "Axle beam": 1,
+        "Axle": 1
     },
     "suppliers": {
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 1,
@@ -27,6 +31,10 @@
         "Schaeffler India Limited:Clutch": 1,
         "Schaeffler AG:Clutch": 3,
         "Valeo Group:Clutch": 2,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 4
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 4,
+        "Yorozu Automotiva do Blasil Ltda.:Axle": 2,
+        "Yorozu JBM Automotive Tamil Nadu Pvt., Ltd.:Axle": 1,
+        "Sogefi S.p.A.:Axle": 1,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.):Axle": 1
     }
 }

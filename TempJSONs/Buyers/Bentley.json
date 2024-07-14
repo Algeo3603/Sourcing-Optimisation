@@ -1,14 +1,19 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 2
+        "Shock Absorber": 2,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "Air spring": 1,
-        "Adaptive damping system": 1
+        "Adaptive damping system": 1,
+        "Front axle": 1,
+        "Rear axle drive": 1
     },
     "suppliers": {
         "Vibracoustic SE:Shock Absorber": 1,
-        "ZF Friedrichshafen AG:Shock Absorber": 1
+        "ZF Friedrichshafen AG:Shock Absorber": 1,
+        "Magna International Inc.:Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 1
     }
 }

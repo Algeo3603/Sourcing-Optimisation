@@ -2,7 +2,8 @@
     "region": "ASEANIndiaKorea",
     "parts-bought": {
         "Shock Absorber": 14,
-        "Clutch": 3
+        "Clutch": 3,
+        "Axle": 15
     },
     "specific-parts-bought": {
         "Front air suspension strut": 2,
@@ -17,7 +18,13 @@
         "Adjustable shock absorber": 1,
         "Clutch line": 1,
         "FF9 speed automatic transmission clutch (Transmission: ZF)": 1,
-        "Clutch system": 1
+        "Clutch system": 1,
+        "Front axle": 2,
+        "Rear axle": 4,
+        "Axle": 5,
+        "Axle system": 1,
+        "Front drive unit(3.0L)": 1,
+        "Front & rear axle system": 2
     },
     "suppliers": {
         "Tenneco Automotive India Pvt. Ltd.:Shock Absorber": 1,
@@ -29,6 +36,10 @@
         "thyssenkrupp AG (Formerly ThyssenKrupp AG):Shock Absorber": 1,
         "FTE automotive GmbH:Clutch": 1,
         "F.C.C. Co., Ltd.:Clutch": 1,
-        "Dowlais Group plc:Clutch": 1
+        "Dowlais Group plc:Clutch": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 5,
+        "American Axle & Manufacturing Holdings, Inc.:Axle": 5,
+        "ZF Friedrichshafen AG:Axle": 3,
+        "NTN Corporation:Axle": 2
     }
 }

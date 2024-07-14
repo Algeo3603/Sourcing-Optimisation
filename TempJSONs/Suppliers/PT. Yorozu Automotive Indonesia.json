@@ -1,0 +1,22 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Rear axle beam": 2,
+        "Rear axle": 1
+    },
+    "buyers": {
+        "Nissan:Axle": 2,
+        "Suzuki:Axle": 1
+    },
+    "Country": "Indonesia",
+    "Address": "Kawasan Industri Mitra Karawang JI.Mitra Barat III Blok L6,7,8 Desa Parungmulya - Kecamatan Ciampel Kabupaten Karawang.41361 Jawa Barat ,Indonesia",
+    "TEL": "+62-267-863-7974",
+    "Year established": "Jan., 2012",
+    "URL": "http://www.yorozu-corp.co.jp/en/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Yorozu Corp. 100%"
+}

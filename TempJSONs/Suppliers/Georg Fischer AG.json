@@ -1,0 +1,23 @@
+{
+    "top500": true,
+    "parts_sold": {
+        "Axle": 6
+    },
+    "specific_parts_sold": {
+        "Rear axle housing": 5,
+        "Rear axle": 1
+    },
+    "buyers": {
+        "Daimler:Axle": 3,
+        "Porsche:Axle": 1,
+        "DAF:Axle": 1,
+        "BMW:Axle": 1
+    },
+    "Year Established": "948",
+    "Number of Employees": "5,207 employees (As of Dec. 31, 2022)",
+    "Sales Turnover": "CHF 3,998 million (FY ended Dec. 31, 2022)",
+    "Representative": "Andreas Mueller (CEO)",
+    "URL": "https://www.georgfischer.com/",
+    "Address": "Amsler-Laffon-Strasse 9, 8201 Schaffhausen, Switzerland",
+    "Country": "Switzerland"
+}

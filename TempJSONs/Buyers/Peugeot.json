@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 11,
-        "Clutch": 13
+        "Clutch": 13,
+        "Axle": 8
     },
     "specific-parts-bought": {
         "Rear shock absorber": 4,
@@ -16,7 +17,13 @@
         "Clutch": 5,
         "Diaphragm clutch": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
-        "Clutch mechanism": 1
+        "Clutch mechanism": 1,
+        "Transaxle housing for hybrid vehicle": 2,
+        "Rear axle": 2,
+        "Twist beam rear axle": 1,
+        "Torsion beam rear axle": 1,
+        "Rear drive axle": 1,
+        "Axle": 1
     },
     "suppliers": {
         "Marelli Morocco LLC SARL:Shock Absorber": 3,
@@ -28,6 +35,11 @@
         "ZF do Brasil Ltda. - Piraporinha:Clutch": 3,
         "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 2,
         "Valeo Group:Clutch": 1,
-        "ZF Friedrichshafen AG:Clutch": 4
+        "ZF Friedrichshafen AG:Clutch": 4,
+        "Ryobi Limited:Axle": 2,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1,
+        "Gestamp Automocion S.A.:Axle": 2,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.):Axle": 2,
+        "Dowlais Group plc:Axle": 1
     }
 }

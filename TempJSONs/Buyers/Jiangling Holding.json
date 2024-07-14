@@ -1,0 +1,13 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Axle": 2
+    },
+    "specific-parts-bought": {
+        "Rear axle": 1,
+        "Front axle": 1
+    },
+    "suppliers": {
+        "Jiangxi Jiangling Automobile Chassis Co., Ltd.:Axle": 2
+    }
+}

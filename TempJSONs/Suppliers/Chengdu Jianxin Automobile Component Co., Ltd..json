@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 5
+    },
+    "specific_parts_sold": {
+        "Rear axle assembly": 2,
+        "Front axle assembly": 2,
+        "Front & rear axle assembly": 1
+    },
+    "buyers": {
+        "FAW-Volkswagen:Axle": 5
+    },
+    "Country": "China",
+    "Address": "No.666, Checheng East Fifth Road, Chengdu Economic and Technological Development Zone, Sichuan Province, China",
+    "TEL": "+86-28-88450559",
+    "Year established": "Feb. 2011",
+    "URL": "http://www.jianxin.com",
+    "Remarks": "-Shareholder: Jianxin Zhao's Technology Co., Ltd."
+}

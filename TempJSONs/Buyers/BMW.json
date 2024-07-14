@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 44,
-        "Clutch": 13
+        "Clutch": 13,
+        "Axle": 32
     },
     "specific-parts-bought": {
         "Damper": 4,
@@ -30,7 +31,20 @@
         "Clutch": 5,
         "Hydraulic clutch actuation system": 1,
         "One-way clutch (for 6 speed automatic transmission)": 1,
-        "Clutch hydraulic actuation system": 2
+        "Clutch hydraulic actuation system": 2,
+        "Front axle beam": 1,
+        "Rear axle guide": 1,
+        "Rear axle": 5,
+        "Front axle": 5,
+        "Rear axle housing": 2,
+        "Axle system": 3,
+        "Front axle system": 1,
+        "Axle assembly": 2,
+        "Vector drive rear axle drive": 2,
+        "Axle drive": 2,
+        "Axle": 1,
+        "Front & rear axle system": 5,
+        "Rear axle drive": 2
     },
     "suppliers": {
         "Vibracoustic SE:Shock Absorber": 15,
@@ -50,6 +64,15 @@
         "Valeo Group:Clutch": 2,
         "BorgWarner Inc.:Clutch": 1,
         "FTE automotive USA Inc.:Clutch": 1,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 2
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 2,
+        "KIRCHHOFF Automotive AG:Axle": 1,
+        "Vorwerk Autotec GmbH & Co. KG:Axle": 1,
+        "Gestamp Automocion S.A.:Axle": 4,
+        "LTH Castings d.o.o.:Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 17,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.):Axle": 1,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG):Axle": 5,
+        "JTEKT Sales Deutschland GmbH (Formerly Koyo Deutschland GmbH):Axle": 1,
+        "Georg Fischer AG:Axle": 1
     }
 }

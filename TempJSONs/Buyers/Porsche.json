@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 29,
-        "Clutch": 6
+        "Clutch": 6,
+        "Axle": 13
     },
     "specific-parts-bought": {
         "Front shock absorber": 3,
@@ -16,7 +17,14 @@
         "Clutch": 2,
         "Wet multi disc double clutch": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 2,
-        "Hydraulic clutch actuation system": 1
+        "Hydraulic clutch actuation system": 1,
+        "Rear axle housing": 1,
+        "Front axle": 1,
+        "Rear axle": 5,
+        "Axle assembly": 2,
+        "Axle drive": 1,
+        "Axle": 2,
+        "Front axle drive": 1
     },
     "suppliers": {
         "ZF Friedrichshafen AG:Shock Absorber": 8,
@@ -30,6 +38,15 @@
         "Tenneco Inc.:Shock Absorber": 1,
         "ZF Friedrichshafen AG:Clutch": 3,
         "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 2,
-        "FTE automotive GmbH:Clutch": 1
+        "FTE automotive GmbH:Clutch": 1,
+        "Georg Fischer AG:Axle": 1,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG):Axle": 4,
+        "Hirschvogel Group (Hirschvogel Holding GmbH):Axle": 1,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.):Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 1,
+        "Magna PT B.V. & Co. KG (Formerly Getrag B.V. & Co. KG):Axle": 1,
+        "NTN Corporation:Axle": 2,
+        "Magna International Inc.:Axle": 1,
+        "thyssenkrupp Automotive Systems GmbH:Axle": 1
     }
 }

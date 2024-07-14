@@ -2,7 +2,8 @@
     "top500": false,
     "parts_sold": {
         "Shock Absorber": 77,
-        "Clutch": 3
+        "Clutch": 3,
+        "Axle": 1
     },
     "specific_parts_sold": {
         "Rear shock absorber": 41,
@@ -13,7 +14,8 @@
         "Front sensitive damping control": 1,
         "Rear sensitive damping control": 1,
         "Clutch cover(S5-DPTS)(6MT)": 2,
-        "Clutch cover(P5-VP[RS])(6MT)": 1
+        "Clutch cover(P5-VP[RS])(6MT)": 1,
+        "Front axle drive": 1
     },
     "buyers": {
         "Nissan:Shock Absorber": 9,
@@ -24,7 +26,8 @@
         "Audi:Shock Absorber": 3,
         "Honda:Shock Absorber": 12,
         "BMW:Shock Absorber": 2,
-        "Mazda:Clutch": 3
+        "Mazda:Clutch": 3,
+        "Daimler:Axle": 1
     },
     "Country": "USA",
     "Address": "12001 Tech Center Drive, Livonia, Michigan 48150, United States",

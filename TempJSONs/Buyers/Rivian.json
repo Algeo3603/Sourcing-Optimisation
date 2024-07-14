@@ -1,14 +1,17 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 3
+        "Shock Absorber": 3,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Damper": 1,
-        "Semi active suspension": 2
+        "Semi active suspension": 2,
+        "Axle disconnect module": 1
     },
     "suppliers": {
         "EFC International:Shock Absorber": 1,
-        "Tenneco Inc.:Shock Absorber": 2
+        "Tenneco Inc.:Shock Absorber": 2,
+        "Means Industries, Inc.:Axle": 1
     }
 }

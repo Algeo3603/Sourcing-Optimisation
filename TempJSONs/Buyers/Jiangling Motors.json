@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 7,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 5
     },
     "specific-parts-bought": {
         "Shock absorber": 1,
@@ -11,7 +12,9 @@
         "Buffer block(1.5T)(6AMT)": 1,
         "Shock absorber(1.5T)(6AMT)": 1,
         "Shock absorber piston rod": 2,
-        "Clutch": 1
+        "Clutch": 1,
+        "Front axle": 3,
+        "Rear axle": 2
     },
     "suppliers": {
         "ThyssenKrupp Bilstein Shock Absorbers Auto Parts (Changzhou) Co., Ltd.:Shock Absorber": 1,
@@ -19,6 +22,8 @@
         "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 2,
         "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 1,
         "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
-        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Clutch": 1
+        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Clutch": 1,
+        "Dana (Chongqing) Driveline Technology Co., Ltd.:Axle": 2,
+        "Jiangxi Jiangling Automobile Chassis Co., Ltd.:Axle": 3
     }
 }

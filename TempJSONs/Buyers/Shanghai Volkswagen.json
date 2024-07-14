@@ -1,18 +1,22 @@
 {
     "region": "China",
     "parts-bought": {
-        "Clutch": 8
+        "Clutch": 8,
+        "Axle": 7
     },
     "specific-parts-bought": {
         "Clutch": 5,
         "Clutch oil pipe": 1,
         "Clutch fork": 1,
-        "Magnetic clutch": 1
+        "Magnetic clutch": 1,
+        "Rear axle module": 6,
+        "Rear axle": 1
     },
     "suppliers": {
         "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Clutch": 5,
         "Contitech Fluid Shanghai Co.Ltd.:Clutch": 1,
         "Nanjing Valeo Clutch Co., Ltd.:Clutch": 1,
-        "Sanden HASCO Automotive Air-Conditioning Co., Ltd. (Formerly Sanden Huayu Automotive Air-Conditioning Co., Ltd.):Clutch": 1
+        "Sanden HASCO Automotive Air-Conditioning Co., Ltd. (Formerly Sanden Huayu Automotive Air-Conditioning Co., Ltd.):Clutch": 1,
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.:Axle": 7
     }
 }

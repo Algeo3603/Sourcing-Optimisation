@@ -1,21 +1,32 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 9
+        "Shock Absorber": 9,
+        "Axle": 15
     },
     "specific_parts_sold": {
         "Front shock absorber": 1,
         "Adaptive shock absorber": 1,
         "Adaptive damper system": 2,
         "Shock absorber": 4,
-        "Shock absorbers": 1
+        "Shock absorbers": 1,
+        "Front & rear axle": 1,
+        "Axle": 4,
+        "Rear axle": 4,
+        "Axle assembly": 3,
+        "Front axle": 3
     },
     "buyers": {
         "Audi:Shock Absorber": 1,
         "Mercedes-Benz:Shock Absorber": 1,
         "Daimler:Shock Absorber": 5,
         "Tesla:Shock Absorber": 1,
-        "Jaguar Land Rover:Shock Absorber": 1
+        "Jaguar Land Rover:Shock Absorber": 1,
+        "Audi:Axle": 1,
+        "Volkswagen:Axle": 3,
+        "BMW:Axle": 5,
+        "Porsche:Axle": 4,
+        "smart:Axle": 2
     },
     "Year Established": "999",
     "Number of Employees": "9,981  employees (As of Sep. 30, 2023)",

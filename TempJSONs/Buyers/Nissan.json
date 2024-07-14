@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Shock Absorber": 191,
-        "Clutch": 38
+        "Clutch": 38,
+        "Axle": 55
     },
     "specific-parts-bought": {
         "Front shock absorber": 59,
@@ -23,7 +24,19 @@
         "Dry type multi-plate clutch": 2,
         "Clutch set": 2,
         "Mechanical clutch unit for steer by wire backup": 1,
-        "Overrunning clutch": 1
+        "Overrunning clutch": 1,
+        "Axle housing": 6,
+        "Axle oil seal": 6,
+        "Axle": 16,
+        "Rear axle": 1,
+        "Axle assembly": 6,
+        "Rear axle assembly": 2,
+        "Rear axle beam": 7,
+        "Axle bumper": 7,
+        "Rear axle shaft": 1,
+        "Front axle assembly": 1,
+        "Rear axle (4WD)": 1,
+        "Twist beam rear axle": 1
     },
     "suppliers": {
         "KYB Americas Corporation - Indiana:Shock Absorber": 10,
@@ -55,6 +68,20 @@
         "Schaeffler Transmission Systems, LLC  Wooster (Formerly LuK USA LLC):Clutch": 2,
         "NTN Corporation:Clutch": 1,
         "ZF Friedrichshafen AG:Clutch": 1,
-        "Univance Corporation:Clutch": 1
+        "Univance Corporation:Clutch": 1,
+        "Thai Summit PK Corporation Ltd.:Axle": 2,
+        "Keeper Co., Ltd.:Axle": 6,
+        "Nissan Kohki Co., Ltd.:Axle": 21,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 1,
+        "Thai Summit PKK Co., Ltd.:Axle": 4,
+        "Yorozu (Thailand) Co., Ltd.:Axle": 2,
+        "Yorozu JBM Automotive Tamil Nadu Pvt., Ltd.:Axle": 2,
+        "PT. Yorozu Automotive Indonesia:Axle": 2,
+        "Kinugawa (Thailand) Co., Ltd.:Axle": 5,
+        "CPR Gomu Industrial Public Co., Ltd.:Axle": 2,
+        "Siam Metal Technology Co., Ltd.:Axle": 1,
+        "Yorozu Corp.:Axle": 2,
+        "Press Kogyo Co., Ltd.:Axle": 4,
+        "NTN Corporation:Axle": 1
     }
 }

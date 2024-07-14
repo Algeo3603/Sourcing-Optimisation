@@ -2,7 +2,8 @@
     "region": "ASEANIndiaKorea",
     "parts-bought": {
         "Shock Absorber": 11,
-        "Clutch": 9
+        "Clutch": 9,
+        "Axle": 8
     },
     "specific-parts-bought": {
         "Front strut": 2,
@@ -12,7 +13,10 @@
         "Shock absorber/strut": 1,
         "Clutch housing": 1,
         "Clutch cover": 7,
-        "Clutch": 1
+        "Clutch": 1,
+        "Rear axle": 5,
+        "Axle beam": 2,
+        "Front axle": 1
     },
     "suppliers": {
         "Marelli Motherson Auto Suspension Parts Pvt. Ltd.:Shock Absorber": 2,
@@ -22,6 +26,9 @@
         "Tenneco Automotive India Pvt. Ltd. - Pune Plant:Shock Absorber": 1,
         "Endurance Technologies Ltd.:Clutch": 1,
         "EXEDY India Ltd. - Greater Noida Plant:Clutch": 7,
-        "Valeo Group:Clutch": 1
+        "Valeo Group:Clutch": 1,
+        "Dana Anand India Private Limited (Formerly Spicer India Private Limited):Axle": 1,
+        "Takshi Auto Components Pvt. Ltd.:Axle": 5,
+        "Sandeep Axles Pvt. Ltd.:Axle": 2
     }
 }

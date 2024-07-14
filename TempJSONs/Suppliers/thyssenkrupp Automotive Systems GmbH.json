@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Axle assembly": 1
+    },
+    "buyers": {
+        "Porsche:Axle": 1
+    },
+    "Country": "Germany",
+    "Address": "Mnchener Strae 104A, 45145 Essen, Germany",
+    "TEL": "+49-201-50799-0",
+    "URL": "https://www.thyssenkrupp-components-technology.com",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): thyssenkrupp AG"
+}

@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 3
     },
     "specific-parts-bought": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Rear drive axle": 3
     },
     "suppliers": {
-        "Zf Automotive Components & Systems (Shanghai) Co., Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co., Ltd.):Clutch": 1
+        "Zf Automotive Components & Systems (Shanghai) Co., Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co., Ltd.):Clutch": 1,
+        "Sichuan Jianan Industrial Co., Ltd.:Axle": 3
     }
 }

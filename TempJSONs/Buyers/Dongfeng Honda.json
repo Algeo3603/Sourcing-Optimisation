@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 41,
-        "Clutch": 8
+        "Clutch": 8,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "Front shock absorber": 1,
@@ -34,7 +35,8 @@
         "Buffer block(1.5L)(5MT)": 1,
         "Buffer block(1.5L)(CVT)": 1,
         "Clutch": 7,
-        "Clutch cover": 1
+        "Clutch cover": 1,
+        "Rear axle beam": 2
     },
     "suppliers": {
         "Beijing West Industries Co., Ltd.:Shock Absorber": 3,
@@ -45,6 +47,7 @@
         "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 3,
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 4,
         "China FCC Foshan Co., Ltd.:Clutch": 6,
-        "Exedy Chongqing Co., Ltd.:Clutch": 2
+        "Exedy Chongqing Co., Ltd.:Clutch": 2,
+        "F-Tech Wuhan Inc.:Axle": 2
     }
 }

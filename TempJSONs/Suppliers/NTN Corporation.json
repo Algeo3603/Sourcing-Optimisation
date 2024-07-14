@@ -1,13 +1,23 @@
 {
     "top500": true,
     "parts_sold": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 7
     },
     "specific_parts_sold": {
-        "Mechanical clutch unit for steer by wire backup": 1
+        "Mechanical clutch unit for steer by wire backup": 1,
+        "Rear axle": 2,
+        "Axle": 3,
+        "Rear axle (4WD)": 1,
+        "Front axle": 1
     },
     "buyers": {
-        "Nissan:Clutch": 1
+        "Nissan:Clutch": 1,
+        "Jaguar Land Rover:Axle": 2,
+        "Porsche:Axle": 2,
+        "Daimler:Axle": 1,
+        "Nissan:Axle": 1,
+        "Skoda:Axle": 1
     },
     "Year Established": "Mar. 19, 1934",
     "Number of Employees": "3,027 employees (As of Mar. 31, 2023)",

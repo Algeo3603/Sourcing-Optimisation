@@ -1,0 +1,25 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 6
+    },
+    "specific_parts_sold": {
+        "Rear axle": 1,
+        "Rear axle module": 1,
+        "Rear axle assembly": 1,
+        "Front axle": 1,
+        "Front axle module": 1,
+        "Front axle assembly": 1
+    },
+    "buyers": {
+        "FAW-Volkswagen:Axle": 6
+    },
+    "Country": "China",
+    "Address": "No.268, Checheng Naner Road, Longquanyi, Chengdu, Sichuan, China",
+    "TEL": "+86-28-65316088",
+    "Year established": "Dec. 2009",
+    "URL": "http://www.faw.com.cn/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Volkswagen (China) Investment Co., Ltd., FAWER Automotive Parts Limited Company"
+}

@@ -2,15 +2,23 @@
     "region": "Japan",
     "parts-bought": {
         "Shock Absorber": 6,
-        "Clutch": 3
+        "Clutch": 3,
+        "Axle": 10
     },
     "specific-parts-bought": {
         "Front shock absorber": 3,
         "Rear shock absorber": 3,
-        "Clutch cover": 3
+        "Clutch cover": 3,
+        "Rear axle shaft": 1,
+        "Axle": 1,
+        "Drive axle": 4,
+        "Steer Axle": 4
     },
     "suppliers": {
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 6,
-        "EXEDY Corporation:Clutch": 3
+        "EXEDY Corporation:Clutch": 3,
+        "Somboon Advance Technology Public Co., Ltd.:Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 8
     }
 }

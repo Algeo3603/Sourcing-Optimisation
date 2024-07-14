@@ -1,14 +1,19 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Clutch": 2
+        "Clutch": 2,
+        "Axle": 2
     },
     "specific-parts-bought": {
         "Clutch line": 1,
-        "Diaphragm clutch": 1
+        "Diaphragm clutch": 1,
+        "Rear axle": 1,
+        "Front axle": 1
     },
     "suppliers": {
         "FTE automotive GmbH:Clutch": 1,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Axle": 1
     }
 }

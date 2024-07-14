@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 5
+    },
+    "specific_parts_sold": {
+        "Axle assembly": 2,
+        "Rear axle assembly": 3
+    },
+    "buyers": {
+        "Daihatsu:Axle": 5
+    },
+    "Country": "Japan",
+    "Address": "4-1402-1 Higashi Ikejiri, Osakasayama-shi, Osaka-hu, 589-0004, Japan",
+    "TEL": "+81-72-365-0808",
+    "Year established": "Apr. 1935",
+    "URL": "https://www.asanogear.co.jp/",
+    "Quality certification": "ISO9001",
+    "Environmental certification": "ISO14001"
+}

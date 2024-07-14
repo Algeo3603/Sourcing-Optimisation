@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 4,
-        "Clutch": 9
+        "Clutch": 9,
+        "Axle": 10
     },
     "specific-parts-bought": {
         "Shock absorber": 2,
@@ -10,13 +11,17 @@
         "Damping force continuously variable control damper": 1,
         "Clutch automatic control system(1.2L)": 3,
         "Clutch automatic control system(1.6L)": 3,
-        "Clutch": 3
+        "Clutch": 3,
+        "Rear axle assembly": 7,
+        "Rear axle module": 3
     },
     "suppliers": {
         "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2,
         "Pyung Hwa Industrial Co., Ltd.:Shock Absorber": 1,
         "ZF Friedrichshafen AG:Shock Absorber": 1,
         "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 6,
-        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Clutch": 3
+        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Clutch": 3,
+        "Yantai Huizhong Automotive Chassis Systems Co., Ltd.:Axle": 6,
+        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.:Axle": 4
     }
 }

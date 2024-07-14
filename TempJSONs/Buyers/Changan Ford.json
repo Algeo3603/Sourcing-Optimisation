@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 56,
-        "Clutch": 26
+        "Clutch": 26,
+        "Axle": 12
     },
     "specific-parts-bought": {
         "Shock absorber(2.0T)(8AT)": 1,
@@ -40,7 +41,10 @@
         "Clutch(8AT)": 3,
         "Clutch(6AMT)": 1,
         "Clutch": 8,
-        "Clutch automatic control system(1.8L)": 1
+        "Clutch automatic control system(1.8L)": 1,
+        "Axle": 3,
+        "Front axle": 4,
+        "Rear axle": 5
     },
     "suppliers": {
         "Tenneco Automotive Industry (Suzhou) Co., Ltd.:Shock Absorber": 1,
@@ -58,6 +62,9 @@
         "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.):Shock Absorber": 1,
         "Ningbo Shenglong Automotive Powertrain System Co., Ltd.:Clutch": 10,
         "Chengdu Yonghua F.C.C. Clutches Co., Ltd.:Clutch": 15,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 1
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 3,
+        "Gestamp Automotive Chongqing Co., Ltd.:Axle": 8,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1
     }
 }

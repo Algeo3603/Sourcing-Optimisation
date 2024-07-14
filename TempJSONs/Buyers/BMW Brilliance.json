@@ -1,17 +1,28 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 11
+        "Shock Absorber": 11,
+        "Axle": 17
     },
     "specific-parts-bought": {
         "Shock absorber(2.0T)(8AMT)": 6,
         "Shock absorber": 4,
-        "Continuously variable semi-active suspension": 1
+        "Continuously variable semi-active suspension": 1,
+        "Front axle": 5,
+        "Rear axle": 6,
+        "Front axle beam": 1,
+        "Axle": 5
     },
     "suppliers": {
         "Beijing West Industries Co., Ltd.:Shock Absorber": 6,
         "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 3,
         "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 1,
-        "Tenneco Inc.:Shock Absorber": 1
+        "Tenneco Inc.:Shock Absorber": 1,
+        "Gestamp Auto Components (Beijing) Co., Ltd.:Axle": 2,
+        "Shanghai Benteler Huizhong Automotive Company Ltd.:Axle": 1,
+        "ZF Lemforder Automotive Systems (Shenyang) Co., Ltd.:Axle": 8,
+        "ZF Friedrichshafen AG:Axle": 1,
+        "Gestamp Auto Components (Shenyang) Co., Ltd.:Axle": 3,
+        "ZF Group (China):Axle": 2
     }
 }

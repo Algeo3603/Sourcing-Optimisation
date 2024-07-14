@@ -1,19 +1,22 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 7
+        "Shock Absorber": 7,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Strut": 1,
         "Shock absorber": 2,
         "Suspension strut": 1,
         "Front shock absorber": 2,
-        "Adaptive damping system": 1
+        "Adaptive damping system": 1,
+        "Axle drive": 1
     },
     "suppliers": {
         "Gestamp Automocion S.A.:Shock Absorber": 1,
         "Nemak, S.A.B. de C.V.:Shock Absorber": 2,
         "ZF Friedrichshafen AG:Shock Absorber": 3,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 1
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 1,
+        "ZF Friedrichshafen AG:Axle": 1
     }
 }

@@ -1,0 +1,16 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Axle": 7
+    },
+    "specific-parts-bought": {
+        "Front axle": 3,
+        "Rear drive axle": 1,
+        "Drive axle": 2,
+        "Rear axle": 1
+    },
+    "suppliers": {
+        "Dana Graziano S.R.L. (Formerly Oerlikon Graziano S.p.A.):Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 6
+    }
+}

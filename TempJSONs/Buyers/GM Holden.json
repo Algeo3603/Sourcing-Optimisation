@@ -1,0 +1,14 @@
+{
+    "region": "ASEANIndiaKorea",
+    "parts-bought": {
+        "Axle": 4
+    },
+    "specific-parts-bought": {
+        "Front axle": 1,
+        "Rear axle": 1,
+        "Front & rear axle system": 2
+    },
+    "suppliers": {
+        "ZF Friedrichshafen AG:Axle": 4
+    }
+}

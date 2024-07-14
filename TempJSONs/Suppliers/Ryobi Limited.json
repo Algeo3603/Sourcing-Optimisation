@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 2
+    },
+    "specific_parts_sold": {
+        "Transaxle housing for hybrid vehicle": 2
+    },
+    "buyers": {
+        "Peugeot:Axle": 2
+    },
+    "Country": "Japan",
+    "Address": "762 Mesaki-cho, Fuchu-shi, Hiroshima-ken, 726-8628, Japan",
+    "TEL": "+81-847-41-1111",
+    "Year established": "Dec. 1943",
+    "URL": "https://www.ryobi-group.co.jp/en/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

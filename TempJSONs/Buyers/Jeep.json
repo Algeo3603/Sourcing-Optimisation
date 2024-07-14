@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Shock Absorber": 8,
-        "Clutch": 12
+        "Clutch": 12,
+        "Axle": 26
     },
     "specific-parts-bought": {
         "Front shock absorber": 3,
@@ -10,7 +11,15 @@
         "Rear shock absorber": 3,
         "Clutch plate": 8,
         "Dry dual clutch": 1,
-        "Clutch": 3
+        "Clutch": 3,
+        "Front axle": 9,
+        "Rear axle": 7,
+        "Front axle sleeve": 1,
+        "Rear axle sleeve": 1,
+        "Front & rear axle": 4,
+        "Front & rear axle(EcoDiesel)": 1,
+        "Axle": 2,
+        "Front & rear axles": 1
     },
     "suppliers": {
         "Marelli Mexicana, S.A. de C.V. - San Francisco Plant (Formerly Calsonic Kansei Mexicana, S.A. de C.V. - San Francisco Plant):Shock Absorber": 3,
@@ -22,6 +31,9 @@
         "Brake Parts Inc. - Mexico:Clutch": 1,
         "American Axle & Manufacturing Holdings, Inc.:Clutch": 1,
         "F.C.C. Co., Ltd.:Clutch": 1,
-        "ZF Friedrichshafen AG:Clutch": 1
+        "ZF Friedrichshafen AG:Clutch": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 22,
+        "Aludyne, Inc. (Fromerly Chassix Holdings Inc.):Axle": 2,
+        "ZF Friedrichshafen AG:Axle": 2
     }
 }

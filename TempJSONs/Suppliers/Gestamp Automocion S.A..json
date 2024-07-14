@@ -1,15 +1,25 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 3
+        "Shock Absorber": 3,
+        "Axle": 8
     },
     "specific_parts_sold": {
-        "Strut": 3
+        "Strut": 3,
+        "Rear axle": 2,
+        "Front axle": 3,
+        "Twist beam rear axle": 1,
+        "Axle": 1,
+        "Torsion beam rear axle": 1
     },
     "buyers": {
         "Maserati:Shock Absorber": 1,
         "Daimler:Shock Absorber": 1,
-        "Volkswagen:Shock Absorber": 1
+        "Volkswagen:Shock Absorber": 1,
+        "BMW:Axle": 4,
+        "Peugeot:Axle": 2,
+        "Fiat:Axle": 1,
+        "Audi:Axle": 1
     },
     "Number of Employees": "4,956 employees (As of Dec. 31, 2023)",
     "Sales Turnover": "EUR 12,273.7 million (FY ended Dec. 31, 2023)",

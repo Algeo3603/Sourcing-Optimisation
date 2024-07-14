@@ -2,7 +2,8 @@
     "region": "Japan",
     "parts-bought": {
         "Shock Absorber": 9,
-        "Clutch": 23
+        "Clutch": 23,
+        "Axle": 23
     },
     "specific-parts-bought": {
         "Front shock absorber": 4,
@@ -11,7 +12,16 @@
         "Clutch cover assembly": 14,
         "Clutch cover": 4,
         "Clutch oil pipe": 4,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle oil seal": 2,
+        "Axle housing": 6,
+        "Axle": 4,
+        "Rear axle shaft": 4,
+        "Axle shaft": 2,
+        "Steering axle": 1,
+        "Drive axle": 1,
+        "Rear axle housing": 2,
+        "Axle assembly": 1
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 2,
@@ -20,6 +30,14 @@
         "EXEDY (Thailand) Co., Ltd.:Clutch": 15,
         "EXEDY Corporation:Clutch": 3,
         "Ezaki Industrial (Thailand) Co., Ltd.:Clutch": 4,
-        "ZF Friedrichshafen AG:Clutch": 1
+        "ZF Friedrichshafen AG:Clutch": 1,
+        "Keeper Co., Ltd.:Axle": 2,
+        "Thai Summit PK Corporation Ltd.:Axle": 4,
+        "Nissan Kohki Co., Ltd.:Axle": 2,
+        "Somboon Advance Technology Public Co., Ltd.:Axle": 6,
+        "ZF Friedrichshafen AG:Axle": 1,
+        "Thai Summit PKK Co., Ltd.:Axle": 5,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 2,
+        "Press Kogyo Co., Ltd.:Axle": 1
     }
 }

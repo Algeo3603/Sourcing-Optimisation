@@ -2,7 +2,8 @@
     "region": "ASEANIndiaKorea",
     "parts-bought": {
         "Shock Absorber": 83,
-        "Clutch": 48
+        "Clutch": 48,
+        "Axle": 52
     },
     "specific-parts-bought": {
         "Rear shock absorber": 33,
@@ -36,7 +37,15 @@
         "One-way clutch(AT)": 1,
         "Clutch set": 2,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 3,
-        "Clutch set (Luk)": 1
+        "Clutch set (Luk)": 1,
+        "Axle": 9,
+        "Indipendent rear drive axle": 6,
+        "Front axle": 15,
+        "Rear axle": 13,
+        "Drive axle": 3,
+        "Steer Axle": 3,
+        "Axle shaft (via American Axle & Manufacturing (Thailand) Co., Ltd.)": 2,
+        "Rear axle system": 1
     },
     "suppliers": {
         "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.):Shock Absorber": 16,
@@ -66,6 +75,11 @@
         "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1,
         "Schaeffler Transmission Systems, LLC  Wooster (Formerly LuK USA LLC):Clutch": 1,
         "Schaeffler Group USA Inc.:Clutch": 1,
-        "Schaeffler AG:Clutch": 1
+        "Schaeffler AG:Clutch": 1,
+        "American Axle & Manufacturing Holdings, Inc.:Axle": 42,
+        "Benteler Componentes Automotivos Ltda.:Axle": 1,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 6,
+        "Somboon Advance Technology Public Co., Ltd.:Axle": 2,
+        "ZF Friedrichshafen AG:Axle": 1
     }
 }

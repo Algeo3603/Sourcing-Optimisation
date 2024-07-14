@@ -2,7 +2,8 @@
     "region": "Japan",
     "parts-bought": {
         "Shock Absorber": 107,
-        "Clutch": 52
+        "Clutch": 52,
+        "Axle": 8
     },
     "specific-parts-bought": {
         "Front shock absorber": 33,
@@ -25,7 +26,9 @@
         "Clutch plate": 4,
         "Clutch plate (through JATCO)": 4,
         "Clutch for manual transmission": 6,
-        "Manual transmission clutch": 1
+        "Manual transmission clutch": 1,
+        "Rear axle": 4,
+        "Rear axle housing": 4
     },
     "suppliers": {
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 30,
@@ -42,6 +45,9 @@
         "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.):Clutch": 3,
         "P.T. EXEDY Manufacturing Indonesia:Clutch": 1,
         "Dynax Corporation:Clutch": 8,
-        "Suzuki Auto Parts Mfg. Co., Ltd.:Clutch": 3
+        "Suzuki Auto Parts Mfg. Co., Ltd.:Clutch": 3,
+        "PT. Yorozu Automotive Indonesia:Axle": 1,
+        "Suzuki Akita Auto Parts Mfg. Co., Ltd.:Axle": 4,
+        "Okamoto Press Industry Co., Ltd.:Axle": 3
     }
 }

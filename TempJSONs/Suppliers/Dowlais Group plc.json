@@ -1,13 +1,19 @@
 {
     "top500": true,
     "parts_sold": {
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 3
     },
     "specific_parts_sold": {
-        "Clutch system": 1
+        "Clutch system": 1,
+        "Front axle": 1,
+        "Rear drive axle": 2
     },
     "buyers": {
-        "Jaguar Land Rover:Clutch": 1
+        "Jaguar Land Rover:Clutch": 1,
+        "Daimler:Axle": 1,
+        "Citroen:Axle": 1,
+        "Peugeot:Axle": 1
     },
     "Number of Employees": "3,912 employees (FY ended Dec. 31, 2023)",
     "Sales Turnover": "GBP 5,489 million (FY ended Dec. 31, 2023)",

@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 92,
-        "Clutch": 1
+        "Clutch": 1,
+        "Axle": 18
     },
     "specific-parts-bought": {
         "Shock absorber piston(1.5L)(5MT)": 3,
@@ -52,7 +53,12 @@
         "Rear shock absorber": 7,
         "Front strut": 5,
         "Shock absorber(1.8T)(6AMT)": 1,
-        "Clutch(1.6L)(4AMT)": 1
+        "Clutch(1.6L)(4AMT)": 1,
+        "Axle": 2,
+        "Rear axle": 5,
+        "Rear twist beam axle": 3,
+        "Drive axle": 5,
+        "Rear drive axle": 3
     },
     "suppliers": {
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 44,
@@ -60,6 +66,10 @@
         "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 30,
         "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
         "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 1,
-        "Schaeffler (China) Co., Ltd.:Clutch": 1
+        "Schaeffler (China) Co., Ltd.:Clutch": 1,
+        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.):Axle": 1,
+        "Sichuan Hyundai-Transys Automotive System Co., Ltd.(Formerly Sichuan Hyundai-Dymos Automotive System Co., Ltd.):Axle": 3,
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.):Axle": 2,
+        "Sichuan Jianan Industrial Co., Ltd.:Axle": 12
     }
 }

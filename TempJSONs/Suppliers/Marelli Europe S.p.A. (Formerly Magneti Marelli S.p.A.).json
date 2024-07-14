@@ -1,14 +1,17 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 31
+        "Shock Absorber": 31,
+        "Axle": 3
     },
     "specific_parts_sold": {
         "Front shock absorber": 14,
         "Rear shock absorber": 8,
         "Shock absorber": 7,
         "Controlled electronic shock absorber": 1,
-        "Front strut assembly": 1
+        "Front strut assembly": 1,
+        "Rear axle": 2,
+        "Front axle": 1
     },
     "buyers": {
         "Dodge:Shock Absorber": 4,
@@ -21,7 +24,10 @@
         "Ram Trucks:Shock Absorber": 1,
         "Ferrari:Shock Absorber": 1,
         "GM:Shock Absorber": 1,
-        "Maserati:Shock Absorber": 1
+        "Maserati:Shock Absorber": 1,
+        "Opel:Axle": 1,
+        "Alfa Romeo:Axle": 1,
+        "Lancia:Axle": 1
     },
     "Year Established": "919",
     "URL": "https://www.marelli.com/",

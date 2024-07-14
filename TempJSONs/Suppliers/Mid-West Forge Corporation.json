@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Rear axle shaft": 1
+    },
+    "buyers": {
+        "Ford:Axle": 1
+    },
+    "Country": "USA",
+    "Address": "17301 St. Clair Avenue, Cleveland, Ohio 44110 USA",
+    "TEL": "+1-216-481-3030",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

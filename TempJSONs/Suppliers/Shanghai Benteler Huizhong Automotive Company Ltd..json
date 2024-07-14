@@ -1,0 +1,20 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Rear axle": 2,
+        "Front axle": 1
+    },
+    "buyers": {
+        "BMW Brilliance:Axle": 1,
+        "Qoros:Axle": 2
+    },
+    "Country": "China",
+    "Address": "No.1299, Yuanqi Road, Jiading District, Shanghai, China",
+    "TEL": "+86-21-39917666",
+    "Year established": "Jan., 2002",
+    "URL": "https://www.benteler.com/",
+    "Remarks": "-Shareholder: Benteler Group 60%, Shanghai Huizhong Automotive Manufacturing Company 40%"
+}

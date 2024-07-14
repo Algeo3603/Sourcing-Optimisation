@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 44
+        "Shock Absorber": 44,
+        "Axle": 5
     },
     "specific-parts-bought": {
         "Buffer block(1.2T)(6AMT)": 4,
@@ -23,13 +24,18 @@
         "Buffer block(1.2T)(4AMT)": 1,
         "Shock absorber(1.6L)(4AMT)": 1,
         "Shock absorber(1.2T)(4AMT)": 1,
-        "Shock absorber piston rod": 2
+        "Shock absorber piston rod": 2,
+        "Torsion beam rear axle": 3,
+        "Front axle": 1,
+        "Rear axle": 1
     },
     "suppliers": {
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 19,
         "Xiamen Kaifa Shock Absorber Industry Co., Ltd.:Shock Absorber": 18,
         "Nanyang Cijan Auto Shock Absorber Co., Ltd.:Shock Absorber": 3,
         "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2,
-        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 2
+        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 2,
+        "Gestamp Automotive Chongqing Co., Ltd.:Axle": 4,
+        "Gentherm Automotive Systems (China) Ltd.:Axle": 1
     }
 }

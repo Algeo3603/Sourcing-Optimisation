@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Axle assembly": 1
+    },
+    "buyers": {
+        "Mitsubishi:Axle": 1
+    },
+    "Country": "Japan",
+    "Address": "226 Kitayama, Yonenogi-machi, Nisshin-shi, Aichi 470-0111, Japan",
+    "TEL": "+81-5617-4-0111",
+    "Year established": "Feb. 1944",
+    "URL": "http://www.arakawa-industry.co.jp/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

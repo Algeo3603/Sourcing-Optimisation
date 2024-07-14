@@ -1,0 +1,12 @@
+{
+    "region": "Europe",
+    "parts-bought": {
+        "Axle": 2
+    },
+    "specific-parts-bought": {
+        "Front axle module": 2
+    },
+    "suppliers": {
+        "ZF Friedrichshafen AG:Axle": 2
+    }
+}

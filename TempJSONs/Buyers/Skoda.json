@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 11,
-        "Clutch": 12
+        "Clutch": 12,
+        "Axle": 3
     },
     "specific-parts-bought": {
         "Controlled electronic shock absorber": 2,
@@ -14,7 +15,10 @@
         "Dual clutch module": 1,
         "Clutch line": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
-        "Clutch mechanism": 1
+        "Clutch mechanism": 1,
+        "Rear axle": 1,
+        "Front axle": 1,
+        "Rear axle drive": 1
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 2,
@@ -24,6 +28,9 @@
         "Schaeffler AG:Clutch": 1,
         "BorgWarner Ludwigsburg GmbH (Formerly BERU AG):Clutch": 1,
         "FTE automotive GmbH:Clutch": 1,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1,
+        "NTN Corporation:Axle": 1,
+        "Magna International Inc.:Axle": 1
     }
 }

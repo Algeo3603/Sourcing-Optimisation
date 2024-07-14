@@ -1,0 +1,17 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Rear axle beam": 2,
+        "Axle": 1
+    },
+    "buyers": {
+        "INEOS:Axle": 3
+    },
+    "Country": "Italy",
+    "Address": "via Olmo 37 Campodarsego, PD 35011 ITALY",
+    "TEL": "+39-0349-9219111",
+    "URL": "https://www.carraro.com"
+}

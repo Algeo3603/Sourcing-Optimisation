@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 16
+    },
+    "specific_parts_sold": {
+        "Transaxle housing cover for hybrid vehicle": 13,
+        "Transaxle housing for hybrid vehicle": 2,
+        "Transaxle housing for hybrid vehicle (cold chamber die casting)": 1
+    },
+    "buyers": {
+        "Toyota:Axle": 16
+    },
+    "Country": "Japan",
+    "Address": "2-12-4 Irie, Kanagawa-ku, Yokohama-shi, Kanagawa-ken, 221-0014, Japan",
+    "TEL": "+81-45-401-4721",
+    "Year established": "Aug. 1960",
+    "URL": "https://www.ksk-inc.co.jp/en/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001"
+}

@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 24,
-        "Clutch": 4
+        "Clutch": 4,
+        "Axle": 8
     },
     "specific-parts-bought": {
         "Front shock absorber": 12,
@@ -11,7 +12,13 @@
         "One-way clutch": 1,
         "Clutch hydraulic actuation system": 1,
         "Clutch": 1,
-        "Clutch(MT)": 1
+        "Clutch(MT)": 1,
+        "Rear axle system": 1,
+        "Independent rear axle": 2,
+        "Front axle drive": 1,
+        "Rear axle drive": 1,
+        "Axle drive": 1,
+        "Rear axle": 2
     },
     "suppliers": {
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 4,
@@ -22,6 +29,9 @@
         "thyssenkrupp Bilstein GmbH:Shock Absorber": 1,
         "BorgWarner Inc.:Clutch": 1,
         "FTE automotive GmbH:Clutch": 1,
-        "ZF Friedrichshafen AG:Clutch": 2
+        "ZF Friedrichshafen AG:Clutch": 2,
+        "ZF Friedrichshafen AG:Axle": 4,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 3,
+        "Magna PT B.V. & Co. KG (Formerly Getrag B.V. & Co. KG):Axle": 1
     }
 }

@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 3,
-        "Clutch": 3
+        "Clutch": 3,
+        "Axle": 9
     },
     "specific-parts-bought": {
         "Buffer block(1.6T)(7DCT)": 1,
@@ -10,13 +11,21 @@
         "Shock absorber piston rod": 1,
         "Clutch": 1,
         "Clutch automatic control system(1.6L)": 1,
-        "Clutch automatic control system(1.4L)": 1
+        "Clutch automatic control system(1.4L)": 1,
+        "Rear axle": 3,
+        "Front axle module(1.4L)(6MT)": 1,
+        "Rear axle module(1.4L)(6MT)": 1,
+        "Rear axle(2.0L)(AMT)": 2,
+        "Rear axle(2.0T)(AMT)": 1,
+        "Axle": 1
     },
     "suppliers": {
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 1,
         "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 1,
         "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
         "Valeo Pyeong Hwa Co., Ltd.:Clutch": 1,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 2
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Clutch": 2,
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.):Axle": 7,
+        "Cangzhou Hyundai Mobis Automotive Parts Co., Ltd.:Axle": 2
     }
 }

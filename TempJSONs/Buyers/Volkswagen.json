@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Shock Absorber": 82,
-        "Clutch": 43
+        "Clutch": 43,
+        "Axle": 22
     },
     "specific-parts-bought": {
         "Front shock absorber": 8,
@@ -38,7 +39,16 @@
         "Dual clutch (6-speed dual clutch transmission)": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 7,
         "Clutch cover(1.2L I3 Diesel DOHC)": 1,
-        "Wet dual clutch": 1
+        "Wet dual clutch": 1,
+        "Auxiliary axle": 1,
+        "Front axle": 4,
+        "Rear drive axle": 1,
+        "Rear axle": 9,
+        "Rear axle module": 1,
+        "Front & rear axle": 1,
+        "Axle": 3,
+        "Axle drive": 1,
+        "Rear axle assemby": 1
     },
     "suppliers": {
         "ZF Friedrichshafen AG:Shock Absorber": 25,
@@ -72,6 +82,19 @@
         "Schaeffler Savaria Kft. (Formerly LuK Savaria Kft.):Clutch": 1,
         "BorgWarner Inc.:Clutch": 2,
         "Valeo Automotiv Sistemleri Endustrisi A.S.:Clutch": 1,
-        "FTE Mexicana, S.A. de C.V. (Valeo Mexico Puebla):Clutch": 1
+        "FTE Mexicana, S.A. de C.V. (Valeo Mexico Puebla):Clutch": 1,
+        "SAF-HOLLAND do Brasil Ltda.:Axle": 1,
+        "BASF SE:Axle": 1,
+        "Linamar Corporation:Axle": 3,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 5,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 2,
+        "Magna International Inc.:Axle": 1,
+        "thyssenkrupp AG (Formerly ThyssenKrupp AG):Axle": 3,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.):Axle": 1,
+        "KIRCHHOFF Automotive AG:Axle": 1,
+        "KIRCHHOFF Automotive Canada Inc. - Aurora:Axle": 1,
+        "KIRCHHOFF Automotive Mexico S.A. de C.V.  (Formerly VRK Automotive Systems, S.A. de C.V.):Axle": 1,
+        "Martinrea International Inc.:Axle": 1
     }
 }

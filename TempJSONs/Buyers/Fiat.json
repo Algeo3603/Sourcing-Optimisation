@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 11,
-        "Clutch": 10
+        "Clutch": 10,
+        "Axle": 4
     },
     "specific-parts-bought": {
         "Front shock absorber": 4,
@@ -15,7 +16,11 @@
         "Diaphragm clutch": 1,
         "Clutch system (clutch cover, clutch disk, release mechanism)": 1,
         "One way clutch for automatic transmission": 1,
-        "Clutch mechanism": 1
+        "Clutch mechanism": 1,
+        "Axle shaft": 1,
+        "Axle": 1,
+        "Rear axle": 1,
+        "Twist axle": 1
     },
     "suppliers": {
         "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 10,
@@ -27,6 +32,10 @@
         "Schaeffler AG:Clutch": 1,
         "ZF Friedrichshafen AG:Clutch": 1,
         "BorgWarner Inc.:Clutch": 1,
-        "Valeo Group:Clutch": 1
+        "Valeo Group:Clutch": 1,
+        "Autoforjas Ltda. (CIE Autoforjas):Axle": 1,
+        "Gestamp Automocion S.A.:Axle": 1,
+        "NTN Europe S.A. (Formerly NTN-SNR Roulements S.A.):Axle": 1,
+        "Martinrea International Inc.:Axle": 1
     }
 }

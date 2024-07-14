@@ -2,7 +2,8 @@
     "region": "China",
     "parts-bought": {
         "Shock Absorber": 41,
-        "Clutch": 13
+        "Clutch": 13,
+        "Axle": 17
     },
     "specific-parts-bought": {
         "Adjustable shock solenoid": 2,
@@ -15,7 +16,17 @@
         "Clutch": 10,
         "Aluminum clutch housing": 1,
         "Clutch cover": 1,
-        "DL501 clutch module": 1
+        "DL501 clutch module": 1,
+        "Rear axle assembly": 3,
+        "Front axle assembly": 3,
+        "Double control arm axle": 1,
+        "Rear axle bracket": 1,
+        "Front & rear axle assembly": 1,
+        "Rear axle": 4,
+        "Rear axle module": 1,
+        "Front axle": 1,
+        "Front axle module": 1,
+        "Front & rear axle module": 1
     },
     "suppliers": {
         "Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co., Ltd.):Shock Absorber": 2,
@@ -33,6 +44,12 @@
         "Ryobi Die Casting Dalian Co., Ltd.:Clutch": 1,
         "BorgWarner United Transmission Systems Co., Ltd.:Clutch": 1,
         "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.):Clutch": 2,
-        "Changchun Yidong Clutch Co., Ltd.:Clutch": 4
+        "Changchun Yidong Clutch Co., Ltd.:Clutch": 4,
+        "Chengdu Jianxin Automobile Component Co., Ltd.:Axle": 5,
+        "Volkswagen FAW Platform Co., Ltd. Foshan Branch:Axle": 1,
+        "Chengdu Engley Automobile Parts Co., Ltd.:Axle": 1,
+        "Volkswagen FAW Platform Co., Ltd. Chengdu Branch:Axle": 6,
+        "ZF FAWER Chassis Technology (Changchun) Co., Ltd.:Axle": 1,
+        "TRW FAWER Automobile Safety Systems (Changchun) Co., Ltd.(TFASS):Axle": 3
     }
 }

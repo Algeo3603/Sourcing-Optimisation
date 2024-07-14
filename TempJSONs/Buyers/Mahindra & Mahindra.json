@@ -2,7 +2,8 @@
     "region": "ASEANIndiaKorea",
     "parts-bought": {
         "Shock Absorber": 33,
-        "Clutch": 13
+        "Clutch": 13,
+        "Axle": 15
     },
     "specific-parts-bought": {
         "Front strut": 9,
@@ -14,7 +15,14 @@
         "MacPherson strut": 3,
         "Clutch assembly": 8,
         "Clutch": 3,
-        "Clutch cover": 2
+        "Clutch cover": 2,
+        "Torsion beam rear axle": 2,
+        "Rear axle shaft": 1,
+        "Rear axle": 8,
+        "Axle beam": 1,
+        "Axle": 1,
+        "Front axle assembly": 1,
+        "Front axle": 1
     },
     "suppliers": {
         "Gabriel India Ltd.:Shock Absorber": 30,
@@ -23,6 +31,13 @@
         "Valeo Engineering Center(India), Lighting Systems, Wiper Systems, Pvt. Ltd:Clutch": 8,
         "Schaeffler India Limited:Clutch": 2,
         "Schaeffler India Limited (Formerly Luk India Pvt. Ltd.):Clutch": 2,
-        "Valeo Group:Clutch": 1
+        "Valeo Group:Clutch": 1,
+        "ALF Engineering Pvt. Ltd.:Axle": 2,
+        "Talbros Engineering Ltd.:Axle": 1,
+        "Sandeep Axles Pvt. Ltd.:Axle": 1,
+        "Takshi Auto Components Pvt. Ltd.:Axle": 3,
+        "Dana Anand India Private Limited (Formerly Spicer India Private Limited):Axle": 3,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 4,
+        "Sharda Motor Industries Ltd.:Axle": 1
     }
 }

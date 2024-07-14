@@ -1,0 +1,18 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Rear axle": 3
+    },
+    "buyers": {
+        "Mahindra & Mahindra:Axle": 1,
+        "Tata:Axle": 2
+    },
+    "Country": "India",
+    "Address": "Plot #114, Sector- 3, IMT Manesar,Gurgaon - 122050, Haryana, India",
+    "TEL": "+91-124-2290709, +91-124-2291338, +91-124-2291295",
+    "Year established": "1983",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)"
+}

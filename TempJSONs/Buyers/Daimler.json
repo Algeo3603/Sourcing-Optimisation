@@ -2,7 +2,8 @@
     "region": "Europe",
     "parts-bought": {
         "Shock Absorber": 45,
-        "Clutch": 17
+        "Clutch": 17,
+        "Axle": 35
     },
     "specific-parts-bought": {
         "Front shock absorber": 4,
@@ -33,7 +34,17 @@
         "Self-adjusting clutch": 1,
         "AWD differential clutch": 2,
         "Clutch set (MT diesel & gasoline)": 1,
-        "Hydrodynamically cooled clutch (HCC)": 2
+        "Hydrodynamically cooled clutch (HCC)": 2,
+        "Axle": 10,
+        "Axle drive": 1,
+        "Front axle": 2,
+        "Axle system": 4,
+        "Front axle drive": 2,
+        "Rear axle": 2,
+        "Rear axle housing": 3,
+        "Rear drive axle": 2,
+        "Front & rear axle system": 8,
+        "Rear drive unit, rear axle system": 1
     },
     "suppliers": {
         "ZF Friedrichshafen AG:Shock Absorber": 7,
@@ -55,6 +66,15 @@
         "Valeo Group:Clutch": 4,
         "KSM Castings Group GmbH:Clutch": 1,
         "F.C.C. Co., Ltd.:Clutch": 2,
-        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1
+        "Schaeffler Automotive Buehl GmbH & Co. KG:Clutch": 1,
+        "Force Motors - Chakan Plant:Axle": 9,
+        "ZF Friedrichshafen AG:Axle": 16,
+        "Dowlais Group plc:Axle": 1,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive):Axle": 1,
+        "Georg Fischer AG:Axle": 3,
+        "American Axle & Manufacturing Holdings, Inc.:Axle": 2,
+        "Federal-Mogul Holdings LLC:Axle": 1,
+        "Shiloh Industries, Inc. - Pleasant Prairie Plant:Axle": 1,
+        "NTN Corporation:Axle": 1
     }
 }

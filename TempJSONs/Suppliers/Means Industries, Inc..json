@@ -1,7 +1,8 @@
 {
     "top500": false,
     "parts_sold": {
-        "Clutch": 20
+        "Clutch": 20,
+        "Axle": 1
     },
     "specific_parts_sold": {
         "Clutch hub": 3,
@@ -12,12 +13,14 @@
         "One way clutch assembly for 6 Speed automatic transmission": 1,
         "Selectable one way clutch for 9 speed automatic transmission": 1,
         "One-way clutch assembly(6AT)": 2,
-        "One-way clutch": 6
+        "One-way clutch": 6,
+        "Axle disconnect module": 1
     },
     "buyers": {
         "Ford:Clutch": 6,
         "GM:Clutch": 13,
-        "Mazda:Clutch": 1
+        "Mazda:Clutch": 1,
+        "Rivian:Axle": 1
     },
     "Country": "USA",
     "Address": "3715 E. Washington Rd., Saginaw, MI 48601 USA",

@@ -2,7 +2,8 @@
     "region": "Americas",
     "parts-bought": {
         "Shock Absorber": 26,
-        "Clutch": 2
+        "Clutch": 2,
+        "Axle": 23
     },
     "specific-parts-bought": {
         "Front shock absorber": 8,
@@ -10,7 +11,11 @@
         "Shock absorber": 4,
         "Axle damper": 1,
         "Air supply module for air suspension system": 1,
-        "One-way clutch": 2
+        "One-way clutch": 2,
+        "Rear axle": 9,
+        "Front axle": 7,
+        "Axle": 1,
+        "Front & rear axle": 6
     },
     "suppliers": {
         "Hitachi Astemo Mexico, S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico, S.A. de C.V.):Shock Absorber": 7,
@@ -23,6 +28,8 @@
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 2,
         "Continental AG:Shock Absorber": 1,
         "thyssenkrupp Bilstein GmbH:Shock Absorber": 1,
-        "BorgWarner Inc.:Clutch": 2
+        "BorgWarner Inc.:Clutch": 2,
+        "Dana Incorporated (Formerly Dana Holding Corporation):Axle": 3,
+        "American Axle & Manufacturing Holdings, Inc.:Axle": 20
     }
 }

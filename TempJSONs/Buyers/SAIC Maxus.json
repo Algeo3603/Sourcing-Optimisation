@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 2
+        "Shock Absorber": 2,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Shock absorber": 2
+        "Shock absorber": 2,
+        "Axle": 1
     },
     "suppliers": {
-        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2,
+        "Sichuan Hyundai-Transys Automotive System Co., Ltd.(Formerly Sichuan Hyundai-Dymos Automotive System Co., Ltd.):Axle": 1
     }
 }

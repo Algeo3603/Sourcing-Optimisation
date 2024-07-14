@@ -1,0 +1,27 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 16
+    },
+    "specific_parts_sold": {
+        "Rear axle": 8,
+        "Rear axle(2.0L)(AMT)": 4,
+        "Rear axle(2.0T)(AMT)": 1,
+        "Axle": 3
+    },
+    "buyers": {
+        "Beijing Hyundai:Axle": 7,
+        "Changan:Axle": 2,
+        "Dongfeng Yueda Kia:Axle": 4,
+        "Geely:Axle": 1,
+        "Hyundai:Axle": 1,
+        "Hawtai:Axle": 1
+    },
+    "Country": "China",
+    "Address": "No. 496 Shanghai road, RiZhao City, Shandong Province, China",
+    "TEL": "+86-633-216-7100",
+    "Year established": "Apr. 2010",
+    "URL": "http://www.hyundai-transys.com/en",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Remarks": "-Shareholder(s): Hyundai Transys Inc."
+}
