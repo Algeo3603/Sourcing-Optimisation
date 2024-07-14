@@ -15,14 +15,14 @@
         "Passive suspension damper": 1
     },
     "buyers": {
-        "BMW Brilliance": 6,
-        "Dongfeng Honda": 3,
-        "Ferrari": 3,
-        "BMW": 1,
-        "SAIC Volkswagen": 1,
-        "Honda": 2,
-        "GM": 2,
-        "Volvo Cars": 1
+        "BMW Brilliance:Shock Absorber": 6,
+        "Dongfeng Honda:Shock Absorber": 3,
+        "Ferrari:Shock Absorber": 3,
+        "BMW:Shock Absorber": 1,
+        "SAIC Volkswagen:Shock Absorber": 1,
+        "Honda:Shock Absorber": 2,
+        "GM:Shock Absorber": 2,
+        "Volvo Cars:Shock Absorber": 1
     },
     "Country": "China",
     "Address": "No.85, Pu'an Road, Doudian Town, Fangshan District, Beijing, China",

@@ -1,27 +1,13 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 17,
-        "Rear Lamp": 53,
         "Shock Absorber": 3
     },
     "specific_parts_sold": {
-        "ABS wiring harness": 4,
-        "Trailer hitch wiring harness": 13,
-        "Rear lamp": 35,
-        "Rear lamp housing": 13,
-        "Rear combination lamp": 5,
         "Front strut assembly": 3
     },
     "buyers": {
-        "Hyundai": 21,
-        "Kia": 22,
-        "Mazda": 7,
-        "Mitsubishi": 2,
-        "Subaru": 17,
-        "GM": 2,
-        "Nissan": 1,
-        "Jeep": 1
+        "Hyundai:Shock Absorber": 3
     },
     "Year Established": "Jul. 1, 1977",
     "Number of Employees": "Non-consolidated: 12,101 employees (as of Dec. 31, 2023)",

@@ -1,45 +1,16 @@
 {
     "top500": true,
     "parts_sold": {
-        "Clutch": 29,
         "Shock Absorber": 4
     },
     "specific_parts_sold": {
-        "Clutch cover": 3,
-        "Clutch tube": 1,
-        "Clutch": 16,
-        "Dual-clutch module": 1,
-        "Clutch cover(VQ37VHR)(6MT)": 1,
-        "Self-adjusting clutch": 1,
-        "6MT cluch": 1,
-        "Dry dual clutch": 1,
-        "Clutch damper": 1,
-        "Diaphragm clutch": 1,
-        "Double clutch ( LuK )(2.0L)": 1,
-        "Clutch set": 1,
         "Damper": 3,
         "Strut": 1
     },
     "buyers": {
-        "Toyota": 4,
-        "Renault": 3,
-        "Citroen": 1,
-        "Nissan": 2,
-        "Opel": 1,
-        "SEAT": 2,
-        "Skoda": 1,
-        "Audi": 1,
-        "Peugeot": 1,
-        "Volkswagen": 6,
-        "BMW": 1,
-        "Daimler": 2,
-        "Alfa Romeo": 1,
-        "Honda": 2,
-        "Hyundai": 1,
-        "Fiat": 1,
-        "Ford": 1,
-        "GM": 1,
-        "Volvo Cars": 1
+        "SEAT:Shock Absorber": 1,
+        "Volkswagen:Shock Absorber": 2,
+        "Volvo Cars:Shock Absorber": 1
     },
     "Number of Employees": "3,362 employees (As of Dec. 31, 2023)",
     "Sales Turnover": "EUR 16,313 million (FY ended Dec. 31, 2023)",

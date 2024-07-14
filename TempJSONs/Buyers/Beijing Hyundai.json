@@ -1,42 +1,16 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 16,
-        "Rear Lamp": 12,
-        "Clutch": 3,
-        "Axle": 9,
         "Shock Absorber": 3
     },
     "specific-parts-bought": {
-        "High voltage wiring harness": 2,
-        "Wiring harness": 13,
-        "Main wiring harness": 1,
-        "Rear lamp(1.4L)(6MT)": 1,
-        "Rear lamp": 11,
-        "Clutch": 1,
-        "Clutch automatic control system(1.6L)": 1,
-        "Clutch automatic control system(1.4L)": 1,
-        "Rear axle": 3,
-        "Front axle module(1.4L)(6MT)": 1,
-        "Rear axle module(1.4L)(6MT)": 1,
-        "Rear axle(2.0L)(AMT)": 2,
-        "Rear axle(2.0T)(AMT)": 1,
-        "Axle": 1,
         "Buffer block(1.6T)(7DCT)": 1,
         "Shock absorber(1.6T)(7DCT)": 1,
         "Shock absorber piston rod": 1
     },
     "suppliers": {
-        "Beijing BHAP Lear Automotive Systems Co., Ltd.": 2,
-        "YURA Corporation": 1,
-        "Sanhe INFAC Automotive Components Co., Ltd.": 13,
-        "Beijing Samlip Automotive Lighting Co., Ltd.": 12,
-        "Valeo Pyeong Hwa Co., Ltd.": 1,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 2,
-        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 7,
-        "Cangzhou Hyundai Mobis Automotive Parts Co., Ltd.": 2,
-        "Shanghai Carthane Co., Ltd.": 1,
-        "Tenneco (Beijing) Ride Control System Co., Ltd.": 1,
-        "Tianjin Beite Automotive Parts Co., Ltd.": 1
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 1,
+        "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 1,
+        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1
     }
 }

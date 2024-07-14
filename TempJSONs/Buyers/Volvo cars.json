@@ -1,12 +1,19 @@
 {
-    "region": "Europe",
+    "region": "Americas",
     "parts-bought": {
-        "Axle": 1
+        "Shock Absorber": 15
     },
     "specific-parts-bought": {
-        "Electric rear axle drive system": 1
+        "Shock absorber": 10,
+        "Continuously variable semi-active suspension": 3,
+        "Damper": 1,
+        "Air spring system": 1
     },
     "suppliers": {
-        "Magna International Inc.": 1
+        "Oehlins Racing AB:Shock Absorber": 9,
+        "Tenneco Inc.:Shock Absorber": 3,
+        "Schaeffler AG:Shock Absorber": 1,
+        "Continental AG:Shock Absorber": 1,
+        "Beijing West Industries Co., Ltd.:Shock Absorber": 1
     }
 }

@@ -11,12 +11,12 @@
         "Shock absorber": 3
     },
     "buyers": {
-        "Hyundai": 62,
-        "Kia": 18,
-        "Renault": 1,
-        "Tesla": 1,
-        "GM": 2,
-        "Nissan": 1
+        "Hyundai:Shock Absorber": 62,
+        "Kia:Shock Absorber": 18,
+        "Renault:Shock Absorber": 1,
+        "Tesla:Shock Absorber": 1,
+        "GM:Shock Absorber": 2,
+        "Nissan:Shock Absorber": 1
     },
     "Year Established": "Oct. 1, 1962",
     "Number of Employees": "Non-consolidated: 3,982 employees (as of Dec. 31, 2023)",

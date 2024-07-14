@@ -8,10 +8,10 @@
         "Front shock absorber": 2
     },
     "buyers": {
-        "GM": 1,
-        "Audi": 1,
-        "Jeep": 1,
-        "Nissan": 6
+        "GM:Shock Absorber": 1,
+        "Audi:Shock Absorber": 1,
+        "Jeep:Shock Absorber": 1,
+        "Nissan:Shock Absorber": 6
     },
     "Country": "USA",
     "Address": "15811 Centennial Drive, Northville, MI 48168, USA",

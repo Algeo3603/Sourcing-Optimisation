@@ -8,8 +8,8 @@
         "Shock absorber": 1
     },
     "buyers": {
-        "Mazda": 1,
-        "Nissan": 1
+        "Mazda:Shock Absorber": 1,
+        "Nissan:Shock Absorber": 1
     },
     "Country": "Mexico",
     "Address": "Blvd. Manuel Avila Camacho No. 32, Int. 403, Col. Lomas de Chapultepec, Del. Miguel Hidalgo, DF, 11000, Mexico",

@@ -7,11 +7,11 @@
         "Shock absorber": 4
     },
     "buyers": {
-        "Mercedes-Benz": 3,
-        "Toyota": 1
+        "Mercedes-Benz:Shock Absorber": 3,
+        "Toyota:Shock Absorber": 1
     },
     "Country": "Germany",
-    "Address": "Luitpoldstraße 83, 67480 Edenkoben, Germany",
+    "Address": "Luitpoldstrae 83, 67480 Edenkoben, Germany",
     "TEL": "+49-6323-47-0",
     "URL": "https://www.tenneco.com/",
     "Quality certification": "ISO9001",

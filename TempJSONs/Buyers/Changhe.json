@@ -1,22 +1,13 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 3,
-        "Rear Lamp": 1,
-        "Clutch": 1,
         "Shock Absorber": 2
     },
     "specific-parts-bought": {
-        "Wire harness": 3,
-        "Rear combination lamp": 1,
-        "Clutch": 1,
         "Front strut": 1,
         "Rear shock absorber": 1
     },
     "suppliers": {
-        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 3,
-        "Nanning Liaowang Auto Lamp Co., Ltd.": 1,
-        "Changchun Yidong Clutch Co., Ltd.": 1,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 2
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 2
     }
 }

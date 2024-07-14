@@ -1,41 +1,9 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 45,
-        "Rear Lamp": 4,
-        "Clutch": 9,
         "Shock Absorber": 15
     },
     "specific-parts-bought": {
-        "Engine room wiring harness(2.4L)(CVT8)": 1,
-        "Body wiring harness(2.4L)(CVT8)": 1,
-        "Door wiring harness(2.4L)(CVT8)": 1,
-        "Floor wiring harness(2.4L)(CVT8)": 1,
-        "Engine room wiring harness(2.0L)(CVT8)": 1,
-        "Body wiring harness(2.0L)(CVT8)": 1,
-        "Door wiring harness(2.0L)(CVT8)": 1,
-        "Floor wiring harness(2.0L)(CVT8)": 1,
-        "Body wiring harness(1.5T)(CVT8)": 6,
-        "Door wiring harness(1.5T)(CVT8)": 4,
-        "Body wiring harness(1.5T)(6MT)": 3,
-        "Door wiring harness(1.5T)(6MT)": 2,
-        "Body wiring harness(2.4L)(CVT6)": 3,
-        "Door wiring harness(2.4L)(CVT6)": 2,
-        "Engine room wiring harness(2.4L)(CVT6)": 1,
-        "Body wiring harness(2.0L)(CVT6)": 3,
-        "Door wiring harness(2.0L)(CVT6)": 2,
-        "Engine room wiring harness(2.0L)(CVT6)": 1,
-        "Body wiring harness(1.6L)(5MT)": 2,
-        "Body wiring harness(1.6L)(CVT)": 2,
-        "Door wiring harness(1.6L)(5MT)": 2,
-        "Door wiring harness(1.6L)(CVT)": 2,
-        "Engine room wiring harness(1.6L)(5MT)": 1,
-        "Engine room wiring harness(1.6L)(CVT)": 1,
-        "Rear lamp": 2,
-        "Rear combination lamp": 2,
-        "Clutch assembly": 3,
-        "Clutch": 3,
-        "Clutch cover": 3,
         "Shock absorber(2.4L)(CVT8)": 1,
         "Shock absorber(2.0L)(CVT6)": 1,
         "Shock absorber(2.4L)(CVT6)": 1,
@@ -51,15 +19,8 @@
         "Shock absorber base(2.0L)(6CVT)": 1
     },
     "suppliers": {
-        "Fushan Shunde Yazaki Auto Parts Co., Ltd.": 13,
-        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch": 14,
-        "HuiZhou Sumiden Wiring Systems Co., Ltd.": 18,
-        "Bluestar Technology (Shenzhen) Co., Ltd.": 2,
-        "Wuhan Stanley Electric Co., Ltd.": 2,
-        "Dynax Industry (Shanghai) Co., Ltd.": 3,
-        "Exedy Chongqing Co., Ltd.": 6,
-        "KYB Industrial Machinery (Zhenjiang) Ltd.": 4,
-        "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co., Ltd. Wuhan Branch)": 3,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 8
+        "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 4,
+        "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co., Ltd. Wuhan Branch):Shock Absorber": 3,
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 8
     }
 }

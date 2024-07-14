@@ -1,12 +1,9 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 4,
         "Shock Absorber": 30
     },
     "specific-parts-bought": {
-        "Rear lamp": 2,
-        "Rear combination lamp": 2,
         "Shock absorber piston": 3,
         "Shock absorber base": 3,
         "Shock absorber(1.5L)(5MT)": 2,
@@ -30,15 +27,11 @@
         "Front shock absorber": 2
     },
     "suppliers": {
-        "Wuhan Stanley Electric Co., Ltd.": 1,
-        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)": 1,
-        "Shanghai Sunlight Enterprise Co., Ltd.": 1,
-        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 6,
-        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.)": 1,
-        "Shanghai Carthane Co., Ltd.": 9,
-        "Tianjin Beite Automotive Parts Co., Ltd.": 1,
-        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.": 8,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 5
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 6,
+        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 1,
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 9,
+        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
+        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.:Shock Absorber": 8,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 5
     }
 }

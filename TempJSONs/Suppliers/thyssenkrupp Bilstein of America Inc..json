@@ -11,14 +11,14 @@
         "Rear strut": 3
     },
     "buyers": {
-        "Lucid": 6,
-        "Nissan": 8,
-        "Ram Trucks": 3,
-        "Tesla": 9,
-        "Toyota": 6,
-        "Dodge": 8,
-        "Daimler": 1,
-        "Ford": 2
+        "Lucid:Shock Absorber": 6,
+        "Nissan:Shock Absorber": 8,
+        "Ram Trucks:Shock Absorber": 3,
+        "Tesla:Shock Absorber": 9,
+        "Toyota:Shock Absorber": 6,
+        "Dodge:Shock Absorber": 8,
+        "Daimler:Shock Absorber": 1,
+        "Ford:Shock Absorber": 2
     },
     "Country": "USA",
     "Address": "8685 Berk Boulevard, Hamilton, OH 45015 USA",

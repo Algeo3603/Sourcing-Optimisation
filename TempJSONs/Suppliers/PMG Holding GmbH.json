@@ -8,15 +8,15 @@
         "Shock absorber piston": 6
     },
     "buyers": {
-        "BMW": 2,
-        "Daimler": 1,
-        "Jaguar Land Rover": 1,
-        "Audi": 1,
-        "Renault": 1,
-        "Volkswagen": 1
+        "BMW:Shock Absorber": 2,
+        "Daimler:Shock Absorber": 1,
+        "Jaguar Land Rover:Shock Absorber": 1,
+        "Audi:Shock Absorber": 1,
+        "Renault:Shock Absorber": 1,
+        "Volkswagen:Shock Absorber": 1
     },
     "Country": "Germany",
-    "Address": "Mühlbachgasse 2, 87629 Füssen, Germany",
+    "Address": "Mhlbachgasse 2, 87629 Fssen, Germany",
     "TEL": "+49-8362-506-130",
     "Year established": "1991",
     "URL": "https://www.pmgsinter.com/"

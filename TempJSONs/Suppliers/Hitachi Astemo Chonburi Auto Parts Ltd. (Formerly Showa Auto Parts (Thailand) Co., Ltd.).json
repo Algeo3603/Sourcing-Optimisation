@@ -9,11 +9,11 @@
         "Shock absorber": 1
     },
     "buyers": {
-        "Mazda": 4,
-        "Nissan": 1,
-        "Subaru": 2,
-        "Suzuki": 2,
-        "Toyota": 4
+        "Mazda:Shock Absorber": 4,
+        "Nissan:Shock Absorber": 1,
+        "Subaru:Shock Absorber": 2,
+        "Suzuki:Shock Absorber": 2,
+        "Toyota:Shock Absorber": 4
     },
     "Country": "Thailand",
     "Address": "150/23 Moo 9 Nongkham A. Sriracha Chonburi 20110, Thailand",

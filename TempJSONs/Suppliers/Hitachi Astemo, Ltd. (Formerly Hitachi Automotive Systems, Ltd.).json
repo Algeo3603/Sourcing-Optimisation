@@ -1,11 +1,9 @@
 {
     "top500": true,
     "parts_sold": {
-        "Clutch": 1,
         "Shock Absorber": 541
     },
     "specific_parts_sold": {
-        "Clutch": 1,
         "Rear shock absorber": 206,
         "Front shock absorber": 184,
         "Front semi-active suspension shock absorber": 8,
@@ -25,20 +23,20 @@
         "Semi active suspension system": 1
     },
     "buyers": {
-        "Honda": 97,
-        "Subaru": 66,
-        "Mazda": 72,
-        "Nissan": 54,
-        "Suzuki": 30,
-        "Toyota": 147,
-        "Daihatsu": 37,
-        "Hino": 6,
-        "Isuzu": 6,
-        "Mitsubishi": 12,
-        "Ram Trucks": 2,
-        "Dongfeng Honda": 5,
-        "GAC Honda": 6,
-        "Ford": 2
+        "Subaru:Shock Absorber": 66,
+        "Honda:Shock Absorber": 96,
+        "Mazda:Shock Absorber": 72,
+        "Nissan:Shock Absorber": 54,
+        "Suzuki:Shock Absorber": 30,
+        "Toyota:Shock Absorber": 147,
+        "Daihatsu:Shock Absorber": 37,
+        "Hino:Shock Absorber": 6,
+        "Isuzu:Shock Absorber": 6,
+        "Mitsubishi:Shock Absorber": 12,
+        "Ram Trucks:Shock Absorber": 2,
+        "Dongfeng Honda:Shock Absorber": 5,
+        "GAC Honda:Shock Absorber": 6,
+        "Ford:Shock Absorber": 2
     },
     "Year Established": ", July 2009",
     "Representative": "Kohei Takeuchi (Representative Director, President & CEO)",

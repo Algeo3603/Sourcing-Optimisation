@@ -1,18 +1,13 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 4,
         "Shock Absorber": 2
     },
     "specific-parts-bought": {
-        "Wiring harness(1.8T)(5AMT)": 1,
-        "High voltage wiring harness": 1,
-        "Lithium-ion battery wiring harness": 2,
         "Shock absorber piston(1.5L)(5MT)": 1,
         "Shock absorber base(1.5L)(5MT)": 1
     },
     "suppliers": {
-        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 4,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 2
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 2
     }
 }

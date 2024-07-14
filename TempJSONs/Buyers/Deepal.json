@@ -1,16 +1,13 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 2,
         "Shock Absorber": 9
     },
     "specific-parts-bought": {
-        "Rear combination lamp": 2,
         "Shock absorber": 9
     },
     "suppliers": {
-        "Nanning Liaowang Auto Lamp Co., Ltd.": 2,
-        "Schaeffler (China) Co., Ltd.": 6,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 3
+        "Schaeffler (China) Co., Ltd.:Shock Absorber": 6,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 3
     }
 }

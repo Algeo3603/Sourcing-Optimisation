@@ -1,19 +1,16 @@
 {
     "top500": false,
     "parts_sold": {
-        "Rear Lamp": 2,
         "Shock Absorber": 2
     },
     "specific_parts_sold": {
-        "Rear lamp": 1,
-        "Rear lamp(1.6L)": 1,
         "Front strut": 2
     },
     "buyers": {
-        "Kia": 4
+        "Kia:Shock Absorber": 2
     },
     "Country": "Mexico",
-    "Address": "CARRETERA LIBRE ESTATAL PESQUERÍA-LOS RAMONES KM 13-15, LOCALIDAD LA ARENA, PESQUERÍA NUEVO LEÓN, C.P. 66679, MÉXICO",
+    "Address": "CARRETERA LIBRE ESTATAL PESQUERA-LOS RAMONES KM 13-15, LOCALIDAD LA ARENA, PESQUERA NUEVO LEN, C.P. 66679, MXICO",
     "TEL": "+52-81-5998-7000",
     "Year established": "Sep., 2014",
     "URL": "https://www.mobis.co.kr/en/index.do",

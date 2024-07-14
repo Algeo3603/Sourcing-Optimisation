@@ -1,45 +1,16 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 17,
-        "Rear Lamp": 9,
-        "Clutch": 4,
         "Shock Absorber": 3
     },
     "specific-parts-bought": {
-        "Left body wiring harness assembly": 1,
-        "Instrument panel wiring harness assembly": 1,
-        "Front wiring harness": 1,
-        "Engine wiring harness assembly": 1,
-        "Roof wiring harness assembly": 1,
-        "Left front door wiring harness assembly": 1,
-        "Right front door wiring harness assembly": 1,
-        "Left rear door wiring harness assembly": 1,
-        "Right rear door wiring harness assembly": 1,
-        "Reversing radar wiring harness assembly": 1,
-        "Airbag wiring harness assembly": 1,
-        "Rear defroster wiring harness assembly": 1,
-        "Positive battery cable assembly": 1,
-        "Ashtray lamp wiring harness assembly": 1,
-        "Battery ground cable assembly": 1,
-        "Wiring harness": 2,
-        "Rear combination lamp": 1,
-        "Stop lamp": 8,
-        "Clutch": 3,
-        "Clutch cover": 1,
         "Shock absorber": 1,
         "Buffer block(1.8L)(5MT)": 1,
         "Shock absorber piston rod": 1
     },
     "suppliers": {
-        "Chongqing Qinchuan Industry (Group) Co., Ltd.": 15,
-        "Tianhai Snowcity (Chongqing) Auto Electric Co., Ltd.": 2,
-        "Nanning Liaowang Auto Lamp Co., Ltd.": 1,
-        "Jiangsu Tongming Auto Lamp Co., Ltd.": 8,
-        "Exedy Chongqing Co., Ltd.": 2,
-        "Changchun Yidong Clutch Co., Ltd.": 2,
-        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.)": 1,
-        "Shanghai Carthane Co., Ltd.": 1,
-        "Tianjin Beite Automotive Parts Co., Ltd.": 1
+        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 1,
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 1,
+        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1
     }
 }

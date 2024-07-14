@@ -1,21 +1,13 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Rear Lamp": 10,
         "Shock Absorber": 2
     },
     "specific-parts-bought": {
-        "Rear combination lamp": 6,
-        "LED rear combination lamp": 1,
-        "Rear lamp": 3,
         "Front shock absorber": 1,
         "Rear shock absorber": 1
     },
     "suppliers": {
-        "Stanley Electric Hungary Kft.": 5,
-        "Koito Manufacturing Co., Ltd.": 2,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 2,
-        "Koito Czech s.r.o.": 1,
-        "KYB Corporation": 2
+        "KYB Corporation:Shock Absorber": 2
     }
 }

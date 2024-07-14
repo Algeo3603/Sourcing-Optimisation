@@ -1,14 +1,12 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Rear Lamp": 3
+        "Shock Absorber": 1
     },
     "specific-parts-bought": {
-        "Rear lamp": 3
+        "Damper": 1
     },
     "suppliers": {
-        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
-        "Valeo Group": 1
+        "Schaeffler AG:Shock Absorber": 1
     }
 }

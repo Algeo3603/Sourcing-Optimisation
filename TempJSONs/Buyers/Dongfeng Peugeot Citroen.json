@@ -1,21 +1,9 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 8,
-        "Rear Lamp": 9,
-        "Axle": 5,
         "Shock Absorber": 44
     },
     "specific-parts-bought": {
-        "High-voltage wiring harness": 2,
-        "High-voltage wiring harness system": 1,
-        "Seat Wiring Harness": 4,
-        "USB wire": 1,
-        "Rear lamp": 8,
-        "Rear combination lamp": 1,
-        "Torsion beam rear axle": 3,
-        "Front axle": 1,
-        "Rear axle": 1,
         "Buffer block(1.2T)(6AMT)": 4,
         "Shock absorber(1.2T)(6AMT)": 4,
         "Shock absorber(2.0L)(5MT)": 1,
@@ -38,17 +26,10 @@
         "Shock absorber piston rod": 2
     },
     "suppliers": {
-        "Wuhan Zhengao Automotive Electrical System Co., Ltd. (Formerly Wuhan Zhengao Leoni Automotive Wiring Harness Co., Ltd.)": 3,
-        "Aptiv Electric Systems Co., Ltd. Wuhan Branch": 4,
-        "Aptiv (China) Investment Co., Ltd.": 1,
-        "HASCO Vision Technology (Wuhan) Co., Ltd. (Formerly Wuhan Tongchang Automotive Lighting Co., Ltd.)": 8,
-        "Shanghai Sunlight Enterprise Co., Ltd.": 1,
-        "Gestamp Automotive Chongqing Co., Ltd.": 4,
-        "Gentherm Automotive Systems (China) Ltd.": 1,
-        "Shanghai Carthane Co., Ltd.": 19,
-        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.": 18,
-        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 3,
-        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 2,
-        "Shanghai Beite Technology Co., Ltd.": 2
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 19,
+        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.:Shock Absorber": 18,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.:Shock Absorber": 3,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2,
+        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 2
     }
 }

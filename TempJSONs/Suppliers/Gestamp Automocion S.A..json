@@ -1,29 +1,19 @@
 {
     "top500": true,
     "parts_sold": {
-        "Axle": 8,
         "Shock Absorber": 3
     },
     "specific_parts_sold": {
-        "Rear axle": 2,
-        "Front axle": 3,
-        "Twist beam rear axle": 1,
-        "Axle": 1,
-        "Torsion beam rear axle": 1,
         "Strut": 3
     },
     "buyers": {
-        "BMW": 4,
-        "Peugeot": 2,
-        "Fiat": 1,
-        "Audi": 1,
-        "Maserati": 1,
-        "Daimler": 1,
-        "Volkswagen": 1
+        "Maserati:Shock Absorber": 1,
+        "Daimler:Shock Absorber": 1,
+        "Volkswagen:Shock Absorber": 1
     },
     "Number of Employees": "4,956 employees (As of Dec. 31, 2023)",
     "Sales Turnover": "EUR 12,273.7 million (FY ended Dec. 31, 2023)",
-    "Representative": "Francisco José Riberas Mera (Executive Chairman)",
+    "Representative": "Francisco Jos Riberas Mera (Executive Chairman)",
     "Capital": "EUR 287.8 million (As of Dec. 31, 2023)",
     "URL": "https://www.gestamp.com",
     "Address": "Alfonso XII, 16, Madrid 28014, Spain",

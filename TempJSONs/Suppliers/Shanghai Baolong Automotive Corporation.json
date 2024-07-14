@@ -10,9 +10,9 @@
         "Air spring system(1.5T)": 1
     },
     "buyers": {
-        "BYD": 2,
-        "NIO": 6,
-        "Li Auto": 1
+        "BYD:Shock Absorber": 2,
+        "NIO:Shock Absorber": 6,
+        "Li Auto:Shock Absorber": 1
     },
     "Country": "China",
     "Address": "No.5500, Shenzhuan Road, Songjiang 201619, China",

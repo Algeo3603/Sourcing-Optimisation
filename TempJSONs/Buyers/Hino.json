@@ -1,39 +1,13 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Wiring Harness": 22,
-        "Rear Lamp": 6,
-        "Clutch": 3,
-        "Axle": 10,
         "Shock Absorber": 6
     },
     "specific-parts-bought": {
-        "Body wiring harness": 10,
-        "Door wiring harness": 11,
-        "Engine wiring harness(N04C-WD)": 1,
-        "Rear lamp": 4,
-        "Rear combination lamp assembly": 2,
-        "Clutch cover": 3,
-        "Rear axle shaft": 1,
-        "Axle": 1,
-        "Drive axle": 4,
-        "Steer Axle": 4,
         "Front shock absorber": 3,
         "Rear shock absorber": 3
     },
     "suppliers": {
-        "Sumitomo Electric Industries, Ltd.": 2,
-        "Yazaki Corporation": 9,
-        "Sumitomo Wiring Systems, Ltd.": 8,
-        "Elcom Inc.": 1,
-        "Taiwan Yazaki Corporation": 2,
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 3,
-        "Koito Manufacturing Co., Ltd.": 1,
-        "AAPICO Hitech Public Co., Ltd.": 2,
-        "EXEDY Corporation": 3,
-        "Somboon Advance Technology Public Co., Ltd.": 1,
-        "ZF Friedrichshafen AG": 1,
-        "Dana Incorporated (Formerly Dana Holding Corporation)": 8,
-        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.)": 6
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 6
     }
 }

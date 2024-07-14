@@ -12,12 +12,12 @@
         "Strut": 1
     },
     "buyers": {
-        "Jaguar Land Rover": 1,
-        "Maruti Suzuki": 17,
-        "Mahindra & Mahindra": 1,
-        "Scania": 1,
-        "Tata": 1,
-        "Toyota": 3
+        "Jaguar Land Rover:Shock Absorber": 1,
+        "Maruti Suzuki:Shock Absorber": 17,
+        "Mahindra & Mahindra:Shock Absorber": 1,
+        "Scania:Shock Absorber": 1,
+        "Tata:Shock Absorber": 1,
+        "Toyota:Shock Absorber": 3
     },
     "Country": "India",
     "Address": "No.122, Sipcot Industrial Complex, Phase I, Hosur - 635 126, Tamil Nadu, India",

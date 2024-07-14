@@ -1,18 +1,12 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 1,
-        "Axle": 1,
         "Shock Absorber": 2
     },
     "specific-parts-bought": {
-        "Rear combination lamp": 1,
-        "Axle": 1,
         "Shock absorber": 2
     },
     "suppliers": {
-        "Zhejiang Jiali (Lishui) Industry Co., Ltd.": 1,
-        "Sichuan Hyundai-Transys Automotive System Co., Ltd.(Formerly Sichuan Hyundai-Dymos Automotive System Co., Ltd.)": 1,
-        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 2
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2
     }
 }

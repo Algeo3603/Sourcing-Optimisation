@@ -1,5 +1,5 @@
 {
-    "region": "ASEAN・India・Korea",
+    "region": "ASEANIndiaKorea",
     "parts-bought": {
         "Shock Absorber": 1
     },
@@ -7,6 +7,6 @@
         "Front strut": 1
     },
     "suppliers": {
-        "Tenneco Automotive India Pvt. Ltd.": 1
+        "Tenneco Automotive India Pvt. Ltd.:Shock Absorber": 1
     }
 }

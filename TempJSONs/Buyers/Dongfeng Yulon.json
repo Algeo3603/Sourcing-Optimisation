@@ -1,11 +1,9 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 1,
         "Shock Absorber": 10
     },
     "specific-parts-bought": {
-        "Rear lamp": 1,
         "Buffer block(1.8T)(5MT)": 1,
         "Buffer block(1.8T)(6AMT)": 1,
         "Shock absorber(1.8T)(5MT)": 1,
@@ -16,8 +14,7 @@
         "Shock absorber(2.2T)(6AMT)": 2
     },
     "suppliers": {
-        "Koito Manufacturing Co., Ltd.": 1,
-        "Shanghai Carthane Co., Ltd.": 5,
-        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.": 5
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 5,
+        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.:Shock Absorber": 5
     }
 }

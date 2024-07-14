@@ -1,13 +1,9 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 5,
-        "Axle": 2,
         "Shock Absorber": 20
     },
     "specific-parts-bought": {
-        "Wiring harness": 5,
-        "Rear drive axle": 2,
         "Shock absorber piston(1.5L)(6MT)": 1,
         "Shock absorber piston(1.5L)(CVT)": 1,
         "Shock absorber base(1.5L)(6MT)": 1,
@@ -30,11 +26,9 @@
         "Shock absorber(1.5T)(CVT)": 1
     },
     "suppliers": {
-        "Kaifeng Rijin Wiring Systems Co., Ltd.": 5,
-        "Sichuan Jianan Industrial Co., Ltd.": 2,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 10,
-        "FAW-Tokico Shock Absorber Co., Ltd.": 2,
-        "Shanghai Carthane Co., Ltd.": 5,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 3
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 10,
+        "FAW-Tokico Shock Absorber Co., Ltd.:Shock Absorber": 2,
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 5,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 3
     }
 }

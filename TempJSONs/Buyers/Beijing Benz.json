@@ -1,51 +1,13 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 63,
-        "Rear Lamp": 4,
-        "Axle": 8,
         "Shock Absorber": 3
     },
     "specific-parts-bought": {
-        "High-voltage wiring harness": 3,
-        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(9AMT)": 1,
-        "ABS wiring harness(1.6T)(9AMT)": 1,
-        "ESP wiring harness(1.6T)(9AMT)": 1,
-        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(9AMT)": 3,
-        "ABS wiring harness(2.0T)(9AMT)": 3,
-        "ESP wiring harness(2.0T)(9AMT)": 3,
-        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7AMT)": 3,
-        "ABS wiring harness(2.0T)(7AMT)": 3,
-        "ESP wiring harness(2.0T)(7AMT)": 3,
-        "Electronic brake-force distribution (EBD) wiring harness(1.6T)(7DCT)": 1,
-        "ABS wiring harness(1.6T)(7DCT)": 1,
-        "ESP wiring harness(1.6T)(7DCT)": 1,
-        "Electronic brake-force distribution (EBD) wiring harness(2.0T)(7DCT)": 2,
-        "ABS wiring harness(2.0T)(7DCT)": 2,
-        "ESP wiring harness(2.0T)(7DCT)": 2,
-        "Engine wiring harness": 15,
-        "Motor wiring harness": 3,
-        "Starter wiring harness": 3,
-        "Wire harness": 3,
-        "Wiring system": 6,
-        "Rear lamp": 4,
-        "Front axle": 3,
-        "Rear axle": 3,
-        "Front & rear axle system": 2,
         "Shock absorber": 3
     },
     "suppliers": {
-        "Kunshan Huguang Auto Harness Co., Ltd.": 3,
-        "Langfang Leoni Wiring Systems Co., Ltd.": 33,
-        "Leoni Electrical Systems (Shanghai) Co., Ltd.": 15,
-        "Guangdong KSD Automotive Components Co., Ltd.": 6,
-        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 3,
-        "Leoni AG": 3,
-        "Changchun Magneti Marelli Automotive Lighting System Co., Ltd.": 1,
-        "Beifang Hella Automotive Lighting Ltd.": 3,
-        "Zf Chassis Systems (Beijing) Co., Ltd.": 6,
-        "ZF Group (China)": 2,
-        "Tenneco (Beijing) Ride Control System Co., Ltd.": 1,
-        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 2
+        "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 1,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2
     }
 }

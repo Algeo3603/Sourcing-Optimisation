@@ -1,46 +1,16 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 26,
-        "Rear Lamp": 10,
-        "Clutch": 9,
-        "Axle": 10,
         "Shock Absorber": 4
     },
     "specific-parts-bought": {
-        "Rear view mirror wire harness": 3,
-        "Wire harness": 17,
-        "Terminal": 1,
-        "Wiring harness": 1,
-        "Main wiring harness": 3,
-        "Signal transmission wire": 1,
-        "Rear lamp": 8,
-        "Rear Lamp": 2,
-        "Clutch automatic control system(1.2L)": 3,
-        "Clutch automatic control system(1.6L)": 3,
-        "Clutch": 3,
-        "Rear axle assembly": 7,
-        "Rear axle module": 3,
         "Shock absorber": 2,
         "Strut": 1,
         "Damping force continuously variable control damper": 1
     },
     "suppliers": {
-        "Shanghai Bolson Automotive Parts Co., Ltd.": 3,
-        "Aptiv Electric Systems Co., Ltd. Yantai Branch": 5,
-        "Shanghai Jinting Automobile Harness Ltd.(JAH)": 12,
-        "Aptiv Electric Systems Co., Ltd.": 3,
-        "Shanghai Dai-Ichi Electronic Co., Ltd.": 2,
-        "Aptiv (China) Investment Co., Ltd.": 1,
-        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 7,
-        "Laster Tech Automotive (Shanghai) Co., Ltd.": 2,
-        "Koito Manufacturing Co., Ltd.": 1,
-        "Guangzhou Daonuo Electronic Technology Co., Ltd.": 6,
-        "HASCO Powertrain Components System (Shanghai) Co., Ltd.(Formerly Shanghai Sachs Powertrain Components Systems Co., Ltd.)": 3,
-        "Yantai Huizhong Automotive Chassis Systems Co., Ltd.": 6,
-        "Shanghai Huizhong Automotive Manufacturing Co., Ltd.": 4,
-        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 2,
-        "Pyung Hwa Industrial Co., Ltd.": 1,
-        "ZF Friedrichshafen AG": 1
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 2,
+        "Pyung Hwa Industrial Co., Ltd.:Shock Absorber": 1,
+        "ZF Friedrichshafen AG:Shock Absorber": 1
     }
 }

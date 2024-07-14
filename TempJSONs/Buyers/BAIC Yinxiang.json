@@ -1,11 +1,9 @@
 {
     "region": "China",
     "parts-bought": {
-        "Clutch": 3,
         "Shock Absorber": 12
     },
     "specific-parts-bought": {
-        "Clutch": 3,
         "Shock absorber piston(1.5L)(5MT)": 2,
         "Shock absorber base(1.5L)(5MT)": 2,
         "Shock absorber(1.5L)(5MT)": 1,
@@ -14,10 +12,9 @@
         "Rear shock absorber": 3
     },
     "suppliers": {
-        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 3,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 4,
-        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 1,
-        "Shanghai Carthane Co., Ltd.": 1,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 6
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 4,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.:Shock Absorber": 1,
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 1,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 6
     }
 }

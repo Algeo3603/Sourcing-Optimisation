@@ -1,22 +1,13 @@
 {
     "top500": false,
     "parts_sold": {
-        "Clutch": 18,
         "Shock Absorber": 3
     },
     "specific_parts_sold": {
-        "Clutch": 17,
-        "Clutch cover": 1,
         "Shock absorber": 3
     },
     "buyers": {
-        "VOYAH Motor": 1,
-        "BAIC Yinxiang": 3,
-        "Dongfeng Liuzhou Motor": 7,
-        "FAW-Volkswagen": 5,
-        "Geely": 2,
-        "SAIC GM Wuling": 2,
-        "SAIC Volkswagen": 1
+        "Dongfeng Liuzhou Motor:Shock Absorber": 3
     },
     "Country": "China",
     "Address": "405, 4th Floor, Building 4, No.46, Jinhaian Avenue West, Sanzao Town, Jinwan District,  Zhuhai, Guangdong, China",
@@ -25,5 +16,5 @@
     "URL": "http://www.cncclutch.com",
     "Quality certification": "ISO9001QS9000VDA6.1IATF16949 (Formerly ISO/TS16949)",
     "Environmental certification": "ISO14001",
-    "Remarks": "-Shareholder(s): Zhuhai HuaHuo Transmission Technology Co., Ltd.，CHINA AND CANTON (HOLDINGS) COMPANY LIMITED"
+    "Remarks": "-Shareholder(s): Zhuhai HuaHuo Transmission Technology Co., Ltd.CHINA AND CANTON (HOLDINGS) COMPANY LIMITED"
 }

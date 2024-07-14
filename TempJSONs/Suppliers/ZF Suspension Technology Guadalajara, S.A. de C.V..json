@@ -9,9 +9,9 @@
         "Front strut": 1
     },
     "buyers": {
-        "Jeep": 1,
-        "Volkswagen": 1,
-        "Nissan": 1
+        "Jeep:Shock Absorber": 1,
+        "Volkswagen:Shock Absorber": 1,
+        "Nissan:Shock Absorber": 1
     },
     "Country": "Mexico",
     "Address": "Km 3.5 Carretera El Salto - La Capilla, El Salto, Jalisco 45680 Mexico",

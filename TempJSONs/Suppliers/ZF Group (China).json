@@ -1,18 +1,13 @@
 {
     "top500": true,
     "parts_sold": {
-        "Axle": 4,
         "Shock Absorber": 3
     },
     "specific_parts_sold": {
-        "Front & rear axle system": 2,
-        "Axle": 2,
         "Continuous damping control (CDC)": 3
     },
     "buyers": {
-        "Beijing Benz": 2,
-        "BMW Brilliance": 2,
-        "Xiaomi": 3
+        "Xiaomi:Shock Absorber": 3
     },
     "Year Established": "Jun. 2009",
     "Sales Turnover": "EUR 7.7 billion (As of Dec. 31, 2022)",
