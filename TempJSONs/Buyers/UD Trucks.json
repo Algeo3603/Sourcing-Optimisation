@@ -1,0 +1,12 @@
+{
+    "region": "Japan",
+    "parts-bought": {
+        "Axle": 3
+    },
+    "specific-parts-bought": {
+        "Clutch cover": 3
+    },
+    "suppliers": {
+        "EXEDY Corporation:Axle": 3
+    }
+}

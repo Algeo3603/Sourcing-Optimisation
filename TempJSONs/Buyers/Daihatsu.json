@@ -1,13 +1,22 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Shock Absorber": 96
+        "Shock Absorber": 96,
+        "Axle": 26
     },
     "specific-parts-bought": {
         "Rear shock absorber": 47,
         "Front shock absorber": 26,
         "Shock absorber": 22,
-        "Shock absorber piston rod": 1
+        "Shock absorber piston rod": 1,
+        "Clutch cover": 4,
+        "Automatic transmission clutch": 2,
+        "CVT clutch": 6,
+        "Clutch cover(KF)(5MT)": 1,
+        "Clutch": 2,
+        "Clutch cover assembly": 3,
+        "Clutch cover for CVT": 1,
+        "One-way clutch for automatic transmission": 7
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 48,
@@ -16,6 +25,12 @@
         "thyssenkrupp Bilstein GmbH:Shock Absorber": 6,
         "Chengdu Ningjiang Showa Autoparts Co., Ltd.:Shock Absorber": 1,
         "Chongqing Beite Technology Co., Ltd.:Shock Absorber": 1,
-        "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.):Shock Absorber": 1
+        "SNT Motiv Co., Ltd. (Formerly S&T Motiv Co., Ltd.):Shock Absorber": 1,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.):Axle": 2,
+        "F.C.C. Co., Ltd.:Axle": 8,
+        "PT. Aisin Indonesia:Axle": 5,
+        "P.T. EXEDY Manufacturing Indonesia:Axle": 3,
+        "EXEDY Corporation:Axle": 1,
+        "NSK Ltd.:Axle": 7
     }
 }

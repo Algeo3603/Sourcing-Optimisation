@@ -1,0 +1,13 @@
+{
+    "region": "Japan",
+    "parts-bought": {
+        "Axle": 6
+    },
+    "specific-parts-bought": {
+        "Clutch cover": 5,
+        "Dual clutch transmission clutch": 1
+    },
+    "suppliers": {
+        "EXEDY Corporation:Axle": 6
+    }
+}

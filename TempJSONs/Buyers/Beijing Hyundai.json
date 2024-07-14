@@ -1,16 +1,22 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 3
+        "Shock Absorber": 3,
+        "Axle": 3
     },
     "specific-parts-bought": {
         "Buffer block(1.6T)(7DCT)": 1,
         "Shock absorber(1.6T)(7DCT)": 1,
-        "Shock absorber piston rod": 1
+        "Shock absorber piston rod": 1,
+        "Clutch": 1,
+        "Clutch automatic control system(1.6L)": 1,
+        "Clutch automatic control system(1.4L)": 1
     },
     "suppliers": {
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 1,
         "Tenneco (Beijing) Ride Control System Co., Ltd.:Shock Absorber": 1,
-        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1
+        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
+        "Valeo Pyeong Hwa Co., Ltd.:Axle": 1,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Axle": 2
     }
 }

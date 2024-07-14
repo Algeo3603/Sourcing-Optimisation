@@ -1,0 +1,39 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 46
+    },
+    "specific_parts_sold": {
+        "Clutch line": 27,
+        "Clutch actuation system": 3,
+        "Clutch oil pipe": 1,
+        "Clutch hydraulic actuation system": 11,
+        "Hydraulic clutch actuation system": 3,
+        "Clutch actuating system": 1
+    },
+    "buyers": {
+        "BMW:Axle": 6,
+        "Jaguar Land Rover:Axle": 1,
+        "Opel:Axle": 3,
+        "Peugeot:Axle": 2,
+        "Volkswagen:Axle": 6,
+        "Volvo Cars:Axle": 2,
+        "Audi:Axle": 4,
+        "Citroen:Axle": 1,
+        "Fiat:Axle": 2,
+        "Ford:Axle": 7,
+        "GM:Axle": 5,
+        "Daimler:Axle": 3,
+        "Skoda:Axle": 1,
+        "Dodge:Axle": 1,
+        "Lancia:Axle": 1,
+        "Porsche:Axle": 1
+    },
+    "Country": "Germany",
+    "Address": "Andreas-Humann-Str. 2, D-96106 Ebern, Germany",
+    "TEL": "+49-9531-81-0",
+    "URL": "https://www.fte-automotive.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Group: Valeo Group-Shareholder(s): Valeo"
+}

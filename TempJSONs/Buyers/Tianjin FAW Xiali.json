@@ -1,15 +1,18 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 18
+        "Shock Absorber": 18,
+        "Axle": 5
     },
     "specific-parts-bought": {
         "Shock absorber piston": 4,
         "Shock absorber base": 4,
-        "Shock absorber piston rod": 10
+        "Shock absorber piston rod": 10,
+        "Clutch": 5
     },
     "suppliers": {
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 8,
-        "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 10
+        "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 10,
+        "Changchun Yidong Clutch Co., Ltd.:Axle": 5
     }
 }

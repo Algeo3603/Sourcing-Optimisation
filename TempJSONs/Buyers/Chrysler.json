@@ -1,15 +1,18 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 13
+        "Shock Absorber": 13,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Front shock absorber": 6,
         "Rear shock absorber": 4,
-        "Shock absorber": 3
+        "Shock absorber": 3,
+        "One-way clutch": 1
     },
     "suppliers": {
         "ZF Friedrichshafen AG:Shock Absorber": 4,
-        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive):Shock Absorber": 9
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive):Shock Absorber": 9,
+        "BorgWarner Inc.:Axle": 1
     }
 }

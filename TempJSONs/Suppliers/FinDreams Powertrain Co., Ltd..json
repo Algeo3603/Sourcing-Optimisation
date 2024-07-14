@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "DCT clutch housing assembly(2.0T)(6AT)": 1,
+        "DCT clutch housing assembly(1.5T)": 2
+    },
+    "buyers": {
+        "BYD:Axle": 3
+    },
+    "Country": "China",
+    "Address": "Complex Building 301, No.6531, Pingshan Avenue, Shatian Community, Kengzi Street, Pingshan District, Shenzhen city, Guangdong Province, China",
+    "TEL": "+86-755-89888888",
+    "Year established": "Dec. 2019",
+    "URL": "https://www.bydglobal.com/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholder(s): BYD Co., Ltd.-Factories: Shenzhen Pingshan, Shenzhen Kengzi, Huizhou, Xi'an, Changsha, Taiyuan, Hefei, Nanjing, Fuzhou, Shenzhen-Shanwei Special Cooperation Zone, Zhengzhou, Ji'nan, Anyang, Hengyang, Guiyang, Dongguan"
+}

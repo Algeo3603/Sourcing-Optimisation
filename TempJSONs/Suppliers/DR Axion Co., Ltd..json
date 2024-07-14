@@ -1,0 +1,21 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 1
+    },
+    "specific_parts_sold": {
+        "Clutch housing": 1
+    },
+    "buyers": {
+        "Hyundai:Axle": 1
+    },
+    "Country": "Korea",
+    "Address": "2-127, Nonggong-gil Jeonggwan-eup Gijang-gun Busan, korea",
+    "TEL": "+82-70-8640-6500",
+    "Year established": "Jan., 1979",
+    "Capital": "KRW 5,693 million (CY2023)",
+    "URL": "http://draxion.co.kr/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "- Sales Turnover: KRW 300,298 million, EBIT: KRW 40,710 million (CY2023 Consolidated Results)- Sales Turnover: KRW 297,242 million, EBIT: KRW -37,374 million (CY2022 Consolidated Results)- Sales Turnover: KRW 358,166 million, EBIT: KRW -358,166 million (CY2021 Consolidated Results)"
+}

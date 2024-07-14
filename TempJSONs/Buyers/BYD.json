@@ -1,12 +1,18 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 17
+        "Shock Absorber": 17,
+        "Axle": 17
     },
     "specific-parts-bought": {
         "Continuous damping control (CDC)": 5,
         "Shock absorber": 11,
-        "Damping component": 1
+        "Damping component": 1,
+        "Clutch housing": 1,
+        "DCT clutch housing assembly(2.0T)(6AT)": 2,
+        "DCT clutch housing assembly(1.5T)": 4,
+        "Clutch": 7,
+        "Clutch cover": 3
     },
     "suppliers": {
         "Shanghai Baolong Automotive Corporation:Shock Absorber": 2,
@@ -14,6 +20,11 @@
         "FinDreams Technology Co., Ltd.:Shock Absorber": 9,
         "Ningbo Tuopu Group Co., Ltd.(Formerly Ningbo Tuopu Brake System Co., Ltd.):Shock Absorber": 1,
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 1,
-        "Hunan KDL Precision Industry Co., Ltd.:Shock Absorber": 1
+        "Hunan KDL Precision Industry Co., Ltd.:Shock Absorber": 1,
+        "Guangdong Hongtu Technology (Holdings) Co., Ltd.:Axle": 1,
+        "Chongqing Landai Transmission Co., Ltd.:Axle": 3,
+        "FinDreams Powertrain Co., Ltd.:Axle": 3,
+        "Exedy Chongqing Co., Ltd.:Axle": 6,
+        "Changchun Yidong Clutch Co., Ltd.:Axle": 4
     }
 }

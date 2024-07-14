@@ -1,0 +1,30 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 20
+    },
+    "specific_parts_sold": {
+        "Clutch hub": 3,
+        "Selectable one-way clutch": 3,
+        "Clutch housing": 1,
+        "One-way clutch (6-speed AT)": 2,
+        "Clutch Hub and housing": 1,
+        "One way clutch assembly for 6 Speed automatic transmission": 1,
+        "Selectable one way clutch for 9 speed automatic transmission": 1,
+        "One-way clutch assembly(6AT)": 2,
+        "One-way clutch": 6
+    },
+    "buyers": {
+        "Ford:Axle": 6,
+        "GM:Axle": 13,
+        "Mazda:Axle": 1
+    },
+    "Country": "USA",
+    "Address": "3715 E. Washington Rd., Saginaw, MI 48601 USA",
+    "TEL": "+1-989-754-1433",
+    "Year established": "1922",
+    "URL": "https://www.meansindustries.com/",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Amsted Industries Inc"
+}

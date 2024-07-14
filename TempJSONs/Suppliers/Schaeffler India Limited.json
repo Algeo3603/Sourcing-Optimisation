@@ -1,0 +1,19 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 3
+    },
+    "specific_parts_sold": {
+        "Clutch": 3
+    },
+    "buyers": {
+        "Mahindra & Mahindra:Axle": 2,
+        "Renault:Axle": 1
+    },
+    "Country": "India",
+    "Address": "Nariman Bhavan, 8th floor, 227 Backbay Reclamation, Nariman Point, Mumbai  400021, Maharashtra, India",
+    "TEL": "+91-22-6681-4444",
+    "Year established": "1964",
+    "URL": "https://www.schaeffler.co.in/",
+    "Remarks": "-ShareholdersSchaeffler AG"
+}

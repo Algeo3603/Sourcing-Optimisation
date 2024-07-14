@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 42
+        "Shock Absorber": 42,
+        "Axle": 15
     },
     "specific-parts-bought": {
         "Shock absorber(1.5T)(CVT)": 1,
@@ -21,13 +22,21 @@
         "Electronically controlled damper": 1,
         "Shock absorber(1.5L)(5MT)": 2,
         "Buffer block(1.5L)(5MT)": 2,
-        "Buffer block(1.5L)(CVT)": 2
+        "Buffer block(1.5L)(CVT)": 2,
+        "Clutch": 10,
+        "Clutch cover": 1,
+        "Clutch automatic control system(1.3L)": 1,
+        "Clutch automatic control system(1.5L)": 1,
+        "Clutch automatic control system": 2
     },
     "suppliers": {
         "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. (Formerly Guangzhou Showa Autoparts Co., Ltd.):Shock Absorber": 8,
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 16,
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 6,
         "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 8,
-        "Shanghai Carthane Co., Ltd.:Shock Absorber": 4
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 4,
+        "China FCC Foshan Co., Ltd.:Axle": 9,
+        "Exedy Chongqing Co., Ltd.:Axle": 2,
+        "Guangzhou Daonuo Electronic Technology Co., Ltd.:Axle": 4
     }
 }

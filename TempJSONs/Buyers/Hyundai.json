@@ -1,7 +1,8 @@
 {
     "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Shock Absorber": 82
+        "Shock Absorber": 82,
+        "Axle": 53
     },
     "specific-parts-bought": {
         "Front strut assembly": 3,
@@ -11,7 +12,17 @@
         "Shock absorber/strut": 1,
         "Front chassis module": 3,
         "Lightweight damper": 1,
-        "Shock absorber": 1
+        "Shock absorber": 1,
+        "Clutch cover": 9,
+        "Automatic transmission clutch": 3,
+        "DCT clutch housing assembly": 8,
+        "Clutch housing": 12,
+        "Clutch module for 8-speed automatic transmission": 1,
+        "Clutch": 12,
+        "Clutch line": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
+        "Roller one-way clutche(4.6L)(8AT)": 2,
+        "Roller one-way clutche(3.8-Liter)(8-speed AT)": 1
     },
     "suppliers": {
         "Hyundai Mobis Co., Ltd.:Shock Absorber": 3,
@@ -21,6 +32,17 @@
         "HL Mando Automotive India Private Limited (Formerly Mando Automotive India Private Limited):Shock Absorber": 1,
         "MOBIS Slovakia s.r.o.:Shock Absorber": 3,
         "ZF Friedrichshafen AG:Shock Absorber": 1,
-        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 1
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 1,
+        "KOMOS Automotive India:Axle": 9,
+        "Hwasin Precision Co.,Ltd.:Axle": 3,
+        "Samkee Corp. (Formerly Samkee Automotive Co., Ltd.):Axle": 8,
+        "DR Axion Co., Ltd.:Axle": 1,
+        "BorgWarner Inc.:Axle": 4,
+        "Dae Seung Autoparts India Pvt Ltd.:Axle": 10,
+        "MOBIS India, Ltd. (MIA):Axle": 11,
+        "Schaeffler AG:Axle": 1,
+        "Nemak, S.A.B. de C.V.:Axle": 1,
+        "TI Fluid Systems Plc. (Formerly TI Automotive Limited):Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 4
     }
 }

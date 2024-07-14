@@ -1,16 +1,21 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 3
+        "Shock Absorber": 3,
+        "Axle": 4
     },
     "specific-parts-bought": {
         "Shock absorber": 1,
         "Buffer block(1.8L)(5MT)": 1,
-        "Shock absorber piston rod": 1
+        "Shock absorber piston rod": 1,
+        "Clutch": 3,
+        "Clutch cover": 1
     },
     "suppliers": {
         "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 1,
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 1,
-        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1
+        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
+        "Exedy Chongqing Co., Ltd.:Axle": 2,
+        "Changchun Yidong Clutch Co., Ltd.:Axle": 2
     }
 }

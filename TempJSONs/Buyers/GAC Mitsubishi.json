@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 15
+        "Shock Absorber": 15,
+        "Axle": 9
     },
     "specific-parts-bought": {
         "Shock absorber(2.4L)(CVT8)": 1,
@@ -16,11 +17,16 @@
         "Shock absorber base(2..4L)(6CVT)": 1,
         "Shock absorber": 3,
         "Shock absorber piston(2.0L)(6CVT)": 1,
-        "Shock absorber base(2.0L)(6CVT)": 1
+        "Shock absorber base(2.0L)(6CVT)": 1,
+        "Clutch assembly": 3,
+        "Clutch": 3,
+        "Clutch cover": 3
     },
     "suppliers": {
         "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 4,
         "Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co., Ltd. Wuhan Branch):Shock Absorber": 3,
-        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 8
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 8,
+        "Dynax Industry (Shanghai) Co., Ltd.:Axle": 3,
+        "Exedy Chongqing Co., Ltd.:Axle": 6
     }
 }

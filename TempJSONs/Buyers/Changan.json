@@ -1,7 +1,8 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 92
+        "Shock Absorber": 92,
+        "Axle": 1
     },
     "specific-parts-bought": {
         "Shock absorber piston(1.5L)(5MT)": 3,
@@ -50,13 +51,15 @@
         "Front shock absorber": 2,
         "Rear shock absorber": 7,
         "Front strut": 5,
-        "Shock absorber(1.8T)(6AMT)": 1
+        "Shock absorber(1.8T)(6AMT)": 1,
+        "Clutch(1.6L)(4AMT)": 1
     },
     "suppliers": {
         "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 44,
         "Shanghai Carthane Co., Ltd.:Shock Absorber": 16,
         "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 30,
         "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
-        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 1
+        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 1,
+        "Schaeffler (China) Co., Ltd.:Axle": 1
     }
 }

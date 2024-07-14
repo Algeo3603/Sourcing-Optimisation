@@ -1,7 +1,8 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Shock Absorber": 202
+        "Shock Absorber": 202,
+        "Axle": 119
     },
     "specific-parts-bought": {
         "Rear shock absorber": 72,
@@ -22,7 +23,32 @@
         "Adaptive damper system": 1,
         "Front sensitive damping control": 1,
         "Rear sensitive damping control": 1,
-        "Sensitive damping control (front & rear axle)": 2
+        "Sensitive damping control (front & rear axle)": 2,
+        "Clutch": 8,
+        "Clutch assembly": 18,
+        "Clutch cover": 6,
+        "Overdrive Clutch (for HEV)": 8,
+        "CVT clutch": 17,
+        "Manual transmission clutch": 1,
+        "Manual transmission clutch assembly": 5,
+        "Automatic transmission clutch assembly": 3,
+        "6-speed automatic transmission clutch assembly": 3,
+        "5-speed manual transmission clutch assembly": 9,
+        "5-speed automatic transmission clutch assembly": 10,
+        "6-speed manual transmission clutch assembly": 8,
+        "Clutch assembly for CVT": 7,
+        "One-way clutch for automatic transmission": 1,
+        "One way clutch for 6-speed automatic transmission": 1,
+        "One-way clutch (for 6 speed automatic transmission)": 2,
+        "Clutch cover assembly": 2,
+        "Dry dual clutch": 1,
+        "Clutch damper": 1,
+        "One way clutch for automatic transmission": 1,
+        "Lock-up clutch": 1,
+        "CVT starting clutch": 1,
+        "CVT forward clutch": 3,
+        "Overrunning clutch for automatic transmission": 1,
+        "Differential system clutch with cam function": 1
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 33,
@@ -39,6 +65,21 @@
         "Munjal Showa Ltd.:Shock Absorber": 1,
         "Beijing West Industries Co., Ltd.:Shock Absorber": 2,
         "thyssenkrupp Bilstein GmbH:Shock Absorber": 1,
-        "ZF Japan Co., Ltd.:Shock Absorber": 1
+        "ZF Japan Co., Ltd.:Shock Absorber": 1,
+        "Valeo Kapec Japan K.K.:Axle": 3,
+        "FCC Clutch India Private Limited (Formerly FCC India Manufacturing Pvt. Ltd.):Axle": 4,
+        "EXEDY Corporation:Axle": 1,
+        "F.C.C. Co., Ltd.:Axle": 51,
+        "EXEDY India Ltd. - Greater Noida Plant:Axle": 5,
+        "FCC (Thailand) Co., Ltd.:Axle": 28,
+        "FCC (Adams), LLC.:Axle": 1,
+        "P.T. FCC Indonesia:Axle": 13,
+        "BorgWarner Inc.:Axle": 5,
+        "EXEDY (Thailand) Co., Ltd.:Axle": 2,
+        "Schaeffler Japan Co., Ltd.:Axle": 1,
+        "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Axle": 1,
+        "Schaeffler AG:Axle": 2,
+        "Dynax Corporation:Axle": 1,
+        "Univance Corporation:Axle": 1
     }
 }

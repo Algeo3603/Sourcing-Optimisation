@@ -1,7 +1,8 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Shock Absorber": 133
+        "Shock Absorber": 133,
+        "Axle": 54
     },
     "specific-parts-bought": {
         "Front shock absorber": 46,
@@ -10,7 +11,15 @@
         "Shock absorber": 18,
         "DSSV (Dynamic Suspension Spool Valve) adjustable damper": 3,
         "Rear damper": 2,
-        "Front damper": 2
+        "Front damper": 2,
+        "Clutch cover assembly": 3,
+        "Clutch cover": 24,
+        "Clutch cover(S5-DPTS)(6MT)": 2,
+        "Clutch cover(P5-VP[RS])(6MT)": 1,
+        "Clutch plate": 13,
+        "Lock-up clutch": 8,
+        "One-way clutch": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 2
     },
     "suppliers": {
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 72,
@@ -24,6 +33,14 @@
         "Tenneco Inc.:Shock Absorber": 5,
         "Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co., Ltd.):Shock Absorber": 4,
         "Multimatic, Inc.:Shock Absorber": 3,
-        "thyssenkrupp Bilstein GmbH:Shock Absorber": 1
+        "thyssenkrupp Bilstein GmbH:Shock Absorber": 1,
+        "EXEDY (Thailand) Co., Ltd.:Axle": 5,
+        "EXEDY DYNAX Mexico S.A de C.V.:Axle": 3,
+        "EXEDY Corporation:Axle": 19,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive):Axle": 3,
+        "Dynax Corporation:Axle": 20,
+        "Means Industries, Inc.:Axle": 1,
+        "GKN Driveline Tochigi Holdings KK:Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 2
     }
 }

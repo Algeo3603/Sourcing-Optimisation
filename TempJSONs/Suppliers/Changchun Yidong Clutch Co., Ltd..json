@@ -1,0 +1,33 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 51
+    },
+    "specific_parts_sold": {
+        "Clutch": 51
+    },
+    "buyers": {
+        "FAW-Volkswagen:Axle": 4,
+        "Beiqi Foton:Axle": 5,
+        "Brilliance Jinbei:Axle": 4,
+        "BYD:Axle": 4,
+        "Chery:Axle": 7,
+        "FAW Jilin:Axle": 4,
+        "Great Wall:Axle": 6,
+        "Hafei:Axle": 2,
+        "JAC:Axle": 2,
+        "Lifan:Axle": 2,
+        "South East:Axle": 4,
+        "Tianjin FAW Xiali:Axle": 5,
+        "Changan Suzuki:Axle": 1,
+        "Changhe:Axle": 1
+    },
+    "Country": "China",
+    "Address": "No.2555, Chaoran Street, High-tech Industrial Development Area, Changchun, Jilin 130103, China",
+    "TEL": "+86-431-85158488",
+    "Year established": "May 1998",
+    "URL": "http://en.dgjt.norincogroup.com.cn/",
+    "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Northeast Industries Group Co., Ltd., FAW Equity Investment (Tianjin) Co., Ltd."
+}

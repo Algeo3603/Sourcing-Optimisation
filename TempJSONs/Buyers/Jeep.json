@@ -1,18 +1,27 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 8
+        "Shock Absorber": 8,
+        "Axle": 12
     },
     "specific-parts-bought": {
         "Front shock absorber": 3,
         "Shock absorber": 2,
-        "Rear shock absorber": 3
+        "Rear shock absorber": 3,
+        "Clutch plate": 8,
+        "Dry dual clutch": 1,
+        "Clutch": 3
     },
     "suppliers": {
         "Marelli Mexicana, S.A. de C.V. - San Francisco Plant (Formerly Calsonic Kansei Mexicana, S.A. de C.V. - San Francisco Plant):Shock Absorber": 3,
         "ZF Suspension Technology Guadalajara, S.A. de C.V.:Shock Absorber": 1,
         "Hitachi Astemo Mexico, S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico, S.A. de C.V.):Shock Absorber": 2,
         "ZF North America Inc.:Shock Absorber": 1,
-        "thyssenkrupp Bilstein GmbH:Shock Absorber": 1
+        "thyssenkrupp Bilstein GmbH:Shock Absorber": 1,
+        "Schaeffler Transmission Systems, LLC  Wooster (Formerly LuK USA LLC):Axle": 8,
+        "Brake Parts Inc. - Mexico:Axle": 1,
+        "American Axle & Manufacturing Holdings, Inc.:Axle": 1,
+        "F.C.C. Co., Ltd.:Axle": 1,
+        "ZF Friedrichshafen AG:Axle": 1
     }
 }

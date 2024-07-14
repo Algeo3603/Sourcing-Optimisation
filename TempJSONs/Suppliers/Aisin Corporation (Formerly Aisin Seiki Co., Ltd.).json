@@ -1,14 +1,29 @@
 {
     "top500": true,
     "parts_sold": {
-        "Shock Absorber": 2
+        "Shock Absorber": 2,
+        "Axle": 17
     },
     "specific_parts_sold": {
         "Shock absorber": 1,
-        "Damping force adjustment type absorber": 1
+        "Damping force adjustment type absorber": 1,
+        "Clutch cover": 4,
+        "Clutch(2.0L)(10CVT)": 1,
+        "Clutch cover(KF)(5MT)": 2,
+        "Clutch cover(K6A - Turbo)(5MT)": 1,
+        "Clutch cover(M13A)(5MT)": 1,
+        "Clutch cover(2ZR-FAE)(6MT)": 1,
+        "Clutch cover(1NZ-FE)(5MT)": 2,
+        "Clutch": 2,
+        "High capacity high damping clutch system": 3
     },
     "buyers": {
-        "Toyota:Shock Absorber": 2
+        "Toyota:Shock Absorber": 2,
+        "Daihatsu:Axle": 2,
+        "Toyota:Axle": 10,
+        "GAC Toyota:Axle": 1,
+        "Subaru:Axle": 1,
+        "Suzuki:Axle": 3
     },
     "Year Established": "Aug. 1965",
     "Number of Employees": "15,140 employees (As of Mar. 31, 2024)",

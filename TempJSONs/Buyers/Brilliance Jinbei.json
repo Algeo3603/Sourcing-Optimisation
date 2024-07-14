@@ -1,12 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Shock Absorber": 1
+        "Shock Absorber": 1,
+        "Axle": 4
     },
     "specific-parts-bought": {
-        "Shock absorber piston rod": 1
+        "Shock absorber piston rod": 1,
+        "Clutch": 4
     },
     "suppliers": {
-        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1
+        "Tianjin Beite Automotive Parts Co., Ltd.:Shock Absorber": 1,
+        "Changchun Yidong Clutch Co., Ltd.:Axle": 4
     }
 }

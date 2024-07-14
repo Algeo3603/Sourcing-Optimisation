@@ -1,0 +1,25 @@
+{
+    "top500": false,
+    "parts_sold": {
+        "Axle": 13
+    },
+    "specific_parts_sold": {
+        "Clutch plate": 2,
+        "Rocker one-way clutch": 5,
+        "One-way clutch assembly": 3,
+        "Transmission one-way clutch": 1,
+        "One-way clutch": 1,
+        "Low and reverse clutch assembly": 1
+    },
+    "buyers": {
+        "Ford:Axle": 13
+    },
+    "Country": "USA",
+    "Address": "251 State Street, St. Marys, PA 15857-1697, USA",
+    "TEL": "+1-814-781-1591",
+    "Year established": "1927",
+    "URL": "http://www.keystonepm.com",
+    "Quality certification": "ISO9001IATF16949 (Formerly ISO/TS16949)",
+    "Environmental certification": "ISO14001",
+    "Remarks": "-Shareholders: Sumitomo Electric Industries, Ltd."
+}

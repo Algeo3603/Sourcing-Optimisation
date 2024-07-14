@@ -1,18 +1,33 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 26
+        "Shock Absorber": 26,
+        "Axle": 21
     },
     "specific-parts-bought": {
         "Front strut": 2,
         "Front shock absorber": 7,
         "Rear shock absorber": 13,
-        "Front chassis module": 4
+        "Front chassis module": 4,
+        "Clutch cover": 4,
+        "Automatic transmission clutch": 1,
+        "Clutch housing": 1,
+        "DCT clutch housing assembly": 8,
+        "Clutch module for 8-speed automatic transmission": 1,
+        "Clutch module(3.3L V6)(8AT)": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 4,
+        "Roller one-way clutche(4.6L)(8AT)": 1
     },
     "suppliers": {
         "Mobis Manufacturing De Mexico, S. De R.L. De C.V.:Shock Absorber": 2,
         "HL Mando Corporation (Formerly Mando Corporation):Shock Absorber": 18,
         "Hyundai WIA Corporation (Formerly WIA Corporation):Shock Absorber": 2,
-        "MOBIS Slovakia s.r.o.:Shock Absorber": 4
+        "MOBIS Slovakia s.r.o.:Shock Absorber": 4,
+        "KOMOS Automotive India:Axle": 4,
+        "Hwasin Precision Co.,Ltd.:Axle": 1,
+        "Endurance Technologies Ltd.:Axle": 1,
+        "Samkee Corp. (Formerly Samkee Automotive Co., Ltd.):Axle": 8,
+        "BorgWarner Inc.:Axle": 3,
+        "ZF Friedrichshafen AG:Axle": 4
     }
 }

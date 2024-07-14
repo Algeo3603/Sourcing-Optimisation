@@ -1,7 +1,8 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Shock Absorber": 82
+        "Shock Absorber": 82,
+        "Axle": 43
     },
     "specific-parts-bought": {
         "Front shock absorber": 8,
@@ -20,7 +21,24 @@
         "MacPherson strut": 4,
         "Air spring": 1,
         "Shock Absorber": 2,
-        "Shock absorber piston": 1
+        "Shock absorber piston": 1,
+        "Clutch module": 2,
+        "Clutch hose cover": 2,
+        "Clutch": 14,
+        "Clutch line": 4,
+        "Clutch oil pipe": 1,
+        "Clutch cover": 1,
+        "Clutch set": 1,
+        "Clutch actuating system": 1,
+        "Aluminum clutch housing": 1,
+        "Clutch system": 2,
+        "Clutch hydraulic actuation system": 2,
+        "6MT cluch": 1,
+        "Self-adjusting clutch (SAC)(MQ350)": 1,
+        "Dual clutch (6-speed dual clutch transmission)": 1,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 7,
+        "Clutch cover(1.2L I3 Diesel DOHC)": 1,
+        "Wet dual clutch": 1
     },
     "suppliers": {
         "ZF Friedrichshafen AG:Shock Absorber": 25,
@@ -41,6 +59,19 @@
         "Sona BLW Precision Forgings Ltd. (Sona Comstar):Shock Absorber": 2,
         "thyssenkrupp Bilstein GmbH:Shock Absorber": 1,
         "PMG Holding GmbH:Shock Absorber": 1,
-        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 2
+        "KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.):Shock Absorber": 2,
+        "BOGE Elastmetall GmbH:Axle": 2,
+        "Freudenberg SE:Axle": 2,
+        "ZF Friedrichshafen AG:Axle": 15,
+        "FTE automotive GmbH:Axle": 6,
+        "KACO GmbH + Co. KG:Axle": 1,
+        "Brose Fahrzeugteile SE & Co. KG, Coburg:Axle": 1,
+        "Schaeffler AG:Axle": 4,
+        "Ryobi Aluminium Casting (UK) Ltd.:Axle": 1,
+        "ZF do Brasil Ltda. - Piraporinha:Axle": 6,
+        "Schaeffler Savaria Kft. (Formerly LuK Savaria Kft.):Axle": 1,
+        "BorgWarner Inc.:Axle": 2,
+        "Valeo Automotiv Sistemleri Endustrisi A.S.:Axle": 1,
+        "FTE Mexicana, S.A. de C.V. (Valeo Mexico Puebla):Axle": 1
     }
 }

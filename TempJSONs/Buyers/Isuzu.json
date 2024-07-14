@@ -1,16 +1,25 @@
 {
     "region": "Japan",
     "parts-bought": {
-        "Shock Absorber": 9
+        "Shock Absorber": 9,
+        "Axle": 23
     },
     "specific-parts-bought": {
         "Front shock absorber": 4,
         "Rear shock absorber": 4,
-        "Damper assembly": 1
+        "Damper assembly": 1,
+        "Clutch cover assembly": 14,
+        "Clutch cover": 4,
+        "Clutch oil pipe": 4,
+        "Clutch": 1
     },
     "suppliers": {
         "KYB Corporation:Shock Absorber": 2,
         "Hitachi Astemo, Ltd. (Formerly Hitachi Automotive Systems, Ltd.):Shock Absorber": 6,
-        "Hitachi Astemo Korat Brake Systems Ltd. (Formerly Nissin Brake (Thailand) Co., Ltd.):Shock Absorber": 1
+        "Hitachi Astemo Korat Brake Systems Ltd. (Formerly Nissin Brake (Thailand) Co., Ltd.):Shock Absorber": 1,
+        "EXEDY (Thailand) Co., Ltd.:Axle": 15,
+        "EXEDY Corporation:Axle": 3,
+        "Ezaki Industrial (Thailand) Co., Ltd.:Axle": 4,
+        "ZF Friedrichshafen AG:Axle": 1
     }
 }

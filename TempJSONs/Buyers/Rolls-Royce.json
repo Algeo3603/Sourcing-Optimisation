@@ -1,12 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Shock Absorber": 1
+        "Shock Absorber": 1,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Air spring": 1
+        "Air spring": 1,
+        "One-way clutch": 1
     },
     "suppliers": {
-        "Vibracoustic SE:Shock Absorber": 1
+        "Vibracoustic SE:Shock Absorber": 1,
+        "BorgWarner Inc.:Axle": 1
     }
 }

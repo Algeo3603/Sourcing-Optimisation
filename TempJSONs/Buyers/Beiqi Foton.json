@@ -1,0 +1,14 @@
+{
+    "region": "China",
+    "parts-bought": {
+        "Axle": 7
+    },
+    "specific-parts-bought": {
+        "Clutch": 6,
+        "Clutch cover": 1
+    },
+    "suppliers": {
+        "Exedy Chongqing Co., Ltd.:Axle": 2,
+        "Changchun Yidong Clutch Co., Ltd.:Axle": 5
+    }
+}
