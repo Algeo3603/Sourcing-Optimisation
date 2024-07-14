@@ -30,6 +30,8 @@ print(platform.system())
 # Selenium setup ('Arch Linux')
 chrome_options = Options()
 chrome_options.add_experimental_option('detach', True) # keeps the window open after execution
+chrome_options.add_argument("disk-cache-size=4096")
+chrome_options.add_argument("--blink-settings=imagesEnabled=false")
 #driver = webdriver.Chrome(options=chrome_options, service=Service('/home/Alan/chromedriver-linux64/chromedriver'))
 driver=start_chrome(headless=False)
 print('Selenium is ready')
@@ -53,8 +55,8 @@ part_dict = {'buyer':{}, 'supplier':{}}
 
 # Open the link of the part to be scraped
 # Future scope -> iterate through links dynamically or read them from a file
-part_link = 'https://www.marklines.com/en/wsw/axle/'
-part_name = 'Axle'
+part_link = 'https://www.marklines.com/en/wsw/wiring-harness/'
+part_name = 'Wiring Harness'
 driver.get(part_link)
 print('Navigated to part link')
 
