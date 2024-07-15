@@ -52,15 +52,19 @@
         {% endfor %}
     </select>
 
+    <br><label for="countries">Select Countries:</label><br>
+    <select id="countries" name="countries" multiple size="5" >
+        {% for country in countries %}
+            <option value="{{ country }}"
+                {% if country in selected_countries %}
+                    selected
+                {% endif %}
+            >{{ country }}</option>
+        {% endfor %}
+    </select>
+
     <input type="submit" value="Submit">
 </form>
 
-{% if selected_companies %}
-    <h2>Selected Companies:</h2>
-    <ul>
-        {% for company in selected_companies %}
-            <li>{{ company }}</li>
-        {% endfor %}
-    </ul>
-{% endif %}
+
 {% endblock %}

@@ -146,8 +146,9 @@ def select():
     sellers.sort()
     selected_companies = []
     parts=['Clutch','Axle','Shock Absorber']
+    countries=['India','China','Italy','Germany','France','Japan','USA','Mexico']
     
-    return render_template('VisSelect.html', selected_companies=selected_companies, buyers=sellers , sellers=buyers,parts=parts)
+    return render_template('VisSelect.html', selected_companies=selected_companies, buyers=sellers , sellers=buyers,parts=parts,countries=countries)
 
 
 @app.route("/visualize/filtered", methods=['POST'])
@@ -157,8 +158,8 @@ def graph_vis():
     minThickness=request.form['minThickness']
     minThickness=int(minThickness)
     parts_list=request.form.getlist('parts')
-    print(buyers)
-    countries=request.form.getlist('Countries')
+    countries=request.form.getlist('countries')
+    #print(countries)
     Visualizer(buyers,sellers,parts_list,minThickness,countries)
     
     return render_template('search.html')
