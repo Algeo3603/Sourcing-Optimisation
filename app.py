@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import folium
 from geopy.geocoders import Nominatim
 import csv
-from VisualizerAlt import Visualizer
+from JSONVis import Visualizer
 
 
 load_dotenv()
@@ -132,46 +132,35 @@ def visualize_relations():
 
 @app.route("/visualize/filter", methods=['GET', 'POST'])
 def select():
-    buyers = []
-    sellers = []
-    with open('table.csv', newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            sellers.append(row['Buyer'])
-            buyers.append(row['Supplier'])
+    directory_path=Path('TempJSONs/Suppliers')
+    sellers=[f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+    sellers=[f[:-5] for f in sellers]
+    sellers.sort()
     
-    buyers=list(set(buyers))
+    directory_path=Path('TempJSONs/Buyers')
+    buyers = [f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+    buyers = [f[:-5] for f in buyers]
     buyers.sort()
+    
     sellers=list(set(sellers))
     sellers.sort()
     selected_companies = []
-    if request.method == 'POST':
-        selected_buyers = request.form.getlist('selected_buyers')
-        selected_sellers = request.form.getlist('selected_sellers')
+    parts=['Clutch','Axle','Shock Absorber']
     
-    return render_template('VisSelect.html', selected_companies=selected_companies, buyers=buyers , sellers=sellers)
+    return render_template('VisSelect.html', selected_companies=selected_companies, buyers=sellers , sellers=buyers,parts=parts)
 
 
 @app.route("/visualize/filtered", methods=['POST'])
 def graph_vis():
     sellers=request.form.getlist('buyers')
-    selected_companies = request.form.getlist('sellers')+request.form.getlist('buyers')
+    buyers=request.form.getlist('sellers')
     minThickness=request.form['minThickness']
     minThickness=int(minThickness)
-    map={}
-    p=Path('Suppliers')
-    for company in sellers:
-        with open(p/f"{company}.txt",'r') as file:
-            for line in file:
-                if("Address" in line):
-                    before_comma, separator, add = line.rpartition(',')
-                    map[company]=add
-                    break
+    parts_list=request.form.getlist('parts')
+    print(buyers)
+    countries=request.form.getlist('Countries')
+    Visualizer(buyers,sellers,parts_list,minThickness,countries)
     
-    for element,el in map.items():
-        print(map[element])
-    
-    Visualizer(selected_companies,minThickness,map)
     return render_template('search.html')
 
 

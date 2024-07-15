@@ -33,7 +33,7 @@ chrome_options.add_experimental_option('detach', True) # keeps the window open a
 chrome_options.add_argument("disk-cache-size=4096")
 chrome_options.add_argument("--blink-settings=imagesEnabled=false")
 #driver = webdriver.Chrome(options=chrome_options, service=Service('/home/Alan/chromedriver-linux64/chromedriver'))
-driver=start_chrome(headless=False)
+driver=start_chrome(headless=False,options=chrome_options)
 print('Selenium is ready')
 
 
