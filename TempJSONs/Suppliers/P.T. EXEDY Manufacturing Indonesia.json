@@ -8,10 +8,10 @@
         "Clutch": 2
     },
     "buyers": {
-        "Daihatsu": 3,
-        "Nissan": 1,
-        "Suzuki": 1,
-        "Toyota": 2
+        "Daihatsu:Clutch": 3,
+        "Nissan:Clutch": 1,
+        "Suzuki:Clutch": 1,
+        "Toyota:Clutch": 2
     },
     "Country": "Indonesia",
     "Address": "Jl. Permata V Lot EE 3 Kawasan Industri KIIC Karawang 41361 Jawa Barat, Indonesia",

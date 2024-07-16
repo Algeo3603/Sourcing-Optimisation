@@ -9,10 +9,10 @@
         "Rear axle housing": 1
     },
     "buyers": {
-        "Isuzu": 5,
-        "Mazda": 2,
-        "Mitsubishi": 5,
-        "Nissan": 4
+        "Isuzu:Axle": 5,
+        "Mazda:Axle": 2,
+        "Mitsubishi:Axle": 5,
+        "Nissan:Axle": 4
     },
     "Country": "Thailand",
     "Address": "206/1 Moo 3 Laemchabang Industrial Estate, Tungsukala, Sriracha, Chonburi 20230 Thailand",

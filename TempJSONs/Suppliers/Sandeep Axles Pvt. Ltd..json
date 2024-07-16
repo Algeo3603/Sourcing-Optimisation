@@ -7,8 +7,8 @@
         "Rear axle": 3
     },
     "buyers": {
-        "Mahindra & Mahindra": 1,
-        "Tata": 2
+        "Mahindra & Mahindra:Axle": 1,
+        "Tata:Axle": 2
     },
     "Country": "India",
     "Address": "Plot #114, Sector- 3, IMT Manesar,Gurgaon - 122050, Haryana, India",

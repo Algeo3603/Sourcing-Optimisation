@@ -7,8 +7,8 @@
         "Shock absorber": 8
     },
     "buyers": {
-        "Porsche": 6,
-        "Volkswagen": 2
+        "Porsche:Shock Absorber": 6,
+        "Volkswagen:Shock Absorber": 2
     },
     "Country": "Germany",
     "Address": "Max-Planck-Str. 21, 32107 Bad Salzuflen, Germany",

@@ -26,10 +26,10 @@
         "Shock absorber(2.2T)(6AMT)": 2
     },
     "buyers": {
-        "Dongfeng Liuzhou Motor": 3,
-        "Dongfeng Passenger Vehicle": 8,
-        "Dongfeng Peugeot Citroen": 18,
-        "Dongfeng Yulon": 5
+        "Dongfeng Liuzhou Motor:Shock Absorber": 3,
+        "Dongfeng Passenger Vehicle:Shock Absorber": 8,
+        "Dongfeng Peugeot Citroen:Shock Absorber": 18,
+        "Dongfeng Yulon:Shock Absorber": 5
     },
     "Country": "China",
     "Address": "No.333-337 Liansheng Road, Jimei District, Xiamen City, Fujian Province, China",
@@ -37,5 +37,5 @@
     "Year established": "Jul. 1995",
     "URL": "http://www.kaifa.com.tw",
     "Quality certification": "ISO9001QS9000",
-    "Remarks": "-Shareholder：Gemmalik Investment  Co., Ltd."
+    "Remarks": "-ShareholderGemmalik Investment  Co., Ltd."
 }

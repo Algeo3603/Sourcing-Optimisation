@@ -15,14 +15,14 @@
         "MacPherson strut": 20
     },
     "buyers": {
-        "Citroen": 11,
-        "Mahindra & Mahindra": 30,
-        "Maruti Suzuki": 41,
-        "Skoda": 8,
-        "Toyota": 9,
-        "Volkswagen": 14,
-        "Honda": 2,
-        "Tata": 6
+        "Citroen:Shock Absorber": 11,
+        "Mahindra & Mahindra:Shock Absorber": 30,
+        "Maruti Suzuki:Shock Absorber": 41,
+        "Skoda:Shock Absorber": 8,
+        "Toyota:Shock Absorber": 9,
+        "Volkswagen:Shock Absorber": 14,
+        "Honda:Shock Absorber": 2,
+        "Tata:Shock Absorber": 6
     },
     "Country": "India",
     "Address": "29, Milestone Village Kuruli, Pune Nasik Highway, Taluk Khed, Pune, Maharashtra 410501, India",

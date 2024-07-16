@@ -1,23 +1,24 @@
 {
     "top500": false,
     "parts_sold": {
-        "Axle": 16,
-        "Shock Absorber": 2
+        "Shock Absorber": 2,
+        "Axle": 16
     },
     "specific_parts_sold": {
+        "Front shock absorber": 2,
         "Torsion beam rear axle": 2,
         "Rear axle module": 10,
         "Rear axle assemby": 1,
         "Rear axle assembly": 2,
-        "Rear axle": 1,
-        "Front shock absorber": 2
+        "Rear axle": 1
     },
     "buyers": {
-        "SAIC Volkswagen": 4,
-        "SAIC GM Wuling": 1,
-        "SAIC Passenger Vehicle": 2,
-        "Shanghai GM": 4,
-        "Shanghai Volkswagen": 7
+        "SAIC Volkswagen:Shock Absorber": 2,
+        "SAIC Volkswagen:Axle": 2,
+        "SAIC GM Wuling:Axle": 1,
+        "SAIC Passenger Vehicle:Axle": 2,
+        "Shanghai GM:Axle": 4,
+        "Shanghai Volkswagen:Axle": 7
     },
     "Country": "China",
     "Address": "No.1493, South Pudong Road, Shanghai 200122, China",

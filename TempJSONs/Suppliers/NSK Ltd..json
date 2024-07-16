@@ -9,9 +9,9 @@
         "One-way clutch for automatic transmission": 15
     },
     "buyers": {
-        "Toyota": 2,
-        "Daihatsu": 7,
-        "Mitsubishi": 8
+        "Toyota:Clutch": 2,
+        "Daihatsu:Clutch": 7,
+        "Mitsubishi:Clutch": 8
     },
     "Year Established": "Nov. 8, 1916",
     "Number of Employees": "5,632 employees (As of Mar. 31, 2024)",

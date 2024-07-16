@@ -18,14 +18,14 @@
         "Shock absorber(1.4T)(7DCT)": 1
     },
     "buyers": {
-        "Geely": 8,
-        "SAIC Passenger Vehicle": 12,
-        "GAC Motor": 2,
-        "BAIC Yinxiang": 1,
-        "Chery": 13,
-        "Dongfeng Peugeot Citroen": 3,
-        "SAIC GM Wuling": 7,
-        "FAW Haima": 5
+        "Geely:Shock Absorber": 8,
+        "SAIC Passenger Vehicle:Shock Absorber": 12,
+        "GAC Motor:Shock Absorber": 2,
+        "BAIC Yinxiang:Shock Absorber": 1,
+        "Chery:Shock Absorber": 13,
+        "Dongfeng Peugeot Citroen:Shock Absorber": 3,
+        "SAIC GM Wuling:Shock Absorber": 7,
+        "FAW Haima:Shock Absorber": 5
     },
     "Country": "China",
     "Address": "Xipingtou Industrial Park, Xichuan County, Nanyang, Henan, China",

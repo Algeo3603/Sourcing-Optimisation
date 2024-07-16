@@ -7,13 +7,13 @@
         "Shock absorber": 9
     },
     "buyers": {
-        "Audi": 1,
-        "Ford": 1,
-        "GM": 2,
-        "Hyundai": 1,
-        "Peugeot": 1,
-        "Toyota": 1,
-        "Volkswagen": 2
+        "Audi:Shock Absorber": 1,
+        "Ford:Shock Absorber": 1,
+        "GM:Shock Absorber": 2,
+        "Hyundai:Shock Absorber": 1,
+        "Peugeot:Shock Absorber": 1,
+        "Toyota:Shock Absorber": 1,
+        "Volkswagen:Shock Absorber": 2
     },
     "Country": "Brazil",
     "Address": "Rua Francisco Ferreira da Cruz, 3000, Fazenda Rio Grande - Parana, CEP 83820-293, Brazil",

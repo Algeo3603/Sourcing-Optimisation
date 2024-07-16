@@ -17,11 +17,11 @@
         "Clutch friction plate and reactoin plate for 4WD coupling": 2
     },
     "buyers": {
-        "Toyota": 34,
-        "Mazda": 20,
-        "Mitsubishi": 14,
-        "Suzuki": 8,
-        "Honda": 1
+        "Toyota:Clutch": 34,
+        "Mazda:Clutch": 20,
+        "Mitsubishi:Clutch": 14,
+        "Suzuki:Clutch": 8,
+        "Honda:Clutch": 1
     },
     "Country": "Japan",
     "Address": "1053-2 Kaminagato, Chitose-shi, Hokkaido 066-0077, Japan",

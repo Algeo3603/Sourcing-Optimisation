@@ -7,8 +7,8 @@
         "Rear axle beam": 16
     },
     "buyers": {
-        "Honda": 14,
-        "Nissan": 2
+        "Honda:Axle": 14,
+        "Nissan:Axle": 2
     },
     "Country": "Thailand",
     "Address": "Eastern Seaboard Industrial Estate (Rayong) 58 Moo 4, T.Pluek Daeng, A.Pluek Daeng, Rayong 21140, Thailand",

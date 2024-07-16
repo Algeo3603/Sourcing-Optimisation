@@ -8,9 +8,9 @@
         "Shock absorber cushion block": 7
     },
     "buyers": {
-        "Changan Ford": 2,
-        "FAW-Volkswagen": 4,
-        "SAIC Volkswagen": 8
+        "Changan Ford:Shock Absorber": 2,
+        "FAW-Volkswagen:Shock Absorber": 4,
+        "SAIC Volkswagen:Shock Absorber": 8
     },
     "Country": "China",
     "Address": "Hexie Road, Haian Economic Development Zone, Nantong, Jiangsu, China",

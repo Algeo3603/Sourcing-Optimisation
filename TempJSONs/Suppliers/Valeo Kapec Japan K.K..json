@@ -7,8 +7,8 @@
         "Clutch": 5
     },
     "buyers": {
-        "Honda": 3,
-        "Suzuki": 2
+        "Honda:Clutch": 3,
+        "Suzuki:Clutch": 2
     },
     "Country": "Japan",
     "Address": "2585 Iiyama, Atsugi-shi, Kanagawa-ken, 243-0213, Japan",

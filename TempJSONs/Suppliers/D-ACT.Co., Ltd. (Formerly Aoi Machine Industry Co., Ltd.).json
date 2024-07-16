@@ -8,9 +8,9 @@
         "Rear axle housing (through Asano Gear)": 2
     },
     "buyers": {
-        "Daihatsu": 11,
-        "Subaru": 6,
-        "Toyota": 3
+        "Daihatsu:Axle": 11,
+        "Subaru:Axle": 6,
+        "Toyota:Axle": 3
     },
     "Country": "Japan",
     "Address": "1-7, Kosunacho, Konan-shi, Shiga-ken, 520-3212, Japan",

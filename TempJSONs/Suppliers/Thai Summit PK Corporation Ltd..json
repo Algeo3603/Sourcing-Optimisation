@@ -8,9 +8,9 @@
         "Rear axle housing": 2
     },
     "buyers": {
-        "Isuzu": 4,
-        "Mitsubishi": 2,
-        "Nissan": 2
+        "Isuzu:Axle": 4,
+        "Mitsubishi:Axle": 2,
+        "Nissan:Axle": 2
     },
     "Country": "Thailand",
     "Address": "Hemaraj Eastern Seaboard Industrial Estate, 500/9 Moo3, Tambol Tasit, Amphur Pluagdaeng, Rayong Province 21140 Thailand",

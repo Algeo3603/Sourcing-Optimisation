@@ -9,10 +9,10 @@
         "Shock absorber": 10
     },
     "buyers": {
-        "Xpeng": 4,
-        "Changan Ford": 3,
-        "FAW-Volkswagen": 4,
-        "SAIC Volkswagen": 3
+        "Xpeng:Shock Absorber": 4,
+        "Changan Ford:Shock Absorber": 3,
+        "FAW-Volkswagen:Shock Absorber": 4,
+        "SAIC Volkswagen:Shock Absorber": 3
     },
     "Country": "China",
     "Address": "No.36 Ximei Rd Wuxi Xinqu Wuxi City Jiangsu 214112 China",

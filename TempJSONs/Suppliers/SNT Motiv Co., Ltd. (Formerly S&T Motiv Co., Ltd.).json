@@ -9,10 +9,10 @@
         "Shock absorber": 3
     },
     "buyers": {
-        "GM": 16,
-        "Daihatsu": 1,
-        "Subaru": 1,
-        "Toyota": 1
+        "GM:Shock Absorber": 16,
+        "Daihatsu:Shock Absorber": 1,
+        "Subaru:Shock Absorber": 1,
+        "Toyota:Shock Absorber": 1
     },
     "Year Established": "981",
     "Number of Employees": "Non-consolidated : 716employees (as of Dec. 31, 2022)",

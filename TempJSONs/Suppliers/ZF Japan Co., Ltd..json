@@ -7,8 +7,8 @@
         "Shock absorber": 3
     },
     "buyers": {
-        "Honda": 1,
-        "Toyota": 2
+        "Honda:Shock Absorber": 1,
+        "Toyota:Shock Absorber": 2
     },
     "Country": "Japan",
     "Address": "209 Yamashita-cho, Naka-ku, Yokohama, Kanagawa 231-0023, Japan",

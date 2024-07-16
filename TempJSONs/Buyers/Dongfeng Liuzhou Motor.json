@@ -1,17 +1,11 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 7,
-        "Rear Lamp": 1,
+        "Shock Absorber": 37,
         "Clutch": 4,
-        "Axle": 1,
-        "Shock Absorber": 37
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Speed sensor wiring harness": 7,
-        "Rear combination lamp": 1,
-        "Clutch": 4,
-        "Rear drive axle": 1,
         "Shock absorber piston(1.5L)(5MT)": 1,
         "Shock absorber base(1.5L)(5MT)": 1,
         "Shock absorber piston": 4,
@@ -28,16 +22,17 @@
         "Buffer block(2.0L)(5MT)": 1,
         "Shock absorber(2.0L)(5MT)": 1,
         "Front strut": 5,
-        "Rear shock absorber": 5
+        "Rear shock absorber": 5,
+        "Clutch": 4,
+        "Rear drive axle": 1
     },
     "suppliers": {
-        "United Automotive Electronic Systems Co., Ltd. Liuzhou Branch": 7,
-        "Nanning Liaowang Auto Lamp Co., Ltd.": 1,
-        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.)": 7,
-        "Sichuan Jianan Industrial Co., Ltd.": 1,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 12,
-        "Shanghai Carthane Co., Ltd.": 6,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 13,
-        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.": 3
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 12,
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 6,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 13,
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.):Shock Absorber": 3,
+        "Xiamen Kaifa Shock Absorber Industry Co., Ltd.:Shock Absorber": 3,
+        "CNC Driveline Technology Co., Ltd. (Formerly Zhuhai China And Canton Clutch Co., Ltd.):Clutch": 4,
+        "Sichuan Jianan Industrial Co., Ltd.:Axle": 1
     }
 }

@@ -8,15 +8,15 @@
         "Axle": 2
     },
     "buyers": {
-        "Audi": 2,
-        "BMW": 1,
-        "Citroen": 1,
-        "Volkswagen": 1,
-        "Peugeot": 2,
-        "Porsche": 1,
-        "Fiat": 1,
-        "Ford": 1,
-        "Renault": 1
+        "Audi:Axle": 2,
+        "BMW:Axle": 1,
+        "Citroen:Axle": 1,
+        "Volkswagen:Axle": 1,
+        "Peugeot:Axle": 2,
+        "Porsche:Axle": 1,
+        "Fiat:Axle": 1,
+        "Ford:Axle": 1,
+        "Renault:Axle": 1
     },
     "Country": "France",
     "Address": "1 Rue de Usines - BP 2017 74010 Annecy Cedex, France",

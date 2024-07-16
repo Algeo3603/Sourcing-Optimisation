@@ -9,9 +9,9 @@
         "Axle": 9
     },
     "buyers": {
-        "Jiangling Motors": 2,
-        "Mercedes-Benz": 16,
-        "Daimler": 9
+        "Jiangling Motors:Axle": 2,
+        "Mercedes-Benz:Axle": 16,
+        "Daimler:Axle": 9
     },
     "Country": "China",
     "Address": "No. 98, Chang'an Avenue, Jiangbei District, Chongqing, China",

@@ -1,17 +1,14 @@
 {
-    "region": "ASEAN・India・Korea",
+    "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Wiring Harness": 1,
         "Axle": 4
     },
     "specific-parts-bought": {
-        "Engine wiring harness": 1,
         "Front axle": 1,
         "Rear axle": 1,
         "Front & rear axle system": 2
     },
     "suppliers": {
-        "Yazaki Corporation": 1,
-        "ZF Friedrichshafen AG": 4
+        "ZF Friedrichshafen AG:Axle": 4
     }
 }

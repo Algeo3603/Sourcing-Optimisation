@@ -1,15 +1,12 @@
 {
-    "region": "ASEAN・India・Korea",
+    "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Rear Lamp": 1,
         "Shock Absorber": 2
     },
     "specific-parts-bought": {
-        "Rear lamp": 1,
         "Shock absorber": 2
     },
     "suppliers": {
-        "Koito Manufacturing Co., Ltd.": 1,
-        "thyssenkrupp Bilstein GmbH": 2
+        "thyssenkrupp Bilstein GmbH:Shock Absorber": 2
     }
 }

@@ -9,9 +9,9 @@
         "Front strut": 5
     },
     "buyers": {
-        "Nissan": 10,
-        "Subaru": 2,
-        "Toyota": 14
+        "Nissan:Shock Absorber": 10,
+        "Subaru:Shock Absorber": 2,
+        "Toyota:Shock Absorber": 14
     },
     "Country": "USA",
     "Address": "2625 North Morton St., Franklin, Indiana 46131 USA",

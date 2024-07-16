@@ -13,9 +13,9 @@
         "Shock absorber": 3
     },
     "buyers": {
-        "Dongfeng Honda": 6,
-        "GAC Mitsubishi": 3,
-        "Dongfeng Renault": 1
+        "Dongfeng Honda:Shock Absorber": 6,
+        "GAC Mitsubishi:Shock Absorber": 3,
+        "Dongfeng Renault:Shock Absorber": 1
     },
     "Country": "China",
     "Address": "No. 788 Zhushan Lake Avenue, Wuhan Economic & Technological Development Zone, Wuhan, Hubei, 430056, China",

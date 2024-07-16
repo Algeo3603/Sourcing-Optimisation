@@ -7,11 +7,11 @@
         "Shock absorber": 13
     },
     "buyers": {
-        "Changan Ford": 1,
-        "Changan Mazda": 4,
-        "Changan Suzuki": 6,
-        "Changhe Suzuki": 1,
-        "Daihatsu": 1
+        "Changan Ford:Shock Absorber": 1,
+        "Changan Mazda:Shock Absorber": 4,
+        "Changan Suzuki:Shock Absorber": 6,
+        "Changhe Suzuki:Shock Absorber": 1,
+        "Daihatsu:Shock Absorber": 1
     },
     "Country": "China",
     "Address": "No.18, Hezhi West Road, Baihe Town, Longquanyi District, Economic and Technological Development Zone, Chengdu City, Sichuan Province, China",

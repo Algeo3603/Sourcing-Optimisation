@@ -14,16 +14,16 @@
         "Clutch automatic control system(1.2L)": 4
     },
     "buyers": {
-        "Beijing Hyundai": 2,
-        "Changan Ford": 1,
-        "Changan Suzuki": 2,
-        "Dongfeng Nissan": 3,
-        "Dongfeng Yueda Kia": 2,
-        "FAW Toyota": 1,
-        "GAC Honda": 4,
-        "SAIC GM": 1,
-        "Shanghai GM": 6,
-        "Shanghai GM Wuling": 1
+        "Beijing Hyundai:Clutch": 2,
+        "Changan Ford:Clutch": 1,
+        "Changan Suzuki:Clutch": 2,
+        "Dongfeng Nissan:Clutch": 3,
+        "Dongfeng Yueda Kia:Clutch": 2,
+        "FAW Toyota:Clutch": 1,
+        "GAC Honda:Clutch": 4,
+        "SAIC GM:Clutch": 1,
+        "Shanghai GM:Clutch": 6,
+        "Shanghai GM Wuling:Clutch": 1
     },
     "Country": "China",
     "Address": "No. 22, Huateng Road, Huachuang Dongman Industrial Park, Jinshan Village, Shiqi Town, Panyu, Guangzhou, Guangdong, China",

@@ -7,9 +7,9 @@
         "Rear axle": 5
     },
     "buyers": {
-        "Ashok Leyland": 1,
-        "Mahindra & Mahindra": 3,
-        "Tata": 1
+        "Ashok Leyland:Axle": 1,
+        "Mahindra & Mahindra:Axle": 3,
+        "Tata:Axle": 1
     },
     "Country": "India",
     "Address": "29 Milestone, Pune-Nasik Highway, Chakan, Kurali, Maharashtra 410501, India",

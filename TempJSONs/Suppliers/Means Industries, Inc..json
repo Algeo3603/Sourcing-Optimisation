@@ -17,10 +17,10 @@
         "Axle disconnect module": 1
     },
     "buyers": {
-        "Ford": 6,
-        "GM": 13,
-        "Mazda": 1,
-        "Rivian": 1
+        "Ford:Clutch": 6,
+        "GM:Clutch": 13,
+        "Mazda:Clutch": 1,
+        "Rivian:Axle": 1
     },
     "Country": "USA",
     "Address": "3715 E. Washington Rd., Saginaw, MI 48601 USA",

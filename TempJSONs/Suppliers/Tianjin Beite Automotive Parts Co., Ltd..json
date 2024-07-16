@@ -7,14 +7,14 @@
         "Shock absorber piston rod": 12
     },
     "buyers": {
-        "Beijing Hyundai": 1,
-        "Changan": 1,
-        "Changan Ford": 4,
-        "Dongfeng Passenger Vehicle": 1,
-        "Lifan": 1,
-        "Brilliance Jinbei": 1,
-        "FAW-Volkswagen": 2,
-        "Jiangling Motors": 1
+        "Beijing Hyundai:Shock Absorber": 1,
+        "Changan:Shock Absorber": 1,
+        "Changan Ford:Shock Absorber": 4,
+        "Dongfeng Passenger Vehicle:Shock Absorber": 1,
+        "Lifan:Shock Absorber": 1,
+        "Brilliance Jinbei:Shock Absorber": 1,
+        "FAW-Volkswagen:Shock Absorber": 2,
+        "Jiangling Motors:Shock Absorber": 1
     },
     "Country": "China",
     "Address": "No.16, Zhongyang Avenue, Jinghai Economic Development Zone, Tianjin 301600, China",
@@ -23,5 +23,5 @@
     "URL": "http://www.beite.net.cn/en",
     "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
     "Environmental certification": "ISO14001",
-    "Remarks": "-Shareholder：Shanghai Beite Technology Co., Ltd."
+    "Remarks": "-ShareholderShanghai Beite Technology Co., Ltd."
 }

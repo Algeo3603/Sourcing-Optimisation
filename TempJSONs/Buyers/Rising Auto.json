@@ -1,18 +1,13 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 5,
         "Shock Absorber": 4
     },
     "specific-parts-bought": {
-        "Rear combination lamp": 2,
-        "Rear lamp": 3,
         "Spring damper": 2,
         "Shock absorber": 2
     },
     "suppliers": {
-        "Xunchi Vehicle Jiangsu Ltd.": 2,
-        "HASCO Vision Technology (Shanghai) Co., Ltd. (Formerly Shanghai Koito Automotive Lamp Co., Ltd.)": 3,
-        "Tenneco (Changzhou) Ride Performance Co., Ltd.": 4
+        "Tenneco (Changzhou) Ride Performance Co., Ltd.:Shock Absorber": 4
     }
 }

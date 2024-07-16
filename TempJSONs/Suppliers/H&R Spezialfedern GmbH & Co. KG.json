@@ -7,10 +7,10 @@
         "Shock absorber": 9
     },
     "buyers": {
-        "Audi": 3,
-        "BMW": 3,
-        "Toyota": 1,
-        "Volkswagen": 2
+        "Audi:Shock Absorber": 3,
+        "BMW:Shock Absorber": 3,
+        "Toyota:Shock Absorber": 1,
+        "Volkswagen:Shock Absorber": 2
     },
     "Country": "Germany",
     "Address": "Elsper Strasse 36 Lennestadt, 57368 Germany",

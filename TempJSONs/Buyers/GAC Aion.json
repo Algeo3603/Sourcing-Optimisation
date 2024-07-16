@@ -1,20 +1,14 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 3,
-        "Rear Lamp": 1,
         "Shock Absorber": 2
     },
     "specific-parts-bought": {
-        "Busbar": 3,
-        "Rear combination lamp": 1,
         "Damper top mount": 1,
         "Shock absorber": 1
     },
     "suppliers": {
-        "Nidec Mobility (Guangzhou) Coproration": 3,
-        "Guangdong Jiali Automobile Lamp Co., Ltd.": 1,
-        "Jiangyin Haida Rubber & Plastic Co., Ltd.": 1,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 1
+        "Jiangyin Haida Rubber & Plastic Co., Ltd.:Shock Absorber": 1,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 1
     }
 }

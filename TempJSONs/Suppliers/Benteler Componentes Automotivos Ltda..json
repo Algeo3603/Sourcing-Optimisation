@@ -7,11 +7,11 @@
         "Rear axle": 1
     },
     "buyers": {
-        "GM": 1
+        "GM:Axle": 1
     },
     "Country": "Brazil",
     "Address": "Av. Marginal Sul 802, Distrito Industrial, 13054-750 Campinas/SP, Brazil",
     "TEL": "+55-19-2122-3011",
     "URL": "https://www.benteler.com/",
-    "Remarks": "-Shareholders：Benteler International AG"
+    "Remarks": "-ShareholdersBenteler International AG"
 }

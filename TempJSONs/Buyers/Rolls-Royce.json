@@ -1,25 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 2,
-        "Rear Lamp": 10,
-        "Clutch": 1,
-        "Shock Absorber": 1
+        "Shock Absorber": 1,
+        "Clutch": 1
     },
     "specific-parts-bought": {
-        "Engine wiring harness": 1,
-        "Electrical distribution system": 1,
-        "Rear lamp": 9,
-        "Stop lamp": 1,
-        "One-way clutch": 1,
-        "Air spring": 1
+        "Air spring": 1,
+        "One-way clutch": 1
     },
     "suppliers": {
-        "Nexans autoelectric GmbH": 1,
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
-        "Wipac Technology Limited": 8,
-        "odelo GmbH": 2,
-        "BorgWarner Inc.": 1,
-        "Vibracoustic SE": 1
+        "Vibracoustic SE:Shock Absorber": 1,
+        "BorgWarner Inc.:Clutch": 1
     }
 }

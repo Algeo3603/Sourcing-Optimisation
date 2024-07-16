@@ -10,8 +10,8 @@
         "Front axle assembly": 1
     },
     "buyers": {
-        "Isuzu": 2,
-        "Nissan": 21
+        "Isuzu:Axle": 2,
+        "Nissan:Axle": 21
     },
     "Country": "Japan",
     "Address": "6-6-1 Okada, Samukawamachi, Koza-gun, Kanagawa-ken, 253-0105, Japan",

@@ -8,9 +8,9 @@
         "Overrunning clutch": 2
     },
     "buyers": {
-        "Honda": 1,
-        "Nissan": 1,
-        "Toyota": 1
+        "Honda:Clutch": 1,
+        "Nissan:Clutch": 1,
+        "Toyota:Clutch": 1
     },
     "Year Established": "937",
     "Number of Employees": ",577 employees (As of Mar. 31, 2023)",

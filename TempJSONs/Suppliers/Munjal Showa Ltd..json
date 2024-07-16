@@ -7,8 +7,8 @@
         "Shock absorber": 3
     },
     "buyers": {
-        "Honda": 1,
-        "Maruti Suzuki": 2
+        "Honda:Shock Absorber": 1,
+        "Maruti Suzuki:Shock Absorber": 2
     },
     "Country": "India",
     "Address": "9-11 Maruti Industrial Area Gurgaon 122015 Haryana, India",

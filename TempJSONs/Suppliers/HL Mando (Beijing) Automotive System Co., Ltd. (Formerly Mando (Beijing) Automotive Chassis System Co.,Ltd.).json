@@ -19,15 +19,15 @@
         "Shock absorber(1.8T)(6AMT)": 1
     },
     "buyers": {
-        "Tesla China": 1,
-        "Ford": 1,
-        "Dongfeng Passenger Vehicle": 1,
-        "GAC Motor": 2,
-        "Lifan": 1,
-        "SAIC GM": 4,
-        "SAIC GM Wuling": 3,
-        "SAIC Passenger Vehicle": 2,
-        "Changan": 1
+        "Tesla China:Shock Absorber": 1,
+        "Ford:Shock Absorber": 1,
+        "Dongfeng Passenger Vehicle:Shock Absorber": 1,
+        "GAC Motor:Shock Absorber": 2,
+        "Lifan:Shock Absorber": 1,
+        "SAIC GM:Shock Absorber": 4,
+        "SAIC GM Wuling:Shock Absorber": 3,
+        "SAIC Passenger Vehicle:Shock Absorber": 2,
+        "Changan:Shock Absorber": 1
     },
     "Country": "China",
     "Address": "Building No. 1 and 2 of Yuan Building No. 15 Yunxi 7th Street, Miyun District, Beijing, China",

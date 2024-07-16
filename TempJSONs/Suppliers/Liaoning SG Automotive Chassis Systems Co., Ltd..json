@@ -8,8 +8,8 @@
         "Axle": 1
     },
     "buyers": {
-        "Beiqi Foton": 1,
-        "SAIC GM Wuling": 1
+        "Beiqi Foton:Axle": 1,
+        "SAIC GM Wuling:Axle": 1
     },
     "Country": "China",
     "Address": "No.8, No.14 Road, Shenyang Economic and Technological Development Zone, Liaoning Province, China",

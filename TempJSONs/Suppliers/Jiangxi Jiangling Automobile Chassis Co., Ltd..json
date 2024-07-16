@@ -8,8 +8,8 @@
         "Front axle": 3
     },
     "buyers": {
-        "Jiangling Holding": 2,
-        "Jiangling Motors": 3
+        "Jiangling Holding:Axle": 2,
+        "Jiangling Motors:Axle": 3
     },
     "Country": "China",
     "Address": "No.168, Jinni Street, Jinchao Economic Development Zone, Fushun, Jiangxi, China",

@@ -7,8 +7,8 @@
         "DCT clutch housing assembly": 16
     },
     "buyers": {
-        "Hyundai": 8,
-        "Kia": 8
+        "Hyundai:Clutch": 8,
+        "Kia:Clutch": 8
     },
     "Country": "Korea",
     "Address": "169, Pyeongtaekhang-ro 268beon-gil, Poseung-eup, Pyeongtaek-si, Gyeonggi-do, Korea",

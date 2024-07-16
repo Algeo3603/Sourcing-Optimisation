@@ -7,7 +7,7 @@
         "Double control arm axle": 1
     },
     "buyers": {
-        "FAW-Volkswagen": 1
+        "FAW-Volkswagen:Axle": 1
     },
     "Country": "China",
     "Address": "No. 4, Yuezhong West Road, Guanyao, Shishan Town, Nanhai District, Foshan City, Guangdong Province, China",
@@ -16,5 +16,5 @@
     "URL": "http://www.faw-vw.com/",
     "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
     "Environmental certification": "ISO14001",
-    "Remarks": "-Shareholder：Volkswagen (China) Investment Company Limited, Fawer Automotive Parts Limited Company"
+    "Remarks": "-ShareholderVolkswagen (China) Investment Company Limited, Fawer Automotive Parts Limited Company"
 }

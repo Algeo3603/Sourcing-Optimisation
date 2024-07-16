@@ -10,12 +10,12 @@
         "Rear drive axle": 10
     },
     "buyers": {
-        "Changan": 12,
-        "Chery": 2,
-        "Dongfeng Liuzhou Motor": 1,
-        "Haima": 2,
-        "SAIC GM Wuling": 2,
-        "Zotye": 3
+        "Changan:Axle": 12,
+        "Chery:Axle": 2,
+        "Dongfeng Liuzhou Motor:Axle": 1,
+        "Haima:Axle": 2,
+        "SAIC GM Wuling:Axle": 2,
+        "Zotye:Axle": 3
     },
     "Country": "China",
     "Address": "No.6, Binhe East Road, Economic Development Zone, Yaan, Sichuan, China",

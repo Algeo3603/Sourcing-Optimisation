@@ -7,11 +7,11 @@
         "Clutch": 12
     },
     "buyers": {
-        "FAW-Volkswagen": 2,
-        "Shanghai GM": 3,
-        "Shanghai Volkswagen": 5,
-        "Chery": 1,
-        "Jiangling Motors": 1
+        "FAW-Volkswagen:Clutch": 2,
+        "Shanghai GM:Clutch": 3,
+        "Shanghai Volkswagen:Clutch": 5,
+        "Chery:Clutch": 1,
+        "Jiangling Motors:Clutch": 1
     },
     "Country": "China",
     "Address": "No.3189, Jihe Road, Huaxin Town, Qingpu District, Shanghai 201708, China",

@@ -8,9 +8,9 @@
         "Rear axle": 1
     },
     "buyers": {
-        "Porsche": 1,
-        "Dodge": 1,
-        "Volvo Cars": 1
+        "Porsche:Axle": 1,
+        "Dodge:Axle": 1,
+        "Volvo Cars:Axle": 1
     },
     "Year Established": "May 1935",
     "URL": "https://www.magna.com",

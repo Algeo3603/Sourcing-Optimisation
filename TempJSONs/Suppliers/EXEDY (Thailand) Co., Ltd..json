@@ -9,13 +9,13 @@
         "Clutch": 2
     },
     "buyers": {
-        "Isuzu": 15,
-        "Mazda": 5,
-        "Mitsubishi": 11,
-        "Nissan": 13,
-        "Suzuki": 8,
-        "Ford": 2,
-        "Honda": 2
+        "Isuzu:Clutch": 15,
+        "Mazda:Clutch": 5,
+        "Mitsubishi:Clutch": 11,
+        "Nissan:Clutch": 13,
+        "Suzuki:Clutch": 8,
+        "Ford:Clutch": 2,
+        "Honda:Clutch": 2
     },
     "Country": "Thailand",
     "Address": "700/316 Moo 6, Bangna-Trad Rd., Tambon Don Hua Roh Amphur Muang, Chonburi 20000, Thailand",

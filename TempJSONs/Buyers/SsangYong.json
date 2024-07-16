@@ -1,11 +1,9 @@
 {
-    "region": "ASEAN・India・Korea",
+    "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Rear Lamp": 1,
         "Axle": 17
     },
     "specific-parts-bought": {
-        "Rear combination lamp": 1,
         "Axle": 6,
         "Rear axle": 3,
         "Front axle": 2,
@@ -15,8 +13,7 @@
         "IRS rear axle": 1
     },
     "suppliers": {
-        "DH Lighting Co., Ltd. - 2nd plant (Formerly DH Innorex Co., Ltd.)": 1,
-        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.)": 6,
-        "Hyundai Transys Inc. - Seongyeon Plant (Formerly Hyundai Dymos, Inc.)": 11
+        "Hyundai Transys Inc. - Jigok Plant (Formerly Hyundai Powertech Co., Ltd.):Axle": 6,
+        "Hyundai Transys Inc. - Seongyeon Plant (Formerly Hyundai Dymos, Inc.):Axle": 11
     }
 }

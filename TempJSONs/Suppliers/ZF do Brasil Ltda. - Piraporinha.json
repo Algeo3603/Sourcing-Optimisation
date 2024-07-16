@@ -7,16 +7,16 @@
         "Clutch": 25
     },
     "buyers": {
-        "Ford": 5,
-        "Volkswagen": 6,
-        "Citroen": 1,
-        "Fiat": 1,
-        "GM": 8,
-        "Opel": 1,
-        "Peugeot": 3
+        "Ford:Clutch": 5,
+        "Volkswagen:Clutch": 6,
+        "Citroen:Clutch": 1,
+        "Fiat:Clutch": 1,
+        "GM:Clutch": 8,
+        "Opel:Clutch": 1,
+        "Peugeot:Clutch": 3
     },
     "Country": "Brazil",
-    "Address": "Avenida Piraporinha 1000, Anexo Parte 1, São Bernardo do Campo 09891-901, Brazil",
+    "Address": "Avenida Piraporinha 1000, Anexo Parte 1, So Bernardo do Campo 09891-901, Brazil",
     "TEL": "+55-11-3343-3000",
     "URL": "https://www.zf.com/",
     "Remarks": "Shareholder: ZF Friedrichshafen AG"

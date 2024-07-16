@@ -1,19 +1,16 @@
 {
     "top500": false,
     "parts_sold": {
-        "Wiring Harness": 2,
         "Shock Absorber": 10
     },
     "specific_parts_sold": {
-        "Air control Motor Cable Assembly": 2,
         "Front shock absorber": 6,
         "Rear shock absorber": 4
     },
     "buyers": {
-        "GM": 2,
-        "Dodge": 3,
-        "Ram Trucks": 4,
-        "Toyota": 3
+        "Dodge:Shock Absorber": 3,
+        "Ram Trucks:Shock Absorber": 4,
+        "Toyota:Shock Absorber": 3
     },
     "Country": "USA",
     "Address": "34500 Grand River Avenue Farmington Hills, MI 48335, USA",

@@ -1,21 +1,27 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 8
+        "Shock Absorber": 16,
+        "Clutch": 3
     },
     "specific-parts-bought": {
-        "Wire(2.0L)(CVT)": 2,
-        "Wire harness(2.0L)(CVT)": 4,
-        "Wire harness assembly(2.0L)(CVT)": 1,
-        "Wire harness connector(2.0L)(CVT)": 1
+        "Shock absorber": 6,
+        "Shock absorber piston(2.0L)(8AMT)": 1,
+        "Shock absorber base(2.0L)(8AMT)": 1,
+        "Front shock absorber": 1,
+        "Shock absorber piston(1.5L)(8CVT)": 2,
+        "Shock absorber base(1.5L)(8CVT)": 2,
+        "Shock absorber piston rod": 3,
+        "Clutch(2.0L)(10CVT)": 1,
+        "Clutch": 1,
+        "Clutch cover": 1
     },
     "suppliers": {
-        "Furukawa Automotive Parts (Dongguan) Co., Ltd.": 1,
-        "Furukawa Auto Parts (Huizhou) Ltd. (FAPH)": 1,
-        "Furukawa Electric (Shenzhen) Co., Ltd. (FESZ)": 1,
-        "Fushan Shunde Yazaki Auto Parts Co., Ltd.": 1,
-        "HuiZhou Sumiden Wiring Systems Co., Ltd.": 1,
-        "Huizhou Zhurun Automotive Wire Co., Ltd.": 2,
-        "Huizhou Zhurun Wiring Systems Co., Ltd.": 1
+        "KYB Industrial Machinery (Zhenjiang) Ltd.:Shock Absorber": 6,
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 6,
+        "FAWER Automotive Parts Limited Company:Shock Absorber": 1,
+        "Shanghai Beite Technology Co., Ltd.:Shock Absorber": 3,
+        "Aisin Corporation (Formerly Aisin Seiki Co., Ltd.):Clutch": 1,
+        "Exedy Chongqing Co., Ltd.:Clutch": 2
     }
 }

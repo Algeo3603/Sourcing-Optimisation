@@ -7,9 +7,9 @@
         "Rear shock absorber": 6
     },
     "buyers": {
-        "Daihatsu": 2,
-        "Mazda": 2,
-        "Toyota": 2
+        "Daihatsu:Shock Absorber": 2,
+        "Mazda:Shock Absorber": 2,
+        "Toyota:Shock Absorber": 2
     },
     "Country": "Indonesia",
     "Address": "JL. Jawa Blok ii No.4 Kawasan Industri MM2100, Cikarang Barat 17520, Indonesia",

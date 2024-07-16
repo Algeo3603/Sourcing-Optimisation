@@ -7,8 +7,8 @@
         "Rear axle shaft": 12
     },
     "buyers": {
-        "Daihatsu": 5,
-        "Toyota": 7
+        "Daihatsu:Axle": 5,
+        "Toyota:Axle": 7
     },
     "Country": "Indonesia",
     "Address": "JI. Pegangsaan Dua Blok Al Km. l,6 Kelapa Gading Kodya Jakarta Utara 14240 Indonesia",

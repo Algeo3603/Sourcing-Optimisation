@@ -15,10 +15,10 @@
         "5-speed automatic transmission clutch assembly": 2
     },
     "buyers": {
-        "Mitsubishi": 4,
-        "Nissan": 2,
-        "Suzuki": 3,
-        "Honda": 28
+        "Mitsubishi:Clutch": 4,
+        "Nissan:Clutch": 2,
+        "Suzuki:Clutch": 3,
+        "Honda:Clutch": 28
     },
     "Country": "Thailand",
     "Address": "Ladkrabang Industrial Estate, 286 Chalong Krung Rd., Lumplatiew, Ladkrabang,, Lat Krabang, Bangkok 10520, Thailand",

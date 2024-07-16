@@ -9,8 +9,8 @@
         "Passive damper modules": 1
     },
     "buyers": {
-        "Ford": 1,
-        "GM": 2
+        "Ford:Shock Absorber": 1,
+        "GM:Shock Absorber": 2
     },
     "Country": "USA",
     "Address": "3100 Research Blvd Suite #240, Kettering, OH 45420, USA",

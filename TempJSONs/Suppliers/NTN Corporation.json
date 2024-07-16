@@ -12,11 +12,12 @@
         "Front axle": 1
     },
     "buyers": {
-        "Nissan": 2,
-        "Jaguar Land Rover": 2,
-        "Porsche": 2,
-        "Daimler": 1,
-        "Skoda": 1
+        "Nissan:Clutch": 1,
+        "Jaguar Land Rover:Axle": 2,
+        "Porsche:Axle": 2,
+        "Daimler:Axle": 1,
+        "Nissan:Axle": 1,
+        "Skoda:Axle": 1
     },
     "Year Established": "Mar. 19, 1934",
     "Number of Employees": "3,027 employees (As of Mar. 31, 2023)",

@@ -1,19 +1,19 @@
 {
     "region": "China",
     "parts-bought": {
-        "Axle": 1,
-        "Shock Absorber": 8
+        "Shock Absorber": 8,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Axle": 1,
         "Shock absorber piston": 2,
         "Shock absorber base": 2,
         "Front strut": 2,
-        "Rear shock absorber": 2
+        "Rear shock absorber": 2,
+        "Axle": 1
     },
     "suppliers": {
-        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.)": 1,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 4,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 4
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 4,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 4,
+        "HYUNDAI Transys Powertrain system(Rizhao) co., Ltd.(Formerly Hyundai Dymos Powertrain System (Rizhao) Co., Ltd.):Axle": 1
     }
 }

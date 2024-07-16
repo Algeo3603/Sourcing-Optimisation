@@ -7,13 +7,13 @@
         "Clutch": 3
     },
     "buyers": {
-        "Mahindra & Mahindra": 2,
-        "Renault": 1
+        "Mahindra & Mahindra:Clutch": 2,
+        "Renault:Clutch": 1
     },
     "Country": "India",
-    "Address": "Nariman Bhavan, 8th floor, 227 Backbay Reclamation, Nariman Point, Mumbai – 400021, Maharashtra, India",
+    "Address": "Nariman Bhavan, 8th floor, 227 Backbay Reclamation, Nariman Point, Mumbai  400021, Maharashtra, India",
     "TEL": "+91-22-6681-4444",
     "Year established": "1964",
     "URL": "https://www.schaeffler.co.in/",
-    "Remarks": "-Shareholders：Schaeffler AG"
+    "Remarks": "-ShareholdersSchaeffler AG"
 }

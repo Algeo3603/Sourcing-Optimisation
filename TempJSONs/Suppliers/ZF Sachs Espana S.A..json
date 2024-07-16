@@ -7,9 +7,9 @@
         "Rear shock absorber": 10
     },
     "buyers": {
-        "Alfa Romeo": 5,
-        "Mercedes-Benz": 3,
-        "Porsche": 2
+        "Alfa Romeo:Shock Absorber": 5,
+        "Mercedes-Benz:Shock Absorber": 3,
+        "Porsche:Shock Absorber": 2
     },
     "Country": "Spain",
     "Address": "Barrio Aretxalde, 130, 48196 Lezama/Vizcaya",

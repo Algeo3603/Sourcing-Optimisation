@@ -1,39 +1,21 @@
 {
     "region": "Americas",
     "parts-bought": {
-        "Wiring Harness": 11,
-        "Rear Lamp": 6,
+        "Shock Absorber": 13,
         "Clutch": 1,
-        "Axle": 1,
-        "Shock Absorber": 13
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Transmission wiring harness": 4,
-        "Wiring harness": 5,
-        "PHEV high voltage cable assembly": 1,
-        "Wiring protection system": 1,
-        "Rear lamp": 2,
-        "Rear lamp housing": 1,
-        "Rear lamp (bulb)": 1,
-        "LED rear lamp": 2,
-        "One-way clutch": 1,
-        "Twist axle": 1,
         "Front shock absorber": 6,
         "Rear shock absorber": 4,
-        "Shock absorber": 3
+        "Shock absorber": 3,
+        "One-way clutch": 1,
+        "Twist axle": 1
     },
     "suppliers": {
-        "General Cable - Rhode Island": 4,
-        "Yazaki North America Inc.": 3,
-        "TE Connectivity Ltd. (Formerly Tyco Electronics Ltd.)": 1,
-        "Delfingen Industry S.A.": 1,
-        "Yazaki Corporation": 2,
-        "Magna International Inc.": 2,
-        "Marelli Automotive Lighting USA LLC (Formerly Automotive Lighting LLC)": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 3,
-        "BorgWarner Inc.": 1,
-        "Martinrea International Inc.": 1,
-        "ZF Friedrichshafen AG": 4,
-        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive)": 9
+        "ZF Friedrichshafen AG:Shock Absorber": 4,
+        "ZF Active Safety And Electronics US LLC (Formerly TRW Automotive):Shock Absorber": 9,
+        "BorgWarner Inc.:Clutch": 1,
+        "Martinrea International Inc.:Axle": 1
     }
 }

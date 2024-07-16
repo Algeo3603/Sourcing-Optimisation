@@ -1,14 +1,21 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Rear Lamp": 3
+        "Shock Absorber": 1,
+        "Clutch": 7,
+        "Axle": 2
     },
     "specific-parts-bought": {
-        "Rear lamp": 3
+        "Damper": 1,
+        "Clutch": 2,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 5,
+        "Rear axle": 1,
+        "Torsion beam rear axle": 1
     },
     "suppliers": {
-        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 1,
-        "Valeo Group": 1
+        "Schaeffler AG:Shock Absorber": 1,
+        "Schaeffler AG:Clutch": 1,
+        "ZF Friedrichshafen AG:Clutch": 6,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 2
     }
 }

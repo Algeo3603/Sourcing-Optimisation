@@ -7,7 +7,7 @@
         "Rear axle cover": 10
     },
     "buyers": {
-        "Ford": 10
+        "Ford:Axle": 10
     },
     "Country": "USA",
     "Address": "22122 Telegraph Rd, Southfield, MI 48033, USA",

@@ -1,17 +1,17 @@
 {
     "top500": true,
     "parts_sold": {
-        "Clutch": 1,
-        "Shock Absorber": 2
+        "Shock Absorber": 2,
+        "Clutch": 1
     },
     "specific_parts_sold": {
-        "Clutch housing": 1,
         "Shock absorber": 1,
-        "Suspension strut": 1
+        "Suspension strut": 1,
+        "Clutch housing": 1
     },
     "buyers": {
-        "Hyundai": 1,
-        "Maserati": 2
+        "Maserati:Shock Absorber": 2,
+        "Hyundai:Clutch": 1
     },
     "Year Established": "981",
     "Number of Employees": "4,076 employees (2023)",
