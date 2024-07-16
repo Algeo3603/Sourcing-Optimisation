@@ -8,12 +8,12 @@
         "Rear axle": 1
     },
     "buyers": {
-        "Hyundai": 7,
-        "Kia": 3
+        "Hyundai:Axle": 7,
+        "Kia:Axle": 3
     },
     "Year Established": "Jul. 15, 1974",
     "Number of Employees": "Non-consolidated : 495 employees (as of Dec. 31,2022)",
-    "Sales Turnover": "Consolidated：KRW 1,371,354 million (FY ended Dec. 31, 2022)",
+    "Sales Turnover": "ConsolidatedKRW 1,371,354 million (FY ended Dec. 31, 2022)",
     "Representative": "Hyundeok Lee (CEO)",
     "Capital": "KRW 30,450 million (CY2022)",
     "URL": "http://koreamovenex.com/_ENG/",

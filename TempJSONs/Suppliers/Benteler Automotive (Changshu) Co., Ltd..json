@@ -9,7 +9,7 @@
         "Rear axle assembly": 1
     },
     "buyers": {
-        "Qoros": 4
+        "Qoros:Axle": 4
     },
     "Country": "China",
     "Address": "No. 3, Dongzhou Road, Changshu Economic and Technological Development Zone, Suzhou, Jiangsu, China",
@@ -18,5 +18,5 @@
     "URL": "https://www.benteler.com/",
     "Quality certification": "ISO9001",
     "Environmental certification": "ISO14001",
-    "Remarks": "-Shareholder：Benteler International AG"
+    "Remarks": "-ShareholderBenteler International AG"
 }

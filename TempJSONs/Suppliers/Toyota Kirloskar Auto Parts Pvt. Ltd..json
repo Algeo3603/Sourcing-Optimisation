@@ -9,7 +9,7 @@
         "Axle": 1
     },
     "buyers": {
-        "Toyota": 5
+        "Toyota:Axle": 5
     },
     "Country": "India",
     "Address": "Plot No. 21, Bidadi Industrial Area, Ramanagaram Taluk, Bangalore (Rural) District - 562 109, India",

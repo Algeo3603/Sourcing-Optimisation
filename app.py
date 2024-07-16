@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import folium
 from geopy.geocoders import Nominatim
 import csv
-from VisualizerAlt import Visualizer
+from JSONVis import Visualizer
 
 
 load_dotenv()
@@ -50,10 +50,24 @@ def getResp():
     df=df.sample(n=400)
     content = df.to_string(index=False)
     
+    prompt="""You are an expert data analyst who specializes in deriving insights from large excel sheets.
+    Your goal is to answer the query asked by the user based on the provided dataframe. 
+    If the user asks a query that is completely unrelated to the given data, firmly decline answering the query.
+    You should structure your answer into several insights, taking care to specify how you came to that conclusion, and how it may be relevant to the user.
+
+    When highlighting an insight:
+    1) Give it a short title, and follow it up with concise sentence that gives further details on the next line.
+    2) There should be no formatting
+    3) Do not make the insights too long
+    4) Provide any helpful statistics while answering
+    
+    The query submitted by the user is:\n
+    """
+    
     completion = client.chat.completions.create(
         model=MODEL,
         messages=[
-            {"role": "system", "content": "Based on the excel sheet, try to answer the following query. Query:"+query},
+            {"role": "system", "content": prompt+query},
             {"role": "user", "content": content}
         ]
     )
@@ -132,46 +146,36 @@ def visualize_relations():
 
 @app.route("/visualize/filter", methods=['GET', 'POST'])
 def select():
-    buyers = []
-    sellers = []
-    with open('table.csv', newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            sellers.append(row['Buyer'])
-            buyers.append(row['Supplier'])
+    directory_path=Path('TempJSONs/Suppliers')
+    sellers=[f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+    sellers=[f[:-5] for f in sellers]
+    sellers.sort()
     
-    buyers=list(set(buyers))
+    directory_path=Path('TempJSONs/Buyers')
+    buyers = [f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+    buyers = [f[:-5] for f in buyers]
     buyers.sort()
+    
     sellers=list(set(sellers))
     sellers.sort()
     selected_companies = []
-    if request.method == 'POST':
-        selected_buyers = request.form.getlist('selected_buyers')
-        selected_sellers = request.form.getlist('selected_sellers')
+    parts=['Clutch','Axle','Shock Absorber']
+    countries=['India','China','Italy','Germany','France','Japan','USA','Mexico']
     
-    return render_template('VisSelect.html', selected_companies=selected_companies, buyers=buyers , sellers=sellers)
+    return render_template('VisSelect.html', selected_companies=selected_companies, buyers=sellers , sellers=buyers,parts=parts,countries=countries)
 
 
 @app.route("/visualize/filtered", methods=['POST'])
 def graph_vis():
     sellers=request.form.getlist('buyers')
-    selected_companies = request.form.getlist('sellers')+request.form.getlist('buyers')
+    buyers=request.form.getlist('sellers')
     minThickness=request.form['minThickness']
     minThickness=int(minThickness)
-    map={}
-    p=Path('Suppliers')
-    for company in sellers:
-        with open(p/f"{company}.txt",'r') as file:
-            for line in file:
-                if("Address" in line):
-                    before_comma, separator, add = line.rpartition(',')
-                    map[company]=add
-                    break
+    parts_list=request.form.getlist('parts')
+    countries=request.form.getlist('countries')
+    #print(countries)
+    Visualizer(buyers,sellers,parts_list,minThickness,countries)
     
-    for element,el in map.items():
-        print(map[element])
-    
-    Visualizer(selected_companies,minThickness,map)
     return render_template('search.html')
 
 

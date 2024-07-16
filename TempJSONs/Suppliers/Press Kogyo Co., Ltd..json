@@ -7,10 +7,10 @@
         "Axle assembly": 12
     },
     "buyers": {
-        "Isuzu": 1,
-        "Mitsubishi": 5,
-        "Mazda": 2,
-        "Nissan": 4
+        "Isuzu:Axle": 1,
+        "Mitsubishi:Axle": 5,
+        "Mazda:Axle": 2,
+        "Nissan:Axle": 4
     },
     "Year Established": "Feb. 16, 1925",
     "Number of Employees": ",628 employees (As of Mar. 31, 2023)",

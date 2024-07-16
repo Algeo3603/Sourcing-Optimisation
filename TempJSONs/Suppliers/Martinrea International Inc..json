@@ -8,9 +8,9 @@
         "Twist axle": 2
     },
     "buyers": {
-        "Volkswagen": 1,
-        "Chrysler": 1,
-        "Fiat": 1
+        "Volkswagen:Axle": 1,
+        "Chrysler:Axle": 1,
+        "Fiat:Axle": 1
     },
     "Year Established": "Feb. 1987",
     "Number of Employees": "8,400 employees (As of Dec. 31, 2022)",

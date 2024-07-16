@@ -7,7 +7,7 @@
         "Rear axle": 3
     },
     "buyers": {
-        "BMW Brilliance": 3
+        "BMW Brilliance:Axle": 3
     },
     "Country": "China",
     "Address": "No. 188 of No. 22 Kaifa Road, Economic and Technological Development Area, 110141 Shenyang (Liaoning), China",
@@ -16,5 +16,5 @@
     "URL": "https://www.gestamp.com/",
     "Quality certification": "IATF16949 (Formerly ISO/TS16949)",
     "Environmental certification": "ISO14001",
-    "Remarks": "-Shareholder：MURSOLAR 21 SL"
+    "Remarks": "-ShareholderMURSOLAR 21 SL"
 }

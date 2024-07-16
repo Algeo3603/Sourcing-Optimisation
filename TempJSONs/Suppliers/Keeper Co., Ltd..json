@@ -7,8 +7,8 @@
         "Axle oil seal": 8
     },
     "buyers": {
-        "Isuzu": 2,
-        "Nissan": 6
+        "Isuzu:Axle": 2,
+        "Nissan:Axle": 6
     },
     "Country": "Japan",
     "Address": "2-4-36 Kandai, Tsujido, Fujisawa-shi, Kanagawa-ken, 251-8515, Japan",

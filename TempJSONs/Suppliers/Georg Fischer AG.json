@@ -8,10 +8,10 @@
         "Rear axle": 1
     },
     "buyers": {
-        "Daimler": 3,
-        "Porsche": 1,
-        "DAF": 1,
-        "BMW": 1
+        "Daimler:Axle": 3,
+        "Porsche:Axle": 1,
+        "DAF:Axle": 1,
+        "BMW:Axle": 1
     },
     "Year Established": "948",
     "Number of Employees": "5,207 employees (As of Dec. 31, 2022)",

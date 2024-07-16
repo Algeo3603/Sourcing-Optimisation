@@ -1,31 +1,18 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 4,
-        "Rear Lamp": 3,
         "Shock Absorber": 4
     },
     "specific-parts-bought": {
-        "High-voltage wiring harness": 2,
-        "Wiring harness": 1,
-        "Low voltage wiring harness for battery pack(1.5T)": 1,
-        "Rear lamp": 1,
-        "Rear combination lamp": 1,
-        "Rear lamp(1.5T)": 1,
         "Air spring system(1.5T)": 1,
         "Shock absorber": 1,
         "Continuous damping control(1.5T)": 1,
         "Strut module": 1
     },
     "suppliers": {
-        "Kunshan Huguang Auto Harness Co., Ltd.": 2,
-        "GG Cables and Wires (Shenyang) Co., Ltd.": 1,
-        "Wuhu Bokang Electrical Co., Ltd.": 1,
-        "Jiangsu Changcheng Automotive Parts Co., Ltd.": 2,
-        "Changzhou Xingyu Automotive Lighting Systems Co., Ltd.": 1,
-        "Shanghai Baolong Automotive Corporation": 1,
-        "Tenneco (Changzhou) Ride Performance Co., Ltd.": 1,
-        "Zf Automotive Components & Systems (Shanghai) Co., Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co., Ltd.)": 1,
-        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.": 1
+        "Shanghai Baolong Automotive Corporation:Shock Absorber": 1,
+        "Tenneco (Changzhou) Ride Performance Co., Ltd.:Shock Absorber": 1,
+        "Zf Automotive Components & Systems (Shanghai) Co., Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co., Ltd.):Shock Absorber": 1,
+        "Shanghai Sachs Huizhong Shock Absorber Co., Ltd.:Shock Absorber": 1
     }
 }

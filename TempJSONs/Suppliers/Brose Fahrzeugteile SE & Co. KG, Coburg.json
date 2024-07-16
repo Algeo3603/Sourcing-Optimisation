@@ -1,16 +1,13 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1,
         "Clutch": 1
     },
     "specific_parts_sold": {
-        "Wiring harness": 1,
         "Clutch actuating system": 1
     },
     "buyers": {
-        "Porsche": 1,
-        "Volkswagen": 1
+        "Volkswagen:Clutch": 1
     },
     "Year Established": "919",
     "Number of Employees": "1,982 employees (As of Dec. 31, 2023)",

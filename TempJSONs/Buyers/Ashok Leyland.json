@@ -1,5 +1,5 @@
 {
-    "region": "ASEAN・India・Korea",
+    "region": "ASEANIndiaKorea",
     "parts-bought": {
         "Axle": 1
     },
@@ -7,6 +7,6 @@
         "Rear axle": 1
     },
     "suppliers": {
-        "Dana Anand India Private Limited (Formerly Spicer India Private Limited)": 1
+        "Dana Anand India Private Limited (Formerly Spicer India Private Limited):Axle": 1
     }
 }

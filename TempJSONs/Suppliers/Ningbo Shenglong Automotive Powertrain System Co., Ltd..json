@@ -11,10 +11,10 @@
         "Clutch assembly(CVT)": 6
     },
     "buyers": {
-        "Changan Ford": 10,
-        "Chery": 1,
-        "SAIC GM": 32,
-        "SAIC Passenger Vehicle": 6
+        "Changan Ford:Clutch": 10,
+        "Chery:Clutch": 1,
+        "SAIC GM:Clutch": 32,
+        "SAIC Passenger Vehicle:Clutch": 6
     },
     "Country": "China",
     "Address": "No.788, Jinda Road, Ningbo, Zhejiang 315104, China",

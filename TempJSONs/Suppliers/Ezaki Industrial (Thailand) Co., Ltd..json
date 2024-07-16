@@ -7,8 +7,8 @@
         "Clutch oil pipe": 6
     },
     "buyers": {
-        "Isuzu": 4,
-        "Suzuki": 2
+        "Isuzu:Clutch": 4,
+        "Suzuki:Clutch": 2
     },
     "Country": "Thailand",
     "Address": "Amata City Chonburi Industrial Estate ,700/760, 761 Moo 1, T.Panthong A.Panthong, Chonburi 20160, Thailand",

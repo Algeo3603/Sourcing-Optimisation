@@ -1,16 +1,12 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 3,
         "Clutch": 2
     },
     "specific-parts-bought": {
-        "Rear combination lamp": 3,
         "Clutch": 2
     },
     "suppliers": {
-        "Harbin Hafei Tianchong Lamp Co., Ltd.": 2,
-        "Harbin Hafei Lamp Co., Ltd.": 1,
-        "Changchun Yidong Clutch Co., Ltd.": 2
+        "Changchun Yidong Clutch Co., Ltd.:Clutch": 2
     }
 }

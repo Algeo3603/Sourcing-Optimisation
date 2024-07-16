@@ -1,15 +1,12 @@
 {
     "region": "China",
     "parts-bought": {
-        "Rear Lamp": 1,
         "Axle": 1
     },
     "specific-parts-bought": {
-        "Rear lamp": 1,
         "Axle": 1
     },
     "suppliers": {
-        "Jiangsu Tianhe Auto Parts Co., Ltd.": 1,
-        "Beijing Hainachuan Automotive Parts Co., Ltd.": 1
+        "Beijing Hainachuan Automotive Parts Co., Ltd.:Axle": 1
     }
 }

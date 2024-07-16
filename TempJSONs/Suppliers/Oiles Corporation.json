@@ -8,9 +8,9 @@
         "PS Bearing": 1
     },
     "buyers": {
-        "Audi": 2,
-        "Nissan": 2,
-        "Toyota": 1
+        "Audi:Shock Absorber": 2,
+        "Nissan:Shock Absorber": 2,
+        "Toyota:Shock Absorber": 1
     },
     "Year Established": "Mar. 1952",
     "Number of Employees": ",030 employees (As of Mar. 31, 2023)",

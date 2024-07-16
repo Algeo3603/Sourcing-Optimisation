@@ -13,10 +13,10 @@
         "Shock absorber": 3
     },
     "buyers": {
-        "Great Wall": 2,
-        "Brilliance": 7,
-        "GAC Fiat Chrysler": 1,
-        "SAIC GM Wuling": 2
+        "Great Wall:Shock Absorber": 2,
+        "Brilliance:Shock Absorber": 7,
+        "GAC Fiat Chrysler:Shock Absorber": 1,
+        "SAIC GM Wuling:Shock Absorber": 2
     },
     "Country": "China",
     "Address": "No.8, Chuangye Road, Xiaoshan, Hangzhou, China",

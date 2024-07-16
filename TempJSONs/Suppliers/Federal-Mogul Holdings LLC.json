@@ -1,23 +1,13 @@
 {
     "top500": false,
     "parts_sold": {
-        "Wiring Harness": 6,
         "Axle": 1
     },
     "specific_parts_sold": {
-        "Wiring protection system": 1,
-        "System protection for instrument panel wire harness": 1,
-        "System protection for engine wire harness": 1,
-        "Taillamp harness": 1,
-        "Wiring harness": 2,
         "Rear axle": 1
     },
     "buyers": {
-        "Ford": 1,
-        "Mitsubishi": 2,
-        "GM": 1,
-        "Nissan": 2,
-        "Daimler": 1
+        "Daimler:Axle": 1
     },
     "Country": "USA",
     "Address": "27300 West 11 Mile Rd, Southfield, MI 48034, USA",

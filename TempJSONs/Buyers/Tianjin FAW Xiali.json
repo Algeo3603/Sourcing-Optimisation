@@ -1,21 +1,18 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 5,
-        "Clutch": 5,
-        "Shock Absorber": 18
+        "Shock Absorber": 18,
+        "Clutch": 5
     },
     "specific-parts-bought": {
-        "Wire harness": 5,
-        "Clutch": 5,
         "Shock absorber piston": 4,
         "Shock absorber base": 4,
-        "Shock absorber piston rod": 10
+        "Shock absorber piston rod": 10,
+        "Clutch": 5
     },
     "suppliers": {
-        "Tianjin Jin-Zhu Wiring Systems Co., Ltd.": 5,
-        "Changchun Yidong Clutch Co., Ltd.": 5,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 8,
-        "Changchun Beite Automotive Parts Co., Ltd.": 10
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 8,
+        "Changchun Beite Automotive Parts Co., Ltd.:Shock Absorber": 10,
+        "Changchun Yidong Clutch Co., Ltd.:Clutch": 5
     }
 }

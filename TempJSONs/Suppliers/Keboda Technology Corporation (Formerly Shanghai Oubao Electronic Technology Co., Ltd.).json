@@ -1,20 +1,14 @@
 {
     "top500": false,
     "parts_sold": {
-        "Wiring Harness": 4,
         "Shock Absorber": 4
     },
     "specific_parts_sold": {
-        "Body wiring harness": 1,
-        "Door wiring harness": 1,
-        "Instrument panel wiring harness": 1,
-        "Engine wiring harness": 1,
         "Adjustable shock solenoid": 4
     },
     "buyers": {
-        "BYD": 4,
-        "FAW-Volkswagen": 2,
-        "SAIC Volkswagen": 2
+        "FAW-Volkswagen:Shock Absorber": 2,
+        "SAIC Volkswagen:Shock Absorber": 2
     },
     "Country": "China",
     "Address": "No.2388, Zuchongzhi Road, Free Trade Zone, Shanghai, China",

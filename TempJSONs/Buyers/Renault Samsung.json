@@ -1,21 +1,12 @@
 {
-    "region": "ASEAN・India・Korea",
+    "region": "ASEANIndiaKorea",
     "parts-bought": {
-        "Wiring Harness": 3,
-        "Rear Lamp": 4,
         "Axle": 1
     },
     "specific-parts-bought": {
-        "Wiring harness": 3,
-        "Rear lamp (Multi face reflector type)": 1,
-        "LED rear lamp": 2,
-        "Rear combination lamp": 1,
         "Rear pipe structure axle beam": 1
     },
     "suppliers": {
-        "Packard Korea inc.": 3,
-        "AMS Co., Ltd.": 3,
-        "DH Lighting Co., Ltd. - 2nd plant (Formerly DH Innorex Co., Ltd.)": 1,
-        "Yorozu Corp.": 1
+        "Yorozu Corp.:Axle": 1
     }
 }

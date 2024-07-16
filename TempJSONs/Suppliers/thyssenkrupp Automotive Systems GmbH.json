@@ -7,10 +7,10 @@
         "Axle assembly": 1
     },
     "buyers": {
-        "Porsche": 1
+        "Porsche:Axle": 1
     },
     "Country": "Germany",
-    "Address": "Münchener Straße 104A, 45145 Essen, Germany",
+    "Address": "Mnchener Strae 104A, 45145 Essen, Germany",
     "TEL": "+49-201-50799-0",
     "URL": "https://www.thyssenkrupp-components-technology.com",
     "Quality certification": "IATF16949 (Formerly ISO/TS16949)",

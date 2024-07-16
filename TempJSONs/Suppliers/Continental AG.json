@@ -1,11 +1,9 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1,
         "Shock Absorber": 10
     },
     "specific_parts_sold": {
-        "Battery cable": 1,
         "Damper control unit": 1,
         "Air spring module": 4,
         "Air suspension control unit/rear axle level control": 3,
@@ -13,11 +11,10 @@
         "Air spring system": 1
     },
     "buyers": {
-        "BMW": 1,
-        "Volkswagen": 1,
-        "Daimler": 7,
-        "Ram Trucks": 1,
-        "Volvo Cars": 1
+        "Volkswagen:Shock Absorber": 1,
+        "Daimler:Shock Absorber": 7,
+        "Ram Trucks:Shock Absorber": 1,
+        "Volvo Cars:Shock Absorber": 1
     },
     "Year Established": "871",
     "Number of Employees": "02,763 employees (As of Dec. 31, 2023)",

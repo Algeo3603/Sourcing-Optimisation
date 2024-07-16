@@ -7,10 +7,10 @@
         "Axle": 38
     },
     "buyers": {
-        "Changan": 1,
-        "Hyundai": 25,
-        "Kia": 6,
-        "SsangYong": 6
+        "Changan:Axle": 1,
+        "Hyundai:Axle": 25,
+        "Kia:Axle": 6,
+        "SsangYong:Axle": 6
     },
     "Year Established": "Mar. 2001",
     "Number of Employees": "Non-Consolidated 3,838 employees (As of Dec. 31, 2021)",

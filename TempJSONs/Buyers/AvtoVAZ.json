@@ -1,18 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Rear Lamp": 3,
-        "Axle": 1,
-        "Shock Absorber": 1
+        "Shock Absorber": 1,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Rear lamp": 3,
-        "Rear axle": 1,
-        "Shock absorber": 1
+        "Shock absorber": 1,
+        "Rear axle": 1
     },
     "suppliers": {
-        "Neolite ZKW Lightings Pvt. Ltd.": 1,
-        "Motor Super": 3,
-        "Tenneco Inc.": 1
+        "Tenneco Inc.:Shock Absorber": 1,
+        "Motor Super:Axle": 1
     }
 }

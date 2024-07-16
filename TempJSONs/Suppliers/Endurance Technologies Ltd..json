@@ -7,10 +7,10 @@
         "Clutch housing": 4
     },
     "buyers": {
-        "Kia": 1,
-        "Mercedes-Benz": 1,
-        "Tata": 1,
-        "Daimler": 1
+        "Kia:Clutch": 1,
+        "Mercedes-Benz:Clutch": 1,
+        "Tata:Clutch": 1,
+        "Daimler:Clutch": 1
     },
     "Country": "India",
     "Address": "E-92, MIDC Industrial Area, Waluj, Aurangabad 431136. Maharashtra, India",

@@ -7,7 +7,7 @@
         "Clutch actuation system": 1
     },
     "buyers": {
-        "Fiat": 1
+        "Fiat:Clutch": 1
     },
     "Year Established": "907",
     "Number of Employees": "0,396 employees (As of Dec. 31, 2023)",
@@ -15,6 +15,6 @@
     "Representative": "Rickard Gustafson (President and CEO)",
     "Capital": "SEK 1,138 million (As of Dec. 31, 2023)",
     "URL": "https://www.skf.com/",
-    "Address": "Sven Wingquist gata 2, Göteborg , SE-415 50, Sweden",
+    "Address": "Sven Wingquist gata 2, Gteborg , SE-415 50, Sweden",
     "Country": "Sweden"
 }

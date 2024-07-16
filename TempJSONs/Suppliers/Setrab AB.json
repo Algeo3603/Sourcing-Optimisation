@@ -8,8 +8,8 @@
         "Clutch": 1
     },
     "buyers": {
-        "Ford": 1,
-        "Ferrari": 1
+        "Ford:Clutch": 1,
+        "Ferrari:Clutch": 1
     },
     "Country": "Sweden",
     "Address": "Ringugnsgatan 3 Malmo SE-21610, Sweden",

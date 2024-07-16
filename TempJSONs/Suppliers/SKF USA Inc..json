@@ -9,12 +9,12 @@
         "Front left axle seal": 1
     },
     "buyers": {
-        "Hyundai": 1,
-        "Toyota": 2
+        "Hyundai:Axle": 1,
+        "Toyota:Axle": 2
     },
     "Country": "USA",
     "Address": "890 Forty Foot Rd., Lansdale, Pennsylvania, USA",
     "TEL": "+1-267-436-6000",
     "URL": "https://www.skf.com/",
-    "Remarks": "-Shareholder：AB SKF"
+    "Remarks": "-ShareholderAB SKF"
 }

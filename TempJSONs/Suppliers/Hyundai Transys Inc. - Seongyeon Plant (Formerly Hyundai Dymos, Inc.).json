@@ -13,9 +13,9 @@
         "Built-up rear axle": 2
     },
     "buyers": {
-        "Hyundai": 11,
-        "Kia": 8,
-        "SsangYong": 11
+        "Hyundai:Axle": 11,
+        "Kia:Axle": 8,
+        "SsangYong:Axle": 11
     },
     "Year Established": "May 1998",
     "Number of Employees": "Non-Consolidated 3,926 employees (As of Dec. 31, 2022)",

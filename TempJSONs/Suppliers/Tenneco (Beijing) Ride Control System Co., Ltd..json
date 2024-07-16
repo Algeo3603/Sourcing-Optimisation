@@ -28,16 +28,16 @@
         "Shock absorber(2.5L)(6AMT)": 1
     },
     "buyers": {
-        "Beijing Benz": 1,
-        "Changan Mazda": 3,
-        "FAW-Volkswagen": 1,
-        "SAIC GM": 8,
-        "SAIC Volkswagen": 1,
-        "Xpeng": 7,
-        "Changan Ford": 14,
-        "Beijing Hyundai": 1,
-        "Chery Jaguar Land Rover": 2,
-        "Jiangling Motors": 2
+        "Beijing Benz:Shock Absorber": 1,
+        "Changan Mazda:Shock Absorber": 3,
+        "FAW-Volkswagen:Shock Absorber": 1,
+        "SAIC GM:Shock Absorber": 8,
+        "SAIC Volkswagen:Shock Absorber": 1,
+        "Xpeng:Shock Absorber": 7,
+        "Changan Ford:Shock Absorber": 14,
+        "Beijing Hyundai:Shock Absorber": 1,
+        "Chery Jaguar Land Rover:Shock Absorber": 2,
+        "Jiangling Motors:Shock Absorber": 2
     },
     "Country": "China",
     "Address": "Wutong Road, Tongzhou Industrial Development Zone, Beijing, China",

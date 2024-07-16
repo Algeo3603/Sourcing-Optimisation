@@ -10,10 +10,10 @@
         "Rear drive axle": 2
     },
     "buyers": {
-        "Jaguar Land Rover": 1,
-        "Daimler": 1,
-        "Citroen": 1,
-        "Peugeot": 1
+        "Jaguar Land Rover:Clutch": 1,
+        "Daimler:Axle": 1,
+        "Citroen:Axle": 1,
+        "Peugeot:Axle": 1
     },
     "Number of Employees": "3,912 employees (FY ended Dec. 31, 2023)",
     "Sales Turnover": "GBP 5,489 million (FY ended Dec. 31, 2023)",

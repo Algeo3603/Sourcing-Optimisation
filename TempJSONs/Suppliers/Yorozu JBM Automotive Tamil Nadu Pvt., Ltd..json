@@ -7,8 +7,8 @@
         "Rear axle beam": 3
     },
     "buyers": {
-        "Renault": 1,
-        "Nissan": 2
+        "Renault:Axle": 1,
+        "Nissan:Axle": 2
     },
     "Country": "India",
     "Address": "Plot No.B5 & B6, SIPCOT Industrial Park, Pillaipakkam, Sriperumbudur Tq., Kancheepuram District, Tamil Nadu PIN - 602105, India",

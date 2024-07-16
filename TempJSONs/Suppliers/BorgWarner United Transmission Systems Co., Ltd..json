@@ -8,8 +8,8 @@
         "Clutch module with integral torsional vibration damper": 1
     },
     "buyers": {
-        "FAW-Volkswagen": 1,
-        "SAIC Passenger Vehicle": 1
+        "FAW-Volkswagen:Clutch": 1,
+        "SAIC Passenger Vehicle:Clutch": 1
     },
     "Country": "China",
     "Address": "No.103-2, Central Industrial Zone, Dalian Economic and Technological Development Zone, Liaoning Province, China",

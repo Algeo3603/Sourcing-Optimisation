@@ -8,8 +8,8 @@
         "Rear axle": 1
     },
     "buyers": {
-        "Ford": 7,
-        "Porsche": 1
+        "Ford:Axle": 7,
+        "Porsche:Axle": 1
     },
     "Year Established": "938",
     "Number of Employees": ",200 employees (As of Dec. 31, 2023)",

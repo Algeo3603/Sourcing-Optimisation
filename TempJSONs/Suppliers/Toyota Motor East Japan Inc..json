@@ -1,17 +1,18 @@
 {
     "top500": false,
     "parts_sold": {
-        "Axle": 1,
-        "Shock Absorber": 4
+        "Shock Absorber": 4,
+        "Axle": 1
     },
     "specific_parts_sold": {
-        "Axle": 1,
         "Active height control suspension (AHC)": 2,
         "Active height control (AHC) pump & motor assembly": 1,
-        "Active height control (AHC) valve assembly": 1
+        "Active height control (AHC) valve assembly": 1,
+        "Axle": 1
     },
     "buyers": {
-        "Toyota": 5
+        "Toyota:Shock Absorber": 4,
+        "Toyota:Axle": 1
     },
     "Country": "Japan",
     "Address": "1, Chuo-daira, Ohira-mura, Kurokawa-gun, Miyagi-ken, 981-3609, Japan",

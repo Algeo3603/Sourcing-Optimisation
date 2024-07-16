@@ -8,8 +8,8 @@
         "Hydraulic clutch actuation system": 1
     },
     "buyers": {
-        "BMW": 1,
-        "GM": 2
+        "BMW:Clutch": 1,
+        "GM:Clutch": 2
     },
     "Country": "USA",
     "Address": "4000 Pinnacle Court Auburn Hills, MI 48326-1754, USA",

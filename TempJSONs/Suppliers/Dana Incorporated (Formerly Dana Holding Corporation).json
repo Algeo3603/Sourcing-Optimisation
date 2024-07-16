@@ -1,10 +1,11 @@
 {
     "top500": true,
     "parts_sold": {
-        "Axle": 99,
-        "Shock Absorber": 1
+        "Shock Absorber": 1,
+        "Axle": 99
     },
     "specific_parts_sold": {
+        "Axle damper": 1,
         "Front axle": 20,
         "Rear axle": 32,
         "Axle": 11,
@@ -17,22 +18,22 @@
         "Steering axle": 1,
         "Front & rear axles": 1,
         "Independent rear axle": 2,
-        "Rear axle (4WD)": 2,
-        "Axle damper": 1
+        "Rear axle (4WD)": 2
     },
     "buyers": {
-        "Jeep": 22,
-        "Ford": 41,
-        "Nissan": 1,
-        "Ram Trucks": 4,
-        "Changan Ford": 3,
-        "Hino": 8,
-        "Jaguar Land Rover": 5,
-        "GM": 6,
-        "Isuzu": 2,
-        "Volkswagen": 1,
-        "Dodge": 3,
-        "Mahindra & Mahindra": 4
+        "Ram Trucks:Shock Absorber": 1,
+        "Jeep:Axle": 22,
+        "Ford:Axle": 41,
+        "Nissan:Axle": 1,
+        "Ram Trucks:Axle": 3,
+        "Changan Ford:Axle": 3,
+        "Hino:Axle": 8,
+        "Jaguar Land Rover:Axle": 5,
+        "GM:Axle": 6,
+        "Isuzu:Axle": 2,
+        "Volkswagen:Axle": 1,
+        "Dodge:Axle": 3,
+        "Mahindra & Mahindra:Axle": 4
     },
     "Year Established": "916",
     "Number of Employees": "1,800 employees (As of Dec. 31, 2023)",

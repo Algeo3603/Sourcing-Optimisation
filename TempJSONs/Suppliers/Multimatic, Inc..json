@@ -10,11 +10,11 @@
         "DSSV (Dynamic Suspension Spool Valve) adjustable damper": 14
     },
     "buyers": {
-        "GM": 11,
-        "Ford": 3,
-        "Daimler": 3,
-        "Mazda": 3,
-        "Aston Martin": 2
+        "GM:Shock Absorber": 11,
+        "Ford:Shock Absorber": 3,
+        "Daimler:Shock Absorber": 3,
+        "Mazda:Shock Absorber": 3,
+        "Aston Martin:Shock Absorber": 2
     },
     "Country": "Canada",
     "Address": "8688 Woodbine Avenue Suite 200 Markham, Ontario L3R 8B9, Canada",

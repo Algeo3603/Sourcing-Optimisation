@@ -7,8 +7,8 @@
         "Rear axle assembly": 7
     },
     "buyers": {
-        "SAIC GM": 1,
-        "Shanghai GM": 6
+        "SAIC GM:Axle": 1,
+        "Shanghai GM:Axle": 6
     },
     "Country": "China",
     "Address": "No.280, Changjiang Road, Yantai Economic Development Zone, Yantai, Shandong, China",

@@ -1,15 +1,12 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Rear Lamp": 3,
         "Shock Absorber": 10
     },
     "specific-parts-bought": {
-        "Rear lamp": 3,
         "Shock absorber": 10
     },
     "suppliers": {
-        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 3,
-        "Koni BV": 10
+        "Koni BV:Shock Absorber": 10
     }
 }

@@ -8,8 +8,8 @@
         "Rear shock absorber": 5
     },
     "buyers": {
-        "Jeep": 3,
-        "Ram Trucks": 5
+        "Jeep:Shock Absorber": 3,
+        "Ram Trucks:Shock Absorber": 5
     },
     "Country": "Mexico",
     "Address": "Av. San Francisco de los Romo #401 Parque Industrial San Francisco 2da. seccion San Francisco de los Romo, Ags. C.P.20300 Mexico",

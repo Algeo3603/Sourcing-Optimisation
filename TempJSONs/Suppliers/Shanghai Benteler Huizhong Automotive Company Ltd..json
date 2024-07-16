@@ -8,8 +8,8 @@
         "Front axle": 1
     },
     "buyers": {
-        "BMW Brilliance": 1,
-        "Qoros": 2
+        "BMW Brilliance:Axle": 1,
+        "Qoros:Axle": 2
     },
     "Country": "China",
     "Address": "No.1299, Yuanqi Road, Jiading District, Shanghai, China",

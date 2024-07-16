@@ -1,31 +1,22 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 2,
-        "Rear Lamp": 7,
-        "Axle": 1,
-        "Shock Absorber": 7
+        "Shock Absorber": 7,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Wiring harness protector": 2,
-        "Rear lamp": 4,
-        "Rear lighting system": 1,
-        "LED rear lamp": 2,
-        "Axle drive": 1,
         "Strut": 1,
         "Shock absorber": 2,
         "Suspension strut": 1,
         "Front shock absorber": 2,
-        "Adaptive damping system": 1
+        "Adaptive damping system": 1,
+        "Axle drive": 1
     },
     "suppliers": {
-        "Delfingen IT - Verona": 1,
-        "Delfingen Industry S.A.": 1,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 6,
-        "Magna Lighting (Formerly OLSA S.p.A.)": 1,
-        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 1,
-        "ZF Friedrichshafen AG": 4,
-        "Gestamp Automocion S.A.": 1,
-        "Nemak, S.A.B. de C.V.": 2
+        "Gestamp Automocion S.A.:Shock Absorber": 1,
+        "Nemak, S.A.B. de C.V.:Shock Absorber": 2,
+        "ZF Friedrichshafen AG:Shock Absorber": 3,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 1,
+        "ZF Friedrichshafen AG:Axle": 1
     }
 }

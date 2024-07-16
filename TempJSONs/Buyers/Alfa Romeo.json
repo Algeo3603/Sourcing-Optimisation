@@ -1,47 +1,29 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 7,
-        "Rear Lamp": 24,
+        "Shock Absorber": 19,
         "Clutch": 3,
-        "Axle": 1,
-        "Shock Absorber": 19
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Mirror wiring harness": 2,
-        "Harness": 1,
-        "Wiring protection system": 1,
-        "Wiring harness": 1,
-        "Engine wiring harness(1.4T)": 1,
-        "Wiring system": 1,
-        "Rear lamp": 11,
-        "LED rear lights": 1,
-        "LED rear lamp": 10,
-        "LED rear tail light": 1,
-        "Reversing lamp": 1,
-        "Clutch": 2,
-        "Clutch system (clutch cover, clutch disk, release mechanism)": 1,
-        "Rear axle": 1,
         "Rear shock absorber": 7,
         "Front shock absorber": 9,
         "Controlled electronic shock absorber": 1,
         "Shock absorber": 1,
-        "Adaptive damping system": 1
+        "Adaptive damping system": 1,
+        "Clutch": 2,
+        "Clutch system (clutch cover, clutch disk, release mechanism)": 1,
+        "Rear axle": 1
     },
     "suppliers": {
-        "MD ELEKTRONIK GmbH": 2,
-        "Aptiv PLC (Formerly Delphi Automotive PLC)": 3,
-        "Delfingen Industry S.A.": 1,
-        "Leoni AG": 1,
-        "Magneti Marelli Mako Elektrik Sanayi ve Ticaret A.Ş. - Bursa": 2,
-        "Marelli Automotive Lighting Reutlingen (Germany) GmbH (Formerly Automotive Lighting Reutlingen GmbH)": 6,
-        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.)": 18,
-        "Marelli Automotive Lighting Brotterode (Germany) GmbH (Formerly Automotive Lighting Brotterode GmbH)": 1,
-        "Valeo Group": 1,
-        "Schaeffler AG": 1,
-        "ZF Friedrichshafen AG": 7,
-        "ZF Sachs Espana S.A.": 5,
-        "ZF Slovakia as - Šahy": 3,
-        "Stabilus GmbH": 3
+        "ZF Sachs Espana S.A.:Shock Absorber": 5,
+        "ZF Slovakia as - ahy:Shock Absorber": 3,
+        "Stabilus GmbH:Shock Absorber": 3,
+        "ZF Friedrichshafen AG:Shock Absorber": 6,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Shock Absorber": 2,
+        "Valeo Group:Clutch": 1,
+        "Schaeffler AG:Clutch": 1,
+        "ZF Friedrichshafen AG:Clutch": 1,
+        "Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.):Axle": 1
     }
 }

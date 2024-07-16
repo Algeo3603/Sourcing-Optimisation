@@ -10,8 +10,8 @@
         "Rear axle": 1
     },
     "suppliers": {
-        "Exedy Chongqing Co., Ltd.": 2,
-        "Changchun Yidong Clutch Co., Ltd.": 5,
-        "Liaoning SG Automotive Chassis Systems Co., Ltd.": 1
+        "Exedy Chongqing Co., Ltd.:Clutch": 2,
+        "Changchun Yidong Clutch Co., Ltd.:Clutch": 5,
+        "Liaoning SG Automotive Chassis Systems Co., Ltd.:Axle": 1
     }
 }

@@ -9,8 +9,8 @@
         "Front & rear axle assembly": 5
     },
     "buyers": {
-        "Hyundai": 6,
-        "Kia": 7
+        "Hyundai:Axle": 6,
+        "Kia:Axle": 7
     },
     "Country": "Korea",
     "Address": "95-13, Inseok-ro Deoksan-myeon, Jincheon-gun, Chungcheongbuk-do, Korea",

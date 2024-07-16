@@ -1,25 +1,13 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 9,
         "Axle": 2
     },
     "specific-parts-bought": {
-        "Instrument panel wiring harness assembly": 1,
-        "Chassis wiring harness assembly": 1,
-        "Engine wiring harness assembly": 1,
-        "Roof wiring harness assembly": 1,
-        "Left front door wiring harness assembly": 1,
-        "Right front door wiring harness assembly": 1,
-        "Back door wiring harness assembly": 1,
-        "Battery ground cable assembly": 1,
-        "Wire harness": 1,
         "Rear axle": 1,
         "Front axle": 1
     },
     "suppliers": {
-        "Chongqing Qinchuan Industry (Group) Co., Ltd.": 8,
-        "Chongqing Jinzhu Automobile Harness Co., Ltd.": 1,
-        "Jiangxi Jiangling Automobile Chassis Co., Ltd.": 2
+        "Jiangxi Jiangling Automobile Chassis Co., Ltd.:Axle": 2
     }
 }

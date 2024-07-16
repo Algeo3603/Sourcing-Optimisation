@@ -10,21 +10,21 @@
         "Torsion beam rear axle": 1
     },
     "buyers": {
-        "DS Automobiles": 1,
-        "Peugeot": 1,
-        "Skoda": 1,
-        "Volkswagen": 5,
-        "Audi": 3,
-        "Lamborghini": 1,
-        "SEAT": 2,
-        "Changan Ford": 1,
-        "Qoros": 1,
-        "Lancia": 1
+        "DS Automobiles:Axle": 1,
+        "Peugeot:Axle": 1,
+        "Skoda:Axle": 1,
+        "Volkswagen:Axle": 5,
+        "Audi:Axle": 3,
+        "Lamborghini:Axle": 1,
+        "SEAT:Axle": 2,
+        "Changan Ford:Axle": 1,
+        "Qoros:Axle": 1,
+        "Lancia:Axle": 1
     },
     "Number of Employees": "0,990 employees (2023 average)",
     "Sales Turnover": "EUR 8,787 million (FY ended Dec. 31, 2023)",
     "Representative": "Ralf Goettel (Chief Executive Officer)",
     "URL": "https://www.benteler.com/en/",
-    "Address": "Schillerstraße 25-27 5020 Salzburg Austria",
+    "Address": "Schillerstrae 25-27 5020 Salzburg Austria",
     "Country": "Austria"
 }

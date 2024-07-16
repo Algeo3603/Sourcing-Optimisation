@@ -1,26 +1,15 @@
 {
     "region": "Europe",
     "parts-bought": {
-        "Wiring Harness": 4,
-        "Rear Lamp": 3,
-        "Axle": 1,
-        "Shock Absorber": 2
+        "Shock Absorber": 2,
+        "Axle": 1
     },
     "specific-parts-bought": {
-        "Main wiring harness": 1,
-        "Electrical distribution system": 1,
-        "Harness": 1,
-        "Main harness": 1,
-        "Rear lamp": 3,
-        "Front axle": 1,
-        "Air spring": 2
+        "Air spring": 2,
+        "Front axle": 1
     },
     "suppliers": {
-        "Dräxlmaier Group (Fritz Dräxlmaier GmbH & Co. KG)": 3,
-        "DELFINGEN DE-Aschheim GmbH (Formerly Schlemmer Holding GmbH)": 1,
-        "Wipac Technology Limited": 1,
-        "Magna Lighting (Formerly OLSA S.p.A.)": 2,
-        "Benteler Group (Benteler Automobiltechnik GmbH)": 1,
-        "Vibracoustic SE": 2
+        "Vibracoustic SE:Shock Absorber": 2,
+        "Benteler Group (Benteler Automobiltechnik GmbH):Axle": 1
     }
 }

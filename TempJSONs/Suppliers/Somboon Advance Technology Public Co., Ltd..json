@@ -10,12 +10,12 @@
         "Axle shaft (via Hino Motors Manufacturing (Thailand) Ltd.)": 2
     },
     "buyers": {
-        "Hino": 1,
-        "Isuzu": 6,
-        "Mitsubishi": 4,
-        "Toyota": 4,
-        "Ford": 1,
-        "GM": 2
+        "Hino:Axle": 1,
+        "Isuzu:Axle": 6,
+        "Mitsubishi:Axle": 4,
+        "Toyota:Axle": 4,
+        "Ford:Axle": 1,
+        "GM:Axle": 2
     },
     "Number of Employees": ",159 employees (As of Dec. 31, 2023)",
     "Sales Turnover": "THB 9,089.4 million (FY ended Dec. 31, 2023)",

@@ -8,8 +8,8 @@
         "Clutch hydraulic actuation system": 1
     },
     "buyers": {
-        "Ford": 1,
-        "Volkswagen": 1
+        "Ford:Clutch": 1,
+        "Volkswagen:Clutch": 1
     },
     "Country": "Mexico",
     "Address": "Km. 14.5 Autopista Puebla-Orizaba Parque Industrial Chachapa Municipio de Amozoc, C.P. 72990 Puebla, Mexico",

@@ -9,10 +9,10 @@
         "Shock absorber": 1
     },
     "buyers": {
-        "Dongfeng Nissan": 1,
-        "GAC Toyota": 1,
-        "Geely": 1,
-        "FAW-Volkswagen": 1
+        "Dongfeng Nissan:Shock Absorber": 1,
+        "GAC Toyota:Shock Absorber": 1,
+        "Geely:Shock Absorber": 1,
+        "FAW-Volkswagen:Shock Absorber": 1
     },
     "Year Established": "Oct. 1988",
     "Number of Employees": ",978 employees (as of Dec. 31, 2023)",

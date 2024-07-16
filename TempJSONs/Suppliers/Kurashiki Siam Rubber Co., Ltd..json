@@ -7,8 +7,8 @@
         "Dynamic damper": 9
     },
     "buyers": {
-        "Ford": 6,
-        "Mazda": 3
+        "Ford:Shock Absorber": 6,
+        "Mazda:Shock Absorber": 3
     },
     "Country": "Thailand",
     "Address": "193 Moo 5 Krook-Thai, Sri-Mahosod Prachinburi 25190 Thailand",

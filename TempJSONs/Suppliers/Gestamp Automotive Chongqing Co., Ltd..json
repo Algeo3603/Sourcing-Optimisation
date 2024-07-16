@@ -9,8 +9,8 @@
         "Rear axle": 5
     },
     "buyers": {
-        "Dongfeng Peugeot Citroen": 4,
-        "Changan Ford": 8
+        "Dongfeng Peugeot Citroen:Axle": 4,
+        "Changan Ford:Axle": 8
     },
     "Country": "China",
     "Address": "Jia Yun Road, No.121, Caijia Town, Beibei District, 400707, Chongqing, China",

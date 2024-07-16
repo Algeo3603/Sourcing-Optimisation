@@ -15,11 +15,11 @@
         "Rear drive axle": 2
     },
     "buyers": {
-        "Jeep": 1,
-        "GM": 42,
-        "Ram Trucks": 20,
-        "Jaguar Land Rover": 5,
-        "Daimler": 2
+        "Jeep:Clutch": 1,
+        "GM:Axle": 42,
+        "Ram Trucks:Axle": 20,
+        "Jaguar Land Rover:Axle": 5,
+        "Daimler:Axle": 2
     },
     "Year Established": "994",
     "Number of Employees": "9,000 employees (As of Dec. 31, 2023)",

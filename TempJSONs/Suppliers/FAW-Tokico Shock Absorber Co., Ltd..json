@@ -15,13 +15,13 @@
         "Shock absorber(1.6L)(CVT)": 1
     },
     "buyers": {
-        "FAW Toyota": 2,
-        "WM Motor": 1,
-        "BAIC (Guangzhou)": 2,
-        "BAIC Zhenjiang": 2,
-        "Great Wall": 4,
-        "Haima": 2,
-        "JAC": 4
+        "FAW Toyota:Shock Absorber": 2,
+        "WM Motor:Shock Absorber": 1,
+        "BAIC (Guangzhou):Shock Absorber": 2,
+        "BAIC Zhenjiang:Shock Absorber": 2,
+        "Great Wall:Shock Absorber": 4,
+        "Haima:Shock Absorber": 2,
+        "JAC:Shock Absorber": 4
     },
     "Country": "China",
     "Address": "No. 1966, Tengfei Road, Changchun Automobile Economic and Technological Development Zone, Jilin, China",

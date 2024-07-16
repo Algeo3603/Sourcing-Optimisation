@@ -26,15 +26,15 @@
         "Differential system clutch with cam function": 1
     },
     "buyers": {
-        "Suzuki": 3,
-        "Daihatsu": 8,
-        "Honda": 51,
-        "Subaru": 1,
-        "Toyota": 3,
-        "Ford": 6,
-        "Jaguar Land Rover": 1,
-        "Jeep": 1,
-        "Daimler": 2
+        "Suzuki:Clutch": 3,
+        "Daihatsu:Clutch": 8,
+        "Honda:Clutch": 51,
+        "Subaru:Clutch": 1,
+        "Toyota:Clutch": 3,
+        "Ford:Clutch": 6,
+        "Jaguar Land Rover:Clutch": 1,
+        "Jeep:Clutch": 1,
+        "Daimler:Clutch": 2
     },
     "Year Established": "Jun. 15, 1939",
     "Number of Employees": ",970 employees (As of Mar. 31, 2023)",

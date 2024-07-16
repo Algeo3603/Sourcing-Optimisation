@@ -9,10 +9,10 @@
         "Front strut": 5
     },
     "buyers": {
-        "Mazda": 1,
-        "Toyota": 2,
-        "Honda": 4,
-        "Hyundai": 10
+        "Mazda:Shock Absorber": 1,
+        "Toyota:Shock Absorber": 2,
+        "Honda:Shock Absorber": 4,
+        "Hyundai:Shock Absorber": 10
     },
     "Country": "Korea",
     "Address": "173, Seongsanpaechong-ro, Seongsan-gu, Changwon-si, Gyeongsangman-do, Korea",

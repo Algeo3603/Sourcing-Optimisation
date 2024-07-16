@@ -8,8 +8,8 @@
         "Shock absorber": 10
     },
     "buyers": {
-        "Opel": 1,
-        "Abarth": 10
+        "Opel:Shock Absorber": 1,
+        "Abarth:Shock Absorber": 10
     },
     "Country": "Netherlands",
     "Address": "Korteweg 2, 3261 NH Oud- Beijerland, Netherlands",

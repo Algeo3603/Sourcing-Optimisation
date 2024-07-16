@@ -7,12 +7,12 @@
         "Shock absorber piston rod": 15
     },
     "buyers": {
-        "Changan Ford": 1,
-        "Changan Mazda": 4,
-        "Changan Suzuki": 6,
-        "Changhe Suzuki": 1,
-        "Daihatsu": 1,
-        "FAW-Volkswagen": 2
+        "Changan Ford:Shock Absorber": 1,
+        "Changan Mazda:Shock Absorber": 4,
+        "Changan Suzuki:Shock Absorber": 6,
+        "Changhe Suzuki:Shock Absorber": 1,
+        "Daihatsu:Shock Absorber": 1,
+        "FAW-Volkswagen:Shock Absorber": 2
     },
     "Country": "China",
     "Address": "No.19, Yinglong Avenue, Longxing Town, Yubei District, Chongqing, China",

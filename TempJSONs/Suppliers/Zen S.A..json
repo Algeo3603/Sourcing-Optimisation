@@ -7,9 +7,9 @@
         "Clutch pulley": 6
     },
     "buyers": {
-        "Ford": 1,
-        "GM": 4,
-        "Opel": 1
+        "Ford:Clutch": 1,
+        "GM:Clutch": 4,
+        "Opel:Clutch": 1
     },
     "Country": "Brazil",
     "Address": "Rua Guilherme Steflen, 65 88.355-100 - Brusque - SC, Brazil",

@@ -8,8 +8,8 @@
         "Clutch": 5
     },
     "buyers": {
-        "Toyota": 11,
-        "Daihatsu": 5
+        "Toyota:Clutch": 11,
+        "Daihatsu:Clutch": 5
     },
     "Country": "Indonesia",
     "Address": "East Jakarta Industrial Park (EJIP) Plot 5J South Cikarang, 17550 Indonesia",

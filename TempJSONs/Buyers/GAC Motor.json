@@ -1,29 +1,9 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 31,
-        "Rear Lamp": 4,
         "Shock Absorber": 65
     },
     "specific-parts-bought": {
-        "Wiring harness(1.5T)(7DCT)": 1,
-        "Traction motor wiring harness": 4,
-        "Body wiring harness": 4,
-        "Engine wiring harness assembly": 3,
-        "Battery wiring harness assembly": 3,
-        "Center console wiring harness assembly": 3,
-        "Door wiring harness assembly": 3,
-        "Lithium-ion battery wiring harness": 2,
-        "Engine wiring harness": 1,
-        "Instrument panel wiring harness": 1,
-        "Door harness": 1,
-        "Front wiring harness": 1,
-        "Rear wiring harness": 1,
-        "ABS wiring harness": 1,
-        "Airbag wiring harness": 1,
-        "Battery harness": 1,
-        "Rear combination lamp": 1,
-        "Rear Lamp": 3,
         "Damper": 3,
         "Damper(2.0L)(2DHT)": 1,
         "Damper top mount(1.5T)(7DCT)": 2,
@@ -71,16 +51,11 @@
         "Rear shock absorber": 2
     },
     "suppliers": {
-        "Aptiv Electric Systems Co., Ltd.": 1,
-        "Tianhai Auto Electronics Group Co., Ltd. (THB Group)": 6,
-        "Aptiv Electric Systems Co., Ltd. Guangzhou Branch": 24,
-        "Guangdong Jiali Automobile Lamp Co., Ltd.": 1,
-        "Laster Tech Automotive (Shanghai) Co., Ltd.": 3,
-        "Jiangyin Haida Rubber & Plastic Co., Ltd.": 16,
-        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.": 19,
-        "Nanyang Cijan Auto Shock Absorber Co., Ltd.": 2,
-        "Precision Sintered Products (Wuxi) Co., Ltd.": 18,
-        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.)": 2,
-        "Shanghai Carthane Co., Ltd.": 8
+        "Jiangyin Haida Rubber & Plastic Co., Ltd.:Shock Absorber": 16,
+        "Sichuan Ningjiang Shanchuan Machinery Co., Ltd.:Shock Absorber": 19,
+        "Nanyang Cijan Auto Shock Absorber Co., Ltd.:Shock Absorber": 2,
+        "Precision Sintered Products (Wuxi) Co., Ltd.:Shock Absorber": 18,
+        "HL Mando (Beijing) Automotive System Co., Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.,Ltd.):Shock Absorber": 2,
+        "Shanghai Carthane Co., Ltd.:Shock Absorber": 8
     }
 }

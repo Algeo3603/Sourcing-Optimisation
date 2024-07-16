@@ -8,8 +8,8 @@
         "Rear axle": 1
     },
     "buyers": {
-        "Nissan": 2,
-        "Suzuki": 1
+        "Nissan:Axle": 2,
+        "Suzuki:Axle": 1
     },
     "Country": "Indonesia",
     "Address": "Kawasan Industri Mitra Karawang JI.Mitra Barat III Blok L6,7,8 Desa Parungmulya - Kecamatan Ciampel Kabupaten Karawang.41361 Jawa Barat ,Indonesia",

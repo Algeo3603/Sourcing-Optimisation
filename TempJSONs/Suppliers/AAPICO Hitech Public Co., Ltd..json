@@ -1,20 +1,13 @@
 {
     "top500": true,
     "parts_sold": {
-        "Wiring Harness": 1,
-        "Rear Lamp": 3,
         "Axle": 3
     },
     "specific_parts_sold": {
-        "Wiring harness bracket": 1,
-        "Rear combination lamp assembly": 3,
         "Axle": 3
     },
     "buyers": {
-        "Toyota": 1,
-        "Hino": 2,
-        "Isuzu": 1,
-        "Ford": 3
+        "Ford:Axle": 3
     },
     "Year Established": "996",
     "Number of Employees": ",900 employees (As of Dec. 31, 2023)",

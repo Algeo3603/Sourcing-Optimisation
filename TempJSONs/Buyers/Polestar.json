@@ -1,27 +1,15 @@
 {
     "region": "China",
     "parts-bought": {
-        "Wiring Harness": 6,
-        "Rear Lamp": 4,
         "Shock Absorber": 5
     },
     "specific-parts-bought": {
-        "High-voltage wiring harness": 2,
-        "Low-voltage wiring harness": 1,
-        "Airbag wiring harness": 1,
-        "High-voltage wiring harness system": 1,
-        "Low-voltage wiring harness system": 1,
-        "Rear combination lamp": 4,
         "Shock absorber": 3,
         "Front strut": 1,
         "Rear shock absorber": 1
     },
     "suppliers": {
-        "Lear Automotive Systems (Yangzhou) Co., Ltd.": 1,
-        "Aptiv Connection Systems (Shanghai) Ltd.": 3,
-        "Aptiv Electric Systems Co., Ltd.": 2,
-        "Hella GmbH & Co. KGaA (FORVIA HELLA)": 4,
-        "Oehlins Racing AB": 2,
-        "Tenneco Inc.": 3
+        "Oehlins Racing AB:Shock Absorber": 2,
+        "Tenneco Inc.:Shock Absorber": 3
     }
 }
