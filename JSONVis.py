@@ -121,7 +121,14 @@ def Visualizer(selected_buyers,selected_sellers,part_list,min_thickness,countrie
             ps=data['parts_sold']
             flag=False
             
+            if part_list:
+                intersec=[part for part in part_list if part in ps]
+                if not intersec:
+                    continue
+            
             for part,freq in ps.items():
+                if part not in intersec:
+                    continue
                 if freq>=min_thickness:
                     flag=True
                     break
@@ -130,10 +137,6 @@ def Visualizer(selected_buyers,selected_sellers,part_list,min_thickness,countrie
                 continue
             if c not in countries:
                 continue
-            if part_list:
-                intersec=[part for part in part_list if part in ps]
-                if not intersec:
-                    continue
                 
             
             net.add_node(c,label=c,color='yellow',x=-200,y=a*100)
