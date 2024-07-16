@@ -50,10 +50,24 @@ def getResp():
     df=df.sample(n=400)
     content = df.to_string(index=False)
     
+    prompt="""You are an expert data analyst who specializes in deriving insights from large excel sheets.
+    Your goal is to answer the query asked by the user based on the provided dataframe. 
+    If the user asks a query that is completely unrelated to the given data, firmly decline answering the query.
+    You should structure your answer into several insights, taking care to specify how you came to that conclusion, and how it may be relevant to the user.
+
+    When highlighting an insight:
+    1) Give it a short title, and follow it up with concise sentence that gives further details on the next line.
+    2) There should be no formatting
+    3) Do not make the insights too long
+    4) Provide any helpful statistics while answering
+    
+    The query submitted by the user is:\n
+    """
+    
     completion = client.chat.completions.create(
         model=MODEL,
         messages=[
-            {"role": "system", "content": "Based on the excel sheet, try to answer the following query. Query:"+query},
+            {"role": "system", "content": prompt+query},
             {"role": "user", "content": content}
         ]
     )

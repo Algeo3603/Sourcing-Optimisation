@@ -102,6 +102,60 @@ def Visualizer(selected_buyers,selected_sellers,part_list,min_thickness,countrie
         net.add_node(data['Country'],label=data['Country'],x=400,y=a*100,color='yellow')
         a+=1
         net.add_edge(data['Country'],sup)
+        
+    if not selected_buyers and not selected_sellers and countries:
+        directory_path=Path('TempJSONs/Suppliers')
+        sellers=[f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+        a=0
+        b=0
+        d=0
+        
+        if part_list:
+            for part in part_list:
+                net.add_node(part,label=part,color='red',x=200,y=d*100)
+                d+=1
+        for seller in sellers:
+            with open(directory_path/seller, 'r') as file:
+                data=json.load(file)
+            c=data['Country']
+            ps=data['parts_sold']
+            flag=False
+            
+            for part,freq in ps.items():
+                if freq>=min_thickness:
+                    flag=True
+                    break
+            
+            if not flag:
+                continue
+            if c not in countries:
+                continue
+            if part_list:
+                intersec=[part for part in part_list if part in ps]
+                if not intersec:
+                    continue
+                
+            
+            net.add_node(c,label=c,color='yellow',x=-200,y=a*100)
+            a+=1
+            net.add_node(seller[:-5],label=seller[:-5],color='blue',x=0,y=b*100)
+            b+=1
+            net.add_edge(seller[:-5],c)
+            
+            if not part_list:
+                for item,freq in ps.items():
+                    if(freq<min_thickness):
+                        continue
+                    net.add_node(item,label=item,color='red',x=200,y=d*100)
+                    d+=1
+                    net.add_edge(item,seller[:-5],label=str(freq),width=min(10,freq))
+            else:
+                for part in intersec:
+                    if(ps[part]<min_thickness):
+                        continue
+                    net.add_edge(part,seller[:-5],width=min(10,ps[part]),label=str(ps[part]))
+                    
+            
             
     net.show('templates/search.html')
     
