@@ -8,6 +8,4 @@ __pycache__
 
 
 # Siddhesh
-/GraphRAG/output/
-/GraphRAG/cache/
-/GraphRAG/.env
+/GraphRAG/
