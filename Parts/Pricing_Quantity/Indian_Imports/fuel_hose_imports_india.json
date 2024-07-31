@@ -1,0 +1,77 @@
+{
+    "Japan": {
+        "PCS": {
+            "ppu": [
+                17.62,
+                12.11,
+                17.27,
+                95.04,
+                2.56,
+                2.56,
+                0.04,
+                0.04
+            ],
+            "average_price": 18.405,
+            "median_price": 7.335,
+            "min_price": 0.04,
+            "max_price": 95.04,
+            "total_quantity": 1034
+        }
+    },
+    "South Korea": {
+        "NOS": {
+            "ppu": [
+                60.41
+            ],
+            "average_price": 60.41,
+            "median_price": 60.41,
+            "min_price": 60.41,
+            "max_price": 60.41,
+            "total_quantity": 2
+        }
+    },
+    "Brazil": {
+        "PCS": {
+            "ppu": [
+                1.94
+            ],
+            "average_price": 1.94,
+            "median_price": 1.94,
+            "min_price": 1.94,
+            "max_price": 1.94,
+            "total_quantity": 1
+        }
+    },
+    "United States": {
+        "PCS": {
+            "ppu": [
+                45.37
+            ],
+            "average_price": 45.37,
+            "median_price": 45.37,
+            "min_price": 45.37,
+            "max_price": 45.37,
+            "total_quantity": 4
+        }
+    },
+    "Thailand": {
+        "PCS": {
+            "ppu": [
+                0.68,
+                0.91,
+                0.68,
+                0.91,
+                0.68,
+                0.91,
+                0.68,
+                0.91,
+                2.57
+            ],
+            "average_price": 0.9922222222222222,
+            "median_price": 0.91,
+            "min_price": 0.68,
+            "max_price": 2.57,
+            "total_quantity": 2650
+        }
+    }
+}
