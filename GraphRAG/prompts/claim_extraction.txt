@@ -3,7 +3,7 @@
 You are an intelligent assistant that helps a human analyst to analyze claims against certain entities presented in a text document.
 
 -Goal-
-Given a csv document that is potentially relevant to this activity, an entity specification, and a claim description, extract all entities that match the entity specification and all claims against those entities.
+Given a text document that is potentially relevant to this activity, an entity specification, and a claim description, extract all entities that match the entity specification and all claims against those entities.
 
 -Steps-
 1. Extract all named entities that match the predefined entity specification. Entity specification can either be a list of entity names or a list of entity types.
