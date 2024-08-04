@@ -179,7 +179,7 @@ def Visualizer(selected_buyers,selected_sellers,part_list,min_thickness,countrie
     elif part_list:
         directory_path=Path('TempJSONs/Parts')
         parts=[f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
-        
+        e=0
         for part in parts:
             if part[:-5] not in part_list:
                 continue
@@ -203,9 +203,28 @@ def Visualizer(selected_buyers,selected_sellers,part_list,min_thickness,countrie
                 d+=1
                 net.add_edge(part[:-5],seller,label=str(freq),width=min(10,freq))
                 
+                with open('TempJSONs/Suppliers/'+seller+'.json' , 'r') as file:
+                    data=json.load(file)
+                if data['Country'] not in addedCountries:
+                    addedCountries.add(data['Country'])
+                    net.add_node(data['Country'],label=data['Country'],color='yellow',x=400,y=e*100)
+                    e+=1
+                net.add_edge(data['Country'],seller)
+                
     else:
         net.add_node(1,label="KOI TOH FILTER LAGA DE BHAI",color='black')        
-                
+    
+    p=Path('Parts/Pricing_Quantity/Indian_Imports')   
+    with open(p/'fuel_hose_imports_india.json','r') as file:
+        data=json.load(file)
+    
+    for Country in addedCountries:
+        if Country in data:
+            if "PCS" not in data[Country]:
+                continue
+            title="Part Name: Brake Line\nAverage Price: $"+str(data[Country]["PCS"]['average_price'])+"\nMedian Price: $"+str(data[Country]["PCS"]['median_price'])+"\nQuantity:"+str(data[Country]["PCS"]['total_quantity'])
+            net.get_node(Country)['title']=title
+            print(Country)
             
     net.show('templates/search.html')
     
