@@ -321,5 +321,10 @@ def process_us_imports():
     return source_markers, destination_markers, arrow_coordinates, popup_info
 
 
+@app.route("/PowerBI")
+def PowerBI():
+    return render_template("PowerBI.html")
+
+
 if __name__ == "__main__":
   app.run(debug=True)

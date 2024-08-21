@@ -21,9 +21,15 @@ for group,companies in data.items():
     if(len(companies)==1):
         continue
     net.add_node(group,label=group,color='blue',x=a*1000,y=0)
-    offset=-((len(companies)/2)*200)
+    flag=False
+    offset=-(int((len(companies)/2)*200))
     for company in companies:
-        net.add_node(company,color='red',x=a*1000+offset,y=100)
+        if flag:
+            yy=200
+        else:
+            yy=100
+        net.add_node(company,color='red',x=a*1000+offset,y=yy)
+        flag=not flag
         offset+=200
         net.add_edge(company,group)
     a+=1

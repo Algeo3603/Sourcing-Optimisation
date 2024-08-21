@@ -1,0 +1,587 @@
+Buyer,Seller,Frequency,Seller Country,Top 500
+Toyota,Aisin Corporation (Formerly Aisin Seiki Co. Ltd.),2,Japan,TRUE
+Tata,Autoneum India Pvt. Ltd.,1,India,FALSE
+Hyundai,BASF S.A.,1,Brazil,FALSE
+BMW Brilliance,Beijing West Industries Co. Ltd.,6,China,FALSE
+Dongfeng Honda,Beijing West Industries Co. Ltd.,3,China,FALSE
+Ferrari,Beijing West Industries Co. Ltd.,3,China,FALSE
+BMW,Beijing West Industries Co. Ltd.,1,China,FALSE
+SAIC Volkswagen,Beijing West Industries Co. Ltd.,1,China,FALSE
+Honda,Beijing West Industries Co. Ltd.,2,China,FALSE
+GM,Beijing West Industries Co. Ltd.,2,China,FALSE
+Volvo Cars,Beijing West Industries Co. Ltd.,1,China,FALSE
+Ford,BWI North America Inc.,1,USA,FALSE
+GM,BWI North America Inc.,2,USA,FALSE
+FAW Car,Changchun Beite Automotive Parts Co. Ltd.,4,China,FALSE
+FAW Haima,Changchun Beite Automotive Parts Co. Ltd.,4,China,FALSE
+FAW Toyota,Changchun Beite Automotive Parts Co. Ltd.,8,China,FALSE
+FAW-Volkswagen,Changchun Beite Automotive Parts Co. Ltd.,2,China,FALSE
+Ford,Changchun Beite Automotive Parts Co. Ltd.,1,China,FALSE
+Geely,Changchun Beite Automotive Parts Co. Ltd.,2,China,FALSE
+JAC,Changchun Beite Automotive Parts Co. Ltd.,1,China,FALSE
+SAIC Passenger Vehicle,Changchun Beite Automotive Parts Co. Ltd.,3,China,FALSE
+Tianjin FAW Xiali,Changchun Beite Automotive Parts Co. Ltd.,10,China,FALSE
+Chery,Chengdu Mingran Intelligent Technology Co. Ltd.,3,China,FALSE
+Changan Ford,Chengdu Ningjiang Showa Autoparts Co. Ltd.,1,China,FALSE
+Changan Mazda,Chengdu Ningjiang Showa Autoparts Co. Ltd.,4,China,FALSE
+Changan Suzuki,Chengdu Ningjiang Showa Autoparts Co. Ltd.,6,China,FALSE
+Changhe Suzuki,Chengdu Ningjiang Showa Autoparts Co. Ltd.,1,China,FALSE
+Daihatsu,Chengdu Ningjiang Showa Autoparts Co. Ltd.,1,China,FALSE
+Changan Ford,Chongqing Beite Technology Co. Ltd.,1,China,FALSE
+Changan Mazda,Chongqing Beite Technology Co. Ltd.,4,China,FALSE
+Changan Suzuki,Chongqing Beite Technology Co. Ltd.,6,China,FALSE
+Changhe Suzuki,Chongqing Beite Technology Co. Ltd.,1,China,FALSE
+Daihatsu,Chongqing Beite Technology Co. Ltd.,1,China,FALSE
+FAW-Volkswagen,Chongqing Beite Technology Co. Ltd.,2,China,FALSE
+DFSK,Chongqing Yu'an Shock Absorber Co. Ltd.,8,China,FALSE
+NIO,Clear Motion Inc.,1,USA,FALSE
+Dongfeng Liuzhou Motor,CNC Driveline Technology Co. Ltd. (Formerly Zhuhai China And Canton Clutch Co. Ltd.),3,China,FALSE
+Volkswagen,Continental AG,1,Germany,TRUE
+Daimler,Continental AG,7,Germany,TRUE
+Ram Trucks,Continental AG,1,Germany,TRUE
+Volvo Cars,Continental AG,1,Germany,TRUE
+Volkswagen,Continental Temic Electronics (Phil) Inc.,1,Philippines,FALSE
+GM,ContiTech AG,1,Germany,FALSE
+Ram Trucks,Dana Incorporated (Formerly Dana Holding Corporation),1,United States of America,TRUE
+Rivian,EFC International,1,USA,FALSE
+FAW Toyota,FAW-Tokico Shock Absorber Co. Ltd.,2,China,FALSE
+WM Motor,FAW-Tokico Shock Absorber Co. Ltd.,1,China,FALSE
+BAIC (Guangzhou),FAW-Tokico Shock Absorber Co. Ltd.,2,China,FALSE
+BAIC Zhenjiang,FAW-Tokico Shock Absorber Co. Ltd.,2,China,FALSE
+Great Wall,FAW-Tokico Shock Absorber Co. Ltd.,4,China,FALSE
+Haima,FAW-Tokico Shock Absorber Co. Ltd.,2,China,FALSE
+JAC,FAW-Tokico Shock Absorber Co. Ltd.,4,China,FALSE
+Dongfeng Nissan,FAWER Automotive Parts Limited Company,1,China,TRUE
+GAC Toyota,FAWER Automotive Parts Limited Company,1,China,TRUE
+Geely,FAWER Automotive Parts Limited Company,1,China,TRUE
+FAW-Volkswagen,FAWER Automotive Parts Limited Company,1,China,TRUE
+BYD,FinDreams Technology Co. Ltd.,9,China,FALSE
+Tesla,Firestone Industrial Products Company LLC,4,USA,FALSE
+Ford,Fox Factory Inc. - Gainesville Facility,2,USA,FALSE
+Citroen,Gabriel India Ltd.,11,India,FALSE
+Mahindra & Mahindra,Gabriel India Ltd.,30,India,FALSE
+Maruti Suzuki,Gabriel India Ltd.,41,India,FALSE
+Skoda,Gabriel India Ltd.,8,India,FALSE
+Toyota,Gabriel India Ltd.,9,India,FALSE
+Volkswagen,Gabriel India Ltd.,14,India,FALSE
+Honda,Gabriel India Ltd.,2,India,FALSE
+Tata,Gabriel India Ltd.,6,India,FALSE
+Maserati,Gestamp Automocion S.A.,1,Spain,TRUE
+Daimler,Gestamp Automocion S.A.,1,Spain,TRUE
+Volkswagen,Gestamp Automocion S.A.,1,Spain,TRUE
+BMW,GF Linamar LLC,2,USA,FALSE
+Audi,H&R Spezialfedern GmbH & Co. KG,3,Germany,FALSE
+BMW,H&R Spezialfedern GmbH & Co. KG,3,Germany,FALSE
+Toyota,H&R Spezialfedern GmbH & Co. KG,1,Germany,FALSE
+Volkswagen,H&R Spezialfedern GmbH & Co. KG,2,Germany,FALSE
+Dodge,Hitachi Astemo Americas Inc. (Formerly  Hitachi Automotive Systems Americas Inc.),3,USA,FALSE
+Ram Trucks,Hitachi Astemo Americas Inc. (Formerly  Hitachi Automotive Systems Americas Inc.),4,USA,FALSE
+Toyota,Hitachi Astemo Americas Inc. (Formerly  Hitachi Automotive Systems Americas Inc.),3,USA,FALSE
+GAC Honda,Hitachi Astemo Chassis Systems (Guangzhou) Ltd. (Formerly Guangzhou Showa Autoparts Co. Ltd.),8,China,FALSE
+Dongfeng Honda,Hitachi Astemo Chassis Systems (Guangzhou) Ltd. (Formerly Guangzhou Showa Autoparts Co. Ltd.),4,China,FALSE
+Dongfeng Honda,Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co. Ltd. Wuhan Branch),6,China,FALSE
+GAC Mitsubishi,Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co. Ltd. Wuhan Branch),3,China,FALSE
+Dongfeng Renault,Hitachi Astemo Chassis Systems (Guangzhou) Ltd. Wuhan Branch (Formerly Guangzhou Showa Autoparts Co. Ltd. Wuhan Branch),1,China,FALSE
+Changan Ford,Hitachi Astemo ChassisSystems (Suzhou) Ltd. (Formerly Tokico Automotive (Suzhou) Co. Ltd.),2,China,FALSE
+Ford,Hitachi Astemo ChassisSystems (Suzhou) Ltd. (Formerly Tokico Automotive (Suzhou) Co. Ltd.),4,China,FALSE
+Mazda,Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co. Ltd.),4,Thailand,FALSE
+Nissan,Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co. Ltd.),1,Thailand,FALSE
+Subaru,Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co. Ltd.),2,Thailand,FALSE
+Suzuki,Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co. Ltd.),2,Thailand,FALSE
+Toyota,Hitachi Astemo Chonburi Auto Parts Ltd. (Formerly Showa Auto Parts (Thailand) Co. Ltd.),4,Thailand,FALSE
+Honda,Hitachi Astemo Korat Brake Systems Ltd. (Formerly Nissin Brake (Thailand) Co. Ltd.),6,Thailand,FALSE
+Isuzu,Hitachi Astemo Korat Brake Systems Ltd. (Formerly Nissin Brake (Thailand) Co. Ltd.),1,Thailand,FALSE
+Mitsubishi,Hitachi Astemo Korat Ltd. (Formerly Tokico Thailand Ltd.),2,Thailand,FALSE
+Toyota,Hitachi Astemo Korat Ltd. (Formerly Tokico Thailand Ltd.),2,Thailand,FALSE
+Mazda,Hitachi Astemo Mexico S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico S.A. de C.V.),8,Mexico,FALSE
+Ram Trucks,Hitachi Astemo Mexico S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico S.A. de C.V.),7,Mexico,FALSE
+Nissan,Hitachi Astemo Mexico S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico S.A. de C.V.),2,Mexico,FALSE
+Jeep,Hitachi Astemo Mexico S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico S.A. de C.V.),2,Mexico,FALSE
+Toyota,Hitachi Astemo Mexico S.A. de C.V. - Queretaro Plant (Formerly Hitachi Automotive Systems Mexico S.A. de C.V.),1,Mexico,FALSE
+Subaru,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),66,Japan,TRUE
+Honda,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),96,Japan,TRUE
+Mazda,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),72,Japan,TRUE
+Nissan,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),54,Japan,TRUE
+Suzuki,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),30,Japan,TRUE
+Toyota,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),147,Japan,TRUE
+Daihatsu,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),37,Japan,TRUE
+Hino,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),6,Japan,TRUE
+Isuzu,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),6,Japan,TRUE
+Mitsubishi,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),12,Japan,TRUE
+Ram Trucks,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),2,Japan,TRUE
+Dongfeng Honda,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),5,Japan,TRUE
+GAC Honda,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),6,Japan,TRUE
+Ford,Hitachi Astemo Ltd. (Formerly Hitachi Automotive Systems Ltd.),2,Japan,TRUE
+Tesla China,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),1,China,FALSE
+Ford,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),1,China,FALSE
+Dongfeng Passenger Vehicle,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),1,China,FALSE
+GAC Motor,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),2,China,FALSE
+Lifan,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),1,China,FALSE
+SAIC GM,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),4,China,FALSE
+SAIC GM Wuling,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),3,China,FALSE
+SAIC Passenger Vehicle,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),2,China,FALSE
+Changan,HL Mando (Beijing) Automotive System Co. Ltd. (Formerly Mando (Beijing) Automotive Chassis System Co.Ltd.),1,China,FALSE
+Geely,HL Mando (Ningbo) Automotive System Co. Ltd. (Formerly Mando (Ningbo) Automotive Parts Co. Ltd.),10,China,FALSE
+Tesla,HL Mando America Corporation - Alabama (Formerly Mando America Corporation - Alabama),1,USA,FALSE
+Hyundai,HL Mando Automotive India Private Limited (Formerly Mando Automotive India Private Limited),1,India,FALSE
+Hyundai,HL Mando Corporation (Formerly Mando Corporation),62,South Korea,TRUE
+Kia,HL Mando Corporation (Formerly Mando Corporation),18,South Korea,TRUE
+Renault,HL Mando Corporation (Formerly Mando Corporation),1,South Korea,TRUE
+Tesla,HL Mando Corporation (Formerly Mando Corporation),1,South Korea,TRUE
+GM,HL Mando Corporation (Formerly Mando Corporation),2,South Korea,TRUE
+Nissan,HL Mando Corporation (Formerly Mando Corporation),1,South Korea,TRUE
+Tesla,HL Mando Corporation Mexico SA de CV (Formerly Mando Corporation Mexico SA de CV),1,Mexico,FALSE
+BYD,Hunan KDL Precision Industry Co. Ltd.,1,China,FALSE
+Hyundai,Hyundai Mobis Co. Ltd.,3,South Korea,TRUE
+Kia,Hyundai WIA Corporation (Formerly WIA Corporation),2,South Korea,TRUE
+Changan Ford,Jiangsu Luoshi Vibration Control Co. Ltd.,2,China,FALSE
+FAW-Volkswagen,Jiangsu Luoshi Vibration Control Co. Ltd.,4,China,FALSE
+SAIC Volkswagen,Jiangsu Luoshi Vibration Control Co. Ltd.,8,China,FALSE
+GAC Motor,Jiangyin Haida Rubber & Plastic Co. Ltd.,16,China,FALSE
+GAC Aion,Jiangyin Haida Rubber & Plastic Co. Ltd.,1,China,FALSE
+Jemmell New Energy,Jinzhou Leader Shock Absorber Co. Ltd.,3,China,FALSE
+Great Wall,Jinzhou Leader Shock Absorber Co. Ltd.,26,China,FALSE
+FAW-Volkswagen,Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co. Ltd.),2,China,FALSE
+SAIC Volkswagen,Keboda Technology Corporation (Formerly Shanghai Oubao Electronic Technology Co. Ltd.),2,China,FALSE
+Porsche,KIRCHHOFF Automotive AG,1,Germany,FALSE
+Mercedes-Benz,KIRCHHOFF Automotive Manchester,1,USA,FALSE
+Toyota,Knauf SAS,1,France,FALSE
+Opel,Koni BV,1,Netherlands,FALSE
+Abarth,Koni BV,10,Netherlands,FALSE
+Audi,KSM Castings Group GmbH,1,Germany,FALSE
+Ford,Kurashiki Siam Rubber Co. Ltd.,6,Thailand,FALSE
+Mazda,Kurashiki Siam Rubber Co. Ltd.,3,Thailand,FALSE
+Honda,KYB (Thailand) Co. Ltd.,2,Thailand,FALSE
+Toyota,KYB (Thailand) Co. Ltd.,10,Thailand,FALSE
+Nissan,KYB Americas Corporation - Indiana,10,USA,FALSE
+Subaru,KYB Americas Corporation - Indiana,2,USA,FALSE
+Toyota,KYB Americas Corporation - Indiana,14,USA,FALSE
+Toyota,KYB Corporation,273,Japan,TRUE
+Daihatsu,KYB Corporation,48,Japan,TRUE
+Honda,KYB Corporation,33,Japan,TRUE
+Mazda,KYB Corporation,29,Japan,TRUE
+Mitsubishi,KYB Corporation,48,Japan,TRUE
+Nissan,KYB Corporation,69,Japan,TRUE
+Skoda,KYB Corporation,2,Japan,TRUE
+Subaru,KYB Corporation,30,Japan,TRUE
+Suzuki,KYB Corporation,63,Japan,TRUE
+Volkswagen,KYB Corporation,2,Japan,TRUE
+Isuzu,KYB Corporation,2,Japan,TRUE
+Magyar Suzuki,KYB Corporation,2,Japan,TRUE
+Peugeot,KYB Corporation,4,Japan,TRUE
+Renault,KYB Corporation,4,Japan,TRUE
+Citroen,KYB Europe GmbH,1,Germany,FALSE
+BMW Brilliance,KYB Industrial Machinery (Zhenjiang) Ltd.,1,China,FALSE
+Dongfeng Nissan,KYB Industrial Machinery (Zhenjiang) Ltd.,13,China,FALSE
+GAC Mitsubishi,KYB Industrial Machinery (Zhenjiang) Ltd.,4,China,FALSE
+GAC Toyota,KYB Industrial Machinery (Zhenjiang) Ltd.,6,China,FALSE
+FAW Toyota,KYB Industrial Machinery (Zhenjiang) Ltd.,9,China,FALSE
+Zhengzhou Nissan,KYB Industrial Machinery (Zhenjiang) Ltd.,1,China,FALSE
+South East,KYB Industrial Machinery (Zhenjiang) Ltd.,2,China,FALSE
+Mazda,KYB Latinoamerica S.A. de C.V. (KYB Mexico S.A. de C.V. Mexico City Branch),1,Mexico,FALSE
+Nissan,KYB Latinoamerica S.A. de C.V. (KYB Mexico S.A. de C.V. Mexico City Branch),1,Mexico,FALSE
+Audi,KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.),1,Brazil,FALSE
+Ford,KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.),1,Brazil,FALSE
+GM,KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.),2,Brazil,FALSE
+Hyundai,KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.),1,Brazil,FALSE
+Peugeot,KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.),1,Brazil,FALSE
+Toyota,KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.),1,Brazil,FALSE
+Volkswagen,KYB Manufacturing do Brasil Fabricante de Autopecas S.A. (Formerly KYB-Mando do Brasil Fabricante de Autopecas S.A.),2,Brazil,FALSE
+BMW,Linde + Wiemann SE & Co. KG,1,Germany,FALSE
+Dodge,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),4,Italy,TRUE
+DS Automobiles,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),3,Italy,TRUE
+Fiat,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),10,Italy,TRUE
+Opel,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),4,Italy,TRUE
+Renault,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),1,Italy,TRUE
+Alfa Romeo,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),2,Italy,TRUE
+Peugeot,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),3,Italy,TRUE
+Ram Trucks,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),1,Italy,TRUE
+Ferrari,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),1,Italy,TRUE
+GM,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),1,Italy,TRUE
+Maserati,Marelli Europe S.p.A. (Formerly Magneti Marelli S.p.A.),1,Italy,TRUE
+Jeep,Marelli Mexicana S.A. de C.V. - San Francisco Plant (Formerly Calsonic Kansei Mexicana S.A. de C.V. - San Francisco Plant),3,Mexico,FALSE
+Ram Trucks,Marelli Mexicana S.A. de C.V. - San Francisco Plant (Formerly Calsonic Kansei Mexicana S.A. de C.V. - San Francisco Plant),5,Mexico,FALSE
+Peugeot,Marelli Morocco LLC SARL,3,Morocco,FALSE
+Tata,Marelli Motherson Auto Suspension Parts Pvt. Ltd.,2,India,FALSE
+Porsche,MCG,1,Portugal,FALSE
+Kia,Mobis Manufacturing De Mexico S. De R.L. De C.V.,2,Mexico,FALSE
+Hyundai,MOBIS Slovakia s.r.o.,3,Slovakia,FALSE
+Kia,MOBIS Slovakia s.r.o.,4,Slovakia,FALSE
+Ford,Monroe Mexico S. de R.L. de C.V. - Celaya,10,Mexico,FALSE
+GM,Multimatic Inc.,11,Canada,FALSE
+Ford,Multimatic Inc.,3,Canada,FALSE
+Daimler,Multimatic Inc.,3,Canada,FALSE
+Mazda,Multimatic Inc.,3,Canada,FALSE
+Aston Martin,Multimatic Inc.,2,Canada,FALSE
+Honda,Munjal Showa Ltd.,1,India,FALSE
+Maruti Suzuki,Munjal Showa Ltd.,2,India,FALSE
+Geely,Nanyang Cijan Auto Shock Absorber Co. Ltd.,8,China,FALSE
+SAIC Passenger Vehicle,Nanyang Cijan Auto Shock Absorber Co. Ltd.,12,China,FALSE
+GAC Motor,Nanyang Cijan Auto Shock Absorber Co. Ltd.,2,China,FALSE
+BAIC Yinxiang,Nanyang Cijan Auto Shock Absorber Co. Ltd.,1,China,FALSE
+Chery,Nanyang Cijan Auto Shock Absorber Co. Ltd.,13,China,FALSE
+Dongfeng Peugeot Citroen,Nanyang Cijan Auto Shock Absorber Co. Ltd.,3,China,FALSE
+SAIC GM Wuling,Nanyang Cijan Auto Shock Absorber Co. Ltd.,7,China,FALSE
+FAW Haima,Nanyang Cijan Auto Shock Absorber Co. Ltd.,5,China,FALSE
+Maserati,Nemak S.A.B. de C.V.,2,Mexico,TRUE
+BYD,Ningbo Tuopu Group Co. Ltd.(Formerly Ningbo Tuopu Brake System Co. Ltd.),1,China,TRUE
+Tesla China,Ningbo Tuopu Group Co. Ltd.(Formerly Ningbo Tuopu Brake System Co. Ltd.),3,China,TRUE
+Changan Ford,Ningbo Tuopu Group Co. Ltd.(Formerly Ningbo Tuopu Brake System Co. Ltd.),1,China,TRUE
+Geely,Ningbo Tuopu Group Co. Ltd.(Formerly Ningbo Tuopu Brake System Co. Ltd.),2,China,TRUE
+Lotus,Nitron Racing Systems Ltd.,2,UK,FALSE
+Polestar,Oehlins Racing AB,2,Sweden,FALSE
+Volvo Cars,Oehlins Racing AB,9,Sweden,FALSE
+Arrinera,Oehlins Racing AB,1,Sweden,FALSE
+Renault,Oehlins Racing AB,3,Sweden,FALSE
+Lotus,Oehlins Racing AB,1,Sweden,FALSE
+Nissan,Oehlins Racing AB,1,Sweden,FALSE
+Audi,Oiles Corporation,2,Japan,TRUE
+Nissan,Oiles Corporation,2,Japan,TRUE
+Toyota,Oiles Corporation,1,Japan,TRUE
+Audi,Ovalo GmbH,1,Germany,FALSE
+Daihatsu,P.T. Kayaba Indonesia,2,Indonesia,FALSE
+Mazda,P.T. Kayaba Indonesia,2,Indonesia,FALSE
+Toyota,P.T. Kayaba Indonesia,2,Indonesia,FALSE
+BMW,PMG Holding GmbH,2,Germany,FALSE
+Daimler,PMG Holding GmbH,1,Germany,FALSE
+Jaguar Land Rover,PMG Holding GmbH,1,Germany,FALSE
+Audi,PMG Holding GmbH,1,Germany,FALSE
+Renault,PMG Holding GmbH,1,Germany,FALSE
+Volkswagen,PMG Holding GmbH,1,Germany,FALSE
+BAIC (Guangzhou),Precision Sintered Products (Wuxi) Co. Ltd.,4,China,FALSE
+BAIC Motor,Precision Sintered Products (Wuxi) Co. Ltd.,2,China,FALSE
+BAIC Yinxiang,Precision Sintered Products (Wuxi) Co. Ltd.,4,China,FALSE
+BAIC Zhenjiang,Precision Sintered Products (Wuxi) Co. Ltd.,4,China,FALSE
+Changan,Precision Sintered Products (Wuxi) Co. Ltd.,44,China,FALSE
+Changan Ford,Precision Sintered Products (Wuxi) Co. Ltd.,4,China,FALSE
+Changan Mazda,Precision Sintered Products (Wuxi) Co. Ltd.,14,China,FALSE
+Changan Suzuki,Precision Sintered Products (Wuxi) Co. Ltd.,28,China,FALSE
+Changhe Suzuki,Precision Sintered Products (Wuxi) Co. Ltd.,4,China,FALSE
+Dongfeng Honda,Precision Sintered Products (Wuxi) Co. Ltd.,16,China,FALSE
+Dongfeng Liuzhou Motor,Precision Sintered Products (Wuxi) Co. Ltd.,12,China,FALSE
+Dongfeng Nissan,Precision Sintered Products (Wuxi) Co. Ltd.,16,China,FALSE
+Dongfeng Passenger Vehicle,Precision Sintered Products (Wuxi) Co. Ltd.,6,China,FALSE
+Dongfeng Renault,Precision Sintered Products (Wuxi) Co. Ltd.,2,China,FALSE
+FAW,Precision Sintered Products (Wuxi) Co. Ltd.,3,China,FALSE
+FAW Car,Precision Sintered Products (Wuxi) Co. Ltd.,20,China,FALSE
+FAW Haima,Precision Sintered Products (Wuxi) Co. Ltd.,4,China,FALSE
+FAW Toyota,Precision Sintered Products (Wuxi) Co. Ltd.,15,China,FALSE
+GAC Honda,Precision Sintered Products (Wuxi) Co. Ltd.,16,China,FALSE
+GAC Mitsubishi,Precision Sintered Products (Wuxi) Co. Ltd.,8,China,FALSE
+GAC Motor,Precision Sintered Products (Wuxi) Co. Ltd.,18,China,FALSE
+GAC Toyota,Precision Sintered Products (Wuxi) Co. Ltd.,6,China,FALSE
+Great Wall,Precision Sintered Products (Wuxi) Co. Ltd.,14,China,FALSE
+Haima,Precision Sintered Products (Wuxi) Co. Ltd.,10,China,FALSE
+Hawtai,Precision Sintered Products (Wuxi) Co. Ltd.,4,China,FALSE
+JAC,Precision Sintered Products (Wuxi) Co. Ltd.,8,China,FALSE
+SAIC GM Wuling,Precision Sintered Products (Wuxi) Co. Ltd.,6,China,FALSE
+SAIC Volkswagen,Precision Sintered Products (Wuxi) Co. Ltd.,3,China,FALSE
+South East,Precision Sintered Products (Wuxi) Co. Ltd.,6,China,FALSE
+Tianjin FAW Xiali,Precision Sintered Products (Wuxi) Co. Ltd.,8,China,FALSE
+Zhejiang Youngman Passenger Car,Precision Sintered Products (Wuxi) Co. Ltd.,2,China,FALSE
+Shanghai GM,Pyung Hwa Industrial Co. Ltd.,1,South Korea,TRUE
+Audi,Rausch & Pausch Automotive GmbH & Co. KG (RAPA Automotive),3,Germany,FALSE
+Mercedes-Benz,Rausch & Pausch Automotive GmbH & Co. KG (RAPA Automotive),8,Germany,FALSE
+Daimler,Rausch & Pausch Automotive GmbH & Co. KG (RAPA Automotive),7,Germany,FALSE
+Porsche,Rollax GmbH & Co. KG,6,Germany,FALSE
+Volkswagen,Rollax GmbH & Co. KG,2,Germany,FALSE
+GM,Ryobi Die Casting (USA) Inc.,1,USA,FALSE
+BYD,Schaeffler (China) Co. Ltd.,3,China,FALSE
+Deepal,Schaeffler (China) Co. Ltd.,6,China,FALSE
+SEAT,Schaeffler AG,1,Germany,TRUE
+Volkswagen,Schaeffler AG,2,Germany,TRUE
+Volvo Cars,Schaeffler AG,1,Germany,TRUE
+BYD,Shanghai Baolong Automotive Corporation,2,China,FALSE
+NIO,Shanghai Baolong Automotive Corporation,6,China,FALSE
+Li Auto,Shanghai Baolong Automotive Corporation,1,China,FALSE
+Changan Ford,Shanghai Beite Technology Co. Ltd.,4,China,FALSE
+Dongfeng Honda,Shanghai Beite Technology Co. Ltd.,3,China,FALSE
+FAW Toyota,Shanghai Beite Technology Co. Ltd.,4,China,FALSE
+GAC Honda,Shanghai Beite Technology Co. Ltd.,8,China,FALSE
+GAC Toyota,Shanghai Beite Technology Co. Ltd.,3,China,FALSE
+Geely,Shanghai Beite Technology Co. Ltd.,5,China,FALSE
+Dongfeng Nissan,Shanghai Beite Technology Co. Ltd.,5,China,FALSE
+Dongfeng Peugeot Citroen,Shanghai Beite Technology Co. Ltd.,2,China,FALSE
+Dongfeng Yueda Kia,Shanghai Beite Technology Co. Ltd.,4,China,FALSE
+FAW-Volkswagen,Shanghai Beite Technology Co. Ltd.,6,China,FALSE
+Fujian Benz,Shanghai Beite Technology Co. Ltd.,1,China,FALSE
+Jiangling Motors,Shanghai Beite Technology Co. Ltd.,1,China,FALSE
+SAIC GM,Shanghai Beite Technology Co. Ltd.,2,China,FALSE
+SAIC Passenger Vehicle,Shanghai Beite Technology Co. Ltd.,2,China,FALSE
+SAIC Volkswagen,Shanghai Beite Technology Co. Ltd.,7,China,FALSE
+BYD,Shanghai Carthane Co. Ltd.,1,China,FALSE
+FAW,Shanghai Carthane Co. Ltd.,2,China,FALSE
+NIO,Shanghai Carthane Co. Ltd.,1,China,FALSE
+Tesla,Shanghai Carthane Co. Ltd.,2,China,FALSE
+Tesla China,Shanghai Carthane Co. Ltd.,5,China,FALSE
+Xpeng,Shanghai Carthane Co. Ltd.,1,China,FALSE
+Changan Ford,Shanghai Carthane Co. Ltd.,16,China,FALSE
+Dongfeng Liuzhou Motor,Shanghai Carthane Co. Ltd.,6,China,FALSE
+Ford,Shanghai Carthane Co. Ltd.,5,China,FALSE
+BAIC (Guangzhou),Shanghai Carthane Co. Ltd.,2,China,FALSE
+BAIC Yinxiang,Shanghai Carthane Co. Ltd.,1,China,FALSE
+BAIC Zhenjiang,Shanghai Carthane Co. Ltd.,2,China,FALSE
+Beijing Hyundai,Shanghai Carthane Co. Ltd.,1,China,FALSE
+Changan,Shanghai Carthane Co. Ltd.,16,China,FALSE
+Changan Suzuki,Shanghai Carthane Co. Ltd.,8,China,FALSE
+Chery,Shanghai Carthane Co. Ltd.,4,China,FALSE
+Chery Jaguar Land Rover,Shanghai Carthane Co. Ltd.,2,China,FALSE
+DFSK,Shanghai Carthane Co. Ltd.,8,China,FALSE
+Dongfeng Honda,Shanghai Carthane Co. Ltd.,4,China,FALSE
+Dongfeng Passenger Vehicle,Shanghai Carthane Co. Ltd.,9,China,FALSE
+Dongfeng Peugeot Citroen,Shanghai Carthane Co. Ltd.,19,China,FALSE
+Dongfeng Yulon,Shanghai Carthane Co. Ltd.,5,China,FALSE
+GAC Honda,Shanghai Carthane Co. Ltd.,4,China,FALSE
+GAC Motor,Shanghai Carthane Co. Ltd.,8,China,FALSE
+Geely,Shanghai Carthane Co. Ltd.,10,China,FALSE
+GM,Shanghai Carthane Co. Ltd.,1,China,FALSE
+Great Wall,Shanghai Carthane Co. Ltd.,4,China,FALSE
+Haima,Shanghai Carthane Co. Ltd.,5,China,FALSE
+JAC,Shanghai Carthane Co. Ltd.,4,China,FALSE
+Jiangling Motors,Shanghai Carthane Co. Ltd.,2,China,FALSE
+Lifan,Shanghai Carthane Co. Ltd.,1,China,FALSE
+SAIC GM,Shanghai Carthane Co. Ltd.,13,China,FALSE
+SAIC GM Wuling,Shanghai Carthane Co. Ltd.,10,China,FALSE
+SAIC Passenger Vehicle,Shanghai Carthane Co. Ltd.,4,China,FALSE
+SAIC Volkswagen,Shanghai Huizhong Automotive Manufacturing Co. Ltd.,2,China,FALSE
+Xpeng,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,2,China,FALSE
+BMW Brilliance,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,3,China,FALSE
+NIO,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,4,China,FALSE
+Li Auto,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,1,China,FALSE
+Chery,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,1,China,FALSE
+SAIC Passenger Vehicle,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,3,China,FALSE
+Beijing Benz,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,2,China,FALSE
+Brilliance,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,1,China,FALSE
+Changan Ford,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,3,China,FALSE
+Changan PSA,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,3,China,FALSE
+Dongfeng Peugeot Citroen,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,2,China,FALSE
+FAW-Volkswagen,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,11,China,FALSE
+SAIC GM,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,8,China,FALSE
+SAIC GM Wuling,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,2,China,FALSE
+SAIC Maxus,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,2,China,FALSE
+SAIC Volkswagen,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,13,China,FALSE
+Shanghai GM,Shanghai Sachs Huizhong Shock Absorber Co. Ltd.,2,China,FALSE
+Mahindra & Mahindra,Sharda Industries,2,India,FALSE
+BAW,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,1,China,FALSE
+Deepal,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,3,China,FALSE
+GAC Aion,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,1,China,FALSE
+GAC Motor,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,19,China,FALSE
+Dongfeng Liuzhou Motor,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,13,China,FALSE
+Changan,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,30,China,FALSE
+Changan Suzuki,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,12,China,FALSE
+Haima,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,3,China,FALSE
+BAIC Yinxiang,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,6,China,FALSE
+Changhe,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,2,China,FALSE
+Changhe Suzuki,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,2,China,FALSE
+Dongfeng Nissan,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,3,China,FALSE
+Dongfeng Passenger Vehicle,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,5,China,FALSE
+FAW Car,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,4,China,FALSE
+Great Wall,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,6,China,FALSE
+Hawtai,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,4,China,FALSE
+JAC,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,2,China,FALSE
+SAIC GM Wuling,Sichuan Ningjiang Shanchuan Machinery Co. Ltd.,3,China,FALSE
+SAIC GM,SNT Daewoo (Kunshan) Co. Ltd.,5,China,FALSE
+GM,SNT Motiv Co. Ltd. (Formerly S&T Motiv Co. Ltd.),16,South Korea,TRUE
+Daihatsu,SNT Motiv Co. Ltd. (Formerly S&T Motiv Co. Ltd.),1,South Korea,TRUE
+Subaru,SNT Motiv Co. Ltd. (Formerly S&T Motiv Co. Ltd.),1,South Korea,TRUE
+Toyota,SNT Motiv Co. Ltd. (Formerly S&T Motiv Co. Ltd.),1,South Korea,TRUE
+Toyota,Somboon Somic Manufacturing Co. Ltd.,1,Thailand,FALSE
+Volkswagen,Sona BLW Precision Forgings Ltd. (Sona Comstar),2,India,TRUE
+Alfa Romeo,Stabilus GmbH,3,Germany,FALSE
+Beijing Benz,Tenneco (Beijing) Ride Control System Co. Ltd.,1,China,FALSE
+Changan Mazda,Tenneco (Beijing) Ride Control System Co. Ltd.,3,China,FALSE
+FAW-Volkswagen,Tenneco (Beijing) Ride Control System Co. Ltd.,1,China,FALSE
+SAIC GM,Tenneco (Beijing) Ride Control System Co. Ltd.,8,China,FALSE
+SAIC Volkswagen,Tenneco (Beijing) Ride Control System Co. Ltd.,1,China,FALSE
+Xpeng,Tenneco (Beijing) Ride Control System Co. Ltd.,7,China,FALSE
+Changan Ford,Tenneco (Beijing) Ride Control System Co. Ltd.,14,China,FALSE
+Beijing Hyundai,Tenneco (Beijing) Ride Control System Co. Ltd.,1,China,FALSE
+Chery Jaguar Land Rover,Tenneco (Beijing) Ride Control System Co. Ltd.,2,China,FALSE
+Jiangling Motors,Tenneco (Beijing) Ride Control System Co. Ltd.,2,China,FALSE
+IM Motors,Tenneco (Changzhou) Ride Performance Co. Ltd.,1,China,FALSE
+Rising Auto,Tenneco (Changzhou) Ride Performance Co. Ltd.,4,China,FALSE
+Li Auto,Tenneco (Changzhou) Ride Performance Co. Ltd.,1,China,FALSE
+Mercedes-Benz,Tenneco Automotive Eastern Europe Sp. z o.o.,5,Poland,FALSE
+Jaguar Land Rover,Tenneco Automotive Europe,1,Belgium,FALSE
+Toyota,Tenneco Automotive Iberica S.A.,1,Spain,FALSE
+Maruti Suzuki,Tenneco Automotive India Pvt. Ltd. - Bawal Plant,1,India,FALSE
+Nissan,Tenneco Automotive India Pvt. Ltd. - Chennai Plant,1,India,FALSE
+Tata,Tenneco Automotive India Pvt. Ltd. - Pune Plant,1,India,FALSE
+Jaguar Land Rover,Tenneco Automotive India Pvt. Ltd.,1,India,FALSE
+Maruti Suzuki,Tenneco Automotive India Pvt. Ltd.,17,India,FALSE
+Mahindra & Mahindra,Tenneco Automotive India Pvt. Ltd.,1,India,FALSE
+Scania,Tenneco Automotive India Pvt. Ltd.,1,India,FALSE
+Tata,Tenneco Automotive India Pvt. Ltd.,1,India,FALSE
+Toyota,Tenneco Automotive India Pvt. Ltd.,3,India,FALSE
+Changan Ford,Tenneco Automotive Industry (Suzhou) Co. Ltd.,1,China,FALSE
+GM,Tenneco Canada Inc.,1,Canada,FALSE
+Mercedes-Benz,Tenneco GmbH,3,Germany,FALSE
+Toyota,Tenneco GmbH,1,Germany,FALSE
+Mercedes-Benz,Tenneco Inc.,1,United States of America,TRUE
+Suzuki,Tenneco Inc.,12,United States of America,TRUE
+Audi,Tenneco Inc.,6,United States of America,TRUE
+Maruti Suzuki,Tenneco Inc.,3,United States of America,TRUE
+Mazda,Tenneco Inc.,5,United States of America,TRUE
+Nissan,Tenneco Inc.,8,United States of America,TRUE
+Rivian,Tenneco Inc.,2,United States of America,TRUE
+Toyota,Tenneco Inc.,3,United States of America,TRUE
+Volkswagen,Tenneco Inc.,11,United States of America,TRUE
+BMW Brilliance,Tenneco Inc.,1,United States of America,TRUE
+GM,Tenneco Inc.,2,United States of America,TRUE
+Polestar,Tenneco Inc.,3,United States of America,TRUE
+BMW,Tenneco Inc.,9,United States of America,TRUE
+Daimler,Tenneco Inc.,1,United States of America,TRUE
+Jaguar Land Rover,Tenneco Inc.,3,United States of America,TRUE
+Volvo Cars,Tenneco Inc.,3,United States of America,TRUE
+Porsche,Tenneco Inc.,1,United States of America,TRUE
+Renault,Tenneco Inc.,4,United States of America,TRUE
+AvtoVAZ,Tenneco Inc.,1,United States of America,TRUE
+Ford,Tenneco Inc.,3,United States of America,TRUE
+Mercedes-Benz,THOMAS MAGNETE GMBH,1,Germany,FALSE
+Audi,thyssenkrupp AG (Formerly ThyssenKrupp AG),1,Germany,TRUE
+Mercedes-Benz,thyssenkrupp AG (Formerly ThyssenKrupp AG),1,Germany,TRUE
+Daimler,thyssenkrupp AG (Formerly ThyssenKrupp AG),5,Germany,TRUE
+Tesla,thyssenkrupp AG (Formerly ThyssenKrupp AG),1,Germany,TRUE
+Jaguar Land Rover,thyssenkrupp AG (Formerly ThyssenKrupp AG),1,Germany,TRUE
+Mercedes-Benz,thyssenkrupp Bilstein GmbH,12,Germany,FALSE
+Ford,thyssenkrupp Bilstein GmbH,2,Germany,FALSE
+IM Motors,thyssenkrupp Bilstein GmbH,2,Germany,FALSE
+Lotus,thyssenkrupp Bilstein GmbH,22,Germany,FALSE
+Nissan,thyssenkrupp Bilstein GmbH,12,Germany,FALSE
+Toyota,thyssenkrupp Bilstein GmbH,3,Germany,FALSE
+Daimler,thyssenkrupp Bilstein GmbH,6,Germany,FALSE
+Dodge,thyssenkrupp Bilstein GmbH,1,Germany,FALSE
+Jaguar Land Rover,thyssenkrupp Bilstein GmbH,5,Germany,FALSE
+Daihatsu,thyssenkrupp Bilstein GmbH,6,Germany,FALSE
+Jeep,thyssenkrupp Bilstein GmbH,1,Germany,FALSE
+Mitsubishi,thyssenkrupp Bilstein GmbH,3,Germany,FALSE
+Porsche,thyssenkrupp Bilstein GmbH,3,Germany,FALSE
+Subaru,thyssenkrupp Bilstein GmbH,14,Germany,FALSE
+Yulon,thyssenkrupp Bilstein GmbH,2,Germany,FALSE
+Ram Trucks,thyssenkrupp Bilstein GmbH,1,Germany,FALSE
+Aston Martin,thyssenkrupp Bilstein GmbH,1,Germany,FALSE
+BMW,thyssenkrupp Bilstein GmbH,3,Germany,FALSE
+Honda,thyssenkrupp Bilstein GmbH,1,Germany,FALSE
+Mazda,thyssenkrupp Bilstein GmbH,1,Germany,FALSE
+Volkswagen,thyssenkrupp Bilstein GmbH,1,Germany,FALSE
+Lucid,thyssenkrupp Bilstein of America Inc.,6,USA,FALSE
+Nissan,thyssenkrupp Bilstein of America Inc.,8,USA,FALSE
+Ram Trucks,thyssenkrupp Bilstein of America Inc.,3,USA,FALSE
+Tesla,thyssenkrupp Bilstein of America Inc.,9,USA,FALSE
+Toyota,thyssenkrupp Bilstein of America Inc.,6,USA,FALSE
+Dodge,thyssenkrupp Bilstein of America Inc.,8,USA,FALSE
+Daimler,thyssenkrupp Bilstein of America Inc.,1,USA,FALSE
+Ford,thyssenkrupp Bilstein of America Inc.,2,USA,FALSE
+Mercedes-Benz,thyssenkrupp Bilstein S.A.,1,Romania,FALSE
+Daimler,thyssenkrupp Bilstein S.A.,1,Romania,FALSE
+Jiangling Motors,ThyssenKrupp Bilstein Shock Absorbers Auto Parts (Changzhou) Co. Ltd.,1,China,FALSE
+Toyota,thyssenkrupp Components Technology de Mxico S.A. de C.V.,1,Mexico,FALSE
+Ram Trucks,thyssenkrupp Components Technology de Mxico S.A. de C.V.,1,Mexico,FALSE
+Xpeng,thyssenKrupp Presta (Shanghai) Co. Ltd.,1,China,FALSE
+Beijing Hyundai,Tianjin Beite Automotive Parts Co. Ltd.,1,China,FALSE
+Changan,Tianjin Beite Automotive Parts Co. Ltd.,1,China,FALSE
+Changan Ford,Tianjin Beite Automotive Parts Co. Ltd.,4,China,FALSE
+Dongfeng Passenger Vehicle,Tianjin Beite Automotive Parts Co. Ltd.,1,China,FALSE
+Lifan,Tianjin Beite Automotive Parts Co. Ltd.,1,China,FALSE
+Brilliance Jinbei,Tianjin Beite Automotive Parts Co. Ltd.,1,China,FALSE
+FAW-Volkswagen,Tianjin Beite Automotive Parts Co. Ltd.,2,China,FALSE
+Jiangling Motors,Tianjin Beite Automotive Parts Co. Ltd.,1,China,FALSE
+Toyota,Toyota Motor East Japan Inc.,4,Japan,FALSE
+Xpeng,Vibracoustic (Wuxi) Vibration Isolators Co. Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co. Ltd.),4,China,FALSE
+Changan Ford,Vibracoustic (Wuxi) Vibration Isolators Co. Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co. Ltd.),3,China,FALSE
+FAW-Volkswagen,Vibracoustic (Wuxi) Vibration Isolators Co. Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co. Ltd.),4,China,FALSE
+SAIC Volkswagen,Vibracoustic (Wuxi) Vibration Isolators Co. Ltd. (Formerly Wuxi Trelleborg Vibration Isolator Co. Ltd.),3,China,FALSE
+Porsche,Vibracoustic CV Air Springs GmbH,5,Germany,FALSE
+Honda,Vibracoustic CV Air Springs Magyarorszag Kft.,1,Hungary,FALSE
+BMW,Vibracoustic CV Air Springs Magyarorszag Kft.,1,Hungary,FALSE
+Ford,Vibracoustic CV Air Springs Magyarorszag Kft.,1,Hungary,FALSE
+Ford,Vibracoustic de Mexico S.A. de C.V. - Lerma,1,Mexico,FALSE
+Renault,Vibracoustic India Pvt. Ltd. (Formerly Trelleborg Vibracoustic India Pvt. Ltd.),1,India,FALSE
+BMW,Vibracoustic SE,15,Germany,FALSE
+Audi,Vibracoustic SE,7,Germany,FALSE
+Toyota,Vibracoustic SE,1,Germany,FALSE
+Volkswagen,Vibracoustic SE,2,Germany,FALSE
+Aston Martin,Vibracoustic SE,1,Germany,FALSE
+Daimler,Vibracoustic SE,5,Germany,FALSE
+FAW,Vibracoustic SE,2,Germany,FALSE
+Jaguar Land Rover,Vibracoustic SE,2,Germany,FALSE
+Lamborghini,Vibracoustic SE,2,Germany,FALSE
+DS Automobiles,Vibracoustic SE,1,Germany,FALSE
+Porsche,Vibracoustic SE,2,Germany,FALSE
+Citroen,Vibracoustic SE,1,Germany,FALSE
+Ford,Vibracoustic SE,1,Germany,FALSE
+Rolls-Royce,Vibracoustic SE,1,Germany,FALSE
+Bentley,Vibracoustic SE,1,Germany,FALSE
+GM,Vibracoustic SE,2,Germany,FALSE
+Opel,Vibracoustic SE,1,Germany,FALSE
+Renault,Vibracoustic SE,1,Germany,FALSE
+Volkswagen,Vollmann (Sachsen) GmbH & Co. KG - Welzow,1,Germany,FALSE
+Dongfeng Liuzhou Motor,Xiamen Kaifa Shock Absorber Industry Co. Ltd.,3,China,FALSE
+Dongfeng Passenger Vehicle,Xiamen Kaifa Shock Absorber Industry Co. Ltd.,8,China,FALSE
+Dongfeng Peugeot Citroen,Xiamen Kaifa Shock Absorber Industry Co. Ltd.,18,China,FALSE
+Dongfeng Yulon,Xiamen Kaifa Shock Absorber Industry Co. Ltd.,5,China,FALSE
+Honda,Y-TEC Co. Ltd.,10,Thailand,FALSE
+Honda,Yanagawa Techno Forge (Thailand) Co. Ltd.,4,Thailand,FALSE
+Nissan,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),9,USA,FALSE
+Chrysler,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),9,USA,FALSE
+Dodge,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),6,USA,FALSE
+GM,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),27,USA,FALSE
+Volkswagen,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),9,USA,FALSE
+Audi,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),3,USA,FALSE
+Honda,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),12,USA,FALSE
+BMW,ZF Active Safety And Electronics US LLC (Formerly TRW Automotive),2,USA,FALSE
+GM,Zf Automotive Components & Systems (Shanghai) Co. Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co. Ltd.),3,China,FALSE
+Li Auto,Zf Automotive Components & Systems (Shanghai) Co. Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co. Ltd.),1,China,FALSE
+Xpeng,Zf Automotive Components & Systems (Shanghai) Co. Ltd. (Formerly Sachs Automotive Components & Systems Shanghai Co. Ltd.),2,China,FALSE
+BMW,ZF CV Systems Global GmbH (Formerly WABCO Global GmbH),1,Switzerland,TRUE
+Audi,ZF Friedrichshafen AG,25,Germany,TRUE
+Chrysler,ZF Friedrichshafen AG,4,Germany,TRUE
+Honda,ZF Friedrichshafen AG,27,Germany,TRUE
+Mazda,ZF Friedrichshafen AG,4,Germany,TRUE
+Nissan,ZF Friedrichshafen AG,5,Germany,TRUE
+Subaru,ZF Friedrichshafen AG,11,Germany,TRUE
+Volkswagen,ZF Friedrichshafen AG,25,Germany,TRUE
+Alfa Romeo,ZF Friedrichshafen AG,6,Germany,TRUE
+Dodge,ZF Friedrichshafen AG,2,Germany,TRUE
+Ford,ZF Friedrichshafen AG,2,Germany,TRUE
+GM,ZF Friedrichshafen AG,8,Germany,TRUE
+Mitsubishi,ZF Friedrichshafen AG,2,Germany,TRUE
+Maserati,ZF Friedrichshafen AG,3,Germany,TRUE
+Mercedes-Benz,ZF Friedrichshafen AG,1,Germany,TRUE
+Porsche,ZF Friedrichshafen AG,8,Germany,TRUE
+Skoda,ZF Friedrichshafen AG,1,Germany,TRUE
+Toyota,ZF Friedrichshafen AG,7,Germany,TRUE
+BMW,ZF Friedrichshafen AG,4,Germany,TRUE
+Daimler,ZF Friedrichshafen AG,7,Germany,TRUE
+Opel,ZF Friedrichshafen AG,2,Germany,TRUE
+Bentley,ZF Friedrichshafen AG,1,Germany,TRUE
+Fiat,ZF Friedrichshafen AG,1,Germany,TRUE
+Hyundai,ZF Friedrichshafen AG,1,Germany,TRUE
+Shanghai GM,ZF Friedrichshafen AG,1,Germany,TRUE
+Xiaomi,ZF Group (China),3,China,TRUE
+Honda,ZF Japan Co. Ltd.,1,Japan,FALSE
+Toyota,ZF Japan Co. Ltd.,2,Japan,FALSE
+GM,ZF North America Inc.,1,USA,FALSE
+Audi,ZF North America Inc.,1,USA,FALSE
+Jeep,ZF North America Inc.,1,USA,FALSE
+Nissan,ZF North America Inc.,6,USA,FALSE
+Alfa Romeo,ZF Sachs Espana S.A.,5,Spain,FALSE
+Mercedes-Benz,ZF Sachs Espana S.A.,3,Spain,FALSE
+Porsche,ZF Sachs Espana S.A.,2,Spain,FALSE
+Mazda,ZF Sachs Korea Co. Ltd.,1,Korea,FALSE
+Toyota,ZF Sachs Korea Co. Ltd.,2,Korea,FALSE
+Honda,ZF Sachs Korea Co. Ltd.,4,Korea,FALSE
+Hyundai,ZF Sachs Korea Co. Ltd.,10,Korea,FALSE
+Toyota,ZF Sachs Suspansiyon Sistemleri Sanayi ve Ticaret A.S,1,Turkey,FALSE
+Alfa Romeo,ZF Slovakia as - ahy,3,Slovakia,FALSE
+Audi,ZF Slovakia as - ahy,3,Slovakia,FALSE
+Volkswagen,ZF Slovakia as - ahy,2,Slovakia,FALSE
+Jeep,ZF Suspension Technology Guadalajara S.A. de C.V.,1,Mexico,FALSE
+Volkswagen,ZF Suspension Technology Guadalajara S.A. de C.V.,1,Mexico,FALSE
+Nissan,ZF Suspension Technology Guadalajara S.A. de C.V.,1,Mexico,FALSE
+FAW-Volkswagen,Zhejiang Roadtamer Auto Suspension System Co. Ltd.,6,China,FALSE
+SAIC Volkswagen,Zhejiang Roadtamer Auto Suspension System Co. Ltd.,9,China,FALSE
+Great Wall,Zhejiang Wanxiang Marelli Absorber Co. Ltd.,2,China,FALSE
+Brilliance,Zhejiang Wanxiang Marelli Absorber Co. Ltd.,7,China,FALSE
+GAC Fiat Chrysler,Zhejiang Wanxiang Marelli Absorber Co. Ltd.,1,China,FALSE
+SAIC GM Wuling,Zhejiang Wanxiang Marelli Absorber Co. Ltd.,2,China,FALSE
