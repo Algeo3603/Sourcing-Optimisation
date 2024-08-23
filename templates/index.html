@@ -5,8 +5,12 @@
 {% endblock %}
 
 {% block body %}
+<div class="HomeSearch">
 <h1>Sourcing Optimisation</h1>
+</div>
 
+
+<div class="HomeSearch">
 <h2>Part Search</h2>
 <form action="/search_parts" method="POST">
     <label for="part_name">Part Name:</label>
@@ -14,9 +18,12 @@
     <br>
     <button type="submit">Search Parts</button>
 </form>
-<br>
+</div>
 
+<div class="blank">
+</div>
 
+<div class="HomeSearch">
 <h2>Supplier Search</h2>
 <form action="/search_suppliers" method="POST">
     <label for="supplier_name">Supplier Name:</label>
@@ -24,9 +31,14 @@
     <br>
     <button type="submit">Search Suppliers</button>
 </form>
+</div>
 
+<div class="blank"></div>
 
+<div>
 <h2>
     <a href='/visualize'>Graph Visualization</a>
 </h2>
+</div>
+
 {% endblock %}

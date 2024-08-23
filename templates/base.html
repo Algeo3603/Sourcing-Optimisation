@@ -4,8 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     {% block head %}{% endblock %}
 </head>
+<div class="dashboard">
+    <button onclick="window.location.href='/';">Home</button>
+    <button onclick="window.location.href='/visualize';">Graph Visualization</button>
+    <button onclick="window.location.href='/PowerBI';">Power BI Visualization</button>
+    <button>Neo4j Visualization</button>
+</div>
+
 <body>
     {% block body %}{% endblock %}
 </body>

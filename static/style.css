@@ -1,0 +1,52 @@
+.dashboard {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;          
+    padding: 20px;
+    height: 100px;       
+    background-color: #f5f5f5;     
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #007bff;
+    color: white;
+    width: 200px;
+    height: 50px;
+}
+.HomeSearch {
+    display: flex;
+    flex-direction: column; /* Aligns items vertically */
+    justify-content: center; 
+    align-items: flex-start; /* Align items to the left */
+    padding: 20px;
+    width: 20%;
+    /*max-width: 600px; Optional max width */
+    background-color: #f5f5f5;
+    margin: 20px auto; /* Adds spacing between sections and centers the div */
+    border: 1px solid #ccc; /* Optional border for better visibility */
+}
+
+input, button {
+    margin-top: 10px;
+    width: 100%; /* Input and button fill the width of the form */
+    padding: 10px;
+    box-sizing: border-box; /* Ensures padding doesn’t affect width */
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+h1{
+    margin:10px;
+    font-size: 20px;
+}
+
+.blank {
+    height: 50px; /* Can still use for spacing if needed */
+}
