@@ -4,7 +4,10 @@
     align-items: center;          
     padding: 20px;
     height: 100px;       
-    background-color: #f5f5f5;     
+    background: linear-gradient(0deg, purple, #0D47A1);
+    border: black;
+    border-radius: 5px;
+    border-width: 10px;
 }
 
 button {
@@ -13,16 +16,26 @@ button {
     cursor: pointer;
     border-radius: 5px;
     border: 1px solid #ccc;
-    background-color: #007bff;
+    background: linear-gradient(45deg, #2196F3, #0D47A1);
     color: white;
     width: 200px;
     height: 50px;
+    margin-top: 10px;
+    padding: 10px;
+    box-sizing: border-box;
 }
+
+form{
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: center;
+}
+
 .HomeSearch {
     display: flex;
     flex-direction: column; /* Aligns items vertically */
     justify-content: center; 
-    align-items: flex-start; /* Align items to the left */
+    align-items: center; /* Align items to the left */
     padding: 20px;
     width: 20%;
     /*max-width: 600px; Optional max width */
@@ -31,11 +44,13 @@ button {
     border: 1px solid #ccc; /* Optional border for better visibility */
 }
 
-input, button {
-    margin-top: 10px;
-    width: 100%; /* Input and button fill the width of the form */
-    padding: 10px;
-    box-sizing: border-box; /* Ensures padding doesn’t affect width */
+
+input{
+    width:100%;
+}
+
+button:hover {
+    filter: brightness(0.8);
 }
 
 h2 {
@@ -47,6 +62,53 @@ h1{
     font-size: 20px;
 }
 
+.insights {
+    display: flex;
+    padding: 10px;
+    background: linear-gradient(0deg, purple, #0D47A1);
+    align-items: center;        
+    justify-content: center;    
+    text-align: center;
+    border: black; 
+    border-width:5px
+}
+  
+.insights_text{
+    border: 5px solid black;   
+    border-radius: 5px;
+    width: 80%;                 
+    background-color: white;
+    padding: 10px;
+    margin-left: 10%;
+    transition: transform 1s ease-in-out;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+
+.insights_text:hover{
+    background-color: lightblue;
+    transform: scale(1.15);
+}
+
 .blank {
-    height: 50px; /* Can still use for spacing if needed */
+    height: 50px;
+}
+
+
+pre{
+    white-space: pre-wrap; 
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+}
+
+.query{
+    background: linear-gradient(0deg, purple, #0D47A1);
+    align-items: center;        
+    justify-content: center;    
+    text-align: center; 
+    border: 5px solid black;
+}
+
+#query{
+    width:400px;
 }

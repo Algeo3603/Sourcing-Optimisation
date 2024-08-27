@@ -31,7 +31,18 @@ def search_parts():
 
     # Marklines
     marklines_data,insights = getMarklinesData(part_name)
+    #print(insights)
     
+    b='a'
+    a=insights
+    d=[]
+    while(b!=''):
+        a,b,c=a.rpartition('#')
+        d.insert(0,c)
+    
+    for text in d:
+        text.lstrip()
+    insights=d[1:]
     # Zauba 
     india_imports = getZaubaData(part_name, 'india')
     us_imports = getZaubaData(part_name, 'us')
@@ -209,6 +220,7 @@ def getMarklinesData(part_name):
     1) Give it a short title, and follow it up with concise sentence that gives further details on the next line.
     2) There should be no formatting
     3) Do not make the insights too long
+    4) Delimit each section with a '#' symbol
 
     Your goal is to help your client make smarter decisions regarding their business using this data.
     """

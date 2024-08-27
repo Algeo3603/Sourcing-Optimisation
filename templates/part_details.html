@@ -21,6 +21,8 @@
 <!-- <h1>{{partname}}</h1> -->
 <h1>{{ part_name }}</h1>
 
+<div class="query">
+
 <form id="queryForm" action="/getResp" method="POST">
     <label for="query">Query:</label>
     <input type="text" name="query" id="query">
@@ -31,8 +33,12 @@
 <h3>
     QUERY RESPONSE:
     <br>
+    <div class="insights_text">
     <pre id="queryResp"></pre>
+    </div>
 </h3>
+
+</div>
 
 <script>
     $(document).ready(function() {
@@ -59,7 +65,7 @@
 <br>
 <br>
 
-
+<div>
 <h2>Marklines</h2>
 <table>
     <thead>
@@ -79,11 +85,19 @@
         {% endfor %}
     </tbody>
 </table>
+</div>
 
+<div class="insights">
 <h3>
-    <pre>{{ insights }}</pre>
+    <pre>
+        {% for section in insights %}
+        <div class="insights_text">
+            {{section}}
+        </div>
+        {% endfor %}
+    </pre>
 </h3>
-
+</div>
 
 <br>
 <br>
